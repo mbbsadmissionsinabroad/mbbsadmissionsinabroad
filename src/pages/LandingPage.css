@@ -1,0 +1,376 @@
+@import url('https://fonts.googleapis.com/css2?family=Marko+One&family=Mukta&display=swap');
+
+.landing__page__body section{
+    margin-bottom: 25px;
+}
+
+
+.landing__page{
+    background-color: #fdd42c;
+    /* padding: 25px 0px; */
+    padding-top: 25px;
+}
+
+.landing__page__title{
+    font-family: "Open Sans", sans-serif;
+    font-weight: 700;
+    font-size: 35px;
+    color: #000000;
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
+
+.landing__page__title_1{
+    font-family: "Open Sans", sans-serif;
+    font-weight: 600;
+    font-size: 40px;
+    color: #000000;
+    padding: 10px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.landing__page__title_2{
+    font-family: "Open Sans", sans-serif;
+    font-weight: 700;
+    font-size: 45px;
+    color: #000000;
+    padding: 10px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.landing__page__title_3{
+    font-family: 'Marko One', serif;
+    font-weight: 600;
+    font-size: 35px;
+    color: #000000;
+    text-align: center;
+}
+
+.landing__page__title_4{
+    font-family: 'Mukta', sans-serif;
+    font-size: 25px;
+    font-weight: 400;
+    color: #000000;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.doctor__image{
+    width: 450px;
+}
+
+.form__head__img{
+    margin-bottom: 5px;
+}
+
+
+.form__bg{
+    background-color: #ffffff;
+    border-radius: 4px;
+    padding: 15px;
+}
+
+.landing__page__desc{
+    font-family: 'Mukta', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    color: #000000;
+    text-align: center;
+}
+
+.landing__page__desc_1{
+    font-family: 'Mukta', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    color: #000000;
+}
+
+
+.landing__page__sec{
+    margin: 25px 25px;
+}
+
+.landing__page__box{
+    transition: box-shadow .3s;
+    border-radius: 4px;
+    padding: 15px;
+
+}
+
+.landing__page__box:hover{
+    border-radius: 4px; 
+    box-shadow: 0 0 11px rgba(33,33,33,.2); 
+}
+
+.landing__page__box__image{
+    width: 20%;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.landing__page__box__desc{
+    font-style: italic;
+    font-size: 30px;
+    font-weight: 600;
+    color: #000000;
+    display: block;
+    text-align: center;
+}
+
+.lp_college__logo{
+    width: 30%;
+    border-radius: 50%;
+    border: 2px solid #cccccc;
+    float: left;
+    margin-right: 10px;
+}
+
+.lp__college__name{
+    font-family: 'Mukta', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    color: #000000;
+    padding-top: 1.5rem;
+}
+
+.lp__college__list{
+    overflow-y: scroll;
+    /* position: absolute; */
+    height: 28.1rem;
+}
+
+.lp__college__list ul{
+    padding-left: 25px;
+}
+
+.lp__college__list__russia{
+    overflow-y: scroll;
+    /* position: absolute; */
+    height: 15rem;
+}
+
+.lp__college__list__russia ul{
+    padding-left: 25px;
+}
+
+.mci__logo{
+    width: 100%;
+}
+
+.lp__country__sec{
+    transition: box-shadow .3s;
+    border-radius: 4px;
+    padding: 15px;
+    box-shadow: 0 0 5px rgba(33,33,33,.2); 
+    cursor: pointer;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.lp__country__sec:hover{
+    border-radius: 4px; 
+    box-shadow: 0 0 11px rgba(33,33,33,.2); 
+}
+
+.lp__country__img{
+    width:50px;
+    height: 50px;
+    border-radius: 50%;
+    border: 2px solid #cccccc;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.lp__country__name {
+    font-family: 'Mukta', sans-serif;
+    font-size: 25px;
+    font-weight: 700;
+    padding-top: 8px;
+    color: #000000;
+    text-align: center;
+}
+
+.free__consultation{
+    background-color: #fdd42c;
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.excellence__img{
+    width: 10%;
+}
+
+.free__cons__desc{
+    font-family: "Roboto", sans-serif;
+    font-weight: 600;
+    font-size: 30px;
+    color: #ffffff;
+}
+
+.free__cons__btn{
+    background-color: red;
+    color: #ffffff;
+    width: 80%;
+    font-weight: 700;
+    border-radius: 4px;
+}
+
+.lp__contact__no a{
+    font-family: "Open Sans", sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    color: #000000;
+    margin-top: 12px;
+    margin-bottom: 15px;
+}
+
+.lp__social__links li{
+    list-style-type: none;
+    display: inline-block;
+    text-align: center;
+    padding-left: 7px;
+    padding-right: 7px;
+    font-size: 30px;
+    border-radius: 100%;
+    width: 42px;
+    height: 42px;
+}
+
+.lp__social__links a{
+    color: #000;
+}
+
+.lp__social__links li:hover{
+    background-color: #fdd42c;
+    color: #ffffff;
+    transition: 0.4s;
+}
+
+
+.lp__testimonials p{
+    padding: 3px;
+    margin-bottom: 0px;
+}
+
+.lp__testimonials button{
+    padding: 0px;
+}
+
+
+.ism__logo{
+    width: 100%;
+    vertical-align: middle;
+}
+
+@media screen and (max-width: 768px) {
+
+    .landing__page__body section{
+        margin-bottom: 25px;
+    }
+
+    .landing__page__title{
+        margin-top: 15px;
+        
+    }
+
+    .landing__page__logo{
+        display: block;
+        text-align: center;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .arrow__image {
+      display: none;
+    }
+
+    .doctor__image{
+        width: 100%;
+        padding-bottom: 15px;
+    }
+    
+    .form__bg{
+        margin-bottom: 2rem;
+    }
+
+    .landing__page__desc{
+        width: 80%;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+    }
+
+    .landing__page__title_3{
+        width: 80%;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+    }
+
+    .landing__page__sec{
+        width: 80%;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        padding: 15px;
+    }
+
+    .landing__page__box__desc{
+        font-size: 25px;
+    }
+
+    .landing__page__box{
+        width: 100%;
+        display: inline;
+    }
+
+    .lp_college__logo{
+        max-width: 4rem;
+    }
+
+    .lp__college__name{
+        padding-top: 0rem;
+        vertical-align: middle;
+    }
+
+    .excellence__img{
+        width: 80%;
+    }
+}
+
+@media screen and (min-width: 769px) and (max-width: 968px) {
+    .arrow__image {
+        display: none;
+    }
+
+    .form__head__img{
+        width: 90%;
+    }
+
+    .landing__page__box__desc{
+        font-size: 20px;
+        display:inline-flexbox;
+        text-align: center;
+		}
+		
+		.lp__country__name{
+			font-size: 18px;
+			/* padding-right: 15px; */
+		}
+		.lp__country__sec{
+			width: 113px;
+			margin-left: 5px;
+		}
+}
+
+  

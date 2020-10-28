@@ -1,0 +1,193 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+.home__carousel button{
+    padding: 0px;
+}
+
+/* section{
+    margin-bottom: 30px;
+} */
+
+/* a{
+    color: #ffce01;
+} */
+/* 
+a:hover{
+    color: #ffce01;
+} */
+
+.home__component{
+    margin-top: 30px;
+    /* padding-left: 50px;
+    padding-right: 50px; */
+}
+
+.abroad__title {
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.home__component li{
+    list-style-type: none;
+}
+
+.fa-stack{
+    color: #ffce01;
+}
+
+.head__title{
+    color: #ffce01;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 58px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.head__desc{
+    text-align: center;
+}
+
+.banner__image{
+    width: 100%;
+}
+
+.banner__sub_title{
+    font-family: 'Open Sans Condensed', sans-serif;
+    /* font-size: 30px;
+    font-weight: 700; */
+    color: black;
+}
+
+.banner__bg{
+    background-image: url('/assets/images/home-page-banner-2.png');
+    /* max-width: 1350px; */
+    margin-top: 30px;
+    padding: 10px;
+    margin-right:auto;
+    margin-left:auto;
+}
+
+.who__we_are{
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.banner__bg .who__we_are > h3 {
+    font-family: Open Sans Condensed; 
+    font-size: 34px;
+    font-weight: 700;
+}
+
+.four__col{
+    margin: 10px;
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.four__col span{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 30px;
+    text-align: center;
+}
+.home__info{
+    background-color: #003770;
+    /* padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px; */
+    padding: 15px;
+}
+
+.home__info h3{
+    text-align: center;
+    color: #fff;
+    font-size: 24px;
+    line-height: 34px;
+    font-weight: 700;
+}
+
+.home__info p{
+    text-align: center;
+    color: #fff;
+}
+
+.info__icon {
+    margin-bottom: 5px;
+    color: #fff;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 30px;
+    text-align: center;
+}
+
+.study__mbbs{
+    margin-top: 30px;
+}
+
+.countries__list{
+    margin-top: 30px;
+}
+
+.countries__info, .countries__flag, .countries__name, .countries__desc {
+    text-align: center;
+}
+
+.countries__name{
+    font-size: 24px;
+    line-height: 34px;
+    font-weight: 700;
+    color: #262d37;
+    font-family: "Open Sans Condensed", Helvetica, Arial, Verdana, sans-serif;
+    margin-bottom: 0px;
+    text-transform: uppercase;
+}
+
+.countries__flag{
+    width: 183px;
+    height: 183px;
+    box-shadow: 1px 1px 5px 1px rgba(0,0,0,0.3);
+    cursor: pointer;
+}
+
+.apply__now__btn{
+    color: #fff;
+    font-weight: 500;
+    margin-bottom: 25px;
+}
+
+.consultancy__india{
+    margin-bottom: 30px;
+}
+
+@media screen and (max-width: 768px) {
+    .head__title{
+        font-size: 35px;
+        line-height: 30px;
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+    .four__col h3{
+        text-align: center;
+    }
+    .banner__sub_title{
+        margin-top: 15px;
+    }
+    .home__info p{
+        display: block;
+    }
+}

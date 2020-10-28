@@ -1,0 +1,610 @@
+[
+    {
+        "id": 1,
+        "category": "Admission",
+        "image": "/assets/images/blog-banners/mbbs-fee-structure-in-india-abroad.png",
+        "title": "2020 MBBS fee structure in India and abroad",
+        "author": "Dr Vinit Singh",
+        "url": "/2020-mbbs-fee-structure-in-india-and-abroad"
+    },
+    {
+        "id": 2,
+        "category": "Admission",
+        "image": "/assets/images/blog-banners/list-of-medical-colleges-in-india.png",
+        "title": "MBBS Seats in India",
+        "author": "Dr Vinit Singh",
+        "url": "/mbbs-seats-in-india"
+    },
+    {
+        "id": 3,
+        "category": "Government",
+        "image": "/assets/images/blog-banners/how-to-get-medical-admission-in-indian-govt-college.png",
+        "title": "How to get medical admission in Indian Government College",
+        "author": "Dr Vinit Singh",
+        "url": "/how-to-get-medical-admission-in-indian-government-college"
+    },
+    {
+        "id": 4,
+        "category": "NEET Exam",
+        "image": "/assets/images/blog-banners/medical-entrance-exam-neet-2020-preparation.png",
+        "title": "Medical Entrance Exam NEET 2020 Preparation",
+        "author": "Dr Vinit Singh",
+        "url": "/medical-entrance-exam-neet-2020-preparation"
+    },
+    {
+        "id": 5,
+        "category": "Russia",
+        "image": "/assets/images/blog-banners/mci-approved-russia-medical-universities.png",
+        "title": "Top Russian Medical Universities for Indian Students",
+        "author": "Dr Vinit Singh",
+        "url": "/top-russian-medical-universities-for-indian-students"
+    },
+    {
+        "id": 6,
+        "category": "Admission",
+        "image": "/assets/images/blog-banners/private-government-medical-colleges-in-karnataka.png",
+        "title": "List of Medical Colleges in Karnataka – Private & Government Medical Colleges",
+        "author": "Dr Vinit Singh",
+        "url": "/medical-colleges-in-karnataka"
+    },
+    {
+        "id": 7,
+        "category": "Admission",
+        "image": "/assets/images/blog-banners/mci-approved-medical-universities-in-abroad.png",
+        "title": "Study MBBS in Abroad at MCI Approved Medical Universities",
+        "author": "Dr Vinit Singh",
+        "url": "/mci-approved-medical-universities-in-abroad"
+    },
+    {
+        "id": 8,
+        "category": "Ukraine",
+        "image": "/assets/images/blog-banners/2020-mci-approved-medical-colleges-in-ukraine-for-indian-students.png",
+        "title": "2020 MCI Approved Medical Colleges in Ukraine for Indian Students",
+        "author": "Dr Vinit Singh",
+        "url": "/2020-mci-approved-medical-colleges-in-ukraine-for-indian-students"
+    },
+    {
+        "id": 9,
+        "category": "Ukraine",
+        "image": "/assets/images/blog-banners/2020-fees-structure-for-indian-students-to-study-mbbs-in-ukraine.png",
+        "title": "2020 Fees Structure for Indian Students to Study MBBS in Ukraine",
+        "author": "Dr Vinit Singh",
+        "url": "/2020-admission-fees-structure-for-indian-students-to-study-mbbs-in-ukraine"
+    },
+    {
+        "id": 10,
+        "category": "Philippines",
+        "image": "/assets/images/blog-banners/top-philippines-medical-college-for-indian-students-2020-admission.png",
+        "title": "Top Philippines Medical College for Indian Students 2020 Admission",
+        "author": "Dr Vinit Singh",
+        "url": "/top-philippines-medical-college-for-indian-students-2020-admission"
+    },
+    {
+        "id": 11,
+        "category": "Philippines",
+        "image": "/assets/images/blog-banners/2020-mbbs-fees-in-philippines.png",
+        "title": "2020 MBBS Fee in Philippines for Indian Students",
+        "author": "Dr Vinit Singh",
+        "url": "/2020-mbbs-fee-in-philippines-for-indian-students"
+    },
+    {
+        "id": 12,
+        "category": "Russia",
+        "image": "/assets/images/blog-banners/fee-for-mbbs-in-russia.png",
+        "title": "Fee of MBBS in Russia from MCI Approved Universities for 2020 Admission",
+        "author": "Dr Vinit Singh",
+        "url": "/fee-of-mbbs-in-russia-from-mci-approved-universities-for-2020-admission"
+    },
+    {
+        "id": 13,
+        "category": "Nursing Job",
+        "image": "/assets/images/blog-banners/how-do-i-choose-an-indian-nursing-recruitment-agency-for-abroad.png",
+        "title": "How do I choose an Indian Nursing Recruitment Agency for Abroad?",
+        "author": "Dr Vinit Singh",
+        "url": "/how-do-choose-an-indian-nursing-recruitment-agency-for-abroad"
+    },
+    {
+        "id": 14,
+        "category": "Philippines",
+        "image": "/assets/images/blog-banners/top-10-mbbs-colleges-in-philippines.png",
+        "title": "Top MBBS Colleges in Philippines for 2020 Admission",
+        "author": "Dr Vinit Singh",
+        "url": "/top-10-mbbs-colleges-in-philippines-for-2020-admission"
+    },
+    {
+        "id": 15,
+        "category": "Ukraine",
+        "image": "/assets/images/blog-banners/top-10-mbbs-colleges-in-ukraine.png",
+        "title": "Top 10 MBBS Colleges in Ukraine for 2020 Admission",
+        "author": "Dr Vinit Singh",
+        "url": "/top-10-mbbs-colleges-in-ukraine-for-2020-admission"
+    }, 
+    {
+        "id": 16,
+        "category": "Tamil Nadu",
+        "image": "/assets/images/blog-banners/top-10-medical-colleges-in-tamilnadu.png",
+        "title": "Top 10 Medical Colleges in Tamilnadu for MBBS Admission",
+        "author": "Dr Vinit Singh",
+        "url": "/top-10-medical-colleges-in-tamilnadu-for-mbbs-admission"
+    },
+    { 
+        "id": 17,
+        "category": "Nursing Job",
+        "image": "/assets/images/blog-banners/abroad-nursing-recruitment-agency-in-india.png",
+        "title": "Abroad Nursing Recruitment Agency in India",
+        "author": "Dr Vinit Singh",
+        "url": "/abroad-nursing-recruitment-agency-in-india"
+    }, 
+    { 
+        "id": 18,
+        "category": "Andhra Pradesh",
+        "image": "/assets/images/blog-banners/top-10-medical-colleges-in-andhra-pradesh.png",
+        "title": "Top 10 Medical Colleges in Andhra Pradesh for 2020 MBBS Admission",
+        "author": "Dr Vinit Singh",
+        "url": "/top-10-medical-colleges-in-andhra-pradesh-for-2020-admission"
+    },
+    { 
+        "id": 19,
+        "category": "Delhi",
+        "image": "/assets/images/blog-banners/top-10-medical-colleges-in-delhi.png",
+        "title": "Top 10 Medical Colleges in Delhi for 2020 MBBS Admission",
+        "author": "Dr Vinit Singh",
+        "url": "/top-10-medical-colleges-in-delhi-for-2020-admission"
+    },
+    { 
+        "id": 20,
+        "category": "Maharastra",
+        "image": "/assets/images/blog-banners/top-10-medical-colleges-in-maharashtra.png",
+        "title": "Top 10 Medical Colleges in Maharashtra for 2020 MBBS Admission",
+        "author": "Dr Vinit Singh",
+        "url": "/top-10-medical-colleges-in-maharashtra-for-2020-admission"
+    },
+    { 
+        "id": 21,
+        "category": "Philippines",
+        "image": "/assets/images/blog-banners/how-to-apply-mbbs-in-philippines.png",
+        "title": "How to Apply MBBS in Philippines?",
+        "author": "Dr Vinit Singh",
+        "url": "/how-to-apply-mbbs-in-philippines"
+    },
+    {  
+        "id": 22,
+        "category": "Russia",
+        "image": "/assets/images/blog-banners/how-to-apply-mbbs-in-russia.png",
+        "title": "How to Apply MBBS in Russia?",
+        "author": "Dr Vinit Singh",
+        "url": "/how-to-apply-mbbs-in-russia"
+    },
+    {
+        "id": 23,
+        "category": "Ukraine",
+        "image": "/assets/images/blog-banners/how-to-apply-mbbs-in-ukraine.png",
+        "title": "How to Apply MBBS in Ukraine?",
+        "author": "Dr Vinit Singh",
+        "url": "/how-to-apply-mbbs-in-ukraine"
+    },
+    {
+        "id": 24,
+        "category": "Government",
+        "image": "/assets/images/blog-banners/mci-approved-indian-colleges.png",
+        "title": "List of MCI Approved Colleges in India",
+        "author": "Dr Vinit Singh",
+        "url": "/list-of-medical-colleges-in-india-approved-by-mci"
+    },
+    {
+        "id": 25,
+        "category": "MBBS", 
+        "image": "/assets/images/blog-banners/philippines-vs-india.png", 
+        "title": "Difference of Studying MBBS in Philippines Vs India for Indian Students",
+        "author": "Dr Vinit Singh",
+        "url": "/difference-of-studying-mbbs-in-philippines-vs-india-for-indian-students"
+    },
+    {
+        "id": 26,
+        "category": "MBBS",
+        "image": "/assets/images/blog-banners/russia-vs-india.png",
+        "title": "Difference of Studying MBBS in Russia Vs India for Indian Students",
+        "author": "Dr Vinit Singh",
+        "url": "/difference-of-studying-mbbs-in-russia-vs-india-for-indian-students"
+    },
+    {
+        "id": 27,
+        "category": "MBBS",
+        "image": "/assets/images/blog-banners/ukraine-vs-russia.png",
+        "title": "Difference of Studying MBBS in Russia Vs Ukraine for Indian Students",
+        "author": "Dr Vinit Singh",
+        "url": "/difference-of-studying-mbbs-in-russia-vs-ukraine-for-indian-students"
+    },
+    {
+        "id": 28,
+        "category": "MBBS",
+        "image": "/assets/images/blog-banners/ukraine-vs-india.png",
+        "title": "Difference of Studying MBBS in Ukraine Vs India for Indian Students",
+        "author": "Dr Vinit Singh",
+        "url": "/difference-of-studying-mbbs-in-ukraine-vs-india-for-indian-students"
+    },
+    { 
+        "id": 29, 
+        "category": "MBBS",
+        "image": "/assets/images/blog-banners/ukraine-vs-philippines.png",
+        "title": "Difference of Studying MBBS in Ukraine Vs Philippines for Indian Students",
+        "author": "Dr Vinit Singh",
+        "url": "/difference-of-studying-mbbs-in-ukraine-vs-philippines-for-indian-students"
+    },
+    {
+        "id": 30,
+        "category": "MBBS", 
+        "image": "/assets/images/blog-banners/russia-vs-philippines.png",
+        "title": "Difference of Studying MBBS in Russia Vs Philippines for Indian Students",
+        "author": "Dr Vinit Singh",
+        "url": "/difference-of-studying-mbbs-in-russia-vs-philippines-for-indian-students"
+    },
+    {
+        "id": 31,
+        "category": "Germany",
+        "image": "/assets/images/blog-banners/medical-pg-in-germany.png",
+        "title": "Medical PG in Germany Admission Procedure after MBBS in India",
+        "author": "Dr Vinit Singh",
+        "url": "/medical-pg-in-germany-admission-procedure"
+    },
+    {
+        "id": 32,
+        "category": "Medical PG",
+        "image": "/assets/images/blog-banners/what-is-pg-medical-course.png", 
+        "title": "What is PG Medical Course?",
+        "author": "Dr Vinit Singh",
+        "url": "/what-is-pg-medical-course"
+    },
+    {
+        "id": 33,
+        "category": "Ukraine",
+        "image": "/assets/images/blog-banners/its-time-to-celebrate.png",
+        "title": "Why is MBBS cheap in Ukraine?",
+        "author": "Dr Vinit Singh",
+        "url": "/why-is-mbbs-cheap-in-ukraine"
+    },
+    {
+        "id": 34,
+        "category": "Philippines",
+        "image": "/assets/images/blog-banners/philipphines-university.png",
+        "title": "Why is MBBS cheap in Philippines?",
+        "author": "Dr Vinit Singh",
+        "url": "/why-is-mbbs-cheap-in-philippines"
+    },
+    {
+        "id": 35,
+        "category": "Philippines",
+        "image": "/assets/images/blog-banners/admission-in-russia-at-low-cost.png",
+        "title": "Why is MBBS cheap in Russia?",
+        "author": "Dr Vinit Singh",
+        "url": "/why-is-mbbs-cheap-in-russia"
+    },
+    {
+        "id": 36,
+        "category": "MBBS",
+        "image": "/assets/images/blog-banners/mbbs-In-india.png", 
+        "title": "MBBS in India",
+        "author": "Dr Vinit Singh",
+        "url": "/mbbs-in-india"
+    },
+    {
+        "id": 37,
+        "category": "Nursing Job",
+        "image": "/assets/images/blog-banners/staff-nursing-jobs-in-germany.png",
+        "title": "Staff Nursing Jobs in Germany without IELTS",
+        "author": "Dr Vinit Singh",
+        "url": "/staff-nursing-jobs-in-germany-without-ielts"
+    },
+    {
+        "id": 38, 
+        "category": "Germany",
+        "image": "/assets/images/blog-banners/medical-pg-in-germany.png",
+        "title": "How to do Medical PG in Germany?",
+        "author": "Dr Vinit Singh",
+        "url": "/how-to-do-medical-pg-in-germany"
+    },
+    {
+        "id": 39,
+        "category": "Karnataka", 
+        "image": "/assets/images/blog-banners/medical-pg-in-karnataka.png",
+        "title": "How to Apply Medical PG in Karnataka?",
+        "author": "Dr Vinit Singh",
+        "url": "/how-to-apply-medical-pg-in-karnataka"
+    },
+    {
+        "id": 40,
+        "category": "Russia",
+        "image": "/assets/images/blog-banners/ten-secrets-about-mbbs-in-russia-that-nobody-will-tell-you.png",
+        "title": "10 Secrets about MBBS in Russia That Nobody Will Tell You",
+        "author": "Dr Vinit Singh",
+        "url": "/10-secrets-about-mbbs-in-russia-that-nobody-will-tell-you"
+    },
+    {
+        "id": 41, 
+        "category": "Ukraine",
+        "image": "/assets/images/blog-banners/7-things-you-most-likely-didnt-know.png",
+        "title": "7 Things You Most Likely Didn’t Know About MBBS in Ukraine",
+        "author": "Dr Vinit Singh",
+        "url": "/7-things-you-most-likely-didnt-know-about-mbbs-in-ukraine"
+    },
+    {
+        "id": 42,
+        "category": "Philippines", 
+        "image": "/assets/images/blog-banners/5-advice-that-you-must-listen.png",
+        "title": "5 Advices That You Must Listen Before Studying MBBS in Philippines",
+        "author": "Dr Vinit Singh",
+        "url": "/5-advices-that-you-must-listen-before-studying-mbbs-in-philippines"
+    },
+    {
+        "id": 43, 
+        "category": "Germany",
+        "image": "/assets/images/blog-banners/nursing-jobs-in-germany-for-indian-nurses.png",
+        "title": "Nursing Jobs in Germany for Indian Nurses",
+        "author": "Dr Vinit Singh",
+        "url": "/nursing-jobs-in-germany-for-indian-nurses"
+    },
+    {
+        "id": 44,
+        "category": "Germany",
+        "image": "/assets/images/blog-banners/german-coaching-classes-in-bangalore.png",
+        "title": "German Language Course Online for Beginners",
+        "author": "Dr Vinit Singh",
+        "url": "/german-language-course-online-for-beginners"
+    },
+    {
+        "id": 45,
+        "category": "Germany",
+        "image": "/assets/images/blog-banners/how-to-learn-german-like-a-pro.png",
+        "title": "German Coaching Classes in Bangalore",
+        "author": "Dr Vinit Singh",
+        "url": "/german-coaching-classes-in-bangalore"
+    },
+    {
+        "id": 46,
+        "category": "MBBS",
+        "image": "/assets/images/blog-banners/what-can-you-do-about-study-mbbs-abroad-right-now.png",
+        "title": "What Can You Do About Study MBBS Abroad Right Now",
+        "author": "Dr Vinit Singh",
+        "url": "/what-can-you-do-about-study-mbbs-abroad-right-now"
+    },
+    {
+        "id": 47,
+        "category": "Russia",
+        "image": "/assets/images/blog-banners/mrsu-college.png",
+        "title": "MBBS Admission in Russia at Mordovia State University",
+        "author": "Dr Vinit Singh",
+        "url": "/mbbs-admission-russia-mordovia-state-university"
+    },
+    {
+        "id": 48, 
+        "category": "Russia",
+        "image": "/assets/images/blog-banners/orenburg-state-university.png",
+        "title": "MBBS Admission in Russia at Orenburg State Medical University",
+        "author": "Dr Vinit Singh",
+        "url": "/mbbs-admission-russia-orenburg-state-medical-university"
+    },
+    {
+        "id": 49, 
+        "category": "Russia",
+        "image": "/assets/images/blog-banners/kazan-fedaral-university.png",
+        "title": "MBBS Admission in Russia at Kazan Federal University",
+        "author": "Dr Vinit Singh",
+        "url": "/mbbs-admission-russia-kazan-federal-university"
+    },
+    {
+        "id": 50,
+        "category": "Russia",
+        "image": "/assets/images/blog-banners/altai-state-medical-university.png",
+        "title": "MBBS Admission in Russia at Altai State Medical University",
+        "author": "Dr Vinit Singh",
+        "url": "/mbbs-admission-russia-altai-state-medical-university"
+    },
+    {
+        "id": 51,
+        "category": "Philippines", 
+        "image": "/assets/images/blog-banners/davao-medical-school.png",
+        "title": "MBBS Admission in Philippines at Davao Medical School",
+        "author": "Dr Vinit Singh",
+        "url": "/mbbs-admission-philippines-davao-medical-school"
+    },
+    {
+        "id": 52,
+        "category": "Philippines",
+        "image": "/assets/images/blog-banners/ama-college.png",
+        "title": "MBBS Admission in Philippines at AMA School of Medicine",
+        "author": "Dr Vinit Singh",
+        "url": "/mbbs-admission-philippines-ama-school-of-medicine"
+    },
+    {
+        "id": 53,
+        "category": "Russia",
+        "image": "/assets/images/blog-banners/tver-state-medical-university.png",
+        "title": "MBBS Admission in Russia at Tver State Medical University",
+        "author": "Dr Vinit Singh",
+        "url": "/mbbs-admission-russia-tver-state-medical-university"
+    },
+    {
+        "id": 54,
+        "category": "Russia",
+        "image": "/assets/images/blog-banners/perm-state-medical-university.png",
+        "title": "MBBS Admission in Russia at Perm State Medical University",
+        "author": "Dr Vinit Singh",
+        "url": "/mbbs-admission-russia-perm-state-medical-university"
+    },
+    {
+        "id": 55,
+        "category": "Russia",
+        "image": "/assets/images/blog-banners/smolensk-state-medical-university.png",
+        "title": "MBBS Admission in Russia at Smolensk State Medical University",
+        "author": "Dr Vinit Singh",
+        "url": "/mbbs-admission-russia-smolensk-state-medical-university"
+    },
+    {
+        "id": 56,
+        "category": "Nursing Job",
+        "image": "/assets/images/blog-banners/nursing-job-in-germany.png",
+        "title": "How to Apply for Nursing Job in Germany?",
+        "author": "Dr Vinit Singh",
+        "url": "/how-to-apply-for-nursing-job-in-germany"
+    },
+    {
+        "id": 57,
+        "category": "Germany",
+        "image": "/assets/images/blog-banners/how-can-i-study-mbbs-in-germany.png",
+        "title": "How can I Study MBBS in Germany?",
+        "author": "Dr Vinit Singh",
+        "url": "/how-can-i-study-mbbs-in-germany"
+    },
+    {
+        "id": 58,
+        "category": "NEET Exam",
+        "image": "/assets/images/blog-banners/is-the-neet-compulsory-for-abroad.png",
+        "title": "NEET Compulsory or Not for Abroad Education",
+        "author": "Dr Vinit Singh",
+        "url": "/neet-compulsory-or-not-for-abroad-education"
+    },
+    {
+        "id": 59,
+        "category": "Germany",
+        "image": "/assets/images/blog-banners/how-to-study-mbbs-in-germany.png",
+        "title": "How to Study MBBS in Germany?",
+        "author": "Dr Vinit Singh",
+        "url": "/how-to-study-mbbs-in-germany"
+    },
+    {
+        "id": 60,
+        "category": "Philippines",
+        "image": "/assets/images/blog-banners/mbbs-without-neet-for-indian-students.png",
+        "title": "MBBS without NEET for Indian Students",
+        "author": "Dr Vinit Singh",
+        "url": "/mbbs-without-neet-for-indian-students"
+    },
+    {
+        "id": 61,
+        "category": "Ukraine",
+        "image": "/assets/images/blog-banners/ivano-frankiysk-national-medical-university.png",
+        "title": "Ivano Frankivsk National Medical University Ukraine",
+        "author": "Dr Vinit Singh",
+        "url": "/ivano-frankivsk-national-medical-university-ukraine"
+    },
+    {
+        "id": 62,
+        "category": "Ukraine",
+        "image": "/assets/images/blog-banners/ternopil-state-medical-university.png",
+        "title": "Ternopil State Medical University Ukraine",
+        "author": "Dr Vinit Singh",
+        "url": "/ternopil-state-medical-university-ukraine"
+    },
+    {
+        "id": 63,
+        "category": "Ukraine",
+        "image": "/assets/images/blog-banners/khorkiv-national-medical-university.png",
+        "title": "Kharkiv National Medical University Ukraine",
+        "author": "Dr Vinit Singh",
+        "url": "/kharkiv-national-medical-university-ukraine"
+    },
+    {
+        "id": 64,
+        "category": "Ukraine",
+        "image": "/assets/images/blog-banners/lviv-national-medical-university.png",
+        "title": "Lviv National Medical University Ukraine",
+        "author": "Dr Vinit Singh",
+        "url": "/lviv-national-medical-university-ukraine"
+    },
+    {
+        "id": 65,
+        "category": "Ukraine",
+        "image": "/assets/images/blog-banners/kiev-national-medical-university.png",
+        "title": "Kiev National Medical University Ukraine",
+        "author": "Dr Vinit Singh",
+        "url": "/kiev-national-medical-university-ukraine"
+    },
+    {
+        "id": 66,
+        "category": "Ukraine",
+        "image": "/assets/images/blog-banners/vinnytsia-national-pirogov-medical-university.png",
+        "title": "Vinnitsa National Medical University Ukraine",
+        "author": "Dr Vinit Singh",
+        "url": "/vinnitsa-national-medical-university-ukraine"
+    },
+    {
+        "id": 67,
+        "category": "Germany",
+        "image": "/assets/images/blog-banners/heidelberg-university-germany.png",
+        "title": "Heidelberg University Germany for Indian Students Approved by MCI",
+        "author": "Dr Vinit Singh",
+        "url": "/heidelberg-university-germany"
+    },
+    {
+        "id": 68,
+        "category": "Philippines",
+        "image": "/assets/images/blog-banners/our-lady-fatima-university.png",
+        "title": "Our Lady of Fatima University, Philippines",
+        "author": "Dr Vinit Singh",
+        "url": "/our-lady-of-fatima-university-philippines"
+    },
+    {
+        "id": 69,
+        "category": "Armenia",
+        "image": "/assets/images/blog-banners/haybusak-university-of-yerevan.png",
+        "title": "Haybusak University of Yerevan, Armenia",
+        "author": "Dr Vinit Singh",
+        "url": "/haybusak-university-of-yerevan-armenia"
+    },
+    {
+        "id": 70,
+        "category": "USMLE",
+        "image": "/assets/images/blog-banners/united-states-medical-examination.png",
+        "title": "USMLE: United States Medical Licensing Examination",
+        "author": "Dr Vinit Singh",
+        "url": "/usmle-united-states-medical-licensing-examination"
+    },
+    {
+        "id": 71,
+        "category": "Nursing Job",
+        "image": "/assets/images/blog-banners/top-15-trends-in-nursing-job-to-watch-for-indian-job-seekers.png",
+        "title": "Top 15 Trends in Nursing Job to Watch for Indian Job Seekers",
+        "author": "Dr Vinit Singh",
+        "url": "/top-15-trends-in-nursing-job-to-watch-for-indian-job-seekers"
+    },
+    {
+        "id": 72,
+        "category": "Armenia",
+        "image": "/assets/images/blog-banners/saint-tereza-medical-university.png",
+        "title": "Saint Tereza Medical University in Armenia for Indian Students Approved by MCI",
+        "author": "Dr Vinit Singh",
+        "url": "/st-tereza-medical-university-in-armenia"
+    },
+    {
+        "id": 73,
+        "category": "Armenia",
+        "image": "/assets/images/blog-banners/yerevan-state-medical-university.png",
+        "title": "Yerevan State Medical University in Armenia for Indian Students",
+        "author": "Dr Vinit Singh",
+        "url": "/yerevan-state-medical-university-in-armenia"
+    },
+    {
+        "id": 74,
+        "category": "MBBS",
+        "image": "/assets/images/blog-banners/top-countries-to-study-mbbs-in-europe-2020.png",
+        "title": "Top 4 Countries to Study MBBS in Europe at MCI Approved University",
+        "author": "Dr Vinit Singh",
+        "url": "/top-4-countries-to-study-mbbs-in-europe-at-mci-approved-university"
+    },
+    {
+        "id": 75,
+        "category": "Philippines",
+        "image": "/assets/images/blog-banners/uv-gullas-college-of-medicine.png",
+        "title": "UV Gullas College of Medicine in Philippines for Indian Students Approved by MCI",
+        "author": "Dr Vinit Singh",
+        "url": "/uv-gullas-college-of-medicine-in-philippines"
+    },
+    {
+        "id": 76,
+        "category": "Ukraine",
+        "image": "/assets/images/blog-banners/bogomolets-national-medical-univerity-approved-by-mci.png",
+        "title": "Bogomolets National Medical University",
+        "author": "Dr Vinit Singh",
+        "url": "/bogomolets-national-medical-university-ukraine"
+    }
+] 

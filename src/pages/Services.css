@@ -1,0 +1,313 @@
+/* @import url('https://fonts.googleapis.com/css?family=Open+Sans+Condensed:700'); */
+
+* {
+  scroll-behavior: smooth !important;
+}
+
+a{
+  color: #ffce01;
+}
+
+a:hover{
+  color: #ffce01;
+}
+
+.service__title {
+  color: #000000;
+  font-size: 46px;
+  line-height: 56px;
+  font-weight: 700;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: "Open Sans Condensed", Helvetica, Arial, Verdana, sans-serif;
+}
+
+.service__sub__title {
+  font-family: "Open Sans Condensed";
+  font-size: 34px;
+  line-height: 44px;
+  font-weight: 700;
+  color: #000000;
+}
+
+#index_sec, #about_sec, #why_mbbs_sec, #benefits_sec, #university_sec, #university_sec, #requirements_sec, #fees_sec, #advice_sec, #pros_sec, #advantage_sec, #disadvantage_sec, #visa_sec, #mci_sec, #usmle_sec, #usmle_steps_sec, #pg_sec, #vacations_sec, #career_sec, #problems_sec, #reserve_sec, #charges_sec, #destinex_sec, #process_sec, #faq_sec, #testimonials, #info_sec, #university__videos, #courses_sec, #why_medical_pg, #pg1_sec, #pg2_sec, #designations_sec, #qualification_sec, #pg3_sec, #pg4_sec, #pg5_sec, #pg6_sec, #pg7_sec, #example_sec, #table_sec, #table1_sec, #conclusion_sec {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+/* Ukranie Page CSS Begins*/
+
+.college__name {
+  padding-left: 1.3em;
+}
+
+#bogomolets_univ, #odessa_univ, #blaksea_univ, #donetsk_univ_mariupol, #donetsk_univ_kirovograd, #donetsk_univ_chemigiv,
+#vinnytsia_univ, #ivano_univ, #sumy_univ, #zaporozhye_univ, #kyiv_univ, #uzhgorod_univ, #poltava_univ, #ternopil_univ,
+#lviv_univ, #bukovinian_univ, #kharkov_univ, #karazin_univ, #dnipropetrovsk_univ {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.service__table{
+  width: 100% auto;
+}
+
+.service__table thead {
+  background-color: #ffce01;
+  color: #000000;
+  font-weight: 500;
+  font-size: 16px;
+  font-family: Open Sans;
+  line-height: 28px;
+}
+
+.service__col__title {
+  font-family: "Open Sans Condensed";
+  font-size: 25px;
+  line-height: 35px;
+  font-weight: 700;
+  padding: 0px;
+}
+
+/* Ukraine Page CSS Ends */
+
+
+
+
+
+/* Nursing Job Page CSS Begins */
+
+#types_sec, #apply_sec, #getjob_sec, #job_sec, #vacancy_sec, #salary_sec{
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+
+/* Nursing Job Page CSS Ends */
+
+
+.service__bg {
+  background-color: #ffce01;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+
+.service__image {
+  width: 100%;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.service__info {
+  font-size: 16px;
+  color: #000000;
+  font-family: Open Sans;
+  line-height: 28px;
+  padding: 0px;
+}
+
+.service__info li {
+  font-size: 16px;
+  color: #000000;
+  font-family: Open Sans;
+  line-height: 28px;
+  list-style-position: inside;
+}
+
+.hyperlink li {
+  list-style-type: none;
+  padding: 8px 1px 1px 1px;
+  font-size: 16px;
+  color: #000000;
+  font-family: Open Sans;
+}
+
+.hyperlink a {
+  font-size: 16px;
+  color: #000000;
+  font-family: Open Sans;
+  line-height: 28px;
+}
+
+.hyperlink img {
+  width: 17px;
+  transform: translateY(-10%) rotate(-180deg);
+}
+
+.popup__btn {
+  background-color: #ffce01;
+  color: #fff;
+  font-weight: 600;
+  border-radius: 30px;
+  border: 0px;
+  padding: 20px;
+}
+
+.popup__btn:hover {
+  background-color: #ffce01;
+  color: #fff;
+  font-weight: 600;
+  border-radius: 30px;
+  border: 0px;
+  padding: 20px;
+}
+
+.accordion__title {
+  font-size: 16px;
+  color: #000000;
+  font-family: Open Sans;
+  line-height: 28px;
+  cursor: pointer;
+}
+
+/* Youtube Embed Video CSS */
+
+.embed-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.embed-container iframe,
+.embed-container object,
+.embed-container embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+/* Contact Page CSS Begins */
+
+.india__map{
+  width: 100%;
+}
+
+.contact {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+.contact__form{
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.contact__title {
+  font-size: 22px;
+  line-height: 28px;
+  color: #ffce01;
+  font-weight: 700;
+  font-weight: "Open Sans Condensed", Helvetica, Arial, Verdana, sans-serif;
+  text-transform: uppercase;
+}
+
+.contact__info {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 28px;
+  color: #262d37;
+  font-family: "Open Sans", Helvetica, Arial, Verdana, sans-serif;
+}
+
+.contact__info a {
+  color: #262d37;
+}
+
+.list-inline {
+  padding-left: 0;
+  list-style: none;
+  /* margin-left: -5px; */
+}
+
+.list-inline i{
+    color: #fff;
+}
+
+.list-inline > li {
+    display: inline-block;
+    padding-left: 23px;
+    padding-right: 23px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-right: 0.2em;
+    background-color: #ffce01;
+    border-radius: 50%;
+    font-size: 20px;
+  
+}
+
+.con__sub__btn {
+    background-color: #ffce01;
+    color: #ffffff;
+    border-radius: 16px;
+    border: 0px;
+    font-weight: 500;
+}
+
+.con__sub__btn:hover {
+    background-color: #ffce01;
+    color: #ffffff;
+    border-radius: 16px;
+    border: 0px;
+    font-weight: 500;
+}
+
+.cont_map{
+    margin-bottom: 15px;
+}
+
+.contact__address{
+  font-size: 16px;
+  color: #000000;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  padding: 5px;
+  margin-bottom: 0px;
+}
+
+.contact__number{
+  font-size: 16px;
+  padding: 5px;
+}
+
+.contact__number a{
+  color: #000000;
+}
+
+.contact__page__btn{
+  border-radius: 25px;
+  background-color: #ffce01;
+  color: #000000;
+  border: 0px;
+  font-weight: 600;
+}
+
+.contact__page__btn:hover{
+  background-color: #ffce01;
+  color: #000000;
+}
+
+.map-responsive{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+    border: 5px solid #ffce01;
+    margin-top: 15px;
+}
+
+.map-responsive iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
+
+/* Contact Page CSS Ends */

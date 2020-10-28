@@ -1,0 +1,14 @@
+.popup__info h2{
+    font-size: 30px;
+    color: #000000;
+    font-weight: 700;
+    font-family: "Open Sans Condensed", Helvetica, Arial, Verdana, sans-serif;
+}
+
+.popup__info p{
+    padding: 0px;
+}
+
+.asterik__sym{
+    color: red;
+}
