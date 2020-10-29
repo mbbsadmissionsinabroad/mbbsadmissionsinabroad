@@ -19,7 +19,7 @@ class ContactPopUpForm extends React.Component {
     e.preventDefault();
     axios({
       method: "POST", 
-      url:"http://api.mbbsadmissionsinabroad.com/contactpage.php", 
+      url:"/api/contactpage.php", 
       data:  this.state
     }).then((response)=>{
       if (response.data.status === 'success') {
