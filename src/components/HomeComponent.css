@@ -96,6 +96,10 @@ a:hover{
     padding: 10px;
 }
 
+.four__col h3{
+    text-align: center;
+}
+
 .four__col span{
     display: block;
     margin-left: auto;

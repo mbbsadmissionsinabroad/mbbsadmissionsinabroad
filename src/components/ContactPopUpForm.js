@@ -19,7 +19,7 @@ class ContactPopUpForm extends React.Component {
     e.preventDefault();
     axios({
       method: "POST", 
-      url:"/api/contactpage.php", 
+      url:"https://application.destinex.net/contactpage.php", 
       data:  this.state
     }).then((response)=>{
       if (response.data.status === 'success') {

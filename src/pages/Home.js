@@ -242,80 +242,14 @@ function Home() {
             <h3 className="head__title">Why Study Mbbs In Abroad?</h3>
             <Row>
               <Col md={6}>
-                <p>
-                  <b>
-                    <i
-                      class="fa fa-chevron-circle-right"
-                      aria-hidden="true"
-                    ></i>
-                    Admission in the top-ranked Universities/Colleges:
-                  </b>
-                  We assist you to obtain a seat in the top universities for
-                  studying medicine in the Philippines, Armenia, Belize, France,
-                  Kazakhstan, and many more.
-                </p>
-                <p>
-                  <b>
-                    <i
-                      class="fa fa-chevron-circle-right"
-                      aria-hidden="true"
-                    ></i>
-                    Low tuition fees structure:
-                  </b>
-                  Pursue MBBS in abroad with best MCI approved medical
-                  universities with very reasonable tuition fees structure and
-                  the expense of living is also low.
-                </p>
-                <p>
-                  <b>
-                    <i
-                      class="fa fa-chevron-circle-right"
-                      aria-hidden="true"
-                    ></i>
-                    Top MCI & WHO approved medical universities:
-                  </b>
-                  Most of the medical universities are MCI and WHO accredited.
-                  The student will be eligible to practice in India or any other
-                  country after completing the MBBS course from abroad.
-                </p>
+                <p><b><i class="fa fa-chevron-circle-right" aria-hidden="true"></i> Admission in the top-ranked Universities/Colleges: </b> We assist you to obtain a seat in the top universities for studying medicine in the Philippines, Armenia, Belize, France, Kazakhstan, and many more. </p>
+                <p><b><i class="fa fa-chevron-circle-right" aria-hidden="true"></i></b> Pursue MBBS in abroad with best MCI approved medical universities with very reasonable tuition fees structure and the expense of living is also low. </p>
+                <p><b><i class="fa fa-chevron-circle-right" aria-hidden="true"></i> Top MCI & WHO approved medical universities: </b> Most of the medical universities are MCI and WHO accredited. The student will be eligible to practice in India or any other country after completing the MBBS course from abroad. </p>
               </Col>
               <Col md={6}>
-                <p>
-                  <b>
-                    <i
-                      class="fa fa-chevron-circle-right"
-                      aria-hidden="true"
-                    ></i>
-                    No entrance test:
-                  </b>
-                  There is no requirement of the entrance exam to take admission
-                  in the MBBS course abroad. Indian students only require
-                  fulfilling the eligibility criteria to study in abroad.
-                </p>
-                <p>
-                  <b>
-                    <i
-                      class="fa fa-chevron-circle-right"
-                      aria-hidden="true"
-                    ></i>
-                    No Donation:
-                  </b>
-                  There is no donation and capitation fee for pursuing MBBS in
-                  abroad.
-                </p>
-                <p>
-                  <b>
-                    <i
-                      class="fa fa-chevron-circle-right"
-                      aria-hidden="true"
-                    ></i>
-                    The medium of teaching is English:
-                  </b>
-                  The whole course of MBBS is conducted in English in spite of
-                  having their own official language. It is not mandatory for
-                  Indian students to learn the local language for classroom
-                  learning.
-                </p>
+                <p><b><i class="fa fa-chevron-circle-right" aria-hidden="true"></i>No entrance test: </b> There is no requirement of the entrance exam to take admission in the MBBS course abroad. Indian students only require fulfilling the eligibility criteria to study in abroad.</p>
+                <p><b><i class="fa fa-chevron-circle-right" aria-hidden="true"></i>No Donation: </b> There is no donation and capitation fee for pursuing MBBS in abroad. </p>
+                <p><b><i class="fa fa-chevron-circle-right" aria-hidden="true"></i>The medium of teaching is English: </b> The whole course of MBBS is conducted in English in spite of having their own official language. It is not mandatory for Indian students to learn the local language for classroom learning.</p>
               </Col>
             </Row>
           </Container>

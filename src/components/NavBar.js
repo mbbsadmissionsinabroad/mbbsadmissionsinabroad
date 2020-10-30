@@ -79,7 +79,10 @@ function NavBar() {
       <Router>
         <Navbar collapseOnSelect expand="lg" bg="white">
           <Navbar.Brand href="/">
-            <img className="nav__logo" src="assets/new-lyf-logo.png" alt="New-Lyf Logo" />
+            <div className="logo__text">
+              <img src="assets/new-lyf-logo.png" alt="New-Lyf Logo" />
+              <p>Make Life with New-Lyf</p>
+            </div>
           </Navbar.Brand>
           <Navbar.Toggle aria-controls="responsive-navbar-nav" />
           <Navbar.Collapse id="responsive-navbar-nav">
@@ -135,14 +138,11 @@ function NavBar() {
                   </ul>
                 </div>
               </NavDropdown>
-              <NavDropdown title="Learn German" id="collasible-nav-dropdown" >
-                <div className="learn__german">
-                  <ul className="navbar__list">
-                    <li><Link to="/learn-german-language-course-in-bangalore"><img className="country__flag" src="/assets/images/country-flag/germany-flag.png" alt="Germany Flag" /> Learn German Language In Bangalore</Link></li>
-                  </ul>
-                </div>
-              </NavDropdown>
               {/*<Nav.Link href="#deets">Contact</Nav.Link> */}
+              <Link to="/learn-german-language-course-in-bangalore" className="nav-link">
+              Learn German
+              </Link>
+
               <Link to="/contact" className="nav-link">
                 Contact
               </Link>

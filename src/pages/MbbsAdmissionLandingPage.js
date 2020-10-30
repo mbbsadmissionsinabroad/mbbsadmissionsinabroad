@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import "./LandingPage.css";
 import DocumentMeta from "react-document-meta";
 import { Container, Row, Col, Accordion, Card } from "react-bootstrap";
@@ -11,6 +11,8 @@ import Item from "../components/Item";
 import "../components/HomeCarousel.css";
 import { Link } from "react-router-dom";
 
+import ReactGA from 'react-ga';
+
 const breakPoints = [
   { width: 1, itemsToShow: 1 },
   { width: 550, itemsToShow: 1, itemsToScroll: 1 },
@@ -19,6 +21,12 @@ const breakPoints = [
 ];	
 
 function MbbsAdmissionLandingPage() {
+
+  useEffect(() => {
+    ReactGA.initialize('AW-604143024');
+    ReactGA.pageview(window.location.pathname);
+  }, []);
+
 	const meta = {
     title: "2020 MBBS Admissions In Abroad",
     description: "2020 MBBS Admissions In Abroad",
@@ -832,17 +840,17 @@ function MbbsAdmissionLandingPage() {
                         FOLLOW US ON SOCIAL MEDIA
                       </h6>
                       <ul className="lp__social__links">
-                        <li>
-                          <Link to={{ pathname:"https://www.facebook.com/pg/mbbsadmissionsinabroad/" }}><i class="fa fa-facebook" aria-hidden="true"></i></Link>
+                        <li>{/*eslint-disable-next-line */}
+                          <a href="https://www.facebook.com/pg/mbbsadmissionsinabroad/"><i class="fa fa-facebook" aria-hidden="true"></i></a>
                         </li>
-                        <li>
-                          <Link to={{ pathname:"https://twitter.com/_mbbsabroad" }}><i class="fa fa-twitter" aria-hidden="true"></i></Link>
+                        <li>{/*eslint-disable-next-line */}
+                          <a href="https://twitter.com/_mbbsabroad"><i class="fa fa-twitter" aria-hidden="true"></i></a>
                         </li>
-                        <li>
-                          <Link to={{ pathname:"https://www.instagram.com/mbbsadmissionsinabroad/" }}><i class="fa fa-instagram" aria-hidden="true"></i></Link>
+                        <li>{/*eslint-disable-next-line */}
+                          <a href="https://www.instagram.com/mbbsadmissionsinabroad/"><i class="fa fa-instagram" aria-hidden="true"></i></a>
                         </li>
-                        <li>
-                          <Link to={{ pathname:"https://www.youtube.com/channel/UCzTBawHuvJcQdGizhBgJPwA" }}><i class="fa fa-youtube-play" aria-hidden="true"></i></Link>
+                        <li>{/*eslint-disable-next-line */}
+                          <a href="https://www.youtube.com/channel/UCzTBawHuvJcQdGizhBgJPwA"><i class="fa fa-youtube-play" aria-hidden="true"></i></a>
                         </li>
                       </ul>
                     </Col>

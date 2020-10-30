@@ -22,7 +22,7 @@ class KazakhstanForm extends React.Component {
     e.preventDefault();
     axios({
       method: "POST", 
-      url:"http://api.mbbsadmissionsinabroad.com/index.php", 
+      url:"https://application.destinex.net/index.php",  
       data:  this.state
     }).then((response)=>{
       if (response.data.status === 'success') {

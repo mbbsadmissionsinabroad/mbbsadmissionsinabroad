@@ -8,10 +8,24 @@ body {
     padding: 0;
 }
 
-.nav__logo{
+.logo__text{
+    text-align: justify;
+    height: 80px;
+    font-size: 14px;
+    font-weight: 500;
+    font-style: italic;
+}
+
+.logo__text img{
+    display: block;
+    margin: 0 auto;
+    width: 180px;
+}
+
+/* .nav__logo{
     width: 180px;
     height: 50px;
-}
+} */
 
 .navbar-toggler{
     border: 1px solid;
@@ -66,7 +80,7 @@ body {
 }
 
 .dropdown-menu.show{
-    left: -30rem;
+    left: -21rem;
 }
 
 .mbbs__abroad p{

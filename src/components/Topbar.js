@@ -1,5 +1,5 @@
 import React from "react";
-import { Link } from "react-router-dom";
+// import { Link } from "react-router-dom";
 import "./Topbar.css";
 
 function Topbar() {
@@ -12,26 +12,16 @@ function Topbar() {
         <i class="fa fa-map-marker" aria-hidden="true"></i> 404, 1st floor, 4th
         A Cross Rd, HRBR Layout 2nd Block, Kalyan Nagar, Bengaluru - 560043
       </p>
-      {/*<div className="social__container">
-				<div className="social__facebook">
-					<i class="fa fa-facebook" aria-hidden="true"></i>
-				</div>
-				<div className="social__twitter">
-					<i class="fa fa-twitter" aria-hidden="true"></i>
-				</div>
-				<div className="social__instagram">
-					<i class="fa fa-instagram" aria-hidden="true"></i>
-				</div>
-				<div className="social__youtube">
-					<i class="fa fa-youtube-play" aria-hidden="true"></i>
-				</div>
-			</div> */}
       <div className="social__container">
         <ul className="justify-content-end">
-          <li><Link to={{ pathname:"https://www.facebook.com/pg/mbbsadmissionsinabroad/" }}><i class="fa fa-facebook" aria-hidden="true"></i></Link></li>
-          <li><Link to={{ pathname:"https://twitter.com/_mbbsabroad" }}><i class="fa fa-twitter" aria-hidden="true"></i></Link></li>
-          <li><Link to={{ pathname:"https://www.instagram.com/mbbsadmissionsinabroad/" }}><i class="fa fa-instagram" aria-hidden="true"></i></Link></li>
-          <li><Link to={{ pathname:"https://www.youtube.com/channel/UCzTBawHuvJcQdGizhBgJPwA" }}><i class="fa fa-youtube-play" aria-hidden="true"></i></Link></li>
+          {/*eslint-disable-next-line */}
+          <li><a href="https://www.facebook.com/pg/mbbsadmissionsinabroad/"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+          {/*eslint-disable-next-line */}
+          <li><a href="https://twitter.com/_mbbsabroad"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+          {/*eslint-disable-next-line */}
+          <li><a href="https://www.instagram.com/mbbsadmissionsinabroad/"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+          { /*eslint-disable-next-line */ }
+          <li><a href="https://www.youtube.com/channel/UCzTBawHuvJcQdGizhBgJPwA"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></li>
         </ul>
 			</div>
     </div>
