@@ -3,8 +3,6 @@ import { Container, Row, Col } from "react-bootstrap";
 import { BrowserRouter as Router } from "react-router-dom";
 import "bootstrap/dist/css/bootstrap.css";
 import "./Footer.css";
-// import Blog from "../pages/blogs/Blog";
-// import FooterRoute from "./FooterRoutes";
 
 function Footer() {
   return (

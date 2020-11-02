@@ -70,7 +70,8 @@ function Contact() {
                 </div>
                 <div>
                   <p className="contact__address">404, 1st floor, 4th A Cross Rd, HRBR Layout 2nd Block, Kalyan Nagar, Bengaluru – 560043</p>
-                  <p className="contact__number"><a href="tel:9341666667">+91 (934) 166-6667</a></p>
+                  <p className="contact__number"><i class="fa fa-phone" aria-hidden="true"></i> <a href="tel:9341666667">+91 (934) 166-6667</a></p>
+                  <p className="contact__number"><i class="fa fa-phone" aria-hidden="true"></i> <a href="tel:9343787475">+91 (934) 378-7475 </a></p>
                   <br/>
                     <Button className="contact__page__btn" onClick={() => setModalShow(true)}>Book Now</Button>
                     <MyVerticallyCenteredModal show={modalShow} onHide={() => setModalShow(false)} />
@@ -89,7 +90,8 @@ function Contact() {
                     />
                   </div>
                   <p className="contact__address">15,A/1, Supariwala Bldg, Ground floor, Prasad Chambers Compound, Opera House, Next to Roxy Cinema, Mumbai - 400 004</p>
-                  <p className="contact__number"><a href="tel:9341666667">+91 (934) 166-6667</a></p>
+                  <p className="contact__number"><i class="fa fa-phone" aria-hidden="true"></i> <a href="tel:9341666667">+91 (934) 166-6667</a></p>
+                  <p className="contact__number"><i class="fa fa-phone" aria-hidden="true"></i> <a href="tel:9343787475">+91 (934) 378-7475 </a></p>
                   <br/>
                   <Button className="contact__page__btn" onClick={() => setModalShow(true)}>Book Now</Button>
                   <MyVerticallyCenteredModal show={modalShow} onHide={() => setModalShow(false)} />
@@ -107,7 +109,8 @@ function Contact() {
                     />
                   </div>
                   <p className="contact__address">#AF-1, Block-1, Plot-16, Amar Stamph, Zone-1, M.P.Nagar, Bhopal(M.P) 462011</p>
-                  <p className="contact__number"><a href="tel:9341666667">+91 (934) 166-6667</a></p>
+                  <p className="contact__number"><i class="fa fa-phone" aria-hidden="true"></i> <a href="tel:9341666667">+91 (934) 166-6667</a></p>
+                  <p className="contact__number"><i class="fa fa-phone" aria-hidden="true"></i> <a href="tel:9343787475">+91 (934) 378-7475 </a></p>
                   <br/>
                   <Button className="contact__page__btn" onClick={() => setModalShow(true)}>Book Now</Button>
                   <MyVerticallyCenteredModal show={modalShow} onHide={() => setModalShow(false)} />
@@ -125,7 +128,9 @@ function Contact() {
                     />
                   </div>
                   <p className="contact__address">3rd floor, Sumitra arcade, Ashiyana digha road ,Patna 800014</p>
-                  <p className="contact__number"><a href="tel:7999407776">+91 (799) 940-7776</a></p>
+                  <p className="contact__number"><i class="fa fa-phone" aria-hidden="true"></i> <a href="tel:7999407776">+91 (799) 940-7776</a></p>
+                  <p className="contact__number"><i class="fa fa-phone" aria-hidden="true"></i> <a href="tel:9341666667">+91 (934) 166-6667</a></p>
+                  <p className="contact__number"><i class="fa fa-phone" aria-hidden="true"></i> <a href="tel:9343787475">+91 (934) 378-7475 </a></p>
                   <br/>
                   <Button className="contact__page__btn" onClick={() => setModalShow(true)}>Book Now</Button>
                   <MyVerticallyCenteredModal show={modalShow} onHide={() => setModalShow(false)} />
@@ -143,7 +148,8 @@ function Contact() {
                     />
                   </div>
                   <p className="contact__address">2, Srijan vihar, Vipin Khand, Gomti Nagar, Near Sahara, Shahar, Ambedkar Park, Lucknow, - 226010</p>
-                  <p className="contact__number"><a href="tel:9341666667">+91 (934) 166-6667</a></p>
+                  <p className="contact__number"><i class="fa fa-phone" aria-hidden="true"></i> <a href="tel:9341666667">+91 (934) 166-6667</a></p>
+                  <p className="contact__number"><i class="fa fa-phone" aria-hidden="true"></i> <a href="tel:9343787475">+91 (934) 378-7475 </a></p>
                   <br/>
                   <Button className="contact__page__btn" onClick={() => setModalShow(true)}>Book Now</Button>
                   <MyVerticallyCenteredModal show={modalShow} onHide={() => setModalShow(false)} />

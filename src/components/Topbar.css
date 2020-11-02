@@ -11,13 +11,25 @@ p {
   font-family: Roboto, Helvetica, Arial, Verdana, sans-serif;
 }
 
+.topbar__number a{
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.topbar__number a:hover{
+  color: #ffffff;
+}
+
 .social__container li{
   display: inline-flex;
-  padding: 10px;
+  padding-left: 14px;
+  padding-top: 10px;
   margin-right: 2px;
   color: #ffffff;
   background-color: #edbf01;
-  border-radius: 50% 50%;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
 }
 
 .social__container li i{

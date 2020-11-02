@@ -24,10 +24,13 @@ a:hover{
     color: #ffce01;
 } */
 
-.home__component{
+/* .home__component{
     margin-top: 30px;
-    /* padding-left: 50px;
-    padding-right: 50px; */
+} */
+
+.home__component section {
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
 
 .abroad__title {
@@ -50,10 +53,12 @@ a:hover{
     line-height: 58px;
     text-transform: uppercase;
     text-align: center;
+    padding-bottom: 15px;
 }
 
 .head__desc{
     text-align: center;
+    color: #000000;
 }
 
 .banner__image{
@@ -81,6 +86,10 @@ a:hover{
     border-radius: 10px;
     padding: 10px;
     margin: 10px;
+}
+
+.who__we_are h3{
+    text-align: center;
 }
 
 .banner__bg .who__we_are > h3 {
@@ -149,6 +158,11 @@ a:hover{
 
 .countries__info, .countries__flag, .countries__name, .countries__desc {
     text-align: center;
+}
+
+.countries__info{
+    margin-top: 15px;
+    margin-bottom: 15px;
 }
 
 .countries__name{
