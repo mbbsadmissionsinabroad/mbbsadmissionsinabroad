@@ -19,7 +19,11 @@ body {
 .logo__text img{
     display: block;
     margin: 0 auto;
-    width: 180px;
+    width: 130px;
+}
+
+.logo__text p{
+    padding: 0px;
 }
 
 /* .nav__logo{

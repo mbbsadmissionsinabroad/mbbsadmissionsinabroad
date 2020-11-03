@@ -80,8 +80,8 @@ function NavBar() {
         <Navbar collapseOnSelect expand="lg" bg="white">
           <Navbar.Brand href="/">
             <div className="logo__text">
-              <img src="assets/new-lyf-logo.png" alt="New-Lyf Logo" />
-              <p>Make Life with New-Lyf</p>
+              <img src="assets/destinex-logo.png" alt="Destinex Logo" />
+              <p>Your Success Is Our Commitment...</p>
             </div>
           </Navbar.Brand>
           <Navbar.Toggle aria-controls="responsive-navbar-nav" />
