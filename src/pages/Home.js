@@ -342,14 +342,14 @@ function Home() {
           <Container>
             <h3 className="head__title">List Of Countries</h3>
             <Row>
-              <Col xs={6} md={4}>
+              <Col xs={12} md={4}>
                 <div className="countries__info">
                   <img
                     className="countries__flag"
                     src="/assets/images/country-flag/russia-flag.jpg"
                     alt="russia flag"
                   />
-                  <p className="countries__name">MBBS In Russia</p>
+                  <p className="countries__name">Study MBBS In Russia</p>
                     {/*                  <p className="countries__desc">
                     We provide Counselling, Guidance & Admission to MBBS in
                     Russia from Top University.
@@ -357,14 +357,14 @@ function Home() {
                   <Link to="/mbbs-in-russia"><button className="apply__now__btn">Apply Now!</button></Link>
                 </div>
               </Col>
-              <Col xs={6} md={4}>
+              <Col xs={12} md={4}>
                 <div className="countries__info">
                   <img
                     className="countries__flag"
                     src="/assets/images/country-flag/ukraine-flag.png"
                     alt="ukraine flag"
                   />
-                  <p className="countries__name">MBBS In Ukraine</p>
+                  <p className="countries__name">Study MBBS In Ukraine</p>
                   {/*<p className="countries__desc">
                     We provide Counselling, Guidance & Admission to MBBS in
                     Ukraine from Top University.
@@ -372,14 +372,14 @@ function Home() {
                   <Link to="/mbbs-in-ukraine"><button className="apply__now__btn">Apply Now!</button></Link>
                 </div>
               </Col>
-              <Col xs={6} md={4}>
+              <Col xs={12} md={4}>
                 <div className="countries__info">
                   <img
                     className="countries__flag"
                     src="/assets/images/country-flag/georgia-flag.png"
                     alt="georgia flag"
                   />
-                  <p className="countries__name">MBBS In Georgia</p>
+                  <p className="countries__name">Study MBBS In Georgia</p>
                   {/*<p className="countries__desc">
                     We provide Counselling, Guidance & Admission to MBBS in
                     Georgia from Top University.
@@ -387,14 +387,14 @@ function Home() {
                   <Link to="/mbbs-in-georgia"><button className="apply__now__btn">Apply Now!</button></Link>
                 </div>
               </Col>
-              <Col xs={6} md={4}>
+              <Col xs={12} md={4}>
                 <div className="countries__info">
                   <img
                     className="countries__flag"
                     src="/assets/images/country-flag/armenia-flag.png"
                     alt="armenia flag"
                   />
-                  <p className="countries__name">MBBS In Armenia</p>
+                  <p className="countries__name">Study MBBS In Armenia</p>
                   {/*<p className="countries__desc">
                     We provide Counselling, Guidance & Admission to MBBS in
                     Armenia from Top University.
@@ -402,14 +402,14 @@ function Home() {
                   <Link to="/mbbs-in-armenia"><button className="apply__now__btn">Apply Now!</button></Link>
                 </div>
               </Col>
-              <Col xs={6} md={4}>
+              <Col xs={12} md={4}>
                 <div className="countries__info">
                   <img
                     className="countries__flag"
                     src="/assets/images/country-flag/kazakhstan-flag.png"
                     alt="kazakhstan flag"
                   />
-                  <p className="countries__name">MBBS In Kazakhstan</p>
+                  <p className="countries__name">Study MBBS In Kazakhstan</p>
                   {/*<p className="countries__desc">
                     We provide Counselling, Guidance & Admission to MBBS in
                     Kazakhstan from Top University.
@@ -417,14 +417,14 @@ function Home() {
                   <Link to="/mbbs-in-kazakhstan"><button className="apply__now__btn">Apply Now!</button></Link>
                 </div>
               </Col>
-              <Col xs={6} md={4}>
+              <Col xs={12} md={4}>
                 <div className="countries__info">
                   <img
                     className="countries__flag"
                     src="/assets/images/country-flag/philippines-flag.png"
                     alt="philippines flag"
                   />
-                  <p className="countries__name">MBBS In Philippines</p>
+                  <p className="countries__name">Study MBBS In Philippines</p>
                   {/*<p className="countries__desc">
                     We provide Counselling, Guidance & Admission to MBBS in
                     Philippines from Top University.
@@ -432,14 +432,14 @@ function Home() {
                   <Link to="/mbbs-in-philippines"><button className="apply__now__btn">Apply Now!</button></Link>
                 </div>
               </Col>
-              <Col xs={6} md={4}>
+              <Col xs={12} md={4}>
                 <div className="countries__info">
                   <img
                     className="countries__flag"
                     src="/assets/images/country-flag/belize-flag.png"
                     alt="belize flag"
                   />
-                  <p className="countries__name">MBBS In Belize</p>
+                  <p className="countries__name">Study MBBS In Belize</p>
                   {/*<p className="countries__desc">
                     We provide Counselling, Guidance & Admission to MBBS in
                     Belize from Top University.
@@ -447,14 +447,14 @@ function Home() {
                   <Link to="/mbbs-in-belize"><button className="apply__now__btn">Apply Now!</button></Link>
                 </div>
               </Col>
-              <Col xs={6} md={4}>
+              <Col xs={12} md={4}>
                 <div className="countries__info">
                   <img
                     className="countries__flag"
                     src="/assets/images/country-flag/france-flag.png"
                     alt="france flag"
                   />
-                  <p className="countries__name">MBBS In France</p>
+                  <p className="countries__name">Study MBBS In France</p>
                   {/*<p className="countries__desc">
                     We provide Counselling, Guidance & Admission to MBBS in
                     France from Top University.
@@ -462,14 +462,14 @@ function Home() {
                   <Link to="/mbbs-in-france"><button className="apply__now__btn">Apply Now!</button></Link>
                 </div>
               </Col>
-              <Col xs={6} md={4}>
+              <Col xs={12} md={4}>
                 <div className="countries__info">
                   <img
                     className="countries__flag"
                     src="/assets/images/country-flag/kyrgyzstan-flag.png"
                     alt="kyrgystan flag"
                   />
-                  <p className="countries__name">MBBS In Kyrgyzstan</p>
+                  <p className="countries__name">Study MBBS In Kyrgyzstan</p>
                   {/*<p className="countries__desc">
                     We provide Counselling, Guidance & Admission to MBBS in
                     Kyrgyzstan from Top University.

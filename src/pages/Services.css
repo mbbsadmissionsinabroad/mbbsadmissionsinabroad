@@ -107,11 +107,12 @@ a:hover{
 }
 
 .service__info li {
-  font-size: 16px;
+  /* font-size: 16px;
   color: #000000;
   font-family: Open Sans;
   line-height: 28px;
-  list-style-position: inside;
+  list-style-position: inside; */
+  margin-left: 20px;
 }
 
 .hyperlink li {
@@ -123,9 +124,10 @@ a:hover{
 }
 
 .hyperlink a {
-  font-size: 16px;
+  /* font-size: 16px; */
+  text-decoration: none;
   color: #000000;
-  font-family: Open Sans;
+  /* font-family: Open Sans; */
   line-height: 28px;
 }
 
