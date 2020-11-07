@@ -69,6 +69,17 @@ import DifferenceMbbsInRussiaVSUkraine from "../pages/blogs/DifferenceMbbsInRuss
 import MbbsAdmissionLandingPage from "../pages/MbbsAdmissionLandingPage";
 import KyrgyzstanLandingPage from "../pages/KyrgyzstanLandingPage";
 import PhotoGallery from "../pages/Gallery";
+import MciApprovedCollegesInIndia from "../pages/blogs/MciApprovedCollegesInIndia";
+import DifferenceMbbsInUkraineVsIndia from "../pages/blogs/DifferenceMbbsInUkraineVsIndia";
+import DifferenceMbbsInUkraineVsPhilippines from "../pages/blogs/DifferenceMbbsInUkraineVsPhilippines";
+import DifferenceMbbsRussiaVsPhilippines from "../pages/blogs/DifferenceMbbsRussiaVsPhilippines";
+import MedicalPgInGermanyAdmissionProcedure from "../pages/blogs/MedicalPgInGermanyAdmissionProcedure";
+import WhatIsPgMedicalCourse from "../pages/blogs/WhatIsPgMedicalCourse";
+import WhyMbbsCheapInUkraine from "../pages/blogs/WhyMbbsCheapInUkraine";
+import WhyMbbsCheapInPhilippines from "../pages/blogs/WhyMbbsCheapInPhilippines";
+import WhyMbbsCheapInRussia from "../pages/blogs/WhyMbbsCheapInRussia";
+import MbbsInIndia from "../pages/blogs/MbbsInIndia";
+import StaffNursingJobsInGermany from "../pages/blogs/StaffNursingJobsInGermany";
 
 
 
@@ -342,6 +353,9 @@ function NavBar() {
           <Route path="/how-to-apply-mbbs-in-ukraine">
             <ApplyMbbsInUkraine />
           </Route>
+          <Route path="/list-of-medical-colleges-in-india-approved-by-mci">
+            <MciApprovedCollegesInIndia/>
+          </Route>
           <Route path="/difference-of-studying-mbbs-in-philippines-vs-india-for-indian-students">
             <DifferenceMbbsInPhilippinesVSIndia />
           </Route>
@@ -350,6 +364,36 @@ function NavBar() {
           </Route>
           <Route path="/difference-of-studying-mbbs-in-russia-vs-ukraine-for-indian-students">
             <DifferenceMbbsInRussiaVSUkraine />
+          </Route>
+          <Route path="/difference-of-studying-mbbs-in-ukraine-vs-india-for-indian-students">
+            <DifferenceMbbsInUkraineVsIndia />
+          </Route>
+          <Route path="/difference-of-studying-mbbs-in-ukraine-vs-philippines-for-indian-students">
+            <DifferenceMbbsInUkraineVsPhilippines />
+          </Route>
+          <Route path="/difference-of-studying-mbbs-in-russia-vs-philippines-for-indian-students">
+            <DifferenceMbbsRussiaVsPhilippines />
+          </Route>
+          <Route path="/medical-pg-in-germany-admission-procedure">
+            <MedicalPgInGermanyAdmissionProcedure />
+          </Route>
+          <Route path="/what-is-pg-medical-course">
+            <WhatIsPgMedicalCourse />
+          </Route>
+          <Route path="/why-is-mbbs-cheap-in-ukraine">
+            <WhyMbbsCheapInUkraine />
+          </Route>
+          <Route path="/why-is-mbbs-cheap-in-philippines">
+            <WhyMbbsCheapInPhilippines />
+          </Route>
+          <Route path="/why-is-mbbs-cheap-in-russia">
+            <WhyMbbsCheapInRussia />
+          </Route>
+          <Route path="/mbbs-in-india">
+            <MbbsInIndia />
+          </Route>
+          <Route path="/staff-nursing-jobs-in-germany-without-ielts">
+            <StaffNursingJobsInGermany />
           </Route>
 
         </Switch>
