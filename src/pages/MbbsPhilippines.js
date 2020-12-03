@@ -1,5 +1,5 @@
 import React from "react";
-import { Container, Row, Col, Accordion, Card, Button } from "react-bootstrap";
+import { Container, Row, Col, Accordion, Card, Button, Table } from "react-bootstrap";
 import { Link } from "react-router-dom";
 import Modal from "react-bootstrap/Modal";
 import DocumentMeta from 'react-document-meta';
@@ -50,6 +50,7 @@ function MbbsPhilippines() {
             <li><a href="#about_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> About the Philippines</a></li>
             <li><a href="#why_mbbs_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Why MBBS in Philippines?</a></li>
             <li><a href="#university_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Top Universities for MBBS in Philippines </a></li>
+            <li><a href="#fees_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Fee Structure MBBS in Philippines </a></li>
             <li><a href="#requirements_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Requirements For MBBS Admission In Philippines 2020-2021 </a></li>
             <li><a href="#advice_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> MBBS in Philippines Advice for Indian Students </a></li>
             <li><a href="#visa_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Visa Procedure for MBBS in Philippines </a></li>
@@ -157,10 +158,494 @@ function MbbsPhilippines() {
 							</ul>
           </p>
         </div>
-        <div id="requirements_sec">
+        <div id="fees_sec">
           <h4 className="service__sub__title">
-						Requirements For MBBS Admission In Philippines 2020-2021
+						Fee Structure For MBBS Admission In Philippines 2020-2021
           </h4>
+          <p className="service__col__title">Bicol Christian College of Medicine</p>
+            <Table responsive striped bordered hover className="service__table">
+              <thead>
+                <tr>
+                  <th>Particulars</th>
+                  <th>Tuition Fee in Peso</th>
+                  <th>Exchange Rate</th>
+                  <th>Tuition Fee in INR</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>BS 1 YR</td>
+                  <td>4,65,000</td>
+                  <td>1.4</td>
+                  <td>6,00,000</td>
+                </tr>
+                <tr>
+                  <td>BS 2 YR</td>
+                  <td>4,65,000</td>
+                  <td>1.4</td>
+                  <td>6,00,000</td>
+                </tr>
+                <tr>
+                  <td>MD 1 YR</td>
+                  <td>1,90,000</td>
+                  <td>1.4</td>
+                  <td>2,47,000</td>
+                </tr>
+                <tr>
+                  <td>MD 2 YR</td>
+                  <td>1,90,000</td>
+                  <td>1.4</td>
+                  <td>2,47,000</td>
+                </tr>
+                <tr>
+                  <td>MD 3 YR</td>
+                  <td>1,90,000</td>
+                  <td>1.4</td>
+                  <td>2,47,000</td>
+                </tr>
+                <tr>
+                  <td>MD 4 YR</td>
+                  <td>1,90,000</td>
+                  <td>1.4</td>
+                  <td>2,47,000</td>
+                </tr>
+                <tr>
+                  <td>Total Fees</td>
+                  <td>12,25,000</td>
+                  <td>1.4</td>
+                  <td>15,88,000</td>
+                </tr>
+              </tbody>
+            </Table>
+            <p className="service__info"><b>Exchange Rate :1 PHP=1.4 INR</b>.<br/>
+            ( Fees are denominated in pesos and may subject to change with change in exchange rate)</p>
+
+            <p className="service__info"><b>IMPORTANT:</b><br/> Tuition fees are to be paid directly to the University
+            accounts and not collected by any agent.</p>
+            <br/>
+
+            <p className="service__info"><b>Other Fees:</b>
+              <ul>
+                <li><b>Food & Accommodation :</b> PHP 10,000/-</li>
+                <li><b>Air Ticket & Visa Processing :</b> INR 1,50,000/-</li>
+              </ul>
+            </p>
+
+            <p className="service__info">(Admission Registration, Acceptance Letter from University, DFA Authentication, MEA Attestation, Oppostal Authentication, 9A Visa stamping one way air ticket to Manila, Airport pick-up and transfer included).</p>
+
+            <p className="service__info"><b>NOTE:</b>
+              <ul>
+                <li>Tution fees, food & accommodation should be paid in Philippines PESO.</li>
+                <li>PHP to INR conversion are approximately rates 1.40</li>
+                <li>Miscellaneous Expenses are not included in monthly food & accommodation fees.</li>
+                <li>Hostel fees is to be paid on a yearly or half yearly basis.</li>
+                <li>Students who are majors should apply for student visa coversion and student below 18 years should apply for SSP upon arrival in Philippines</li>
+                <li>Students most pay GST other charges.</li>
+              </ul>
+            </p>
+
+            <p className="service__col__title">AMA Scholl of Medicine</p>
+            <Table responsive striped bordered hover className="service__table">
+              <thead>
+                <tr>
+                  <th>Particulars</th>
+                  <th>Tuition Fee in Peso</th>
+                  <th>Exchange Rate</th>
+                  <th>Tuition Fee in INR</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>BS 1 YR</td>
+                  <td>3,00,000</td>
+                  <td>1.4</td>
+                  <td>4,20,000</td>
+                </tr>
+                <tr>
+                  <td>BS 2 YR</td>
+                  <td>2,00,000</td>
+                  <td>1.4</td>
+                  <td>2,80,000</td>
+                </tr>
+                <tr>
+                  <td>MD 1 YR</td>
+                  <td>2,50,000</td>
+                  <td>1.4</td>
+                  <td>3,50,000</td>
+                </tr>
+                <tr>
+                  <td>MD 2 YR</td>
+                  <td>2,50,000</td>
+                  <td>1.4</td>
+                  <td>3,50,000</td>
+                </tr>
+                <tr>
+                  <td>MD 3 YR</td>
+                  <td>1,50,000</td>
+                  <td>1.4</td>
+                  <td>2,10,000</td>
+                </tr>
+                <tr>
+                  <td>MD 4 YR</td>
+                  <td>1,00,000</td>
+                  <td>1.4</td>
+                  <td>1,40,000</td>
+                </tr>
+                <tr>
+                  <td>Total Fees</td>
+                  <td>12,50,000</td>
+                  <td>1.4</td>
+                  <td>17,50,000</td>
+                </tr>
+              </tbody>
+            </Table>
+
+            <p className="service__info"><b>Exchange Rate :1 PHP=1.4 INR</b>.<br/>( Fees are denominated in pesos
+              and may subject to change with change in exchange rate)</p>
+            <br/>
+
+            <p className="service__info"><b>Other Fees:</b>
+              <ul>
+                <li><b>Visa Processing & Documentation (In India) :</b> 50,000 INR</li>
+                <li><b>Visa Conversion, Medical and Quarantine (In Philippines) :</b> 700 $ (50,000 INR)</li>
+                <li><b>Food and Accommodation : </b> 10,000 Pesos (14,000 INR)</li>
+              </ul>
+            </p>
+            <br/>
+
+            <p className="service__col__title">Davao Medical School Foundation</p>
+            <Table responsive striped bordered hover className="service__table">
+              <thead>
+                <tr>
+                  <th>Particulars</th>
+                  <th>Tuition Fee in Peso</th>
+                  <th>Exchange Rate</th>
+                  <th>Tuition Fee in INR</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>BS 1 YR</td>
+                  <td>5,64,168</td>
+                  <td>1.4</td>
+                  <td>8,50,000</td>
+                </tr>
+                <tr>
+                  <td>BS 2 YR</td>
+                  <td>5,64,168</td>
+                  <td>1.4</td>
+                  <td>8,50,000</td>
+                </tr>
+                <tr>
+                  <td>MD 1 YR</td>
+                  <td>2,47,758</td>
+                  <td>1.4</td>
+                  <td>3,73,324</td>
+                </tr>
+                <tr>
+                  <td>MD 2 YR</td>
+                  <td>2,47,758</td>
+                  <td>1.4</td>
+                  <td>3,73,324</td>
+                </tr>
+                <tr>
+                  <td>MD 3 YR</td>
+                  <td>2,47,758</td>
+                  <td>1.4</td>
+                  <td>3,73,324</td>
+                </tr>
+                <tr>
+                  <td>MD 4 YR</td>
+                  <td>2,47,758</td>
+                  <td>1.4</td>
+                  <td>3,73,324</td>
+                </tr>
+                <tr>
+                  <td>Total Fees</td>
+                  <td>15,55,200</td>
+                  <td>1.4</td>
+                  <td>23,43,296</td>
+                </tr>
+              </tbody>
+            </Table>
+
+            <p className="service__info"><b>Exchange Rate :1 PHP=1.4 INR</b>.<br/>( Fees are denominated in pesos
+              and may subject to change with change in exchange rate)</p>
+            <br/>
+
+            <p className="service__info"><b>Other Expenses:</b>
+              <ul>
+                <li><b>Processing Fee :</b> Rs.1,50,000/-</li>
+                <li><b>Hostel : </b> 12,500 Pesos Per Month (Rs.18,835/- INR)</li>
+              </ul>
+            </p>
+            <br/>
+
+            <p className="service__col__title">Manila Central University</p>
+            <Table responsive striped bordered hover className="service__table">
+              <thead>
+                <tr>
+                  <th>Particulars</th>
+                  <th>Tuition Fee in Peso</th>
+                  <th>Exchange Rate</th>
+                  <th>Tuition Fee in INR</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>BS 1 YR</td>
+                  <td>N/A</td>
+                  <td>N/A</td>
+                  <td>N/A</td>
+                </tr>
+                <tr>
+                  <td>BS 2 YR</td>
+                  <td>N/A</td>
+                  <td>N/A</td>
+                  <td>N/A</td>
+                </tr>
+                <tr>
+                  <td>MD 1 YR</td>
+                  <td>2,46,736</td>
+                  <td>1.4</td>
+                  <td>3,45,430</td>
+                </tr>
+                <tr>
+                  <td>MD 2 YR</td>
+                  <td>2,37,977</td>
+                  <td>1.4</td>
+                  <td>3,33,168</td>
+                </tr>
+                <tr>
+                  <td>MD 3 YR</td>
+                  <td>2,62,266</td>
+                  <td>1.4</td>
+                  <td>3,67,172</td>
+                </tr>
+                <tr>
+                  <td>MD 4 YR</td>
+                  <td>2,86,623</td>
+                  <td>1.4</td>
+                  <td>4,01,272</td>
+                </tr>
+                <tr>
+                  <td>Total Fees</td>
+                  <td>10,33,602</td>
+                  <td>1.4</td>
+                  <td>14,47,042</td>
+                </tr>
+              </tbody>
+            </Table><br/>
+
+            <p className="service__col__title">Emilio Aguinaldo College</p>
+            <Table responsive striped bordered hover className="service__table">
+              <thead>
+                <tr>
+                  <th>Particulars</th>
+                  <th>Tuition Fee in Peso</th>
+                  <th>Exchange Rate</th>
+                  <th>Tuition Fee in INR</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>BS 1 YR</td>
+                  <td>1,26,769</td>
+                  <td>1.4</td>
+                  <td>1,77,476</td>
+                </tr>
+                <tr>
+                  <td>BS 2 YR</td>
+                  <td>93,231</td>
+                  <td>1.4</td>
+                  <td>1,30,523</td>
+                </tr>
+                <tr>
+                  <td>MD 1 YR</td>
+                  <td>2,86,651 + $500</td>
+                  <td>1.4</td>
+                  <td>4,01,311 + $500</td>
+                </tr>
+                <tr>
+                  <td>MD 2 YR</td>
+                  <td>3,09,513 + $500</td>
+                  <td>1.4</td>
+                  <td>4,33,318 + $500</td>
+                </tr>
+                <tr>
+                  <td>MD 3 YR</td>
+                  <td>2,83,073 + $500</td>
+                  <td>1.4</td>
+                  <td>3,96,302 + $500</td>
+                </tr>
+                <tr>
+                  <td>MD 4 YR</td>
+                  <td>3,12,578 + $500</td>
+                  <td>1.4</td>
+                  <td>4,37,609 + $500</td>
+                </tr>
+                <tr>
+                  <td>Total Fees</td>
+                  <td>14,11,815 + $2000</td>
+                  <td>1.4</td>
+                  <td>19,76,539 + $2000</td>
+                </tr>
+              </tbody>
+            </Table><br/>
+
+            <p className="service__col__title">Our Lady of Fatima University</p>
+            <Table responsive striped bordered hover className="service__table">
+              <thead>
+                <tr>
+                  <th>Particulars</th>
+                  <th>Tuition Fee in $</th>
+                  <th>Exchange Rate</th>
+                  <th>Tuition Fee in INR</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>BS 1 YR</td>
+                  <td>$8,000</td>
+                  <td>70</td>
+                  <td>5,60,000</td>
+                </tr>
+                <tr>
+                  <td>BS 2 YR</td>
+                  <td>$4,000</td>
+                  <td>70</td>
+                  <td>2,80,000</td>
+                </tr>
+                <tr>
+                  <td>MD 1 YR</td>
+                  <td>$6,400</td>
+                  <td>70</td>
+                  <td>4,48,000</td>
+                </tr>
+                <tr>
+                  <td>MD 2 YR</td>
+                  <td>$6,400</td>
+                  <td>70</td>
+                  <td>4,48,000</td>
+                </tr>
+                <tr>
+                  <td>MD 3 YR</td>
+                  <td>$6,400</td>
+                  <td>70</td>
+                  <td>4,48,000</td>
+                </tr>
+                <tr>
+                  <td>MD 4 YR</td>
+                  <td>$6,400</td>
+                  <td>70</td>
+                  <td>4,48,000</td>
+                </tr>
+                <tr>
+                  <td>Total Fees</td>
+                  <td>$6,400</td>
+                  <td>70</td>
+                  <td>4,48,000</td>
+                </tr>
+              </tbody>
+            </Table>
+
+            <p className="service__info"><b>Exchange Rate :1 PHP=1.4 INR</b>.<br/>( Fees are denominated in pesos and may subject to change with change in exchange rate)</p>
+            <br/>
+
+            <p className="service__info"><b>Important</b>.<br/>Tuition fees are to be paid directly to the University accounts and not collected by any agent.</p>
+            <br/>
+
+            <p className="service__info"><b>Other Expenses:</b>
+              <ul>
+                <li><b>Visa Renewal :</b> 300$ per year</li>
+                <li><b>Admission and Visa processing : </b> $500 + $3000 = $3,500</li>
+                <li><b>Total : </b> $3,500 + $630 (18%GST) = $4,130</li>
+              </ul>
+            </p>
+            <br/>
+
+            <p className="service__info"><b>Application Fee : </b> $500</p><br/>
+
+            <p className="service__info">$3000 - Visa & Documentation processing in India includes (MEA Attestation, Red Ribbon & Visa fees), Airport Pick up in the Philippines, Medical checkup upon arrival in the Philippines, student visa conversion in manila, ACR Card, One year health & Accident Insurance, First year Study Materials/ Hand Out Notes, NMAT Books, Uniforms, Local Sim Card with 1 GB Internet, Assistance in opening bank Account, NBI Registration and local tours including one time flight ticket from (IND to MNL).</p><br/>
+
+            <p className="service__info"><b>Living Expenses:</b>
+              <ol>
+                <li>Hostel fees for 12 Months USD $1,500 two student Sharing basis (Payable 1 year in advance)</li>
+                <li>Indian Canteen is available $70 Per Month (Optional)</li>
+              </ol>
+            </p>
+            <br/>
+
+            <p className="service__info"><b>Other Information:</b>
+              <ol>
+                <li>Total Initial payment for two year will be = 2,46,736 PHP (Tuition fees) + $3,500(Admission and Visa Processing)</li>
+                <li>There will be no increase in fees during the duration of course .</li>
+                <li>Service fee 75,000PHP + 9,000PHP(12%VAT)=84,000PHP.</li>
+              </ol>
+            </p>
+            <br/>
+
+            <p className="service__col__title">University of Northern Philippines</p>
+            <Table responsive striped bordered hover className="service__table">
+              <thead>
+                <tr>
+                  <th>Particulars</th>
+                  <th>Tuition Fee in Peso</th>
+                  <th>One Time Processing Fee</th>
+                  <th>Tuition Fee in INR</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>BS 1 YR</td>
+                  <td>325046</td>
+                  <td>N/A</td>
+                  <td>5,00,000</td>
+                </tr>
+                <tr>
+                  <td>BS 2 YR</td>
+                  <td>90000</td>
+                  <td>N/A</td>
+                  <td>1,38,445</td>
+                </tr>
+                <tr>
+                  <td>MD 1 YR</td>
+                  <td>130000</td>
+                  <td>N/A</td>
+                  <td>2,00,000</td>
+                </tr>
+                <tr>
+                  <td>MD 2 YR</td>
+                  <td>130000</td>
+                  <td>N/A</td>
+                  <td>2,00,000</td>
+                </tr>
+                <tr>
+                  <td>MD 3 YR</td>
+                  <td>130000</td>
+                  <td>N/A</td>
+                  <td>2,00,000</td>
+                </tr>
+                <tr>
+                  <td>MD 4 YR</td>
+                  <td>130000</td>
+                  <td>N/A</td>
+                  <td>2,00,000</td>
+                </tr>
+                <tr>
+                  <td>Total Fees</td>
+                  <td>935046</td>
+                  <td>N/A</td>
+                  <td>14,38,324</td>
+                </tr>
+              </tbody>
+            </Table>
+
+        </div>
+        <div id="requirements_sec">
+          <h5 className="service__sub__title">
+						Requirements For MBBS Admission In Philippines 2020-2021
+          </h5>
           <p className="service__info">
 						The Indian students should fulfill some essential requirements for taking MBBS Admission in the Philippines and these are as follows:
             	<ul>
@@ -173,9 +658,9 @@ function MbbsPhilippines() {
           </p>
         </div>
         <div id="advice_sec">
-          <h5 className="service__sub__title">
+          <h6 className="service__sub__title">
 						MBBS in Philippines Advice for Indian Students
-          </h5>
+          </h6>
           <p className="service__info">
 						Following is the important information for Indian students in the process of the study MBBS in Philippines:
             	<ul>

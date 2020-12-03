@@ -80,6 +80,13 @@ import WhyMbbsCheapInPhilippines from "../pages/blogs/WhyMbbsCheapInPhilippines"
 import WhyMbbsCheapInRussia from "../pages/blogs/WhyMbbsCheapInRussia";
 import MbbsInIndia from "../pages/blogs/MbbsInIndia";
 import StaffNursingJobsInGermany from "../pages/blogs/StaffNursingJobsInGermany";
+import ToDoMedicalPgInGermany from "../pages/blogs/ToDoMedicalPgInGermany";
+import ApplyMedicalPgInKarnataka from "../pages/blogs/ApplyMedicalPgInKarnataka";
+import TenSecretsAboutMbbsInRussia from "../pages/blogs/TenSecretsAboutMbbsInRussia";
+import SevenThingsAboutMbbsInUkraine from "../pages/blogs/SevenThingsAboutMbbsInUkraine";
+import FiveAdviceMbbsInPhilippines from "../pages/blogs/FiveAdviceMbbsInPhilippines";
+import NursingJobsInGermanyForIndianNurses from "../pages/blogs/NursingJobsInGermanyForIndianNurses";
+import LearnGermanCourseOnline from "../pages/blogs/LearnGermanCourseOnline";
 
 
 
@@ -394,6 +401,27 @@ function NavBar() {
           </Route>
           <Route path="/staff-nursing-jobs-in-germany-without-ielts">
             <StaffNursingJobsInGermany />
+          </Route>
+          <Route path="/how-to-do-medical-pg-in-germany">
+            <ToDoMedicalPgInGermany />
+          </Route>
+          <Route path="/how-to-apply-medical-pg-in-karnataka">
+            <ApplyMedicalPgInKarnataka />
+          </Route>
+          <Route path="/10-secrets-about-mbbs-in-russia-that-nobody-will-tell-you">
+            <TenSecretsAboutMbbsInRussia />
+          </Route>
+          <Route path="/7-things-you-most-likely-didnt-know-about-mbbs-in-ukraine">
+            <SevenThingsAboutMbbsInUkraine />
+          </Route>
+          <Route path="/5-advices-that-you-must-listen-before-studying-mbbs-in-philippines">
+            <FiveAdviceMbbsInPhilippines />
+          </Route>
+          <Route path="/nursing-jobs-in-germany-for-indian-nurses">
+            <NursingJobsInGermanyForIndianNurses />
+          </Route>
+          <Route path="/german-language-course-online-for-beginners">
+            <LearnGermanCourseOnline />
           </Route>
 
         </Switch>

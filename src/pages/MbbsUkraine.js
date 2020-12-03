@@ -513,10 +513,11 @@ function MbbsUkraine() {
             <Table responsive striped bordered hover className="service__table">
               <thead>
                 <tr>
-                  <th>Year / Fees Structure</th>
-                  <th>Tution Fees</th>
-                  <th>Hostal Fees</th>
-                  <th>Total Fees</th>
+                  <th>Year</th>
+                  <th>Tution Fees (In USD $)</th>
+                  <th>Hostal Fees (In USD $)</th>
+                  <th>One Time Charges (In USD $)</th>
+                  <th>Total Fees (In USD $)</th>
                 </tr>
               </thead>
               <tbody>
@@ -524,46 +525,62 @@ function MbbsUkraine() {
                   <td>First Year</td>
                   <td>4500$</td>
                   <td>1000$</td>
-                  <td>5500$</td>
+                  <td>2000$</td>
+                  <td>7500$</td>
                 </tr>
                 <tr>
                   <td>Second Year</td>
                   <td>4500$</td>
                   <td>1000$</td>
+                  <td>N/A</td>
                   <td>5500$</td>
                 </tr>
                 <tr>
                   <td>Third Year</td>
                   <td>4500$</td>
                   <td>1000$</td>
+                  <td>N/A</td>
                   <td>5500$</td>
                 </tr>
                 <tr>
                   <td>Forth Year</td>
                   <td>4500$</td>
                   <td>1000$</td>
+                  <td>N/A</td>
                   <td>5500$</td>
                 </tr>
                 <tr>
                   <td>Fifth Year</td>
                   <td>4500$</td>
                   <td>1000$</td>
+                  <td>N/A</td>
                   <td>5500$</td>
                 </tr>
                 <tr>
                   <td>Sixth Year</td>
                   <td>4500$</td>
                   <td>1000$</td>
+                  <td>N/A</td>
                   <td>5500$</td>
                 </tr>
               </tbody>
             </Table>
-            <p className="service__info">Food Expenses / Month = 80$ To 100$</p>
-            <p className="service__info">
-              One Time Charges Payable In First Year As Administrative Fee,
-              Registration Fee, Airport Pickup, Immigration Clearance Service
-              Charges = 2300$
+            <p className="service__info"><b>Notes:</b>
+              <ul>
+                <li>The hostels are fully furnished and renovated with a 100% guarantee of accommodation.</li>
+                <li>All Hostel Accommodation is on Sharing Basis i.e 3-4 students per room</li>
+                <li>It’s Mandatory to live in Hostel for the first year. </li>
+                <li>The mess is 1200$ Per Year </li>
+                <li>Tuition fees can be paid semester wise. Rest need to pay full.</li>
+              </ul> 
             </p>
+            <p className="service__info"><b>Package is not including:</b>
+              <ul>
+                <li>*- medical insurance 24500 uah as per 2019 batch= approx. 900 - 1000$- this is for all 6 years payable at once.</li>
+                <li>May increase or decrease as it depends on $ rate</li>
+              </ul>
+            </p>
+            <p className="service__info"><b>Package is including:</b><br />Includes Admission Letter from University, Invitation Letter, free sim card, swift transfer, immigration letters, and Airport pick up, Local support, City Orientation and all related consultancy related to student’s admission procedures. </p>
           </div>
 
           <div id="odessa_univ">
@@ -1208,58 +1225,71 @@ function MbbsUkraine() {
             <Table responsive striped bordered hover className="service__table">
               <thead>
                 <tr>
-                  <th>Year / Fees Structure</th>
-                  <th>Tution Fees</th>
-                  <th>Hostal Fees</th>
-                  <th>Total Fees</th>
+                  <th>Year</th>
+                  <th>Tution Fees (In USD $)</th>
+                  <th>Medical Insurance (In USD $)</th>
+                  <th>Hostal Fees (In USD $)</th>
+                  <th>One Time Charges (In USD $)</th>
+                  <th>Total Fees (In USD $)</th>
                 </tr>
               </thead>
               <tbody>
                 <tr>
                   <td>First Year</td>
-                  <td>5120$</td>
-                  <td>1000$</td>
-                  <td>6150$</td>
+                  <td>4300$</td>
+                  <td>150$</td>
+                  <td>750$</td>
+                  <td>1500$</td>
+                  <td>6750$</td>
                 </tr>
                 <tr>
                   <td>Second Year</td>
-                  <td>4500$</td>
-                  <td>1000$</td>
-                  <td>5500$</td>
+                  <td>4300$</td>
+                  <td>150$</td>
+                  <td>750$</td>
+                  <td>N/A</td>
+                  <td>5200$</td>
                 </tr>
                 <tr>
                   <td>Third Year</td>
-                  <td>4500$</td>
-                  <td>1000$</td>
-                  <td>5500$</td>
+                  <td>4300$</td>
+                  <td>150$</td>
+                  <td>750$</td>
+                  <td>N/A</td>
+                  <td>5200$</td>
                 </tr>
                 <tr>
                   <td>Forth Year</td>
-                  <td>4500$</td>
-                  <td>1000$</td>
-                  <td>5500$</td>
+                  <td>4300$</td>
+                  <td>150$</td>
+                  <td>750$</td>
+                  <td>N/A</td>
+                  <td>5200$</td>
                 </tr>
                 <tr>
                   <td>Fifth Year</td>
-                  <td>4500$</td>
-                  <td>1000$</td>
-                  <td>5500$</td>
+                  <td>4300$</td>
+                  <td>150$</td>
+                  <td>750$</td>
+                  <td>N/A</td>
+                  <td>5200$</td>
                 </tr>
                 <tr>
                   <td>Sixth Year</td>
-                  <td>4500$</td>
-                  <td>1000$</td>
-                  <td>5500$</td>
+                  <td>4300$</td>
+                  <td>150$</td>
+                  <td>750$</td>
+                  <td>N/A</td>
+                  <td>5200$</td>
                 </tr>
               </tbody>
             </Table>
-            <p className="service__info">
-              Food Expenses / Month = 160$ To 250$
-            </p>
-            <p className="service__info">
-              One Time Charges Payable In First Year As Administrative Fee,
-              Registration Fee, Airport Pickup, Immigration Clearance Service
-              Charges = 2300$
+            <p className="service__info"><b>Package is including</b><br/>
+              <ul>
+                <li><b>*One time charges</b> – University Registration charges, invitation letter, admission charges, visa confirmation immigration clearance. <b>(Payable only in first year)</b></li>
+                <li><b>Translations of documents, Notary expenses, Temporary resident permit expenses</b></li>
+                <li>It’s compulsory to live in hostel for first year.</li>
+              </ul>
             </p>
           </div>
 
@@ -1469,58 +1499,112 @@ function MbbsUkraine() {
             <Table responsive striped bordered hover className="service__table">
               <thead>
                 <tr>
-                  <th>Year / Fees Structure</th>
-                  <th>Tution Fees</th>
-                  <th>Hostal Fees</th>
-                  <th>Total Fees</th>
+                  <th>Year</th>
+                  <th>Tution Fees (In USD $)</th>
+                  <th>Medical Insurance (In USD $)</th>
+                  <th>Hostal Fees (In USD $)</th>
+                  <th>One Time Charges (In USD $)</th>
+                  <th>Total Fees (In USD $)</th>
                 </tr>
               </thead>
               <tbody>
                 <tr>
                   <td>First Year</td>
-                  <td>4800$</td>
-                  <td>1000$</td>
-                  <td>5800$</td>
+                  <td>3800$</td>
+                  <td>200$</td>
+                  <td>850$</td>
+                  <td>1600$</td>
+                  <td>6450$</td>
                 </tr>
                 <tr>
                   <td>Second Year</td>
                   <td>3800$</td>
-                  <td>1000$</td>
-                  <td>4800$</td>
+                  <td>200$</td>
+                  <td>850$</td>
+                  <td>N/A</td>
+                  <td>4850$</td>
                 </tr>
                 <tr>
                   <td>Third Year</td>
                   <td>3800$</td>
-                  <td>1000$</td>
-                  <td>4800$</td>
+                  <td>200$</td>
+                  <td>850$</td>
+                  <td>N/A</td>
+                  <td>4850$</td>
                 </tr>
                 <tr>
                   <td>Forth Year</td>
                   <td>3800$</td>
-                  <td>1000$</td>
-                  <td>4800$</td>
+                  <td>200$</td>
+                  <td>850$</td>
+                  <td>N/A</td>
+                  <td>4850$</td>
                 </tr>
                 <tr>
                   <td>Fifth Year</td>
                   <td>3800$</td>
-                  <td>1000$</td>
-                  <td>4800$</td>
+                  <td>200$</td>
+                  <td>850$</td>
+                  <td>N/A</td>
+                  <td>4850$</td>
                 </tr>
                 <tr>
                   <td>Sixth Year</td>
                   <td>3800$</td>
-                  <td>1000$</td>
-                  <td>4800$</td>
+                  <td>200$</td>
+                  <td>850$</td>
+                  <td>N/A</td>
+                  <td>4850$</td>
                 </tr>
               </tbody>
             </Table>
-            <p className="service__info">
-              Food Expenses / Month = 160$ To 250$
+            <p className="service__info"><b>Package is Includes:</b><br/>
+              <ul>
+                <li>Translations of documents, Notary expenses, Temporary resident permit expenses</li>
+                <li><b>*One time charges</b> – University Registration charges, invitation letter, admission charges, visa confirmation immigration clearance.<b> (Payable only in first year)</b></li>
+                <li><b>It’s compulsory to live in hostel for first year.</b></li>
+              </ul>
             </p>
-            <p className="service__info">
-              One Time Charges Payable In First Year As Administrative Fee,
-              Registration Fee, Airport Pickup, Immigration Clearance Service
-              Charges = 2300$
+            <p className="service__info"><b>Package is Not Includes:</b><br/>
+              <ul>
+                <li>Mess service – 1200$</li>
+              </ul>
+            </p>
+
+            <h6 className="service__col__title">
+              Post Graduation (PG) Courses
+            </h6>
+            <Table responsive striped bordered hover className="service__table">
+              <thead>
+                <tr>
+                  <th>Year</th>
+                  <th>MBBS (MD) Course (In USD $)</th>
+                  <th>Health Insurance (In USD $)</th>
+                  <th>Hostal Fees (In USD $)</th>
+                  <th>One Time Charges (In USD $)</th>
+                  <th>Total Fees (In USD $)</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>1<sup>st</sup> - 3<sup>rd</sup> Year</td>
+                  <td>4000$</td>
+                  <td>200$</td>
+                  <td>850$</td>
+                  <td>1250$</td>
+                  <td>6250$</td>
+                </tr>
+              </tbody>
+            </Table>
+            <p className="service__info"><b>Package is Includes:</b><br/>
+              <ul>
+                <li><b>*One time charges</b> Translations of documents, Notary expenses, Temporary resident permit expenses</li>
+              </ul>
+            </p>
+            <p className="service__info"><b>Package is Not Includes:</b><br/>
+              <ul>
+                <li>Degree confirmation NASTRIFICATION  (recognition of degree or school certificate from the foreign country ) from ministry of education-1500 $ (if the student finished the bachelor’s degree outside from the Ukraine, ).</li>
+              </ul>
             </p>
           </div>
 
@@ -1556,59 +1640,74 @@ function MbbsUkraine() {
             <Table responsive striped bordered hover className="service__table">
               <thead>
                 <tr>
-                  <th>Year / Fees Structure</th>
-                  <th>Tution Fees</th>
-                  <th>Hostal Fees</th>
-                  <th>Total Fees</th>
+                  <th>Year</th>
+                  <th>Tution Fees (In USD $)</th>
+                  <th>Hostal Fees (In USD $)</th>
+                  <th>One Time Charges (In USD $)</th>
+                  <th>Total Fees (In USD $)</th>
                 </tr>
               </thead>
               <tbody>
                 <tr>
                   <td>First Year</td>
-                  <td>5600$</td>
-                  <td>1000$</td>
-                  <td>6600$</td>
+                  <td>4000$</td>
+                  <td>500$</td>
+                  <td>1200$</td>
+                  <td>5700$</td>
                 </tr>
                 <tr>
                   <td>Second Year</td>
-                  <td>4600$</td>
-                  <td>1000$</td>
-                  <td>5600$</td>
+                  <td>4000$</td>
+                  <td>500$</td>
+                  <td>N/A</td>
+                  <td>4500$</td>
                 </tr>
                 <tr>
                   <td>Third Year</td>
-                  <td>4600$</td>
-                  <td>1000$</td>
-                  <td>5600$</td>
+                  <td>4800$</td>
+                  <td>500$</td>
+                  <td>N/A</td>
+                  <td>5300$</td>
                 </tr>
                 <tr>
                   <td>Forth Year</td>
-                  <td>4600$</td>
-                  <td>1000$</td>
-                  <td>5600$</td>
+                  <td>4800$</td>
+                  <td>500$</td>
+                  <td>N/A</td>
+                  <td>5300$</td>
                 </tr>
                 <tr>
                   <td>Fifth Year</td>
-                  <td>4600$</td>
-                  <td>1000$</td>
-                  <td>5600$</td>
+                  <td>4800$</td>
+                  <td>500$</td>
+                  <td>N/A</td>
+                  <td>5300$</td>
                 </tr>
                 <tr>
                   <td>Sixth Year</td>
-                  <td>4600$</td>
-                  <td>1000$</td>
-                  <td>5600$</td>
+                  <td>4800$</td>
+                  <td>500$</td>
+                  <td>N/A</td>
+                  <td>5300$</td>
                 </tr>
               </tbody>
             </Table>
-            <p className="service__info">
-              Food Expenses / Month = 160$ To 250$
+            <p className="service__info"><b>Notes:</b>
+              <ul>
+                <li>ALL HOSTEL ACCOMODATION IS ON SHARING BASIS i.e 3-4 students per room</li>
+                <li>* SEATS IN ALL HOSTELS ARE LIMITED AND ARE ON FIRST COME FIRST SERVE BASIS</li>
+                <li><b>It’s Mandatory to live in Hostel for first year. </b></li>
+                <li><b>Tuition fees can be paid semester wise rest full payment </b></li>
+              </ul>                 
             </p>
-            <p className="service__info">
-              One Time Charges Payable In First Year As Administrative Fee,
-              Registration Fee, Airport Pickup, Immigration Clearance Service
-              Charges = 2300$
+            <p className="service__info"><b>Package is not including:</b>
+              <ul>
+                <li>*- medical insurance 10000 uah as per 2019 batch= approx. 450$- this is for all 6 years payable at once + 6 year residence permit </li>
+                <li>May increase or decrease as it depends on $ rate</li>
+                <li>Mess charges 1200 USD (not mandatory).</li>
+              </ul>                 
             </p>
+            <p className="service__info"><b>Package is including:</b><br/>Includes Admission Letter from University, Invitation Letter, free sim card, swift transfer, immigration letters, and Airport pick up, Local support, City Orientation and all related consultancy related to student’s admission procedures. </p>
           </div>
 
           <div id="ternopil_univ">
@@ -1643,58 +1742,71 @@ function MbbsUkraine() {
             <Table responsive striped bordered hover className="service__table">
               <thead>
                 <tr>
-                  <th>Year / Fees Structure</th>
-                  <th>Tution Fees</th>
-                  <th>Hostal Fees</th>
-                  <th>Total Fees</th>
+                  <th>Year</th>
+                  <th>Tution Fees (In USD $)</th>
+                  <th>Health Insurance (In USD $)</th>
+                  <th>Hostal Fees (In USD $)</th>
+                  <th>One Time Charges (In USD $)</th>
+                  <th>Total Fees (In USD $)</th>
                 </tr>
               </thead>
               <tbody>
                 <tr>
                   <td>First Year</td>
-                  <td>5300$</td>
-                  <td>1000$</td>
-                  <td>6300$</td>
+                  <td>3800$</td>
+                  <td>150$</td>
+                  <td>850$</td>
+                  <td>1900$</td>
+                  <td>6700$</td>
                 </tr>
                 <tr>
                   <td>Second Year</td>
-                  <td>4300$</td>
-                  <td>1000$</td>
-                  <td>5300$</td>
+                  <td>4420$</td>
+                  <td>150$</td>
+                  <td>850$</td>
+                  <td>N/A</td>
+                  <td>5420$</td>
                 </tr>
                 <tr>
                   <td>Third Year</td>
-                  <td>4300$</td>
-                  <td>1000$</td>
-                  <td>5300$</td>
+                  <td>4420$</td>
+                  <td>150$</td>
+                  <td>850$</td>
+                  <td>N/A</td>
+                  <td>5420$</td>
                 </tr>
                 <tr>
                   <td>Forth Year</td>
-                  <td>4300$</td>
-                  <td>1000$</td>
-                  <td>5300$</td>
+                  <td>4520$</td>
+                  <td>150$</td>
+                  <td>850$</td>
+                  <td>N/A</td>
+                  <td>5520$</td>
                 </tr>
                 <tr>
                   <td>Fifth Year</td>
-                  <td>4300$</td>
-                  <td>1000$</td>
-                  <td>5300$</td>
+                  <td>4620$</td>
+                  <td>150$</td>
+                  <td>850$</td>
+                  <td>N/A</td>
+                  <td>5620$</td>
                 </tr>
                 <tr>
                   <td>Sixth Year</td>
-                  <td>4300$</td>
-                  <td>1000$</td>
-                  <td>5300$</td>
+                  <td>4620$</td>
+                  <td>150$</td>
+                  <td>850$</td>
+                  <td>N/A</td>
+                  <td>5620$</td>
                 </tr>
               </tbody>
             </Table>
-            <p className="service__info">
-              Food Expenses / Month = 160$ To 250$
-            </p>
-            <p className="service__info">
-              One Time Charges Payable In First Year As Administrative Fee,
-              Registration Fee, Airport Pickup, Immigration Clearance Service
-              Charges = 2300$
+            <p className="service__info"><b>Package is Including</b><br/>
+              <ul>
+                <li><b>*One time charges</b> – University Registration charges, invitation letter, admission charges, visa confirmation immigration clearance. <b>(Payable only in first year)</b></li>
+                <li>Translations of documents, Notary expenses, Temporary resident permit expenses</li>
+                <li>It’s compulsory to live in hostel for first year.</li>
+              </ul>
             </p>
           </div>
 
@@ -1730,58 +1842,74 @@ function MbbsUkraine() {
             <Table responsive striped bordered hover className="service__table">
               <thead>
                 <tr>
-                  <th>Year / Fees Structure</th>
-                  <th>Tution Fees</th>
-                  <th>Hostal Fees</th>
-                  <th>Total Fees</th>
+                  <th>Year</th>
+                  <th>Tution Fees (In USD $)</th>
+                  <th>Hostal Fees (In USD $)</th>
+                  <th>One Time Charges (In USD $)</th>
+                  <th>Total Fees (In USD $)</th>
                 </tr>
               </thead>
               <tbody>
                 <tr>
                   <td>First Year</td>
-                  <td>8200$</td>
-                  <td>1000$</td>
-                  <td>9200$</td>
+                  <td>4900$</td>
+                  <td>800$</td>
+                  <td>1800$</td>
+                  <td>7500$</td>
                 </tr>
                 <tr>
                   <td>Second Year</td>
                   <td>4900$</td>
-                  <td>1000$</td>
-                  <td>5900$</td>
+                  <td>800$</td>
+                  <td>N/A</td>
+                  <td>5700$</td>
                 </tr>
                 <tr>
                   <td>Third Year</td>
                   <td>4900$</td>
-                  <td>1000$</td>
-                  <td>5900$</td>
+                  <td>800$</td>
+                  <td>N/A</td>
+                  <td>5700$</td>
                 </tr>
                 <tr>
                   <td>Forth Year</td>
                   <td>4900$</td>
-                  <td>1000$</td>
-                  <td>5900$</td>
+                  <td>800$</td>
+                  <td>N/A</td>
+                  <td>5700$</td>
                 </tr>
                 <tr>
                   <td>Fifth Year</td>
                   <td>4900$</td>
-                  <td>1000$</td>
-                  <td>5900$</td>
+                  <td>800$</td>
+                  <td>N/A</td>
+                  <td>5700$</td>
                 </tr>
                 <tr>
                   <td>Sixth Year</td>
                   <td>4900$</td>
-                  <td>1000$</td>
-                  <td>5900$</td>
+                  <td>800$</td>
+                  <td>N/A</td>
+                  <td>5700$</td>
                 </tr>
               </tbody>
             </Table>
-            <p className="service__info">
-              Food Expenses / Month = 160$ To 250$
+            <p className="service__info"><b>Package is Include</b><br/>
+              <ul>
+                <li>University Registration charges, admission charges, and visa confirmation immigration clearance. (Payable only in first year)</li>
+                <li>Logistic service </li>
+                <li>Translations documents for admission </li>
+                <li>Residence permit FOR 6 YEARS</li>
+                <li>Nostrification </li>
+                <li>Medical Check-up (Covid –19, Malaria, Hepatitis Viral Markers, Meningitis, Typhoid, VDRL, HIV etc)</li>
+                <li><b>It’s compulsory to live in hostel for first year.</b></li>
+              </ul>
             </p>
-            <p className="service__info">
-              One Time Charges Payable In First Year As Administrative Fee,
-              Registration Fee, Airport Pickup, Immigration Clearance Service
-              Charges = 2300$
+            <p className="service__info"><b>Package is Not Include</b><br/>
+              <ul>
+                <li>Medical insurance 19500 uah as per 2019 batch = approx. 700$- this is for all 6 years payable at once </li>
+                <li><b>Mess is compulsory in first year – 1200$</b></li>
+              </ul>
             </p>
           </div>
 
@@ -1812,63 +1940,80 @@ function MbbsUkraine() {
               </tbody>
             </Table>
             <p className="service__col__title">
-              MBBS Fees Of Lviv National Medical University, Lviv
+              MBBS Fees Of Bukovinian State Medical University, Chernovtsy
             </p>
             <Table responsive striped bordered hover className="service__table">
               <thead>
                 <tr>
-                  <th>Year / Fees Structure</th>
-                  <th>Tution Fees</th>
-                  <th>Hostal Fees</th>
-                  <th>Total Fees</th>
+                  <th>Year</th>
+                  <th>Tution Fees (In USD $)</th>
+                  <th>Hostal Fees (In USD $)</th>
+                  <th>One Time Charges (In USD $)</th>
+                  <th>Total Fees (In USD $)</th>
                 </tr>
               </thead>
               <tbody>
                 <tr>
                   <td>First Year</td>
-                  <td>5700$</td>
-                  <td>1000$</td>
+                  <td>3900$</td>
+                  <td>500$</td>
+                  <td>2300$</td>
                   <td>6700$</td>
                 </tr>
                 <tr>
                   <td>Second Year</td>
-                  <td>4700$</td>
-                  <td>1000$</td>
-                  <td>5700$</td>
+                  <td>3900$</td>
+                  <td>500$</td>
+                  <td>N/A</td>
+                  <td>4400$</td>
                 </tr>
                 <tr>
                   <td>Third Year</td>
-                  <td>4700$</td>
-                  <td>1000$</td>
-                  <td>5700$</td>
+                  <td>3900$</td>
+                  <td>500$</td>
+                  <td>N/A</td>
+                  <td>4400$</td>
                 </tr>
                 <tr>
                   <td>Forth Year</td>
-                  <td>4700$</td>
-                  <td>1000$</td>
-                  <td>5700$</td>
+                  <td>3900$</td>
+                  <td>500$</td>
+                  <td>N/A</td>
+                  <td>4400$</td>
                 </tr>
                 <tr>
                   <td>Fifth Year</td>
-                  <td>4700$</td>
-                  <td>1000$</td>
-                  <td>5700$</td>
+                  <td>3900$</td>
+                  <td>500$</td>
+                  <td>N/A</td>
+                  <td>4400$</td>
                 </tr>
                 <tr>
                   <td>Sixth Year</td>
-                  <td>4700$</td>
-                  <td>1000$</td>
-                  <td>5700$</td>
+                  <td>3900$</td>
+                  <td>500$</td>
+                  <td>N/A</td>
+                  <td>4400$</td>
                 </tr>
               </tbody>
             </Table>
-            <p className="service__info">
-              Food Expenses / Month = 160$ To 250$
+            <p className="service__info"><b>Package is Include:</b>
+              <ul>
+                <li>University Registration charges, admission charges, and visa confirmation immigration clearance. 
+                (Payable only in first year)</li>
+                <li>Logistic service </li>
+                <li>Translations documents for admission </li>
+                <li>Residence permit FOR 6 YEARS</li>
+                <li>Nostrification </li>
+                <li>Medical Check-up (Covid –19, Malaria, Hepatitis Viral Markers, Meningitis, Typhoid, VDRL, HIV etc)</li>
+                <li><b>Tuition fees can be paid semester wise. Rest need to pay full.</b></li>
+              </ul>
             </p>
-            <p className="service__info">
-              One Time Charges Payable In First Year As Administrative Fee,
-              Registration Fee, Airport Pickup, Immigration Clearance Service
-              Charges = 2300$
+            <p className="service__info"><b>Package is Not Include:</b>
+              <ul>
+                <li>Medical insurance 11000 uah as per 2019 batch = approx. 400$- this is for all 6 years payable at once </li>
+                <li><b>Mess is compulsory in first year – 1200$</b></li>
+              </ul>
             </p>
           </div>
 
@@ -1991,59 +2136,82 @@ function MbbsUkraine() {
             <Table responsive striped bordered hover className="service__table">
               <thead>
                 <tr>
-                  <th>Year / Fees Structure</th>
-                  <th>Tution Fees</th>
-                  <th>Hostal Fees</th>
-                  <th>Total Fees</th>
+                  <th>Year</th>
+                  <th>Tution Fees (In USD $)</th>
+                  <th>Hostal Fees (In USD $)</th>
+                  <th>Mess Service (In USD $)</th>
+                  <th>One Time Charges (In USD $)</th>
+                  <th>Total Fees (In USD $)</th>
                 </tr>
               </thead>
               <tbody>
                 <tr>
                   <td>First Year</td>
-                  <td>5500$</td>
+                  <td>4500$</td>
                   <td>1000$</td>
-                  <td>6500$</td>
+                  <td>1300$</td>
+                  <td>1200$</td>
+                  <td>8000$</td>
                 </tr>
                 <tr>
                   <td>Second Year</td>
                   <td>4500$</td>
                   <td>1000$</td>
+                  <td>N/A</td>
+                  <td>N/A</td>
                   <td>5500$</td>
                 </tr>
                 <tr>
                   <td>Third Year</td>
                   <td>4500$</td>
                   <td>1000$</td>
+                  <td>N/A</td>
+                  <td>N/A</td>
                   <td>5500$</td>
                 </tr>
                 <tr>
                   <td>Forth Year</td>
                   <td>4500$</td>
                   <td>1000$</td>
+                  <td>N/A</td>
+                  <td>N/A</td>
                   <td>5500$</td>
                 </tr>
                 <tr>
                   <td>Fifth Year</td>
                   <td>4500$</td>
                   <td>1000$</td>
+                  <td>N/A</td>
+                  <td>N/A</td>
                   <td>5500$</td>
                 </tr>
                 <tr>
                   <td>Sixth Year</td>
                   <td>4500$</td>
                   <td>1000$</td>
+                  <td>N/A</td>
+                  <td>N/A</td>
                   <td>5500$</td>
                 </tr>
               </tbody>
             </Table>
-            <p className="service__info">
-              Food Expenses / Month = 160$ To 250$
+            <p className="service__info"><b>Notes:</b>
+              <ul>
+                <li>There are two hostel variants hostel 4 and hostel 5.</li>
+                <li>The hostels are fully furnished and renovated with 100% guarantee of accommodation.</li>
+                <li>ALL HOSTEL ACCOMODATION IS ON SHARING BASIS i.e 3-4 students per room</li>
+                <li><b>It’s Mandatory to live in Hostel for first year. </b></li>
+                <li><b>First year Mess is compulsory</b></li>
+                <li><b>Tuition fees can be paid semester wise. Rest need to pay full. </b></li>
+              </ul>
             </p>
-            <p className="service__info">
-              One Time Charges Payable In First Year As Administrative Fee,
-              Registration Fee, Airport Pickup, Immigration Clearance Service
-              Charges = 2300$
+            <p className="service__info"><b>Package is Not Including:</b>
+              <ul>
+                <li>*- medical insurance 19500 uah as per 2019 batch = approx. 700-800$- this is for all 6 years payable at once </li>
+                <li>May increase or decrease as it depends on $ rate</li>
+              </ul>
             </p>
+            <p className="service__info"><b>Package is Including:</b><br/>Includes Admission Letter from University, Invitation Letter, free sim card, swift transfer , immigration letters, and Airport pick up, Local support, City Orientation and all related consultancy related to student’s admission procedures. </p>
           </div>
 
           <div id="dnipropetrovsk_univ">
