@@ -1,5 +1,5 @@
 import React from "react";
-import { Container, Row, Col, Accordion, Card, Button } from "react-bootstrap";
+import { Container, Row, Col, Accordion, Card, Button, Table } from "react-bootstrap";
 import Modal from "react-bootstrap/Modal";
 import DocumentMeta from 'react-document-meta';
 import "bootstrap/dist/css/bootstrap.css";
@@ -296,11 +296,1563 @@ function MbbsRussia() {
           </p>
         </div>
         <div id="fees_sec">
-          <h6 className="service__sub__title">MBBS in Russia Fees 2020-2021</h6>
-          <p className="service__info">
-            The fees structure for the Indian students studying in Russia will
-            range from 3,500 USD to 6,000 USD per year.
-          </p>
+          <h6 className="service__sub__title">MBBS in Russia Fees 2021-2022</h6>
+          <p className="service__col__title">Altai State Medical University</p>
+            <Table responsive striped bordered hover className="service__table">
+              <thead>
+                <tr>
+                  <th>Particulars</th>
+                  <th>Tuition Fee in $</th>
+                  <th>Exchange Rate</th>
+                  <th>Tuition Fee in INR</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>MD 1 YR</td>
+                  <td>$3700</td>
+                  <td>73</td>
+                  <td>2,72,958</td>
+                </tr>
+                <tr>
+                  <td>MD 2 YR</td>
+                  <td>$3700</td>
+                  <td>73</td>
+                  <td>2,72,958</td>
+                </tr>
+                <tr>
+                  <td>MD 3 YR</td>
+                  <td>$3700</td>
+                  <td>73</td>
+                  <td>2,72,958</td>
+                </tr>
+                <tr>
+                  <td>MD 4 YR</td>
+                  <td>$3700</td>
+                  <td>73</td>
+                  <td>2,72,958</td>
+                </tr>
+                <tr>
+                  <td>MD 5 YR</td>
+                  <td>$3700</td>
+                  <td>73</td>
+                  <td>2,72,958</td>
+                </tr>
+                <tr>
+                  <td>MD 6 YR</td>
+                  <td>$3700</td>
+                  <td>73</td>
+                  <td>2,72,958</td>
+                </tr>
+                <tr>
+                  <td>Total Fees</td>
+                  <td>$22,200</td>
+                  <td>73</td>
+                  <td>16,37,749</td>
+                </tr>
+              </tbody>
+            </Table>
+            <p className="service__info"><b>Exchange Rate :</b>1 USD =73 INR. ( Fees are denominated in USD and may subject to change with change in exchange rate)</p>
+            <br/>
+
+            <p className="service__info"><b>Other Expenses:</b><br/>
+              <ul>
+                <li><b>Processing Fee:</b> Rs.1,50,000/-</li>
+                <li><b>Hostel: $500 Per Year:</b> Rs.2,21,317/- for 6 Years</li>
+              </ul>
+            </p>
+            <br/>
+
+            <p className="service__col__title">Bashkir State Medical University</p>
+            <Table responsive striped bordered hover className="service__table">
+              <thead>
+                <tr>
+                  <th>Particulars</th>
+                  <th>Tuition Fee in $</th>
+                  <th>Exchange Rate</th>
+                  <th>Tuition Fee in INR</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>MD 1 YR</td>
+                  <td>$3500</td>
+                  <td>73</td>
+                  <td>2,58,177</td>
+                </tr>
+                <tr>
+                  <td>MD 2 YR</td>
+                  <td>$3500</td>
+                  <td>73</td>
+                  <td>2,58,177</td>
+                </tr>
+                <tr>
+                  <td>MD 3 YR</td>
+                  <td>$3500</td>
+                  <td>73</td>
+                  <td>2,58,177</td>
+                </tr>
+                <tr>
+                  <td>MD 4 YR</td>
+                  <td>$3500</td>
+                  <td>73</td>
+                  <td>2,58,177</td>
+                </tr>
+                <tr>
+                  <td>MD 5 YR</td>
+                  <td>$3500</td>
+                  <td>73</td>
+                  <td>2,58,177</td>
+                </tr>
+                <tr>
+                  <td>MD 6 YR</td>
+                  <td>$3500</td>
+                  <td>73</td>
+                  <td>2,58,177</td>
+                </tr>
+                <tr>
+                  <td>Total Fees</td>
+                  <td>$21,000</td>
+                  <td>73</td>
+                  <td>15,49,065</td>
+                </tr>
+              </tbody>
+            </Table>
+
+            <p className="service__info"><b>Exchange Rate :</b>1 USD =73 INR. ( Fees are denominated in USD and may subject to change with change in exchange rate)</p>
+            <br/>
+
+            <p className="service__info"><b>Other Expenses:</b><br/>
+              <ul>
+                <li><b>Processing Fee:</b> Rs.1,50,000/-</li>
+                <li><b>Hostel: $900 Per Year:</b> Rs.4,64,719/- for 6 Years</li>
+              </ul>
+            </p>
+            <br/>
+
+            <p className="service__col__title">Crimean Federal University</p>
+            <Table responsive striped bordered hover className="service__table">
+              <thead>
+                <tr>
+                  <th>Particulars</th>
+                  <th>Tuition Fee in $</th>
+                  <th>Exchange Rate</th>
+                  <th>Tuition Fee in INR</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>MD 1 YR</td>
+                  <td>$4250</td>
+                  <td>73</td>
+                  <td>3,13,501</td>
+                </tr>
+                <tr>
+                  <td>MD 2 YR</td>
+                  <td>$4250</td>
+                  <td>73</td>
+                  <td>3,13,501</td>
+                </tr>
+                <tr>
+                  <td>MD 3 YR</td>
+                  <td>$4250</td>
+                  <td>73</td>
+                  <td>3,13,501</td>
+                </tr>
+                <tr>
+                  <td>MD 4 YR</td>
+                  <td>$4250</td>
+                  <td>73</td>
+                  <td>3,13,501</td>
+                </tr>
+                <tr>
+                  <td>MD 5 YR</td>
+                  <td>$4250</td>
+                  <td>73</td>
+                  <td>3,13,501</td>
+                </tr>
+                <tr>
+                  <td>MD 6 YR</td>
+                  <td>$4250</td>
+                  <td>73</td>
+                  <td>3,13,501</td>
+                </tr>
+                <tr>
+                  <td>Total Fees</td>
+                  <td>$25,500</td>
+                  <td>73</td>
+                  <td>18,81,008</td>
+                </tr>
+              </tbody>
+            </Table>
+
+            <p className="service__info"><b>Exchange Rate :</b>1 USD =73 INR. ( Fees are denominated in USD and may subject to change with change in exchange rate)</p>
+            <br/>
+
+            <p className="service__info"><b>Other Expenses:</b><br/>
+              <ul>
+                <li><b>Processing Fee:</b> Rs.1,50,000/-</li>
+                <li><b>Hostel: $600 Per Year:</b> Rs.2,65,554/- for 6 Years</li>
+              </ul>
+            </p>
+            <br/>
+
+
+            <p className="service__col__title">Dagestan State Medical University</p>
+            <Table responsive striped bordered hover className="service__table">
+              <thead>
+                <tr>
+                  <th>Particulars</th>
+                  <th>Tuition Fee in $</th>
+                  <th>Exchange Rate</th>
+                  <th>Tuition Fee in INR</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>MD 1 YR</td>
+                  <td>$3000</td>
+                  <td>73</td>
+                  <td>2,21,317</td>
+                </tr>
+                <tr>
+                  <td>MD 2 YR</td>
+                  <td>$3000</td>
+                  <td>73</td>
+                  <td>2,21,317</td>
+                </tr>
+                <tr>
+                  <td>MD 3 YR</td>
+                  <td>$3000</td>
+                  <td>73</td>
+                  <td>2,21,317</td>
+                </tr>
+                <tr>
+                  <td>MD 4 YR</td>
+                  <td>$3000</td>
+                  <td>73</td>
+                  <td>2,21,317</td>
+                </tr>
+                <tr>
+                  <td>MD 5 YR</td>
+                  <td>$3000</td>
+                  <td>73</td>
+                  <td>2,21,317</td>
+                </tr>
+                <tr>
+                  <td>MD 6 YR</td>
+                  <td>$3000</td>
+                  <td>73</td>
+                  <td>2,21,317</td>
+                </tr>
+                <tr>
+                  <td>Total Fees</td>
+                  <td>$18,000</td>
+                  <td>73</td>
+                  <td>13,27,770</td>
+                </tr>
+              </tbody>
+            </Table>
+
+            <p className="service__info"><b>Exchange Rate :</b>1 USD =73 INR. ( Fees are denominated in USD and may subject to change with change in exchange rate)</p>
+            <br/>
+
+            <p className="service__info"><b>Other Expenses:</b><br/>
+              <ul>
+                <li><b>Processing Fee:</b> Rs.1,50,000/-</li>
+                <li><b>Hostel: $1000 Per Year:</b> Rs.4,42,635/- for 6 Years</li>
+              </ul>
+            </p>
+            <br/>
+
+
+            <p className="service__col__title">Far Eastern Federal University</p>
+            <Table responsive striped bordered hover className="service__table">
+              <thead>
+                <tr>
+                  <th>Particulars</th>
+                  <th>Tuition Fee in $</th>
+                  <th>Exchange Rate</th>
+                  <th>Tuition Fee in INR</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>MD 1 YR</td>
+                  <td>$3000</td>
+                  <td>73</td>
+                  <td>2,21,317</td>
+                </tr>
+                <tr>
+                  <td>MD 2 YR</td>
+                  <td>$3000</td>
+                  <td>73</td>
+                  <td>2,21,317</td>
+                </tr>
+                <tr>
+                  <td>MD 3 YR</td>
+                  <td>$3000</td>
+                  <td>73</td>
+                  <td>2,21,317</td>
+                </tr>
+                <tr>
+                  <td>MD 4 YR</td>
+                  <td>$3000</td>
+                  <td>73</td>
+                  <td>2,21,317</td>
+                </tr>
+                <tr>
+                  <td>MD 5 YR</td>
+                  <td>$3000</td>
+                  <td>73</td>
+                  <td>2,21,317</td>
+                </tr>
+                <tr>
+                  <td>MD 6 YR</td>
+                  <td>$3000</td>
+                  <td>73</td>
+                  <td>2,21,317</td>
+                </tr>
+                <tr>
+                  <td>Total Fees</td>
+                  <td>$18,000</td>
+                  <td>73</td>
+                  <td>13,27,770</td>
+                </tr>
+              </tbody>
+            </Table>
+
+            <p className="service__info"><b>Exchange Rate :</b>1 USD =73 INR. ( Fees are denominated in USD and may subject to change with change in exchange rate)</p>
+            <br/>
+
+            <p className="service__info"><b>Other Expenses:</b><br/>
+              <ul>
+                <li><b>Processing Fee:</b> Rs.1,50,000/-</li>
+                <li><b>Hostel: $1000 Per Year:</b> Rs.4,42,635/- for 6 Years</li>
+              </ul>
+            </p>
+            <br/>
+
+
+            <p className="service__col__title">First Moscow State Medical University</p>
+            <Table responsive striped bordered hover className="service__table">
+              <thead>
+                <tr>
+                  <th>Particulars</th>
+                  <th>Tuition Fee in $</th>
+                  <th>Exchange Rate</th>
+                  <th>Tuition Fee in INR</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>MD 1 YR</td>
+                  <td>$10000</td>
+                  <td>73</td>
+                  <td>7,37,650</td>
+                </tr>
+                <tr>
+                  <td>MD 2 YR</td>
+                  <td>$10000</td>
+                  <td>73</td>
+                  <td>7,37,650</td>
+                </tr>
+                <tr>
+                  <td>MD 3 YR</td>
+                  <td>$10000</td>
+                  <td>73</td>
+                  <td>7,37,650</td>
+                </tr>
+                <tr>
+                  <td>MD 4 YR</td>
+                  <td>$10000</td>
+                  <td>73</td>
+                  <td>7,37,650</td>
+                </tr>
+                <tr>
+                  <td>MD 5 YR</td>
+                  <td>$10000</td>
+                  <td>73</td>
+                  <td>7,37,650</td>
+                </tr>
+                <tr>
+                  <td>MD 6 YR</td>
+                  <td>$10000</td>
+                  <td>73</td>
+                  <td>7,37,650</td>
+                </tr>
+                <tr>
+                  <td>Total Fees</td>
+                  <td>$60,000</td>
+                  <td>73</td>
+                  <td>44,25,901</td>
+                </tr>
+              </tbody>
+            </Table>
+
+            <p className="service__info"><b>Exchange Rate :</b>1 USD =73 INR. ( Fees are denominated in USD and may subject to change with change in exchange rate)</p>
+            <br/>
+
+            <p className="service__info"><b>Other Expenses:</b><br/>
+              <ul>
+                <li><b>Processing Fee:</b> Rs.1,50,000/-</li>
+                <li><b>Hostel: $1800 Per Year:</b> Rs.7,96,662/- for 6 Years</li>
+              </ul>
+            </p>
+            <br/>
+
+
+            <p className="service__col__title">Kazan Federal University</p>
+            <Table responsive striped bordered hover className="service__table">
+              <thead>
+                <tr>
+                  <th>Particulars</th>
+                  <th>Tuition Fee in $</th>
+                  <th>Exchange Rate</th>
+                  <th>Tuition Fee in INR</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>MD 1 YR</td>
+                  <td>$5500</td>
+                  <td>73</td>
+                  <td>4,05,595</td>
+                </tr>
+                <tr>
+                  <td>MD 2 YR</td>
+                  <td>$5500</td>
+                  <td>73</td>
+                  <td>4,05,595</td>
+                </tr>
+                <tr>
+                  <td>MD 3 YR</td>
+                  <td>$5500</td>
+                  <td>73</td>
+                  <td>4,05,595</td>
+                </tr>
+                <tr>
+                  <td>MD 4 YR</td>
+                  <td>$5500</td>
+                  <td>73</td>
+                  <td>4,05,595</td>
+                </tr>
+                <tr>
+                  <td>MD 5 YR</td>
+                  <td>$5500</td>
+                  <td>73</td>
+                  <td>4,05,595</td>
+                </tr>
+                <tr>
+                  <td>MD 6 YR</td>
+                  <td>$5500</td>
+                  <td>73</td>
+                  <td>4,05,595</td>
+                </tr>
+                <tr>
+                  <td>Total Fees</td>
+                  <td>$33,000</td>
+                  <td>73</td>
+                  <td>24,33,571</td>
+                </tr>
+              </tbody>
+            </Table>
+
+            <p className="service__info"><b>Exchange Rate :</b>1 USD =73 INR. ( Fees are denominated in USD and may subject to change with change in exchange rate)</p>
+            <br/>
+
+            <p className="service__info"><b>Other Expenses:</b><br/>
+              <ul>
+                <li><b>Processing Fee:</b> Rs.1,50,000/-</li>
+                <li><b>Hostel: $1000 Per Year:</b> Rs.4,42,467/- for 6 Years</li>
+              </ul>
+            </p>
+            <br/>
+
+            <p className="service__col__title">Kazan State Medical University</p>
+            <Table responsive striped bordered hover className="service__table">
+              <thead>
+                <tr>
+                  <th>Particulars</th>
+                  <th>Tuition Fee in $</th>
+                  <th>Exchange Rate</th>
+                  <th>Tuition Fee in INR</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>MD 1 YR</td>
+                  <td>$7000</td>
+                  <td>73</td>
+                  <td>5,16,355</td>
+                </tr>
+                <tr>
+                  <td>MD 2 YR</td>
+                  <td>$7000</td>
+                  <td>73</td>
+                  <td>5,16,355</td>
+                </tr>
+                <tr>
+                  <td>MD 3 YR</td>
+                  <td>$7000</td>
+                  <td>73</td>
+                  <td>5,16,355</td>
+                </tr>
+                <tr>
+                  <td>MD 4 YR</td>
+                  <td>$7000</td>
+                  <td>73</td>
+                  <td>5,16,355</td>
+                </tr>
+                <tr>
+                  <td>MD 5 YR</td>
+                  <td>$7000</td>
+                  <td>73</td>
+                  <td>5,16,355</td>
+                </tr>
+                <tr>
+                  <td>MD 6 YR</td>
+                  <td>$7000</td>
+                  <td>73</td>
+                  <td>5,16,355</td>
+                </tr>
+                <tr>
+                  <td>Total Fees</td>
+                  <td>$42,000</td>
+                  <td>73</td>
+                  <td>30,98,131</td>
+                </tr>
+              </tbody>
+            </Table>
+
+            <p className="service__info"><b>Exchange Rate :</b>1 USD =73 INR. ( Fees are denominated in USD and may subject to change with change in exchange rate)</p>
+            <br/>
+
+            <p className="service__info"><b>Other Expenses:</b><br/>
+              <ul>
+                <li><b>Processing Fee:</b> Rs.1,50,000/-</li>
+                <li><b>Hostel: $600 Per Year:</b> Rs.2,65,554/- for 6 Years</li>
+              </ul>
+            </p>
+            <br/>
+
+
+            <p className="service__col__title">Kuban State Medical University</p>
+            <Table responsive striped bordered hover className="service__table">
+              <thead>
+                <tr>
+                  <th>Particulars</th>
+                  <th>Tuition Fee in $</th>
+                  <th>Exchange Rate</th>
+                  <th>Tuition Fee in INR</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>MD 1 YR</td>
+                  <td>$3500</td>
+                  <td>73</td>
+                  <td>2,58,177</td>
+                </tr>
+                <tr>
+                  <td>MD 2 YR</td>
+                  <td>$3500</td>
+                  <td>73</td>
+                  <td>2,58,177</td>
+                </tr>
+                <tr>
+                  <td>MD 3 YR</td>
+                  <td>$3500</td>
+                  <td>73</td>
+                  <td>2,58,177</td>
+                </tr>
+                <tr>
+                  <td>MD 4 YR</td>
+                  <td>$3500</td>
+                  <td>73</td>
+                  <td>2,58,177</td>
+                </tr>
+                <tr>
+                  <td>MD 5 YR</td>
+                  <td>$3500</td>
+                  <td>73</td>
+                  <td>2,58,177</td>
+                </tr>
+                <tr>
+                  <td>MD 6 YR</td>
+                  <td>$3500</td>
+                  <td>73</td>
+                  <td>2,58,177</td>
+                </tr>
+                <tr>
+                  <td>Total Fees</td>
+                  <td>$21,000</td>
+                  <td>73</td>
+                  <td>15,49,065</td>
+                </tr>
+              </tbody>
+            </Table>
+
+            <p className="service__info"><b>Exchange Rate :</b>1 USD =73 INR. ( Fees are denominated in USD and may subject to change with change in exchange rate)</p>
+            <br/>
+
+            <p className="service__info"><b>Other Expenses:</b><br/>
+              <ul>
+                <li><b>Processing Fee:</b> Rs.1,50,000/-</li>
+                <li><b>Hostel: $100 Per Year:</b> Rs.3,09,813/- for 6 Years</li>
+              </ul>
+            </p>
+            <br/>
+
+
+            <p className="service__col__title">Kursk State Medical University</p>
+            <Table responsive striped bordered hover className="service__table">
+              <thead>
+                <tr>
+                  <th>Particulars</th>
+                  <th>Tuition Fee in $</th>
+                  <th>Exchange Rate</th>
+                  <th>Tuition Fee in INR</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>MD 1 YR</td>
+                  <td>$5100</td>
+                  <td>73</td>
+                  <td>3,76,239</td>
+                </tr>
+                <tr>
+                  <td>MD 2 YR</td>
+                  <td>$5100</td>
+                  <td>73</td>
+                  <td>3,76,239</td>
+                </tr>
+                <tr>
+                  <td>MD 3 YR</td>
+                  <td>$5100</td>
+                  <td>73</td>
+                  <td>3,76,239</td>
+                </tr>
+                <tr>
+                  <td>MD 4 YR</td>
+                  <td>$5100</td>
+                  <td>73</td>
+                  <td>3,76,239</td>
+                </tr>
+                <tr>
+                  <td>MD 5 YR</td>
+                  <td>$5100</td>
+                  <td>73</td>
+                  <td>3,76,239</td>
+                </tr>
+                <tr>
+                  <td>MD 6 YR</td>
+                  <td>$5100</td>
+                  <td>73</td>
+                  <td>3,76,239</td>
+                </tr>
+                <tr>
+                  <td>Total Fees</td>
+                  <td>$30,600</td>
+                  <td>73</td>
+                  <td>22,57,438</td>
+                </tr>
+              </tbody>
+            </Table>
+
+            <p className="service__info"><b>Exchange Rate :</b>1 USD =73 INR. ( Fees are denominated in USD and may subject to change with change in exchange rate)</p>
+            <br/>
+
+            <p className="service__info"><b>Other Expenses:</b><br/>
+              <ul>
+                <li><b>Processing Fee:</b> Rs.1,50,000/-</li>
+                <li><b>Hostel: $1000 Per Year:</b> Rs.4,42,635/- for 6 Years</li>
+              </ul>
+            </p>
+            <br/>
+
+
+            <p className="service__col__title">Mari State University</p>
+            <Table responsive striped bordered hover className="service__table">
+              <thead>
+                <tr>
+                  <th>Particulars</th>
+                  <th>Tuition Fee in $</th>
+                  <th>Exchange Rate</th>
+                  <th>Tuition Fee in INR</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>MD 1 YR</td>
+                  <td>$6000</td>
+                  <td>73</td>
+                  <td>4,42,467</td>
+                </tr>
+                <tr>
+                  <td>MD 2 YR</td>
+                  <td>$5000</td>
+                  <td>73</td>
+                  <td>3,68,723</td>
+                </tr>
+                <tr>
+                  <td>MD 3 YR</td>
+                  <td>$5000</td>
+                  <td>73</td>
+                  <td>3,68,723</td>
+                </tr>
+                <tr>
+                  <td>MD 4 YR</td>
+                  <td>$5000</td>
+                  <td>73</td>
+                  <td>3,68,723</td>
+                </tr>
+                <tr>
+                  <td>MD 5 YR</td>
+                  <td>$5000</td>
+                  <td>73</td>
+                  <td>3,68,723</td>
+                </tr>
+                <tr>
+                  <td>MD 6 YR</td>
+                  <td>$5000</td>
+                  <td>73</td>
+                  <td>3,68,723</td>
+                </tr>
+                <tr>
+                  <td>Total Fees</td>
+                  <td>$31,000</td>
+                  <td>73</td>
+                  <td>22,86,082</td>
+                </tr>
+              </tbody>
+            </Table>
+
+            <p className="service__info"><b>Exchange Rate :</b>1 USD =73 INR. ( Fees are denominated in USD and may subject to change with change in exchange rate)</p>
+            <br/>
+
+            <p className="service__info"><b>Other Expenses:</b><br/>
+              <ul>
+                <li><b>Processing Fee:</b> Rs.1,50,000/-</li>
+                <li><b>Hostel: $1200 Per Year:</b> Rs.5,30,961/- for 6 Years</li>
+              </ul>
+            </p>
+            <br/>
+
+
+            <p className="service__col__title">Northern State Medical University</p>
+            <Table responsive striped bordered hover className="service__table">
+              <thead>
+                <tr>
+                  <th>Particulars</th>
+                  <th>Tuition Fee in $</th>
+                  <th>Exchange Rate</th>
+                  <th>Tuition Fee in INR</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>MD 1 YR</td>
+                  <td>$4000</td>
+                  <td>73</td>
+                  <td>2,94,978</td>
+                </tr>
+                <tr>
+                  <td>MD 2 YR</td>
+                  <td>$4000</td>
+                  <td>73</td>
+                  <td>2,94,978</td>
+                </tr>
+                <tr>
+                  <td>MD 3 YR</td>
+                  <td>$4000</td>
+                  <td>73</td>
+                  <td>2,94,978</td>
+                </tr>
+                <tr>
+                  <td>MD 4 YR</td>
+                  <td>$4000</td>
+                  <td>73</td>
+                  <td>2,94,978</td>
+                </tr>
+                <tr>
+                  <td>MD 5 YR</td>
+                  <td>$4000</td>
+                  <td>73</td>
+                  <td>2,94,978</td>
+                </tr>
+                <tr>
+                  <td>MD 6 YR</td>
+                  <td>$4000</td>
+                  <td>73</td>
+                  <td>2,94,978</td>
+                </tr>
+                <tr>
+                  <td>Total Fees</td>
+                  <td>$24,000</td>
+                  <td>73</td>
+                  <td>17,69,870</td>
+                </tr>
+              </tbody>
+            </Table>
+
+            <p className="service__info"><b>Exchange Rate :</b>1 USD =73 INR. ( Fees are denominated in USD and may subject to change with change in exchange rate)</p>
+            <br/>
+
+            <p className="service__info"><b>Other Expenses:</b><br/>
+              <ul>
+                <li><b>Processing Fee:</b> Rs.1,50,000/-</li>
+                <li><b>Hostel: $700 Per Year:</b> Rs.3,09,727/- for 6 Years</li>
+              </ul>
+            </p>
+            <br/>
+
+
+            <p className="service__col__title">Novosibirsk State Medical University</p>
+            <Table responsive striped bordered hover className="service__table">
+              <thead>
+                <tr>
+                  <th>Particulars</th>
+                  <th>Tuition Fee in $</th>
+                  <th>Exchange Rate</th>
+                  <th>Tuition Fee in INR</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>MD 1 YR</td>
+                  <td>$5000</td>
+                  <td>73</td>
+                  <td>3,68,723</td>
+                </tr>
+                <tr>
+                  <td>MD 2 YR</td>
+                  <td>$5000</td>
+                  <td>73</td>
+                  <td>3,68,723</td>
+                </tr>
+                <tr>
+                  <td>MD 3 YR</td>
+                  <td>$5000</td>
+                  <td>73</td>
+                  <td>3,68,723</td>
+                </tr>
+                <tr>
+                  <td>MD 4 YR</td>
+                  <td>$5000</td>
+                  <td>73</td>
+                  <td>3,68,723</td>
+                </tr>
+                <tr>
+                  <td>MD 5 YR</td>
+                  <td>$5000</td>
+                  <td>73</td>
+                  <td>3,68,723</td>
+                </tr>
+                <tr>
+                  <td>MD 6 YR</td>
+                  <td>$5000</td>
+                  <td>73</td>
+                  <td>3,68,723</td>
+                </tr>
+                <tr>
+                  <td>Total Fees</td>
+                  <td>$30,000</td>
+                  <td>73</td>
+                  <td>22,12,338</td>
+                </tr>
+              </tbody>
+            </Table>
+
+            <p className="service__info"><b>Exchange Rate :</b>1 USD =73 INR. ( Fees are denominated in USD and may subject to change with change in exchange rate)</p>
+            <br/>
+
+            <p className="service__info"><b>Other Expenses:</b><br/>
+              <ul>
+                <li><b>Processing Fee:</b> Rs.1,50,000/-</li>
+                <li><b>Hostel: $900 Per Year:</b> Rs.3,98,220/- for 6 Years</li>
+              </ul>
+            </p>
+            <br/>
+
+
+            <p className="service__col__title">Orenburg State Medical University</p>
+            <Table responsive striped bordered hover className="service__table">
+              <thead>
+                <tr>
+                  <th>Particulars</th>
+                  <th>Tuition Fee in $</th>
+                  <th>Exchange Rate</th>
+                  <th>Tuition Fee in INR</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>MD 1 YR</td>
+                  <td>$4000</td>
+                  <td>73</td>
+                  <td>2,94,978</td>
+                </tr>
+                <tr>
+                  <td>MD 2 YR</td>
+                  <td>$4000</td>
+                  <td>73</td>
+                  <td>2,94,978</td>
+                </tr>
+                <tr>
+                  <td>MD 3 YR</td>
+                  <td>$4000</td>
+                  <td>73</td>
+                  <td>2,94,978</td>
+                </tr>
+                <tr>
+                  <td>MD 4 YR</td>
+                  <td>$4000</td>
+                  <td>73</td>
+                  <td>2,94,978</td>
+                </tr>
+                <tr>
+                  <td>MD 5 YR</td>
+                  <td>$4000</td>
+                  <td>73</td>
+                  <td>2,94,978</td>
+                </tr>
+                <tr>
+                  <td>MD 6 YR</td>
+                  <td>$4000</td>
+                  <td>73</td>
+                  <td>2,94,978</td>
+                </tr>
+                <tr>
+                  <td>Total Fees</td>
+                  <td>$24,000</td>
+                  <td>73</td>
+                  <td>17,69,870</td>
+                </tr>
+              </tbody>
+            </Table>
+
+            <p className="service__info"><b>Exchange Rate :</b>1 USD =73 INR. ( Fees are denominated in USD and may subject to change with change in exchange rate)</p>
+            <br/>
+
+            <p className="service__info"><b>Other Expenses:</b><br/>
+              <ul>
+                <li><b>Processing Fee:</b> Rs.1,50,000/-</li>
+                <li><b>Hostel: $1000 Per Year:</b> Rs.4,42,467/- for 6 Years</li>
+              </ul>
+            </p>
+            <br/>
+
+
+            <p className="service__col__title">Perm State Medical University</p>
+            <Table responsive striped bordered hover className="service__table">
+              <thead>
+                <tr>
+                  <th>Particulars</th>
+                  <th>Tuition Fee in $</th>
+                  <th>Exchange Rate</th>
+                  <th>Tuition Fee in INR</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>MD 1 YR</td>
+                  <td>$5500</td>
+                  <td>73</td>
+                  <td>4,05,595</td>
+                </tr>
+                <tr>
+                  <td>MD 2 YR</td>
+                  <td>$5500</td>
+                  <td>73</td>
+                  <td>4,05,595</td>
+                </tr>
+                <tr>
+                  <td>MD 3 YR</td>
+                  <td>$5500</td>
+                  <td>73</td>
+                  <td>4,05,595</td>
+                </tr>
+                <tr>
+                  <td>MD 4 YR</td>
+                  <td>$5500</td>
+                  <td>73</td>
+                  <td>4,05,595</td>
+                </tr>
+                <tr>
+                  <td>MD 5 YR</td>
+                  <td>$5500</td>
+                  <td>73</td>
+                  <td>4,05,595</td>
+                </tr>
+                <tr>
+                  <td>MD 6 YR</td>
+                  <td>$5500</td>
+                  <td>73</td>
+                  <td>4,05,595</td>
+                </tr>
+                <tr>
+                  <td>Total Fees</td>
+                  <td>$$33,000</td>
+                  <td>73</td>
+                  <td>24,33,571</td>
+                </tr>
+              </tbody>
+            </Table>
+
+            <p className="service__info"><b>Exchange Rate :</b>1 USD =73 INR. ( Fees are denominated in USD and may subject to change with change in exchange rate)</p>
+            <br/>
+
+            <p className="service__info"><b>Other Expenses:</b><br/>
+              <ul>
+                <li><b>Processing Fee:</b> Rs.1,50,000/-</li>
+                <li><b>Hostel: $1200 Per Year:</b> Rs.5,30,961/- for 6 Years</li>
+              </ul>
+            </p>
+            <br/>
+
+            <p className="service__col__title">Ryazan State Medical University</p>
+            <Table responsive striped bordered hover className="service__table">
+              <thead>
+                <tr>
+                  <th>Particulars</th>
+                  <th>Tuition Fee in $</th>
+                  <th>Exchange Rate</th>
+                  <th>Tuition Fee in INR</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>MD 1 YR</td>
+                  <td>$4500</td>
+                  <td>73</td>
+                  <td>3,31,079</td>
+                </tr>
+                <tr>
+                  <td>MD 2 YR</td>
+                  <td>$4500</td>
+                  <td>73</td>
+                  <td>3,31,079</td>
+                </tr>
+                <tr>
+                  <td>MD 3 YR</td>
+                  <td>$4500</td>
+                  <td>73</td>
+                  <td>3,31,079</td>
+                </tr>
+                <tr>
+                  <td>MD 4 YR</td>
+                  <td>$4500</td>
+                  <td>73</td>
+                  <td>3,31,079</td>
+                </tr>
+                <tr>
+                  <td>MD 5 YR</td>
+                  <td>$4500</td>
+                  <td>73</td>
+                  <td>3,31,079</td>
+                </tr>
+                <tr>
+                  <td>MD 6 YR</td>
+                  <td>$4500</td>
+                  <td>73</td>
+                  <td>3,31,079</td>
+                </tr>
+                <tr>
+                  <td>Total Fees</td>
+                  <td>$27,000</td>
+                  <td>73</td>
+                  <td>19,86,474</td>
+                </tr>
+              </tbody>
+            </Table>
+
+            <p className="service__info"><b>Exchange Rate :</b>1 USD =73 INR. ( Fees are denominated in USD and may subject to change with change in exchange rate)</p>
+            <br/>
+
+            <p className="service__info"><b>Other Expenses:</b><br/>
+              <ul>
+                <li><b>Processing Fee:</b> Rs.1,50,000/-</li>
+                <li><b>Hostel: $900 Per Year:</b> Rs.3,98,220/- for 6 Years</li>
+              </ul>
+            </p>
+            <br/>
+
+
+            <p className="service__col__title">Siberian State Medical University</p>
+            <Table responsive striped bordered hover className="service__table">
+              <thead>
+                <tr>
+                  <th>Particulars</th>
+                  <th>Tuition Fee in $</th>
+                  <th>Exchange Rate</th>
+                  <th>Tuition Fee in INR</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>MD 1 YR</td>
+                  <td>$3000</td>
+                  <td>73</td>
+                  <td>2,21,233</td>
+                </tr>
+                <tr>
+                  <td>MD 2 YR</td>
+                  <td>$3000</td>
+                  <td>73</td>
+                  <td>2,21,233</td>
+                </tr>
+                <tr>
+                  <td>MD 3 YR</td>
+                  <td>$3000</td>
+                  <td>73</td>
+                  <td>2,21,233</td>
+                </tr>
+                <tr>
+                  <td>MD 4 YR</td>
+                  <td>$3000</td>
+                  <td>73</td>
+                  <td>2,21,233</td>
+                </tr>
+                <tr>
+                  <td>MD 5 YR</td>
+                  <td>$3000</td>
+                  <td>73</td>
+                  <td>2,21,233</td>
+                </tr>
+                <tr>
+                  <td>MD 6 YR</td>
+                  <td>$3000</td>
+                  <td>73</td>
+                  <td>2,21,233</td>
+                </tr>
+                <tr>
+                  <td>Total Fees</td>
+                  <td>$18,000</td>
+                  <td>73</td>
+                  <td>13,27,402</td>
+                </tr>
+              </tbody>
+            </Table>
+
+            <p className="service__info"><b>Exchange Rate :</b>1 USD =73 INR. ( Fees are denominated in USD and may subject to change with change in exchange rate)</p>
+            <br/>
+
+            <p className="service__info"><b>Other Expenses:</b><br/>
+              <ul>
+                <li><b>Processing Fee:</b> Rs.1,50,000/-</li>
+                <li><b>Hostel: $500 Per Year:</b> Rs.2,21,233/- for 6 Years</li>
+              </ul>
+            </p>
+            <br/>
+
+
+            <p className="service__col__title">St.Petersburg State Medical University</p>
+            <Table responsive striped bordered hover className="service__table">
+              <thead>
+                <tr>
+                  <th>Particulars</th>
+                  <th>Tuition Fee in $</th>
+                  <th>Exchange Rate</th>
+                  <th>Tuition Fee in INR</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>MD 1 YR</td>
+                  <td>$5500</td>
+                  <td>73</td>
+                  <td>4,05,595</td>
+                </tr>
+                <tr>
+                  <td>MD 2 YR</td>
+                  <td>$5500</td>
+                  <td>73</td>
+                  <td>4,05,595</td>
+                </tr>
+                <tr>
+                  <td>MD 3 YR</td>
+                  <td>$5500</td>
+                  <td>73</td>
+                  <td>4,05,595</td>
+                </tr>
+                <tr>
+                  <td>MD 4 YR</td>
+                  <td>$5500</td>
+                  <td>73</td>
+                  <td>4,05,595</td>
+                </tr>
+                <tr>
+                  <td>MD 5 YR</td>
+                  <td>$5500</td>
+                  <td>73</td>
+                  <td>4,05,595</td>
+                </tr>
+                <tr>
+                  <td>MD 6 YR</td>
+                  <td>$5500</td>
+                  <td>73</td>
+                  <td>4,05,595</td>
+                </tr>
+                <tr>
+                  <td>Total Fees</td>
+                  <td>$33,000</td>
+                  <td>73</td>
+                  <td>24,33,571</td>
+                </tr>
+              </tbody>
+            </Table>
+
+            <p className="service__info"><b>Exchange Rate :</b>1 USD =73 INR. ( Fees are denominated in USD and may subject to change with change in exchange rate)</p>
+            <br/>
+
+            <p className="service__info"><b>Other Expenses:</b><br/>
+              <ul>
+                <li><b>Processing Fee:</b> Rs.1,50,000/-</li>
+                <li><b>Hostel: $1600 Per Year:</b> Rs.7,07,948/- for 6 Years</li>
+              </ul>
+            </p>
+            <br/>
+
+
+            <p className="service__col__title">Syktyvkar State Medical University</p>
+            <Table responsive striped bordered hover className="service__table">
+              <thead>
+                <tr>
+                  <th>Particulars</th>
+                  <th>Tuition Fee in $</th>
+                  <th>Exchange Rate</th>
+                  <th>Tuition Fee in INR</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>MD 1 YR</td>
+                  <td>$4250</td>
+                  <td>73</td>
+                  <td>3,13,501</td>
+                </tr>
+                <tr>
+                  <td>MD 2 YR</td>
+                  <td>$4250</td>
+                  <td>73</td>
+                  <td>3,13,501</td>
+                </tr>
+                <tr>
+                  <td>MD 3 YR</td>
+                  <td>$4250</td>
+                  <td>73</td>
+                  <td>3,13,501</td>
+                </tr>
+                <tr>
+                  <td>MD 4 YR</td>
+                  <td>$4250</td>
+                  <td>73</td>
+                  <td>3,13,501</td>
+                </tr>
+                <tr>
+                  <td>MD 5 YR</td>
+                  <td>$4250</td>
+                  <td>73</td>
+                  <td>3,13,501</td>
+                </tr>
+                <tr>
+                  <td>MD 6 YR</td>
+                  <td>$4250</td>
+                  <td>73</td>
+                  <td>3,13,501</td>
+                </tr>
+                <tr>
+                  <td>Total Fees</td>
+                  <td>$25,500</td>
+                  <td>73</td>
+                  <td>18,81,008</td>
+                </tr>
+              </tbody>
+            </Table>
+
+            <p className="service__info"><b>Exchange Rate :</b>1 USD =73 INR. ( Fees are denominated in USD and may subject to change with change in exchange rate)</p>
+            <br/>
+
+            <p className="service__info"><b>Other Expenses:</b><br/>
+              <ul>
+                <li><b>Processing Fee:</b> Rs.1,50,000/-</li>
+                <li><b>Hostel: $1200 Per Year:</b> Rs.4,42,635/- for 6 Years</li>
+              </ul>
+            </p>
+            <br/>
+
+
+            <p className="service__col__title">Tambov State University</p>
+            <Table responsive striped bordered hover className="service__table">
+              <thead>
+                <tr>
+                  <th>Particulars</th>
+                  <th>Tuition Fee in $</th>
+                  <th>Exchange Rate</th>
+                  <th>Tuition Fee in INR</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>MD 1 YR</td>
+                  <td>$4200</td>
+                  <td>73</td>
+                  <td>3,09,813</td>
+                </tr>
+                <tr>
+                  <td>MD 2 YR</td>
+                  <td>$4200</td>
+                  <td>73</td>
+                  <td>3,09,813</td>
+                </tr>
+                <tr>
+                  <td>MD 3 YR</td>
+                  <td>$4200</td>
+                  <td>73</td>
+                  <td>3,09,813</td>
+                </tr>
+                <tr>
+                  <td>MD 4 YR</td>
+                  <td>$4200</td>
+                  <td>73</td>
+                  <td>3,09,813</td>
+                </tr>
+                <tr>
+                  <td>MD 5 YR</td>
+                  <td>$4200</td>
+                  <td>73</td>
+                  <td>3,09,813</td>
+                </tr>
+                <tr>
+                  <td>MD 6 YR</td>
+                  <td>$4200</td>
+                  <td>73</td>
+                  <td>3,09,813</td>
+                </tr>
+                <tr>
+                  <td>Total Fees</td>
+                  <td>$4200</td>
+                  <td>73</td>
+                  <td>3,09,813</td>
+                </tr>
+              </tbody>
+            </Table>
+
+            <p className="service__info"><b>Exchange Rate :</b>1 USD =73 INR. ( Fees are denominated in USD and may subject to change with change in exchange rate)</p>
+            <br/>
+
+            <p className="service__info"><b>Other Expenses:</b><br/>
+              <ul>
+                <li><b>Processing Fee:</b> Rs.1,50,000/-</li>
+                <li><b>Hostel: $1200 Per Year:</b> Rs.5,31,108/- for 6 Years</li>
+              </ul>
+            </p>
+            <br/>
+
+
+            <p className="service__col__title">Tver State Medical University</p>
+            <Table responsive striped bordered hover className="service__table">
+              <thead>
+                <tr>
+                  <th>Particulars</th>
+                  <th>Tuition Fee in $</th>
+                  <th>Exchange Rate</th>
+                  <th>Tuition Fee in INR</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>MD 1 YR</td>
+                  <td>$20000</td>
+                  <td>73</td>
+                  <td>14,74,892</td>
+                </tr>
+                <tr>
+                  <td>MD 2 YR</td>
+                  <td>$3000</td>
+                  <td>73</td>
+                  <td>2,21,233</td>
+                </tr>
+                <tr>
+                  <td>MD 3 YR</td>
+                  <td>$3000</td>
+                  <td>73</td>
+                  <td>2,21,233</td>
+                </tr>
+                <tr>
+                  <td>MD 4 YR</td>
+                  <td>$3000</td>
+                  <td>73</td>
+                  <td>2,21,233</td>
+                </tr>
+                <tr>
+                  <td>MD 5 YR</td>
+                  <td>$3000</td>
+                  <td>73</td>
+                  <td>2,21,233</td>
+                </tr>
+                <tr>
+                  <td>MD 6 YR</td>
+                  <td>$3000</td>
+                  <td>73</td>
+                  <td>2,21,233</td>
+                </tr>
+                <tr>
+                  <td>Total Fees</td>
+                  <td>$35,000</td>
+                  <td>73</td>
+                  <td>25,81,061</td>
+                </tr>
+              </tbody>
+            </Table>
+
+            <p className="service__info"><b>Exchange Rate :</b>1 USD =73 INR. ( Fees are denominated in USD and may subject to change with change in exchange rate)</p>
+            <br/>
+
+            <p className="service__info"><b>Other Expenses:</b><br/>
+              <ul>
+                <li><b>Processing Fee:</b> Rs.1,50,000/-</li>
+                <li><b>Hostel: $1200 Per Year:</b> Rs.5,30,961/- for 6 Years</li>
+              </ul>
+            </p>
+            <br/>
+
+            <p className="service__col__title">Volgograd State Medical University</p>
+            <Table responsive striped bordered hover className="service__table">
+              <thead>
+                <tr>
+                  <th>Particulars</th>
+                  <th>Tuition Fee in $</th>
+                  <th>Exchange Rate</th>
+                  <th>Tuition Fee in INR</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>MD 1 YR</td>
+                  <td>$6000</td>
+                  <td>73</td>
+                  <td>4,42,590</td>
+                </tr>
+                <tr>
+                  <td>MD 2 YR</td>
+                  <td>$6000</td>
+                  <td>73</td>
+                  <td>4,42,590</td>
+                </tr>
+                <tr>
+                  <td>MD 3 YR</td>
+                  <td>$6000</td>
+                  <td>73</td>
+                  <td>4,42,590</td>
+                </tr>
+                <tr>
+                  <td>MD 4 YR</td>
+                  <td>$6000</td>
+                  <td>73</td>
+                  <td>4,42,590</td>
+                </tr>
+                <tr>
+                  <td>MD 5 YR</td>
+                  <td>$6000</td>
+                  <td>73</td>
+                  <td>4,42,590</td>
+                </tr>
+                <tr>
+                  <td>MD 6 YR</td>
+                  <td>$6000</td>
+                  <td>73</td>
+                  <td>4,42,590</td>
+                </tr>
+                <tr>
+                  <td>Total Fees</td>
+                  <td>$36,000</td>
+                  <td>73</td>
+                  <td>26,55,540</td>
+                </tr>
+              </tbody>
+            </Table>
+
+            <p className="service__info"><b>Exchange Rate :</b>1 USD =73 INR. ( Fees are denominated in USD and may subject to change with change in exchange rate)</p>
+            <br/>
+
+            <p className="service__info"><b>Other Expenses:</b><br/>
+              <ul>
+                <li><b>Processing Fee:</b> Rs.1,50,000/-</li>
+                <li><b>Hostel: $1100 Per Year:</b> Rs.4,86,849/- for 6 Years</li>
+              </ul>
+            </p>
+            <br/>
+
+            <p className="service__col__title">Voronezh State Medical University</p>
+            <Table responsive striped bordered hover className="service__table">
+              <thead>
+                <tr>
+                  <th>Particulars</th>
+                  <th>Tuition Fee in $</th>
+                  <th>Exchange Rate</th>
+                  <th>Tuition Fee in INR</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>MD 1 YR</td>
+                  <td>$2500</td>
+                  <td>73</td>
+                  <td>1,84,361</td>
+                </tr>
+                <tr>
+                  <td>MD 2 YR</td>
+                  <td>$2500</td>
+                  <td>73</td>
+                  <td>1,84,361</td>
+                </tr>
+                <tr>
+                  <td>MD 3 YR</td>
+                  <td>$2500</td>
+                  <td>73</td>
+                  <td>1,84,361</td>
+                </tr>
+                <tr>
+                  <td>MD 4 YR</td>
+                  <td>$2500</td>
+                  <td>73</td>
+                  <td>1,84,361</td>
+                </tr>
+                <tr>
+                  <td>MD 5 YR</td>
+                  <td>$2500</td>
+                  <td>73</td>
+                  <td>1,84,361</td>
+                </tr>
+                <tr>
+                  <td>MD 6 YR</td>
+                  <td>$2500</td>
+                  <td>73</td>
+                  <td>1,84,361</td>
+                </tr>
+                <tr>
+                  <td>Total Fees</td>
+                  <td>$15,000</td>
+                  <td>73</td>
+                  <td>11,06,169</td>
+                </tr>
+              </tbody>
+            </Table>
+
+            <p className="service__info"><b>Exchange Rate :</b>1 USD =73 INR. ( Fees are denominated in USD and may subject to change with change in exchange rate)</p>
+            <br/>
+
+            <p className="service__info"><b>Other Expenses:</b><br/>
+              <ul>
+                <li><b>Processing Fee:</b> Rs.1,50,000/-</li>
+                <li><b>Hostel: $800 Per Year:</b> Rs.3,53,974/- for 6 Years</li>
+              </ul>
+            </p>
+            <br/>
+
         </div>
         <div id="advice_sec">
           <h6 className="service__sub__title">
