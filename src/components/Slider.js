@@ -38,6 +38,30 @@ const content = [
     button: "Apply now",
     link: "/mbbs-in-georgia",
     image: "/assets/images/slider-image/georgia.png"
+  },
+  {
+    title: "Study MBBS In Philippines",
+    description:
+      "Join the Top Universities at Philippines and fullfill your dream with us",
+    button: "Apply now",
+    link: "/mbbs-in-philippines",
+    image: "/assets/images/slider-image/philippines-slider.jpg"
+  },
+  {
+    title: "Study MBBS In Germany",
+    description:
+      "Join the Top Universities at Germany and fullfill your dream with us",
+    button: "Apply now",
+    link: "/mbbs-admission-in-germany-for-indian-students",
+    image: "/assets/images/slider-image/germany-slider.jpg"
+  },
+  {
+    title: "Study MBBS In Bulgaria",
+    description:
+      "Join the Top Universities at Bulgaria and fullfill your dream with us",
+    button: "Apply now",
+    link: "/mbbs-admission-in-bulgaria-for-indian-students",
+    image: "/assets/images/slider-image/bulgaria-slider.jpg"
   }
 
 ];
