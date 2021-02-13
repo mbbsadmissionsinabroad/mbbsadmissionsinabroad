@@ -39,15 +39,15 @@ function NursingJobInNetherlands() {
 				<div id="index_sec">
           <p className="service__info"><b>Nursing jobs in Netherland</b> are becoming very lucrative owing to its integrated health care structure. Nursing in Netherland is classified into two levels where the 1st level nurse determines the proper level of nurse care required for the patient & the 2nd level nurses work under the first level nurse. Staff Nursing Job in Netherland has become very inspiring with the new and improved health structure.</p>
           <ul className="hyperlink">
-						<li><img src="/assets/left-arrow.png" alt="Left Arrow" /> Index </li>
-						<li><a href="#types_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Types of Nursing Jobs in Netherlands </a></li>
-						<li><a href="#apply_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> How to apply for a nursing job in Netherland?</a></li>
-						<li><a href="#getjob_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> How to Get a Nursing Job In Netherland</a></li>
-						<li><a href="#vacancy_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Nurses vacancy in Netherland</a></li>
-						<li><a href="#requirements_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Requirement of nurse’s vacancy in Netherland 2020</a></li>		
-						<li><a href="#salary_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Salary for a Nurse in Netherland</a></li>	
-						<li><a href="#faq_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> FAQ Nursing Job in Netherland</a></li>
-						<li><a href="#testimonials"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Testimonials</a></li>
+						<li><img src="/assets/icon.png" alt="Left Arrow" /> Index </li>
+						<li><a href="#types_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Types of Nursing Jobs in Netherlands </a></li>
+						<li><a href="#apply_sec"><img src="/assets/icon.png" alt="Left Arrow" /> How to apply for a nursing job in Netherland?</a></li>
+						<li><a href="#getjob_sec"><img src="/assets/icon.png" alt="Left Arrow" /> How to Get a Nursing Job In Netherland</a></li>
+						<li><a href="#vacancy_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Nurses vacancy in Netherland</a></li>
+						<li><a href="#requirements_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Requirement of nurse’s vacancy in Netherland 2020</a></li>		
+						<li><a href="#salary_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Salary for a Nurse in Netherland</a></li>	
+						<li><a href="#faq_sec"><img src="/assets/icon.png" alt="Left Arrow" /> FAQ Nursing Job in Netherland</a></li>
+						<li><a href="#testimonials"><img src="/assets/icon.png" alt="Left Arrow" /> Testimonials</a></li>
           </ul>
         </div>
 

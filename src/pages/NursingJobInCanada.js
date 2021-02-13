@@ -39,14 +39,14 @@ function NursingJobInCanada() {
 				<div id="index_sec">
           <p className="service__info">Canada is one of the best destinations for international candidates that seek to grow their nursing career in Canada. <Link to="/nursing-job-in-canada">Nursing jobs in Canada</Link> are in huge demand. The qualified nurses are eligible for full Permanent Residency in under the Federal Skilled Worker Immigration Program on a Federal as well as on Provincial Nomination basis.</p>
           <ul className="hyperlink">
-						<li><img src="/assets/left-arrow.png" alt="Left Arrow" /> Index </li>
-						<li><a href="#types_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Types of Nursing Jobs in Canada </a></li>
-						<li><a href="#apply_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> How to apply for a nursing job in Canada?</a></li>
-						<li><a href="#vacancy_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Nursing Vacancies in Canada without IELTS</a></li>
-						<li><a href="#benefits_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Benefits of nursing jobs in Canada for Indian nurses</a></li>			
-						<li><a href="#faq_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> FAQ about the Medical PG in Canada</a></li>
-						<li><a href="#conclusion"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Conclusion</a></li>
-						<li><a href="#testimonials"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Testimonials</a></li>
+						<li><img src="/assets/icon.png" alt="Left Arrow" /> Index </li>
+						<li><a href="#types_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Types of Nursing Jobs in Canada </a></li>
+						<li><a href="#apply_sec"><img src="/assets/icon.png" alt="Left Arrow" /> How to apply for a nursing job in Canada?</a></li>
+						<li><a href="#vacancy_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Nursing Vacancies in Canada without IELTS</a></li>
+						<li><a href="#benefits_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Benefits of nursing jobs in Canada for Indian nurses</a></li>			
+						<li><a href="#faq_sec"><img src="/assets/icon.png" alt="Left Arrow" /> FAQ about the Medical PG in Canada</a></li>
+						<li><a href="#conclusion"><img src="/assets/icon.png" alt="Left Arrow" /> Conclusion</a></li>
+						<li><a href="#testimonials"><img src="/assets/icon.png" alt="Left Arrow" /> Testimonials</a></li>
           </ul>
         </div>
 

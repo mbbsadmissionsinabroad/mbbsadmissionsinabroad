@@ -61,29 +61,29 @@ function MbbsRussia() {
             for Russian language training
           </p>
           <ul className="hyperlink">
-            <li><img src="/assets/left-arrow.png" alt="Left Arrow" /> Index </li>
-            <li><a href="#about_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> About MBBS in Russia</a></li>
-            <li><a href="#why_mbbs_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Why MBBS in Russia?</a></li>
-            <li><a href="#benefits_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Benefits of MBBS in Russia</a></li>
-            <li><a href="#eligibility_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Eligibility for MBBS in Russia</a></li>
-            <li><a href="#university_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> MBBS in Russia Top Universities </a></li>
-            <li><a href="#requirements_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Requirements for MBBS in Russia </a></li>
-            <li><a href="#fees_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> MBBS Fees in Russia </a></li>
-            <li><a href="#advice_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> MBBS in Russia Advice for Indians </a></li>
-            <li><a href="#pros_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Pros & Cons for MBBS in Russia </a></li>
-            <li><a href="#visa_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Visa for MBBS in Russia </a></li>
-						<li><a href="#mci_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> MCI Coaching in Russia!</a></li>
-						<li><a href="#usmle_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> USMLE (United States Medical Licensing Examination) Coaching in Russia </a></li>
-						<li><a href="#usmle_steps_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> USMLE is classified into 3 steps as below </a></li>
-						<li><a href="#pg_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> PG Options after MBBS in Russia </a></li>
-						<li><a href="#vacations_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Vacations during MBBS in Russia </a></li>
-						<li><a href="#career_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Career Options after Completing MBBS in Russia </a></li>
-						<li><a href="#problems_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Students face huge problems due to the Fraud Agents </a></li>
-						<li><a href="#reserve_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> How reserve your MBBS Seat in Russia for 2020 Admission </a></li>
-						<li><a href="#charges_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Service & Consultancy Charges of Destinex </a></li>
-						<li><a href="#destinex_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Services by Destinex for Abroad Education </a></li>
-						<li><a href="#process_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Our Process of conducting Student Counseling </a></li>
-            <li><a href="#faq_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> MBBS in Russia FAQ </a></li>
+            <li><img src="/assets/icon.png" alt="Left Arrow" /> Index </li>
+            <li><a href="#about_sec"><img src="/assets/icon.png" alt="Left Arrow" /> About MBBS in Russia</a></li>
+            <li><a href="#why_mbbs_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Why MBBS in Russia?</a></li>
+            <li><a href="#benefits_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Benefits of MBBS in Russia</a></li>
+            <li><a href="#eligibility_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Eligibility for MBBS in Russia</a></li>
+            <li><a href="#university_sec"><img src="/assets/icon.png" alt="Left Arrow" /> MBBS in Russia Top Universities </a></li>
+            <li><a href="#requirements_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Requirements for MBBS in Russia </a></li>
+            <li><a href="#fees_sec"><img src="/assets/icon.png" alt="Left Arrow" /> MBBS Fees in Russia </a></li>
+            <li><a href="#advice_sec"><img src="/assets/icon.png" alt="Left Arrow" /> MBBS in Russia Advice for Indians </a></li>
+            <li><a href="#pros_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Pros & Cons for MBBS in Russia </a></li>
+            <li><a href="#visa_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Visa for MBBS in Russia </a></li>
+						<li><a href="#mci_sec"><img src="/assets/icon.png" alt="Left Arrow" /> MCI Coaching in Russia!</a></li>
+						<li><a href="#usmle_sec"><img src="/assets/icon.png" alt="Left Arrow" /> USMLE (United States Medical Licensing Examination) Coaching in Russia </a></li>
+						<li><a href="#usmle_steps_sec"><img src="/assets/icon.png" alt="Left Arrow" /> USMLE is classified into 3 steps as below </a></li>
+						<li><a href="#pg_sec"><img src="/assets/icon.png" alt="Left Arrow" /> PG Options after MBBS in Russia </a></li>
+						<li><a href="#vacations_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Vacations during MBBS in Russia </a></li>
+						<li><a href="#career_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Career Options after Completing MBBS in Russia </a></li>
+						<li><a href="#problems_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Students face huge problems due to the Fraud Agents </a></li>
+						<li><a href="#reserve_sec"><img src="/assets/icon.png" alt="Left Arrow" /> How reserve your MBBS Seat in Russia for 2020 Admission </a></li>
+						<li><a href="#charges_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Service & Consultancy Charges of Destinex </a></li>
+						<li><a href="#destinex_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Services by Destinex for Abroad Education </a></li>
+						<li><a href="#process_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Our Process of conducting Student Counseling </a></li>
+            <li><a href="#faq_sec"><img src="/assets/icon.png" alt="Left Arrow" /> MBBS in Russia FAQ </a></li>
           </ul>
 
           {/* POP UP Btn */}

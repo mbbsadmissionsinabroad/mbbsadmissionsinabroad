@@ -52,47 +52,47 @@ function LearnGerman() {
             </p>
             <ul className="hyperlink">
               <li>
-                <img src="/assets/left-arrow.png" alt="Left Arrow" /> Index{" "}
+                <img src="/assets/icon.png" alt="Left Arrow" /> Index{" "}
               </li>
               <li>
                 <a href="#types_sec">
-                  <img src="/assets/left-arrow.png" alt="Left Arrow" /> Course
+                  <img src="/assets/icon.png" alt="Left Arrow" /> Course
                   Introduction{" "}
                 </a>
               </li>
               <li>
                 <a href="#apply_sec">
-                  <img src="/assets/left-arrow.png" alt="Left Arrow" /> Why
+                  <img src="/assets/icon.png" alt="Left Arrow" /> Why
                   German Language?
                 </a>
               </li>
               <li>
                 <a href="#getjob_sec">
-                  <img src="/assets/left-arrow.png" alt="Left Arrow" /> Who will
+                  <img src="/assets/icon.png" alt="Left Arrow" /> Who will
                   Learn German Language & Why it is important?
                 </a>
               </li>
               <li>
                 <a href="#courses_sec">
-                  <img src="/assets/left-arrow.png" alt="Left Arrow" /> Course
+                  <img src="/assets/icon.png" alt="Left Arrow" /> Course
                   Duration
                 </a>
               </li>
               <li>
                 <a href="#advantage_sec">
-                  <img src="/assets/left-arrow.png" alt="Left Arrow" />{" "}
+                  <img src="/assets/icon.png" alt="Left Arrow" />{" "}
                   Advantage of Learning German Language
                 </a>
               </li>
               <li>
                 <a href="#salary_sec">
-                  <img src="/assets/left-arrow.png" alt="Left Arrow" /> Cost to
+                  <img src="/assets/icon.png" alt="Left Arrow" /> Cost to
                   Learn German Language in India
                 </a>
               </li>
               <li>
                 <a href="#faq_sec">
-                  <img src="/assets/left-arrow.png" alt="Left Arrow" /> FAQ's to
+                  <img src="/assets/icon.png" alt="Left Arrow" /> FAQ's to
                   Learn German language
                 </a>
               </li>

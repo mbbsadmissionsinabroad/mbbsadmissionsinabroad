@@ -44,18 +44,18 @@ function MbbsFinland() {
 						<b>MBBS in Finland fees</b> would range anywhere between <b>6000 Euros to 18000 Euros</b>. The MBBS course from Finland is globally recognized including the MCI (Medical Council of India). Most of the people in Finland speak in Finnish language but the medium of instruction is English in Finland colleges/universities.
           </p>
           <ul className="hyperlink">
-            <li><img src="/assets/left-arrow.png" alt="Left Arrow" /> Index </li>
-            <li><a href="#about_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> About Finland</a></li>
-            <li><a href="#why_mbbs_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Why Study MBBS in Finland</a></li>
-						<li><a href="#benefits_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Benefits of Studying MBBS in Finland for Indian Students 2020</a></li>
-						<li><a href="#eligibility_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Eligibility Criteria for MBBS in Finland</a></li>
-            <li><a href="#university_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Top Universities to Study MBBS in Finland </a></li>
-						<li><a href="#requirements_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Requirements for MBBS Admission in Finland 2020-2021 </a></li>
-						<li><a href="#fees_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> MBBS Fees in Finland 2020-2021 </a></li>
-            <li><a href="#advice_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> MBBS in Finland Advice for Indian Students </a></li>
-            <li><a href="#pros_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Pros & Cons for MBBS in Finland </a></li>
-            <li><a href="#visa_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Visa Procedure for MBBS in Finland </a></li>
-            <li><a href="#faq_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> FAQ's to Study MBBS in Finland </a></li>
+            <li><img src="/assets/icon.png" alt="Left Arrow" /> Index </li>
+            <li><a href="#about_sec"><img src="/assets/icon.png" alt="Left Arrow" /> About Finland</a></li>
+            <li><a href="#why_mbbs_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Why Study MBBS in Finland</a></li>
+						<li><a href="#benefits_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Benefits of Studying MBBS in Finland for Indian Students 2020</a></li>
+						<li><a href="#eligibility_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Eligibility Criteria for MBBS in Finland</a></li>
+            <li><a href="#university_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Top Universities to Study MBBS in Finland </a></li>
+						<li><a href="#requirements_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Requirements for MBBS Admission in Finland 2020-2021 </a></li>
+						<li><a href="#fees_sec"><img src="/assets/icon.png" alt="Left Arrow" /> MBBS Fees in Finland 2020-2021 </a></li>
+            <li><a href="#advice_sec"><img src="/assets/icon.png" alt="Left Arrow" /> MBBS in Finland Advice for Indian Students </a></li>
+            <li><a href="#pros_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Pros & Cons for MBBS in Finland </a></li>
+            <li><a href="#visa_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Visa Procedure for MBBS in Finland </a></li>
+            <li><a href="#faq_sec"><img src="/assets/icon.png" alt="Left Arrow" /> FAQ's to Study MBBS in Finland </a></li>
           </ul>
 
           {/* POP UP Btn */}

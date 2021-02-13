@@ -44,18 +44,18 @@ function MbbsNetherlands() {
 						It consists of some of the top-ranked Medical colleges and Universities that provide the guarantee admission and quality education with complete transparency. Netherlands has always been a cost-effective and convenient place for pursuing MBBS. MBBS in Netherlands fees would range anywhere around 10,000 Euros per year.
           </p>
           <ul className="hyperlink">
-            <li><img src="/assets/left-arrow.png" alt="Left Arrow" /> Index </li>
-            <li><a href="#about_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> About Netherlands</a></li>
-            <li><a href="#why_mbbs_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Why Study MBBS in Netherlands</a></li>
-						<li><a href="#benefits_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Benefits of Studying MBBS in Netherlands for Indian Students 2020</a></li>
-						<li><a href="#eligibility_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Eligibility Criteria for MBBS in Netherlands</a></li>
-            <li><a href="#university_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Top Universities to Study MBBS in Netherlands </a></li>
-						<li><a href="#requirements_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Requirements for MBBS Admission in Netherlands 2020-2021 </a></li>
-						<li><a href="#fees_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> MBBS Fees in Netherlands 2020-2021 </a></li>
-            <li><a href="#advice_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> MBBS in Netherlands Advice for Indian Students </a></li>
-            <li><a href="#pros_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Pros & Cons for MBBS in Netherlands </a></li>
-            <li><a href="#visa_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Visa Procedure for MBBS in Netherlands </a></li>
-            <li><a href="#faq_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> FAQ's to Study MBBS in Netherlands </a></li>
+            <li><img src="/assets/icon.png" alt="Left Arrow" /> Index </li>
+            <li><a href="#about_sec"><img src="/assets/icon.png" alt="Left Arrow" /> About Netherlands</a></li>
+            <li><a href="#why_mbbs_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Why Study MBBS in Netherlands</a></li>
+						<li><a href="#benefits_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Benefits of Studying MBBS in Netherlands for Indian Students 2020</a></li>
+						<li><a href="#eligibility_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Eligibility Criteria for MBBS in Netherlands</a></li>
+            <li><a href="#university_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Top Universities to Study MBBS in Netherlands </a></li>
+						<li><a href="#requirements_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Requirements for MBBS Admission in Netherlands 2020-2021 </a></li>
+						<li><a href="#fees_sec"><img src="/assets/icon.png" alt="Left Arrow" /> MBBS Fees in Netherlands 2020-2021 </a></li>
+            <li><a href="#advice_sec"><img src="/assets/icon.png" alt="Left Arrow" /> MBBS in Netherlands Advice for Indian Students </a></li>
+            <li><a href="#pros_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Pros & Cons for MBBS in Netherlands </a></li>
+            <li><a href="#visa_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Visa Procedure for MBBS in Netherlands </a></li>
+            <li><a href="#faq_sec"><img src="/assets/icon.png" alt="Left Arrow" /> FAQ's to Study MBBS in Netherlands </a></li>
           </ul>
 
           {/* POP UP Btn */}

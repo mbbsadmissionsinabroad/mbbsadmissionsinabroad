@@ -9,7 +9,8 @@
 }
 
 .footer a:hover{
-    color: #ffce01;
+    /* color: #ffce01; */
+    color: rgb(113,226,179);
     text-decoration: none;
     transition: 0.4s;
 }
@@ -49,6 +50,6 @@
 }
 
 .sitemap__footer a:hover{
-    color: #ffce01;
-
+    /* color: #ffce01; */
+    color: rgb(113,226,179);
 }

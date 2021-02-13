@@ -39,14 +39,14 @@ function NursingJobInLithuania() {
 				<div id="index_sec">
           <p className="service__info">Lithuania is one of the best destinations for international candidates that seek to grow their nursing career. There is huge demand of <Link to="/nursing-jobs-in-lithuania">nursing jobs in Lithuania</Link>. There are few definitive steps and procedures that every nurse need to follow to immigrate to work in Lithuania. It offers <b>nursing jobs in Lithuania</b> to candidates that have skills and experience to work in the best hospitals.</p>
           <ul className="hyperlink">
-						<li><img src="/assets/left-arrow.png" alt="Left Arrow" /> Index </li>
-						<li><a href="#types_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Types of Nursing Jobs in Lithuania </a></li>
-						<li><a href="#apply_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> How to apply for a nursing job in Lithuania?</a></li>
-						<li><a href="#vacancy_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Nurses vacancy in Lithuania</a></li>
-						<li><a href="#requirements_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Requirement of nurse’s vacancy in Lithuania 2020</a></li>		
-						<li><a href="#salary_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Salary for a Nurse in Lithuania</a></li>	
-						<li><a href="#faq_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> FAQ about the Medical PG in Canada</a></li>
-						<li><a href="#testimonials"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Testimonials</a></li>
+						<li><img src="/assets/icon.png" alt="Left Arrow" /> Index </li>
+						<li><a href="#types_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Types of Nursing Jobs in Lithuania </a></li>
+						<li><a href="#apply_sec"><img src="/assets/icon.png" alt="Left Arrow" /> How to apply for a nursing job in Lithuania?</a></li>
+						<li><a href="#vacancy_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Nurses vacancy in Lithuania</a></li>
+						<li><a href="#requirements_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Requirement of nurse’s vacancy in Lithuania 2020</a></li>		
+						<li><a href="#salary_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Salary for a Nurse in Lithuania</a></li>	
+						<li><a href="#faq_sec"><img src="/assets/icon.png" alt="Left Arrow" /> FAQ about the Medical PG in Canada</a></li>
+						<li><a href="#testimonials"><img src="/assets/icon.png" alt="Left Arrow" /> Testimonials</a></li>
           </ul>
         </div>
 

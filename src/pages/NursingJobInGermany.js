@@ -48,16 +48,16 @@ function NursingJobInGermany() {
 						</ul>
           </p>
           <ul className="hyperlink">
-						<li><img src="/assets/left-arrow.png" alt="Left Arrow" /> Index </li>
-						<li><a href="#types_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Types of Nursing Jobs in Germany </a></li>
-						<li><a href="#apply_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> How to apply for a nursing job in Germany?</a></li>
-						<li><a href="#getjob_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> How to Get a Nursing Job In Germany</a></li>
-						<li><a href="#job_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Nursing jobs in Germany for Indian nurses</a></li>
-            <li><a href="#vacancy_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Nurses vacancy in Germany</a></li>
-            <li><a href="#requirements_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Requirement of nurse’s vacancy in Germany 2020</a></li>
-            <li><a href="#salary_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Salary for a Nurse in Germany?</a></li>
-						<li><a href="#faq_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> FAQ about the Medical PG in Germany</a></li>
-            <li><a href="#testimonials"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Testimonials</a></li>
+						<li><img src="/assets/icon.png" alt="Left Arrow" /> Index </li>
+						<li><a href="#types_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Types of Nursing Jobs in Germany </a></li>
+						<li><a href="#apply_sec"><img src="/assets/icon.png" alt="Left Arrow" /> How to apply for a nursing job in Germany?</a></li>
+						<li><a href="#getjob_sec"><img src="/assets/icon.png" alt="Left Arrow" /> How to Get a Nursing Job In Germany</a></li>
+						<li><a href="#job_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Nursing jobs in Germany for Indian nurses</a></li>
+            <li><a href="#vacancy_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Nurses vacancy in Germany</a></li>
+            <li><a href="#requirements_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Requirement of nurse’s vacancy in Germany 2020</a></li>
+            <li><a href="#salary_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Salary for a Nurse in Germany?</a></li>
+						<li><a href="#faq_sec"><img src="/assets/icon.png" alt="Left Arrow" /> FAQ about the Medical PG in Germany</a></li>
+            <li><a href="#testimonials"><img src="/assets/icon.png" alt="Left Arrow" /> Testimonials</a></li>
           </ul>
         </div>
 

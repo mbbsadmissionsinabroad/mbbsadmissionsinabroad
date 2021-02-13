@@ -40,23 +40,23 @@ function MbbsNepal() {
       <Container>
         <div>
           <ul className="hyperlink">
-            <li><img src="/assets/left-arrow.png" alt="Left Arrow" /> Index </li>
-            <li><a href="#about_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> About Nepal</a></li>
-            <li><a href="#why_mbbs_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Why Study MBBS in Nepal</a></li>
-            <li><a href="#university_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Top Universities to Study MBBS in Nepal </a></li>
-						<li><a href="#requirements_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Requirements for MBBS Admission in Nepal 2020-2021 </a></li>
-            <li><a href="#visa_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Visa Procedure for MBBS in Nepal </a></li>
-						<li><a href="#mci_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> MCI Coaching in Nepal!</a></li>
-						<li><a href="#usmle_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> USMLE (United States Medical Licensing Examination) Coaching in Nepal </a></li>
-						<li><a href="#pg_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> PG Options after MBBS in Nepal </a></li>
-						<li><a href="#vacations_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Vacations during MBBS in Nepal </a></li>
-						<li><a href="#career_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Career Options after Completing MBBS in Nepal </a></li>
-						<li><a href="#problems_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Students face huge problems due to the Fraud Agents </a></li>
-						<li><a href="#reserve_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> How reserve your MBBS Seat in Nepal for 2020 Admission </a></li>
-						<li><a href="#charges_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Service & Consultancy Charges of Destinex </a></li>
-						<li><a href="#destinex_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Services by Destinex for Abroad Education </a></li>
-						<li><a href="#process_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Our Process of conducting Student Counseling </a></li>
-            <li><a href="#faq_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> MBBS in Nepal FAQ</a></li>
+            <li><img src="/assets/icon.png" alt="Left Arrow" /> Index </li>
+            <li><a href="#about_sec"><img src="/assets/icon.png" alt="Left Arrow" /> About Nepal</a></li>
+            <li><a href="#why_mbbs_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Why Study MBBS in Nepal</a></li>
+            <li><a href="#university_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Top Universities to Study MBBS in Nepal </a></li>
+						<li><a href="#requirements_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Requirements for MBBS Admission in Nepal 2020-2021 </a></li>
+            <li><a href="#visa_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Visa Procedure for MBBS in Nepal </a></li>
+						<li><a href="#mci_sec"><img src="/assets/icon.png" alt="Left Arrow" /> MCI Coaching in Nepal!</a></li>
+						<li><a href="#usmle_sec"><img src="/assets/icon.png" alt="Left Arrow" /> USMLE (United States Medical Licensing Examination) Coaching in Nepal </a></li>
+						<li><a href="#pg_sec"><img src="/assets/icon.png" alt="Left Arrow" /> PG Options after MBBS in Nepal </a></li>
+						<li><a href="#vacations_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Vacations during MBBS in Nepal </a></li>
+						<li><a href="#career_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Career Options after Completing MBBS in Nepal </a></li>
+						<li><a href="#problems_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Students face huge problems due to the Fraud Agents </a></li>
+						<li><a href="#reserve_sec"><img src="/assets/icon.png" alt="Left Arrow" /> How reserve your MBBS Seat in Nepal for 2020 Admission </a></li>
+						<li><a href="#charges_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Service & Consultancy Charges of Destinex </a></li>
+						<li><a href="#destinex_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Services by Destinex for Abroad Education </a></li>
+						<li><a href="#process_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Our Process of conducting Student Counseling </a></li>
+            <li><a href="#faq_sec"><img src="/assets/icon.png" alt="Left Arrow" /> MBBS in Nepal FAQ</a></li>
           </ul>
 
           {/* POP UP Btn */}

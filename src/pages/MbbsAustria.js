@@ -44,18 +44,18 @@ function MbbsAustria() {
 						Studying <b>MBBS in Austria</b> is a golden opportunity for Indian students because of world-class faculty and innovative teaching methods. <b>MBBS in Austria fees</b> is very affordable which is beneficial for Indian students to study medicine in one of the beautiful country. The local language in Austria is German but the medium of coaching MBBS in Austria medical college is English. The duration of <b>MBBS in Austria</b> is 6 years.
           </p>
           <ul className="hyperlink">
-            <li><img src="/assets/left-arrow.png" alt="Left Arrow" /> Index </li>
-            <li><a href="#about_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> About Austria</a></li>
-            <li><a href="#why_mbbs_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Why Study MBBS in Austria</a></li>
-						<li><a href="#benefits_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Benefits of Studying MBBS in Austria for Indian Students 2020</a></li>
-						<li><a href="#eligibility_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Eligibility Criteria for MBBS in Austria</a></li>
-            <li><a href="#university_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Top Universities to Study MBBS in Austria </a></li>
-						<li><a href="#requirements_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Requirements for MBBS Admission in Austria 2020-2021 </a></li>
-						<li><a href="#fees_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> MBBS Fees in Austria 2020-2021 </a></li>
-            <li><a href="#advice_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> MBBS in Austria Advice for Indian Students </a></li>
-            <li><a href="#pros_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Pros & Cons for MBBS in Austria </a></li>
-            <li><a href="#visa_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Visa Procedure for MBBS in Austria </a></li>
-            <li><a href="#faq_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> FAQ's to Study MBBS in Austria </a></li>
+            <li><img src="/assets/icon.png" alt="Left Arrow" /> Index </li>
+            <li><a href="#about_sec"><img src="/assets/icon.png" alt="Left Arrow" /> About Austria</a></li>
+            <li><a href="#why_mbbs_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Why Study MBBS in Austria</a></li>
+						<li><a href="#benefits_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Benefits of Studying MBBS in Austria for Indian Students 2020</a></li>
+						<li><a href="#eligibility_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Eligibility Criteria for MBBS in Austria</a></li>
+            <li><a href="#university_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Top Universities to Study MBBS in Austria </a></li>
+						<li><a href="#requirements_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Requirements for MBBS Admission in Austria 2020-2021 </a></li>
+						<li><a href="#fees_sec"><img src="/assets/icon.png" alt="Left Arrow" /> MBBS Fees in Austria 2020-2021 </a></li>
+            <li><a href="#advice_sec"><img src="/assets/icon.png" alt="Left Arrow" /> MBBS in Austria Advice for Indian Students </a></li>
+            <li><a href="#pros_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Pros & Cons for MBBS in Austria </a></li>
+            <li><a href="#visa_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Visa Procedure for MBBS in Austria </a></li>
+            <li><a href="#faq_sec"><img src="/assets/icon.png" alt="Left Arrow" /> FAQ's to Study MBBS in Austria </a></li>
           </ul>
 
           {/* POP UP Btn */}

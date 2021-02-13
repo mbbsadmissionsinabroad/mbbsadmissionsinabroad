@@ -7,6 +7,7 @@ import DocumentMeta from 'react-document-meta';
 import "bootstrap/dist/css/bootstrap.css";
 import "./Services.css";
 import HomeCarousel from '../components/HomeCarousel';
+import TimelineForPGEurope from '../components/TimelineForPGEurope';
 
 function MedicalPgInEurope() {
 	// const [modalShow, setModalShow] = React.useState(false);
@@ -44,19 +45,19 @@ function MedicalPgInEurope() {
 						The students will have a successful career after completing PG in Europe. The medium of coaching of <b>medical PG in Europe</b> is English. The total duration of pursuing <b>medical PG in Europe</b> is three to four years as depend upon the specialization.
           </p>
           <ul className="hyperlink">
-						<li><a href="#index_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Index </a></li>
-						<li><a href="#about_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> About Europe </a></li>
-						<li><a href="#courses_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Courses provided by Europe PG Universities</a></li>
-						<li><a href="#info_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Essential information about PG Course in Europe</a></li>
-						<li><a href="#eligibility_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Eligibility Criteria for medical PG in Germany</a></li>
-            <li><a href="#requirements_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Required Documents for PG in Germany after MBBS</a></li>
-            <li><a href="#why_medical_pg"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Why medical PG in Germany?</a></li>
-            <li><a href="#benefits_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Benefits of pursuing PG in Germany after MBBS for Indian Students</a></li>
-            <li><a href="#pros_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Pros and Cons of Studying PG in Germany after MBBS</a></li>
-						<li><a href="#career_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Career Scopes after medical PG in Germany</a></li>
-						<li><a href="#faq_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> FAQ about the Medical PG in Germany</a></li>
-						<li><a href="#conclusion_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Conclusion</a></li>
-						<li><a href="#testimonials"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Testimonials</a></li>
+						<li><a href="#index_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Index </a></li>
+						<li><a href="#about_sec"><img src="/assets/icon.png" alt="Left Arrow" /> About Europe </a></li>
+						<li><a href="#courses_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Courses provided by Europe PG Universities</a></li>
+						<li><a href="#info_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Essential information about PG Course in Europe</a></li>
+						<li><a href="#eligibility_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Eligibility Criteria for medical PG in Germany</a></li>
+            <li><a href="#requirements_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Required Documents for PG in Germany after MBBS</a></li>
+            <li><a href="#why_medical_pg"><img src="/assets/icon.png" alt="Left Arrow" /> Why medical PG in Germany?</a></li>
+            <li><a href="#benefits_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Benefits of pursuing PG in Germany after MBBS for Indian Students</a></li>
+            <li><a href="#pros_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Pros and Cons of Studying PG in Germany after MBBS</a></li>
+						<li><a href="#career_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Career Scopes after medical PG in Germany</a></li>
+						<li><a href="#faq_sec"><img src="/assets/icon.png" alt="Left Arrow" /> FAQ about the Medical PG in Germany</a></li>
+						<li><a href="#conclusion_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Conclusion</a></li>
+						<li><a href="#testimonials"><img src="/assets/icon.png" alt="Left Arrow" /> Testimonials</a></li>
           </ul>
         </div>
 
@@ -212,6 +213,46 @@ function MedicalPgInEurope() {
 								<li>They can also set up a career in Europe itself after <b>medical PG in Europe</b></li>
 							</ul>
             </p>
+					</div>
+					
+					<div id="1">
+						<h6 className="service__sub__title">Integration Training Program for Healthcare Professionals in Sweden</h6>
+						<br/>
+						<h6 className="service__sub__title">Healthcare Professionals Eligible</h6>
+            <p className="service__info">
+							The Following Healthcare Professionals are Eligible for this program
+              <ul>
+								<li>Doctor/Dentist</li>
+								<li>Nurses/Midwifery/Nursing Assistant</li>
+								<li>Radiology Assistant/ Lab Technician</li>
+								<li>Dietician/Nutritionist</li>
+								<li>Physiotherapy/Pharmacist</li>
+								<li>Physician Assistanct/Surgron Assistant</li>
+								<li>Hospitality-tourism-event management</li>
+								<li>Mechanial-automotive-mechatronic</li>
+								<li>IT-cyber security-technical traininga</li>
+							</ul>
+            </p>
+					</div>
+					
+					<div id="2">
+						<h6 className="service__sub__title">Healthcare Professionals Eligibility criterion</h6>
+            <p className="service__info">
+							Eligible for the program
+              <ul>
+								<li>Required Education Qualification for the applied skill</li>
+								<li>Valid License/Registration from your country of residence</li>
+								<li>Recent Police clearance certificate from your local police station</li>
+								<li>Health certificate from your local medical professional </li>
+								<li>Swedish Language capability to be learned in Sweden</li>
+							</ul>
+						</p>
+						<p className="service__info"><b>The intensive course lasts 17-20 weeks,</b> depending on the language level required. It provides you with the knowledge and vocobulary needed to communicatewith your future colleagues and patients. Learning a new language may seem challenging, but we are here to support you from day one. Once you learned Swedish, Norwegian or Danish you will have many opportunities.</p>
+					</div>
+					
+					<div id="3">
+						<h6 className="service__sub__title">Step-by-Step Process</h6>
+            <TimelineForPGEurope />
           </div>
  
         <div id="faq_sec">

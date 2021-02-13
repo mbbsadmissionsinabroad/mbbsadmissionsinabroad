@@ -41,12 +41,13 @@ a:hover{
     list-style-type: none;
 }
 
-.fa-stack{
+/* .fa-stack{
     color: #ffce01;
-}
+} */
 
 .head__title{
-    color: #ffce01;
+    /* color: #ffce01; */
+    color: rgb(113,226,179);
     font-family: 'Open Sans Condensed', sans-serif;
     font-size: 50px;
     font-weight: 700;
@@ -117,7 +118,9 @@ a:hover{
     text-align: center;
 }
 .home__info{
-    background-color: #003770;
+    /* background-color: #003770; */
+    background: rgb(113,226,179);
+    background: linear-gradient(90deg, rgba(113,226,179,1) 0%, rgba(88,209,195,1) 35%, rgba(72,188,209,1) 100%);
     /* padding-left: 15px;
     padding-right: 15px;
     padding-top: 15px;
@@ -136,6 +139,7 @@ a:hover{
 .home__info p{
     text-align: center;
     color: #fff;
+    display: block;
 }
 
 .info__icon {

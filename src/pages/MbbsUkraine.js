@@ -54,218 +54,218 @@ function MbbsUkraine() {
             <ul className="hyperlink">
               <li>
                 <a href="#index_sec">
-                  <img src="/assets/left-arrow.png" alt="Left Arrow" /> Index
+                  <img src="/assets/icon.png" alt="Left Arrow" /> Index
                 </a>
               </li>
               <li>
                 <a href="#why_mbbs_sec">
-                  <img src="/assets/left-arrow.png" alt="Left Arrow" /> Why MBBS
+                  <img src="/assets/icon.png" alt="Left Arrow" /> Why MBBS
                   in Ukraine?
                 </a>
               </li>
               <li>
                 <a href="#benefits_sec">
-                  <img src="/assets/left-arrow.png" alt="Left Arrow" /> Benefits
+                  <img src="/assets/icon.png" alt="Left Arrow" /> Benefits
                   of MBBS in Ukraine
                 </a>
               </li>
               <li>
                 <a href="#eligibility_sec">
-                  <img src="/assets/left-arrow.png" alt="Left Arrow" /> MBBS in
+                  <img src="/assets/icon.png" alt="Left Arrow" /> MBBS in
                   Ukrain Eligibility
                 </a>
               </li>
               <li>
                 <a href="#university_sec">
-                  <img src="/assets/left-arrow.png" alt="Left Arrow" /> Top
+                  <img src="/assets/icon.png" alt="Left Arrow" /> Top
                   University of MBBS in Ukraine
                 </a>
               </li>
               <li>
                 <a href="#requirements_sec">
-                  <img src="/assets/left-arrow.png" alt="Left Arrow" /> Requirements for MBBS in Ukraine
+                  <img src="/assets/icon.png" alt="Left Arrow" /> Requirements for MBBS in Ukraine
                 </a>
                 <ul className="college__name">
                   <li>
                     <a href="#bogomolets_univ">
-                      <img src="/assets/left-arrow.png" alt="Left Arrow" /> Bogomolets National Medical University
+                      <img src="/assets/icon.png" alt="Left Arrow" /> Bogomolets National Medical University
                     </a>
                   </li>
                   <li>
                     <a href="#odessa_univ">
-                      <img src="/assets/left-arrow.png" alt="Left Arrow" /> Odessa National Medical University, Odessa
+                      <img src="/assets/icon.png" alt="Left Arrow" /> Odessa National Medical University, Odessa
                     </a>
                   </li>
                   <li>
                     <a href="#blaksea_univ">
-                      <img src="/assets/left-arrow.png" alt="Left Arrow" /> Blaksea State Medical University, Mykolaiv
+                      <img src="/assets/icon.png" alt="Left Arrow" /> Blaksea State Medical University, Mykolaiv
                     </a>
                   </li>
                   <li>
                     <a href="#donetsk_univ_mariupol">
-                      <img src="/assets/left-arrow.png" alt="Left Arrow" /> Donetsk National Medical University, Mariupol
+                      <img src="/assets/icon.png" alt="Left Arrow" /> Donetsk National Medical University, Mariupol
                     </a>
                   </li>
                   <li>
                     <a href="#donetsk_univ_kirovograd">
-                      <img src="/assets/left-arrow.png" alt="Left Arrow" /> Donetsk National Medical University, Kirovograd
+                      <img src="/assets/icon.png" alt="Left Arrow" /> Donetsk National Medical University, Kirovograd
                     </a>
                   </li>
                   <li>
                     <a href="#donetsk_univ_chemigiv">
-                      <img src="/assets/left-arrow.png" alt="Left Arrow" /> Donetsk National Medical University, Chemigiv
+                      <img src="/assets/icon.png" alt="Left Arrow" /> Donetsk National Medical University, Chemigiv
                     </a>
                   </li>
                   <li>
                     <a href="#vinnytsia_univ">
-                      <img src="/assets/left-arrow.png" alt="Left Arrow" /> Vinnytsia National Medical University, Vinnytsia
+                      <img src="/assets/icon.png" alt="Left Arrow" /> Vinnytsia National Medical University, Vinnytsia
                     </a>
                   </li>
                   <li>
                     <a href="#ivano_univ">
-                      <img src="/assets/left-arrow.png" alt="Left Arrow" /> Ivano-frankvisk National Medical University,
+                      <img src="/assets/icon.png" alt="Left Arrow" /> Ivano-frankvisk National Medical University,
                       Ivano-frankvisk
                     </a>
                   </li>
                   <li>
                     <a href="#sumy_univ">
-                      <img src="/assets/left-arrow.png" alt="Left Arrow" /> Sumy State Medical University, Sumy
+                      <img src="/assets/icon.png" alt="Left Arrow" /> Sumy State Medical University, Sumy
                     </a>
                   </li>
                   <li>
                     <a href="#zaporozhye_univ">
-                      <img src="/assets/left-arrow.png" alt="Left Arrow" /> Zaporozhye State Medical University, Zaporozhye
+                      <img src="/assets/icon.png" alt="Left Arrow" /> Zaporozhye State Medical University, Zaporozhye
                     </a>
                   </li>
                   <li>
                     <a href="#kyiv_univ">
-                      <img src="/assets/left-arrow.png" alt="Left Arrow" /> Kyiv Medical University Of UAFM, Kyiv
+                      <img src="/assets/icon.png" alt="Left Arrow" /> Kyiv Medical University Of UAFM, Kyiv
                     </a>
                   </li>
                   <li>
                     <a href="#uzhgorod_univ">
-                      <img src="/assets/left-arrow.png" alt="Left Arrow" /> Uzhgorod State Medical University, Uzhgorod
+                      <img src="/assets/icon.png" alt="Left Arrow" /> Uzhgorod State Medical University, Uzhgorod
                     </a>
                   </li>
                   <li>
                     <a href="#poltava_univ">
-                      <img src="/assets/left-arrow.png" alt="Left Arrow" /> Poltava State Medical University, Poltava
+                      <img src="/assets/icon.png" alt="Left Arrow" /> Poltava State Medical University, Poltava
                     </a>
                   </li>
                   <li>
                     <a href="#ternopil_univ">
-                      <img src="/assets/left-arrow.png" alt="Left Arrow" /> Ternopil State Medical University, Ternopil
+                      <img src="/assets/icon.png" alt="Left Arrow" /> Ternopil State Medical University, Ternopil
                     </a>
                   </li>
                   <li>
                     <a href="#lviv_univ">
-                      <img src="/assets/left-arrow.png" alt="Left Arrow" /> Lviv National Medical University, Lviv
+                      <img src="/assets/icon.png" alt="Left Arrow" /> Lviv National Medical University, Lviv
                     </a>
                   </li>
                   <li>
                     <a href="#bukovinian_univ">
-                      <img src="/assets/left-arrow.png" alt="Left Arrow" /> Bukovinian State Medical University, Chernovtsy
+                      <img src="/assets/icon.png" alt="Left Arrow" /> Bukovinian State Medical University, Chernovtsy
                     </a>
                   </li>
                   <li>
                     <a href="#kharkov_univ">
-                      <img src="/assets/left-arrow.png" alt="Left Arrow" /> Kharkov National Medial University, Kharkov
+                      <img src="/assets/icon.png" alt="Left Arrow" /> Kharkov National Medial University, Kharkov
                     </a>
                   </li>
                   <li>
                     <a href="#karazin_univ">
-                      <img src="/assets/left-arrow.png" alt="Left Arrow" /> V.N. Karazin Medical University, Kharkov
+                      <img src="/assets/icon.png" alt="Left Arrow" /> V.N. Karazin Medical University, Kharkov
                     </a>
                   </li>
                   <li>
                     <a href="#dnipropetrovsk_univ">
-                      <img src="/assets/left-arrow.png" alt="Left Arrow" /> Dnipropetrovsk State Medical University, Dnipropetrovsk
+                      <img src="/assets/icon.png" alt="Left Arrow" /> Dnipropetrovsk State Medical University, Dnipropetrovsk
                     </a>
                   </li>
                 </ul>
               </li>
               <li>
                 <a href="#visa_sec">
-                  <img src="/assets/left-arrow.png" alt="Left Arrow" /> Visa Procedure For MBBS In Ukraine
+                  <img src="/assets/icon.png" alt="Left Arrow" /> Visa Procedure For MBBS In Ukraine
                 </a>
               </li>
               <li>
                 <a href="#advantage_sec">
-                  <img src="/assets/left-arrow.png" alt="Left Arrow" /> MBBS
+                  <img src="/assets/icon.png" alt="Left Arrow" /> MBBS
                   Ukraine – Advantages For An Indian Student
                 </a>
               </li>
               <li>
                 <a href="#pros_sec">
-                  <img src="/assets/left-arrow.png" alt="Left Arrow" /> The
+                  <img src="/assets/icon.png" alt="Left Arrow" /> The
                   Following Are The Pros Or Advantages For Mbbs Graduates Of
                   Ukraine
                 </a>
               </li>
               <li>
                 <a href="#disadvantage_sec">
-                  <img src="/assets/left-arrow.png" alt="Left Arrow" /> The
+                  <img src="/assets/icon.png" alt="Left Arrow" /> The
                   Following Are The Cons Or Disadvantages For Mbbs Graduates Of
                   Ukraine:
                 </a>
               </li>
               <li>
                 <a href="#usmle_sec">
-                  <img src="/assets/left-arrow.png" alt="Left Arrow" /> USMLE
+                  <img src="/assets/icon.png" alt="Left Arrow" /> USMLE
                   (United States Medical Licensing Examination) Coaching in
                   Ukraine
                 </a>
               </li>
               <li>
                 <a href="#pg_sec">
-                  <img src="/assets/left-arrow.png" alt="Left Arrow" /> PG
+                  <img src="/assets/icon.png" alt="Left Arrow" /> PG
                   Options after MBBS in Ukraine
                 </a>
               </li>
               <li>
                 <a href="#vacations_sec">
-                  <img src="/assets/left-arrow.png" alt="Left Arrow" /> Vacations during MBBS in Ukraine
+                  <img src="/assets/icon.png" alt="Left Arrow" /> Vacations during MBBS in Ukraine
                 </a>
               </li>
               <li>
                 <a href="#career_sec">
-                  <img src="/assets/left-arrow.png" alt="Left Arrow" /> Career
+                  <img src="/assets/icon.png" alt="Left Arrow" /> Career
                   Options after Completing MBBS in Ukraine
                 </a>
               </li>
               <li>
                 <a href="#problems_sec">
-                  <img src="/assets/left-arrow.png" alt="Left Arrow" /> Students
+                  <img src="/assets/icon.png" alt="Left Arrow" /> Students
                   face huge problems due to the Fraud Agents
                 </a>
               </li>
               <li>
                 <a href="#reserve_sec">
-                  <img src="/assets/left-arrow.png" alt="Left Arrow" /> How
+                  <img src="/assets/icon.png" alt="Left Arrow" /> How
                   reserve your MBBS Seat in Ukraine for 2020 Admission
                 </a>
               </li>
               <li>
                 <a href="#charges_sec">
-                  <img src="/assets/left-arrow.png" alt="Left Arrow" /> Service
+                  <img src="/assets/icon.png" alt="Left Arrow" /> Service
                   & Consultancy Charges of Destinex
                 </a>
               </li>
               <li>
                 <a href="#destinex_sec">
-                  <img src="/assets/left-arrow.png" alt="Left Arrow" /> Services
+                  <img src="/assets/icon.png" alt="Left Arrow" /> Services
                   by Destinex for Abroad Education
                 </a>
               </li>
               <li>
                 <a href="#process_sec">
-                  <img src="/assets/left-arrow.png" alt="Left Arrow" /> Our
+                  <img src="/assets/icon.png" alt="Left Arrow" /> Our
                   Process of conducting Student Counseling
                 </a>
               </li>
               <li>
                 <a href="#faq_sec">
-                  <img src="/assets/left-arrow.png" alt="Left Arrow" /> MBBS in
+                  <img src="/assets/icon.png" alt="Left Arrow" /> MBBS in
                   Ukraine FAQ
                 </a>
               </li>

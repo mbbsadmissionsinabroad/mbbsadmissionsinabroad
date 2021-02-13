@@ -61,57 +61,57 @@ function MbbsFrance() {
             </p>
             <ul className="hyperlink">
               <li>
-                <img src="/assets/left-arrow.png" alt="Left Arrow" /> Index
+                <img src="/assets/icon.png" alt="Left Arrow" /> Index
               </li>
               <li>
                 <a href="#about_sec">
-                  <img src="/assets/left-arrow.png" alt="Left Arrow" /> About MBBS in France
+                  <img src="/assets/icon.png" alt="Left Arrow" /> About MBBS in France
                 </a>
               </li>
               <li>
                 <a href="#why_mbbs_sec">
-                  <img src="/assets/left-arrow.png" alt="Left Arrow" /> Why MBBS in France?
+                  <img src="/assets/icon.png" alt="Left Arrow" /> Why MBBS in France?
                 </a>
               </li>
               <li>
                 <a href="#benefits_sec">
-                  <img src="/assets/left-arrow.png" alt="Left Arrow" /> Benefits of MBBS in
+                  <img src="/assets/icon.png" alt="Left Arrow" /> Benefits of MBBS in
                   France
                 </a>
               </li>
               <li>
                 <a href="#university_sec">
-                  <img src="/assets/left-arrow.png" alt="Left Arrow" /> MBBS in France Top
+                  <img src="/assets/icon.png" alt="Left Arrow" /> MBBS in France Top
                   Universities
                 </a>
               </li>
               <li>
                 <a href="#requirements_sec">
-                  <img src="/assets/left-arrow.png" alt="Left Arrow" /> Requirements for MBBS
+                  <img src="/assets/icon.png" alt="Left Arrow" /> Requirements for MBBS
                   Admission in France
                 </a>
               </li>
               <li>
                 <a href="#advice_sec">
-                  <img src="/assets/left-arrow.png" alt="Left Arrow" /> MBBS in France Advice for
+                  <img src="/assets/icon.png" alt="Left Arrow" /> MBBS in France Advice for
                   Indians
                 </a>
               </li>
               <li>
                 <a href="#pros_sec">
-                  <img src="/assets/left-arrow.png" alt="Left Arrow" /> Pros & Cons for MBBS in
+                  <img src="/assets/icon.png" alt="Left Arrow" /> Pros & Cons for MBBS in
                   France
                 </a>
               </li>
               <li>
                 <a href="#visa_sec">
-                  <img src="/assets/left-arrow.png" alt="Left Arrow" /> Visa Procedure for MBBS
+                  <img src="/assets/icon.png" alt="Left Arrow" /> Visa Procedure for MBBS
                   in France
                 </a>
               </li>
               <li>
                 <a href="#faq_sec">
-                  <img src="/assets/left-arrow.png" alt="Left Arrow" /> MBBS in France FAQ
+                  <img src="/assets/icon.png" alt="Left Arrow" /> MBBS in France FAQ
                 </a>
               </li>
             </ul>

@@ -44,28 +44,28 @@ function MbbsGermany() {
 						<b>MBBS Admission in Germany</b> offers a great opportunity for Indian students to excel in medicine. It provides the magnificent theoretical as well as practical education which empowers the candidates to become successful practitioners. The admission procedure in <b>Germany medical college /universities</b> is quite easy and simple.
           </p>
           <ul className="hyperlink">
-            <li><img src="/assets/left-arrow.png" alt="Left Arrow" /> Index </li>
-            <li><a href="#about_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> About Germany</a></li>
-            <li><a href="#why_mbbs_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Why Study MBBS in Germany</a></li>
-						<li><a href="#benefits_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Benefits of Studying MBBS in Germany for Indian Students 2020</a></li>
-						<li><a href="#eligibility_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Benefits of Studying MBBS in Germany for Indian Students 2020</a></li>
-            <li><a href="#university_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Top Universities to Study MBBS in Germany </a></li>
-						<li><a href="#requirements_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Requirements for MBBS Admission in Germany 2020-2021 </a></li>
-						<li><a href="#fees_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> MBBS Fees in Germany 2020-2021 </a></li>
-            <li><a href="#advice_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> MBBS in Germany Advice for Indian Students </a></li>
-            <li><a href="#pros_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Pros & Cons for MBBS in Germany </a></li>
-            <li><a href="#visa_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Visa Procedure for MBBS in Germany </a></li>
-						<li><a href="#mci_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> MCI Coaching in Germany!</a></li>
-						<li><a href="#usmle_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> USMLE (United States Medical Licensing Examination) Coaching in Germany </a></li>
-						<li><a href="#pg_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> PG Options after MBBS in Germany </a></li>
-						<li><a href="#vacations_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Vacations during MBBS in Germany </a></li>
-						<li><a href="#career_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Career Options after Completing MBBS in Germany </a></li>
-						<li><a href="#problems_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Students face huge problems due to the Fraud Agents </a></li>
-						<li><a href="#reserve_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> How reserve your MBBS Seat in Germany for 2020 Admission </a></li>
-						<li><a href="#charges_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Service & Consultancy Charges of Destinex </a></li>
-						<li><a href="#destinex_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Services by Destinex for Abroad Education </a></li>
-						<li><a href="#process_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Our Process of conducting Student Counseling </a></li>
-            <li><a href="#faq_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> FAQ's to Study MBBS in Germany </a></li>
+            <li><img src="/assets/icon.png" alt="Left Arrow" /> Index </li>
+            <li><a href="#about_sec"><img src="/assets/icon.png" alt="Left Arrow" /> About Germany</a></li>
+            <li><a href="#why_mbbs_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Why Study MBBS in Germany</a></li>
+						<li><a href="#benefits_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Benefits of Studying MBBS in Germany for Indian Students 2020</a></li>
+						<li><a href="#eligibility_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Benefits of Studying MBBS in Germany for Indian Students 2020</a></li>
+            <li><a href="#university_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Top Universities to Study MBBS in Germany </a></li>
+						<li><a href="#requirements_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Requirements for MBBS Admission in Germany 2020-2021 </a></li>
+						<li><a href="#fees_sec"><img src="/assets/icon.png" alt="Left Arrow" /> MBBS Fees in Germany 2020-2021 </a></li>
+            <li><a href="#advice_sec"><img src="/assets/icon.png" alt="Left Arrow" /> MBBS in Germany Advice for Indian Students </a></li>
+            <li><a href="#pros_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Pros & Cons for MBBS in Germany </a></li>
+            <li><a href="#visa_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Visa Procedure for MBBS in Germany </a></li>
+						<li><a href="#mci_sec"><img src="/assets/icon.png" alt="Left Arrow" /> MCI Coaching in Germany!</a></li>
+						<li><a href="#usmle_sec"><img src="/assets/icon.png" alt="Left Arrow" /> USMLE (United States Medical Licensing Examination) Coaching in Germany </a></li>
+						<li><a href="#pg_sec"><img src="/assets/icon.png" alt="Left Arrow" /> PG Options after MBBS in Germany </a></li>
+						<li><a href="#vacations_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Vacations during MBBS in Germany </a></li>
+						<li><a href="#career_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Career Options after Completing MBBS in Germany </a></li>
+						<li><a href="#problems_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Students face huge problems due to the Fraud Agents </a></li>
+						<li><a href="#reserve_sec"><img src="/assets/icon.png" alt="Left Arrow" /> How reserve your MBBS Seat in Germany for 2020 Admission </a></li>
+						<li><a href="#charges_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Service & Consultancy Charges of Destinex </a></li>
+						<li><a href="#destinex_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Services by Destinex for Abroad Education </a></li>
+						<li><a href="#process_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Our Process of conducting Student Counseling </a></li>
+            <li><a href="#faq_sec"><img src="/assets/icon.png" alt="Left Arrow" /> FAQ's to Study MBBS in Germany </a></li>
           </ul>
 
           {/* POP UP Btn */}

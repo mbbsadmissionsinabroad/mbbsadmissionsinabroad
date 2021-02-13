@@ -45,51 +45,51 @@ function MbbsKyrgyzstan() {
           </p>
           <ul className="hyperlink">
             <li>
-              <img src="/assets/left-arrow.png" alt="Left Arrow" /> Index
+              <img src="/assets/icon.png" alt="Left Arrow" /> Index
             </li>
             <li>
               <a href="#about_sec">
-                <img src="/assets/left-arrow.png" alt="Left Arrow" /> About Kyrgyzstan
+                <img src="/assets/icon.png" alt="Left Arrow" /> About Kyrgyzstan
               </a>
             </li>
             <li>
               <a href="#why_mbbs_sec">
-                <img src="/assets/left-arrow.png" alt="Left Arrow" /> Why MBBS Study in Kyrgyzstan
+                <img src="/assets/icon.png" alt="Left Arrow" /> Why MBBS Study in Kyrgyzstan
               </a>
             </li>
             <li>
               <a href="#benefits_sec">
-                <img src="/assets/left-arrow.png" alt="Left Arrow" /> Benefits of MBBS in Kyrgyzstan for Indian Students 2020
+                <img src="/assets/icon.png" alt="Left Arrow" /> Benefits of MBBS in Kyrgyzstan for Indian Students 2020
               </a>
             </li>
             <li>
               <a href="#university_sec">
-                <img src="/assets/left-arrow.png" alt="Left Arrow" /> Top Universities for MBBS in Kyrgyzstan
+                <img src="/assets/icon.png" alt="Left Arrow" /> Top Universities for MBBS in Kyrgyzstan
               </a>
             </li>
             <li>
               <a href="#requirements_sec">
-                <img src="/assets/left-arrow.png" alt="Left Arrow" /> Requirements for MBBS Admission in Kyrgyzstan 2020-2021
+                <img src="/assets/icon.png" alt="Left Arrow" /> Requirements for MBBS Admission in Kyrgyzstan 2020-2021
               </a>
             </li>
             <li>
               <a href="#advice_sec">
-                <img src="/assets/left-arrow.png" alt="Left Arrow" /> MBBS in Kyrgyzstan Advice for Indian students
+                <img src="/assets/icon.png" alt="Left Arrow" /> MBBS in Kyrgyzstan Advice for Indian students
               </a>
             </li>
             <li>
               <a href="#pros_sec">
-                <img src="/assets/left-arrow.png" alt="Left Arrow" /> Pro & Cons of Studying MBBS in Kyrgyzstan
+                <img src="/assets/icon.png" alt="Left Arrow" /> Pro & Cons of Studying MBBS in Kyrgyzstan
               </a>
             </li>
             <li>
               <a href="#visa_sec">
-                <img src="/assets/left-arrow.png" alt="Left Arrow" /> Visa Procedure for MBBS in Kyrgyzstan
+                <img src="/assets/icon.png" alt="Left Arrow" /> Visa Procedure for MBBS in Kyrgyzstan
               </a>
             </li>
             <li>
               <a href="#faq_sec">
-                <img src="/assets/left-arrow.png" alt="Left Arrow" /> MBBS in Armenia FAQ
+                <img src="/assets/icon.png" alt="Left Arrow" /> MBBS in Armenia FAQ
               </a>
             </li>
           </ul>

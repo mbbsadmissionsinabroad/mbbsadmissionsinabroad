@@ -5,11 +5,18 @@
 }
 
 a{
-  color: #ffce01;
+  /* color: #ffce01; */
+  color: rgb(113,226,179);
+  /* color: linear-gradient(90deg, rgba(113,226,179,1) 0%, rgba(88,209,195,1) 35%, rgba(72,188,209,1) 100%); */
 }
 
 a:hover{
-  color: #ffce01;
+  color: rgb(113,226,179);
+}
+
+.fa-stack{
+  color: rgb(113,226,179);
+  /* background: linear-gradient(90deg, rgba(113,226,179,1) 0%, rgba(88,209,195,1) 35%, rgba(72,188,209,1) 100%); */
 }
 
 .service__title {
@@ -53,7 +60,9 @@ a:hover{
 }
 
 .service__table thead {
-  background-color: #ffce01;
+  /* background-color: #ffce01; */
+  background: rgb(113,226,179);
+  background: linear-gradient(90deg, rgba(113,226,179,1) 0%, rgba(88,209,195,1) 35%, rgba(72,188,209,1) 100%);
   color: #000000;
   font-weight: 600;
   font-size: 17px;
@@ -93,7 +102,9 @@ a:hover{
 
 
 .service__bg {
-  background-color: #ffce01;
+  /* background-color: #ffce01; */
+  background: rgb(113,226,179);
+  background: linear-gradient(90deg, rgba(113,226,179,1) 0%, rgba(88,209,195,1) 35%, rgba(72,188,209,1) 100%);
   padding-top: 2px;
   padding-bottom: 2px;
 }
@@ -143,7 +154,9 @@ a:hover{
 }
 
 .popup__btn {
-  background-color: #ffce01;
+  /* background-color: #ffce01; */
+  background: rgb(113,226,179);
+  background: linear-gradient(90deg, rgba(113,226,179,1) 0%, rgba(88,209,195,1) 35%, rgba(72,188,209,1) 100%);
   color: #fff;
   font-weight: 600;
   border-radius: 30px;
@@ -152,7 +165,9 @@ a:hover{
 }
 
 .popup__btn:hover {
-  background-color: #ffce01;
+  /* background-color: #ffce01; */
+  background: rgb(113,226,179);
+  background: linear-gradient(90deg, rgba(113,226,179,1) 0%, rgba(88,209,195,1) 35%, rgba(72,188,209,1) 100%);
   color: #fff;
   font-weight: 600;
   border-radius: 30px;
@@ -210,7 +225,9 @@ a:hover{
 .contact__title {
   font-size: 22px;
   line-height: 28px;
-  color: #ffce01;
+  /* color: #ffce01; */
+  color: rgb(113,226,179);
+  /* background: linear-gradient(90deg, rgba(113,226,179,1) 0%, rgba(88,209,195,1) 35%, rgba(72,188,209,1) 100%); */
   font-weight: 700;
   font-weight: "Open Sans Condensed", Helvetica, Arial, Verdana, sans-serif;
   text-transform: uppercase;
@@ -245,14 +262,18 @@ a:hover{
     padding-top: 15px;
     padding-bottom: 15px;
     margin-right: 0.2em;
-    background-color: #ffce01;
+    /* background-color: #ffce01; */
+    background: rgb(113,226,179);
+    background: linear-gradient(90deg, rgba(113,226,179,1) 0%, rgba(88,209,195,1) 35%, rgba(72,188,209,1) 100%);
     border-radius: 50%;
     font-size: 20px;
   
 }
 
 .con__sub__btn {
-    background-color: #ffce01;
+    /* background-color: #ffce01; */
+    background: rgb(113,226,179);
+    background: linear-gradient(90deg, rgba(113,226,179,1) 0%, rgba(88,209,195,1) 35%, rgba(72,188,209,1) 100%);
     color: #ffffff;
     border-radius: 16px;
     border: 0px;
@@ -260,7 +281,9 @@ a:hover{
 }
 
 .con__sub__btn:hover {
-    background-color: #ffce01;
+    /* background-color: #ffce01; */
+    background: rgb(113,226,179);
+    background: linear-gradient(90deg, rgba(113,226,179,1) 0%, rgba(88,209,195,1) 35%, rgba(72,188,209,1) 100%);
     color: #ffffff;
     border-radius: 16px;
     border: 0px;
@@ -290,14 +313,18 @@ a:hover{
 
 .contact__page__btn{
   border-radius: 25px;
-  background-color: #ffce01;
+  /* background-color: #ffce01; */
+  background: rgb(113,226,179);
+  background: linear-gradient(90deg, rgba(113,226,179,1) 0%, rgba(88,209,195,1) 35%, rgba(72,188,209,1) 100%);
   color: #000000;
   border: 0px;
   font-weight: 600;
 }
 
 .contact__page__btn:hover{
-  background-color: #ffce01;
+  /* background-color: #ffce01; */
+  background: rgb(113,226,179);
+  background: linear-gradient(90deg, rgba(113,226,179,1) 0%, rgba(88,209,195,1) 35%, rgba(72,188,209,1) 100%);  
   color: #000000;
 }
 
@@ -306,7 +333,7 @@ a:hover{
     padding-bottom:56.25%;
     position:relative;
     height:0;
-    border: 5px solid #ffce01;
+    border: 5px solid #71e2b3;
     margin-top: 15px;
 }
 

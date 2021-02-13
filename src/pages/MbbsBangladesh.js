@@ -43,17 +43,17 @@ function MbbsBangladesh() {
 						<b>MBBS in Bangladesh</b> is a good choice for to study for Indians. Medical Course is costliest course in the whole world wide, and it is really hard for middle class people to pursue the course. But <Link to="/mbbs-admission-in-bangladesh-for-indian-students">MBBS in Bangladesh</Link> offers you with low-cost for Indian Citizens. Students have to clear the criteria given by the Bangladesh government for an <Link to="/mbbs-admission-in-bangladesh-for-indian-students">admission of MBBS in Bangladesh</Link> and according to that they can choose the best university to pursue MBBS. MBBS in Bangladesh opportunity is going to increase in future.
           </p>
           <ul className="hyperlink">
-            <li><img src="/assets/left-arrow.png" alt="Left Arrow" /> Index </li>
-            <li><a href="#about_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> About Bangladesh</a></li>
-            <li><a href="#why_mbbs_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Why Study MBBS in Bangladesh</a></li>
-						<li><a href="#benefits_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Benefits of Studying MBBS in Bangladesh for Indian Students 2020</a></li>
-            <li><a href="#university_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Top University for MBBS in Bangladesh </a></li>
-						<li><a href="#requirements_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Requirements for MBBS Admission in Bangladesh </a></li>
-						<li><a href="#visa_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Visa Procedure for MBBS in Bangladesh </a></li>
-            <li><a href="#advice_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Advice/Procedure to Study MBBS in Bangladesh </a></li>
-            <li><a href="#mci_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> MCI coaching in Bangladesh </a></li>
-            <li><a href="#usmle_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> USMLE (United States Medical Licensing Examination) Coaching in Bangladesh </a></li>
-            <li><a href="#career_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Career options after completing MBBS in Bangladesh </a></li>
+            <li><img src="/assets/icon.png" alt="Left Arrow" /> Index </li>
+            <li><a href="#about_sec"><img src="/assets/icon.png" alt="Left Arrow" /> About Bangladesh</a></li>
+            <li><a href="#why_mbbs_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Why Study MBBS in Bangladesh</a></li>
+						<li><a href="#benefits_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Benefits of Studying MBBS in Bangladesh for Indian Students 2020</a></li>
+            <li><a href="#university_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Top University for MBBS in Bangladesh </a></li>
+						<li><a href="#requirements_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Requirements for MBBS Admission in Bangladesh </a></li>
+						<li><a href="#visa_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Visa Procedure for MBBS in Bangladesh </a></li>
+            <li><a href="#advice_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Advice/Procedure to Study MBBS in Bangladesh </a></li>
+            <li><a href="#mci_sec"><img src="/assets/icon.png" alt="Left Arrow" /> MCI coaching in Bangladesh </a></li>
+            <li><a href="#usmle_sec"><img src="/assets/icon.png" alt="Left Arrow" /> USMLE (United States Medical Licensing Examination) Coaching in Bangladesh </a></li>
+            <li><a href="#career_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Career options after completing MBBS in Bangladesh </a></li>
           </ul>
 
           {/* POP UP Btn */}

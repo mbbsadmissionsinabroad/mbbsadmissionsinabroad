@@ -11,7 +11,7 @@ function Home() {
 
   const meta = {
     title: 'MBBS Admission in Abroad - Overseas MBBS Consultants in India',
-    description: 'MBBS Admission in Abroad, Destinex an Overseas MBBS Consultants in India. Study MBBS in Russia, Ukraine & Philippines at Low Cost from MCI Approved Universities.',
+    description: 'MBBS Admission in Abroad, New-Lyf an Overseas MBBS Consultants in India. Study MBBS in Russia, Ukraine & Philippines at Low Cost from MCI Approved Universities.',
     canonical: 'https://www.mbbsadmissionsinabroad.com/',
     meta: {
       charset: 'utf-8',
@@ -125,7 +125,7 @@ function Home() {
                         <p>
                           Reliable Counseling & Guidance to Select The Country
                           And The University Is The Most Important Service
-                          Provided By Destinex Education
+                          Provided By New-Lyf
                         </p>
                       </div>
                     </Col>
@@ -138,7 +138,7 @@ function Home() {
                         <p>
                           All Your Travel Requirements Such As Air Ticket, Visa,
                           Airport Pick up And Drop To The Hostel Is Taken Care
-                          Of By Destinex Education
+                          Of By New-Lyf
                         </p>
                       </div>
                     </Col>
@@ -151,7 +151,7 @@ function Home() {
                         <p>
                           All Your Travel Requirements Such As Air Ticket, Visa,
                           Airport pick up And Drop To Hostel Is Taken Care Of By
-                          Destinex Education
+                          New-Lyf
                         </p>
                       </div>
                     </Col>
@@ -490,7 +490,7 @@ function Home() {
             countries such as the Russia, Ukraine, Philippines, Armenia, Belize,
             France, and Kazakhstan for our MBBS students. <br />
             My main objective is to provide transparency in the MBBS abroad
-            admission process and information. I want to make Destinex Education
+            admission process and information. I want to make New-Lyf
             the most trusted MBBS abroad consultancy for Indian students. Feel
             free to contact me at our helpline numbers, chat support or drop a
             mail at <a href="mailto:info@mbbsadmissionsinabroad.com"> info@mbbsadmissionsinabroad.com </a>
@@ -512,9 +512,9 @@ function Home() {
         <section>
           <Container>
             <h3 className="head__title">Mbbs Abroad Consultancy In India</h3>
-            <p className="head__desc"> <b>Destinex</b> is one of the best MBBS Abroad Consultancy in India that offers professional consultancy services to aspiring students who wish to pursue a lucrative career in the field of medicine. Most of the students want to obtain an <b>immensely valued MBBS degree</b> from some of the <b>top-class universities abroad</b>.
+            <p className="head__desc"> <b>New-Lyf</b> is one of the best MBBS Abroad Consultancy in India that offers professional consultancy services to aspiring students who wish to pursue a lucrative career in the field of medicine. Most of the students want to obtain an <b>immensely valued MBBS degree</b> from some of the <b>top-class universities abroad</b>.
             <br /> 
-            If you also wish to pursue an MBBS degree from some prestigious educational college/university abroad, contact the reliable <b>Destinex MBBS abroad consultants in India</b>. We have a team of <b>highly qualified and experienced MBBS consultants</b> that aims at delivering the best results for your professional MBBS career.
+            If you also wish to pursue an MBBS degree from some prestigious educational college/university abroad, contact the reliable <b>New-Lyf MBBS abroad consultants in India</b>. We have a team of <b>highly qualified and experienced MBBS consultants</b> that aims at delivering the best results for your professional MBBS career.
             <br /> Our counselors have more than <b>10 years of experience</b> in the given field that <b>provide in-depth</b>, accurate information that you require to know about MBBS abroad. We suggest the <b>best-suited MBBS program</b> for you on the basis of <b> your personal academic & financial profile, future career plans </b> , and so more.</p>
           </Container>
         </section>
@@ -716,7 +716,7 @@ function Home() {
                     will be traveling in October 2020 and by that time the
                     complete situation will be under control. So, the students
                     no need to worry, admissions in MBBS Abroad 2020 will remain
-                    unaffected and Destinex MBBS Abroad Consultancy in India
+                    unaffected and New-Lyf MBBS Abroad Consultancy in India
                     will help you get admission in MBBS abroad smoothly and
                     safely.</p>
                   </Card.Body>

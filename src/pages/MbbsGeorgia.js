@@ -42,26 +42,26 @@ function MbbsGeorgia() {
 						Georgia has become popular among students who are pursuing MBBS especially after 2011. The medical universities of Georgia are some of the best options for any student who wants to study MBBS abroad. The admission process for studying in a medical college in Georgia is very easy compared to the usual admission processes. Students are not required to go through any sort of entrance test for the admission, as it is done on the basis of the marks obtained in class 12th. Students can attain scholarships on the basis of their marks in 12th. After graduating from a medical college in Georgia, one can apply for a screening test to get the license to practice. The medical universities and colleges in Georgia provide rich quality education with a very feasible tuition fees as compared to other foreign countries. The medical universities of Georgia have got a worldwide recognition and offer high standard infrastructure and education. The medical universities of Georgia are recognized by MCI and WHO. The students completing their MBBS course from Georgia are eligible to work in any part of the world.
           </p>
           <ul className="hyperlink">
-            <li><img src="/assets/left-arrow.png" alt="Left Arrow" /> Index </li>
-            <li><a href="#about_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> About MBBS in Georgia</a></li>
-            <li><a href="#why_mbbs_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Why MBBS in Georgia?</a></li>
-            <li><a href="#benefits_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Benefits of MBBS in Georgia for Indian Students 2020</a></li>
-            <li><a href="#university_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Top Universities for MBBS in Georgia </a></li>
-            <li><a href="#requirements_sec"><img src="/assets/left-arrow.png" alt="Left Arrow"  /> Requirements for MBBS Admission in Georgia 2020-2021 </a></li>
-            <li><a href="#advice_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> MBBS in Georgia Advice for Indian Students </a></li>
-            <li><a href="#pros_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Pros & Cons for MBBS in Georgia </a></li>
-            <li><a href="#visa_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Visa procedure for MBBS in Georgia </a></li>
-						<li><a href="#mci_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> MCI Coaching in Georgia!</a></li>
-						<li><a href="#usmle_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> USMLE (United States Medical Licensing Examination) Coaching in Georgia </a></li>
-						<li><a href="#pg_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> PG Options after MBBS in Georgia </a></li>
-						<li><a href="#vacations_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Vacations during MBBS in Georgia </a></li>
-						<li><a href="#career_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Career Options after Completing MBBS in Georgia </a></li>
-						<li><a href="#problems_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Students face huge problems due to the Fraud Agents </a></li>
-						<li><a href="#reserve_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> How reserve your MBBS Seat in Georgia for 2020 Admission </a></li>
-						<li><a href="#charges_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Service & Consultancy Charges of Destinex </a></li>
-						<li><a href="#destinex_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Services by Destinex for Abroad Education </a></li>
-						<li><a href="#process_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Our Process of conducting Student Counseling </a></li>
-            <li><a href="#faq_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> MBBS in Georgia FAQ </a></li>
+            <li><img src="/assets/icon.png" alt="Left Arrow" /> Index </li>
+            <li><a href="#about_sec"><img src="/assets/icon.png" alt="Left Arrow" /> About MBBS in Georgia</a></li>
+            <li><a href="#why_mbbs_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Why MBBS in Georgia?</a></li>
+            <li><a href="#benefits_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Benefits of MBBS in Georgia for Indian Students 2020</a></li>
+            <li><a href="#university_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Top Universities for MBBS in Georgia </a></li>
+            <li><a href="#requirements_sec"><img src="/assets/icon.png" alt="Left Arrow"  /> Requirements for MBBS Admission in Georgia 2020-2021 </a></li>
+            <li><a href="#advice_sec"><img src="/assets/icon.png" alt="Left Arrow" /> MBBS in Georgia Advice for Indian Students </a></li>
+            <li><a href="#pros_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Pros & Cons for MBBS in Georgia </a></li>
+            <li><a href="#visa_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Visa procedure for MBBS in Georgia </a></li>
+						<li><a href="#mci_sec"><img src="/assets/icon.png" alt="Left Arrow" /> MCI Coaching in Georgia!</a></li>
+						<li><a href="#usmle_sec"><img src="/assets/icon.png" alt="Left Arrow" /> USMLE (United States Medical Licensing Examination) Coaching in Georgia </a></li>
+						<li><a href="#pg_sec"><img src="/assets/icon.png" alt="Left Arrow" /> PG Options after MBBS in Georgia </a></li>
+						<li><a href="#vacations_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Vacations during MBBS in Georgia </a></li>
+						<li><a href="#career_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Career Options after Completing MBBS in Georgia </a></li>
+						<li><a href="#problems_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Students face huge problems due to the Fraud Agents </a></li>
+						<li><a href="#reserve_sec"><img src="/assets/icon.png" alt="Left Arrow" /> How reserve your MBBS Seat in Georgia for 2020 Admission </a></li>
+						<li><a href="#charges_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Service & Consultancy Charges of Destinex </a></li>
+						<li><a href="#destinex_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Services by Destinex for Abroad Education </a></li>
+						<li><a href="#process_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Our Process of conducting Student Counseling </a></li>
+            <li><a href="#faq_sec"><img src="/assets/icon.png" alt="Left Arrow" /> MBBS in Georgia FAQ </a></li>
           </ul>
 
           {/* POP UP Btn */}

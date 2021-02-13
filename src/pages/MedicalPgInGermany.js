@@ -45,127 +45,127 @@ function MedicalPgInGermany() {
             </p>
             <ul className="hyperlink">
               <li>
-                <img src="/assets/left-arrow.png" alt="Left Arrow" /> Index
+                <img src="/assets/icon.png" alt="Left Arrow" /> Index
               </li>
               <li>
                 <a href="#about_sec">
-                  <img src="/assets/left-arrow.png" alt="Left Arrow" /> About Germany
+                  <img src="/assets/icon.png" alt="Left Arrow" /> About Germany
                 </a>
               </li>
               <li>
                 <a href="#courses_sec">
-                  <img src="/assets/left-arrow.png" alt="Left Arrow" /> Courses provided by Germany PG Universities
+                  <img src="/assets/icon.png" alt="Left Arrow" /> Courses provided by Germany PG Universities
                 </a>
               </li>
               <li>
                 <a href="#info_sec">
-                  <img src="/assets/left-arrow.png" alt="Left Arrow" /> Essential information about PG Course in Germany
+                  <img src="/assets/icon.png" alt="Left Arrow" /> Essential information about PG Course in Germany
                 </a>
               </li>
               <li>
                 <a href="#eligibility_sec">
-                  <img src="/assets/left-arrow.png" alt="Left Arrow" /> Eligibility Criteria for medical PG in Germany
+                  <img src="/assets/icon.png" alt="Left Arrow" /> Eligibility Criteria for medical PG in Germany
                 </a>
               </li>
               <li>
                 <a href="#requirements_sec">
-                  <img src="/assets/left-arrow.png" alt="Left Arrow" /> Required Documents for PG in Germany after MBBS
+                  <img src="/assets/icon.png" alt="Left Arrow" /> Required Documents for PG in Germany after MBBS
                 </a>
               </li>
               <li>
                 <a href="#why_medical_pg">
-                  <img src="/assets/left-arrow.png" alt="Left Arrow" /> Why medical PG in Germany?
+                  <img src="/assets/icon.png" alt="Left Arrow" /> Why medical PG in Germany?
                 </a>
               </li>
               <li>
                 <a href="#benefits_sec">
-                  <img src="/assets/left-arrow.png" alt="Left Arrow" /> Benefits of pursuing PG in Germany after MBBS for Indian Students
+                  <img src="/assets/icon.png" alt="Left Arrow" /> Benefits of pursuing PG in Germany after MBBS for Indian Students
                 </a>
               </li>
               <li>
                 <a href="#pros_sec">
-                  <img src="/assets/left-arrow.png" alt="Left Arrow" /> Pros and Cons of Studying PG in Germany after MBBS
+                  <img src="/assets/icon.png" alt="Left Arrow" /> Pros and Cons of Studying PG in Germany after MBBS
                 </a>
               </li>
               <li>
                 <a href="#career_sec">
-                  <img src="/assets/left-arrow.png" alt="Left Arrow" /> Career Scopes after medical PG in Germany
+                  <img src="/assets/icon.png" alt="Left Arrow" /> Career Scopes after medical PG in Germany
                 </a>
               </li>
               <li>
                 <a href="#pg_sec">
-                  <img src="/assets/left-arrow.png" alt="Left Arrow" /> Medical PG in Germany
+                  <img src="/assets/icon.png" alt="Left Arrow" /> Medical PG in Germany
                 </a>
               </li>
               <li>
                 <a href="#pg1_sec">
-                  <img src="/assets/left-arrow.png" alt="Left Arrow" /> Medical PG in Germany - Assisting Doctor in Applying for Specialization
+                  <img src="/assets/icon.png" alt="Left Arrow" /> Medical PG in Germany - Assisting Doctor in Applying for Specialization
                 </a>
               </li>
               <li>
                 <a href="#pg2_sec">
-                  <img src="/assets/left-arrow.png" alt="Left Arrow" /> Medical PG in Germany - Assisting Doctor for Specialists
+                  <img src="/assets/icon.png" alt="Left Arrow" /> Medical PG in Germany - Assisting Doctor for Specialists
                 </a>
               </li>
               <li>
                 <a href="#designations_sec">
-                  <img src="/assets/left-arrow.png" alt="Left Arrow" /> Designations for Specialties
+                  <img src="/assets/icon.png" alt="Left Arrow" /> Designations for Specialties
                 </a>
               </li>
               <li>
                 <a href="#qualification_sec">
-                  <img src="/assets/left-arrow.png" alt="Left Arrow" /> Extra Qualifications
+                  <img src="/assets/icon.png" alt="Left Arrow" /> Extra Qualifications
                 </a>
               </li>
               <li>
                 <a href="#pg3_sec">
-                  <img src="/assets/left-arrow.png" alt="Left Arrow" /> Medical PG in Germany - Who can do medical continuing training?
+                  <img src="/assets/icon.png" alt="Left Arrow" /> Medical PG in Germany - Who can do medical continuing training?
                 </a>
               </li>
               <li>
                 <a href="#example_sec">
-                  <img src="/assets/left-arrow.png" alt="Left Arrow" /> Examples
+                  <img src="/assets/icon.png" alt="Left Arrow" /> Examples
                 </a>
               </li>
               <li>
                 <a href="#pg4_sec">
-                  <img src="/assets/left-arrow.png" alt="Left Arrow" /> Medical PG in Germany for Anesthesiology
+                  <img src="/assets/icon.png" alt="Left Arrow" /> Medical PG in Germany for Anesthesiology
                 </a>
               </li>
               <li>
                 <a href="#pg5_sec">
-                  <img src="/assets/left-arrow.png" alt="Left Arrow" /> Medical PG in Germany for Surgery
+                  <img src="/assets/icon.png" alt="Left Arrow" /> Medical PG in Germany for Surgery
                 </a>
               </li>
               <li>
                 <a href="#pg6_sec">
-                  <img src="/assets/left-arrow.png" alt="Left Arrow" /> Medical PG in Germany for Internal Medicine and General Medicine
+                  <img src="/assets/icon.png" alt="Left Arrow" /> Medical PG in Germany for Internal Medicine and General Medicine
                 </a>
               </li>
               <li>
                 <a href="#pg7_sec">
-                  <img src="/assets/left-arrow.png" alt="Left Arrow" /> Medical PG in Germany for Pediatrics
+                  <img src="/assets/icon.png" alt="Left Arrow" /> Medical PG in Germany for Pediatrics
                 </a>
               </li>
               <li>
                 <a href="#table_sec">
-                  <img src="/assets/left-arrow.png" alt="Left Arrow" /> Summary Table of Medical PG Specialist and Specialty Competence
+                  <img src="/assets/icon.png" alt="Left Arrow" /> Summary Table of Medical PG Specialist and Specialty Competence
                 </a>
               </li>
               <li>
                 <a href="#table1_sec">
-                  <img src="/assets/left-arrow.png" alt="Left Arrow" /> Summary Table of Medical PG Extra Qualifications
+                  <img src="/assets/icon.png" alt="Left Arrow" /> Summary Table of Medical PG Extra Qualifications
                 </a>
               </li>
 
               <li>
                 <a href="#faq_sec">
-                  <img src="/assets/left-arrow.png" alt="Left Arrow" /> FAQ about the Medical PG in Germany
+                  <img src="/assets/icon.png" alt="Left Arrow" /> FAQ about the Medical PG in Germany
                 </a>
               </li>
               <li>
                 <a href="#testimonials">
-                  <img src="/assets/left-arrow.png" alt="Left Arrow" /> Testimonials
+                  <img src="/assets/icon.png" alt="Left Arrow" /> Testimonials
                 </a>
               </li>
             </ul>

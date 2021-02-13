@@ -39,15 +39,15 @@ function NursingJobInDenmark() {
 				<div id="index_sec">
           <p className="service__info">Denmark provides a great opportunity for nurses who are looking to work for a completely state-funded healthcare system. Denmark is one of the leading healthcare providers & one of Europe’s top countries for healthcare provision. It has a well-organized system and nurses benefit from exceptionally modern work environments. The nurses who are applying for <Link to="/nursing-jobs-in-denmark">nursing jobs in Denmark</Link> must have good Danish language proficiency.</p>
           <ul className="hyperlink">
-						<li><img src="/assets/left-arrow.png" alt="Left Arrow" /> Index </li>
-						<li><a href="#types_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Types of Nursing Jobs in Denmark </a></li>
-						<li><a href="#apply_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> How to apply for a nursing job in Denmark?</a></li>
-						<li><a href="#getjob_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> How to Get a Nursing Job in Denmark</a></li>
-						<li><a href="#vacancy_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Nurses vacancy in Denmark</a></li>
-						<li><a href="#requirements_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Requirement of nurse’s vacancy in Denmark 2020</a></li>		
-						<li><a href="#salary_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Salary for a Nurse in Denmark</a></li>	
-						<li><a href="#faq_sec"><img src="/assets/left-arrow.png" alt="Left Arrow" /> FAQ Nursing Job in Denmark</a></li>
-						<li><a href="#testimonials"><img src="/assets/left-arrow.png" alt="Left Arrow" /> Testimonials</a></li>
+						<li><img src="/assets/icon.png" alt="Left Arrow" /> Index </li>
+						<li><a href="#types_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Types of Nursing Jobs in Denmark </a></li>
+						<li><a href="#apply_sec"><img src="/assets/icon.png" alt="Left Arrow" /> How to apply for a nursing job in Denmark?</a></li>
+						<li><a href="#getjob_sec"><img src="/assets/icon.png" alt="Left Arrow" /> How to Get a Nursing Job in Denmark</a></li>
+						<li><a href="#vacancy_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Nurses vacancy in Denmark</a></li>
+						<li><a href="#requirements_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Requirement of nurse’s vacancy in Denmark 2020</a></li>		
+						<li><a href="#salary_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Salary for a Nurse in Denmark</a></li>	
+						<li><a href="#faq_sec"><img src="/assets/icon.png" alt="Left Arrow" /> FAQ Nursing Job in Denmark</a></li>
+						<li><a href="#testimonials"><img src="/assets/icon.png" alt="Left Arrow" /> Testimonials</a></li>
           </ul>
         </div>
 

@@ -5,7 +5,9 @@ p {
 
 .topbar {
   display: flex;
-  background-color: #ffce01;
+  /* background-color: #ffce01; */
+  background: rgb(113,226,179);
+  background: linear-gradient(90deg, rgba(113,226,179,1) 0%, rgba(88,209,195,1) 35%, rgba(72,188,209,1) 100%);
   color: #ffffff;
   font-weight: 700;
   font-family: Roboto, Helvetica, Arial, Verdana, sans-serif;
@@ -26,7 +28,8 @@ p {
   padding-top: 10px;
   margin-right: 2px;
   color: #ffffff;
-  background-color: #edbf01;
+  background: rgb(113,226,179);
+  background: linear-gradient(90deg, rgba(113,226,179,1) 0%, rgba(88,209,195,1) 35%, rgba(72,188,209,1) 100%);
   border-radius: 50%;
   width: 40px;
   height: 40px;
@@ -39,13 +42,15 @@ p {
 }
 
 .social__container li:hover {
-  background-color: #ffce01;
+  /* background-color: #ffce01; */
+  background: rgb(113,226,179);
   color: #ffffff;
   transition: 0.4s;
 }
 
 .social__container li i:hover {
-  background-color: #ffce01;
+  /* background-color: #ffce01; */
+  background: rgb(113,226,179);
   color: #ffffff;
   transition: 0.4s;
   text-decoration: none;

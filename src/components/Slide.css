@@ -8,7 +8,9 @@ button {
   -webkit-transition: all .5s ease;
           transition: all .5s ease;
   border: none;
-  background: #FFD800;
+  /* background: #FFD800; */
+  background: rgb(113,226,179);
+  background: linear-gradient(90deg, rgba(113,226,179,1) 0%, rgba(88,209,195,1) 35%, rgba(72,188,209,1) 100%);  
   border-radius: 30px;
   text-transform: uppercase;
   box-sizing: border-box;
@@ -71,8 +73,7 @@ button:hover {
 		top: 50%;
 		transform: translateY(-50%);
 		z-index: 10;
-        background: url('/assets/left-arrow.png') no-repeat center center / 30px;
-        /* background: url('https://www.flaticon.com/svg/static/icons/svg/892/892641.svg') no-repeat center center / 30px; */
+    background: url('/assets/icon.png') no-repeat center center / 30px;
 		width: 40px;
 		height: 40px;
 		text-indent: -9999px;
