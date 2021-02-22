@@ -12,7 +12,7 @@ function MbbsKazakhstan() {
 	
 	const meta = {
     title: 'MBBS in Kazakhstan - MBBS Admission in Kazakhstan for Indian Students',
-    description: 'Study MBBS in Kazakhstan from Top Medical Universities. Destinex provides all guidance & assistance to Indian Students for Admission in Kazakhstan Medical College.',
+    description: 'Study MBBS in Kazakhstan from Top Medical Universities. New-Lyf provides all guidance & assistance to Indian Students for Admission in Kazakhstan Medical College.',
     canonical: 'https://www.mbbsadmissionsinabroad.com/mbbs-in-kazakhstan/',
     meta: {
       charset: 'utf-8',

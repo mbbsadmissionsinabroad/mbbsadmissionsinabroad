@@ -15,7 +15,7 @@ function MbbsUkraine() {
     title:
       "MBBS Admission in Ukraine for Indian Students at MCI Approved University",
     description:
-      "Study MBBS in Ukraine from Top Medical Universities. Destinex provides all guidance & assistance to Indian Students for Admission in Ukraine Medical College.",
+      "Study MBBS in Ukraine from Top Medical Universities. New-Lyf provides all guidance & assistance to Indian Students for Admission in Ukraine Medical College.",
     canonical: "https://www.mbbsadmissionsinabroad.com/mbbs-in-ukraine/",
     meta: {
       charset: "utf-8",
@@ -248,13 +248,13 @@ function MbbsUkraine() {
               <li>
                 <a href="#charges_sec">
                   <img src="/assets/icon.png" alt="Left Arrow" /> Service
-                  & Consultancy Charges of Destinex
+                  & Consultancy Charges of New-Lyf
                 </a>
               </li>
               <li>
-                <a href="#destinex_sec">
+                <a href="#New-Lyf_sec">
                   <img src="/assets/icon.png" alt="Left Arrow" /> Services
-                  by Destinex for Abroad Education
+                  by New-Lyf for Abroad Education
                 </a>
               </li>
               <li>
@@ -2648,7 +2648,7 @@ function MbbsUkraine() {
               the Ukraine medical universities.
               <br />
               <br />
-              Therefore, the student should consult Destinex for any information
+              Therefore, the student should consult New-Lyf for any information
               regarding <b>MBBS Admission in Ukraine</b>. We provide transparent
               information to the students so that they fulfill their wish to
               pursue MBBS in Ukraine in the English-taught universities with
@@ -2661,7 +2661,7 @@ function MbbsUkraine() {
             </h6>
             <p className="service__info">
               The students can easily reserve their MBBS Seat in Ukraine for
-              2020 Admission as Destinex make it very easy and simple. The
+              2020 Admission as New-Lyf make it very easy and simple. The
               students need to follow the below simple steps for
               <b>MBBS Admission in Ukraine:</b>
               <ul>
@@ -2699,10 +2699,10 @@ function MbbsUkraine() {
 
           <div id="charges_sec">
             <h6 className="service__sub__title">
-              Service & Consultancy Charges of Destinex
+              Service & Consultancy Charges of New-Lyf
             </h6>
             <p className="service__info">
-              Destinex is one of the best overseas education consultants in
+              New-Lyf is one of the best overseas education consultants in
               India. We have already placed hundreds of Indian students in
               Ukraine for pursuing MBBS course in the top medical universities
               that taught MBBS course in English language.
@@ -2721,12 +2721,12 @@ function MbbsUkraine() {
               medical universities/colleges in Ukraine.
             </p>
           </div>
-          <div id="destinex_sec">
+          <div id="New-Lyf_sec">
             <h6 className="service__sub__title">
-              Services by Destinex for Abroad Education
+              Services by New-Lyf for Abroad Education
             </h6>
             <p className="service__info">
-              Applying <b>MBBS in Ukraine</b> from Destinex, the students have
+              Applying <b>MBBS in Ukraine</b> from New-Lyf, the students have
               the following benefits:
               <ul>
                 <li>MCI screening test coaching online</li>
@@ -2760,11 +2760,11 @@ function MbbsUkraine() {
                   of pursuing MBBS in different countries, and clear each doubt
                   of the students so that they can study MBBS and fulfill their
                   wish.The students can get online counseling session from the
-                  CEO of Destinex and can clear their doubts.
+                  CEO of New-Lyf and can clear their doubts.
                 </li>
                 <li>
                   <b>Tele-Counseling</b>
-                  <br /> Destinex has a team of expert counselors that provide
+                  <br /> New-Lyf has a team of expert counselors that provide
                   accurate information from MBBS to PG courses to the students.
                   The students can interact with any of the expert counselor
                   through phone call, SMS, Whatsapp, Email, and more and get

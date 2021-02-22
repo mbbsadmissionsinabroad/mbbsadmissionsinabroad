@@ -12,7 +12,7 @@ function MbbsArmenia() {
 
   const meta = {
     title: 'MBBS Admission in Armenia for Indian Students at MCI Approved University',
-    description: 'Study MBBS in Armenia from Top Medical Universities. Destinex provides all guidance & assistance to Indian Students for Admission in Armeniana Medical College.',
+    description: 'Study MBBS in Armenia from Top Medical Universities. New-Lyf provides all guidance & assistance to Indian Students for Admission in Armeniana Medical College.',
     canonical: 'https://www.mbbsadmissionsinabroad.com/mbbs-in-armenia/',
     meta: {
       charset: 'utf-8',
@@ -124,12 +124,12 @@ function MbbsArmenia() {
             </li>
             <li>
               <a href="#charges_sec">
-                <img src="/assets/icon.png" alt="Left Arrow" /> Service & Consultancy Charges of Destinex
+                <img src="/assets/icon.png" alt="Left Arrow" /> Service & Consultancy Charges of New-Lyf
               </a>
             </li>
             <li>
-              <a href="#destinex_sec">
-                <img src="/assets/icon.png" alt="Left Arrow" /> Services by Destinex for Abroad Education
+              <a href="#New-Lyf_sec">
+                <img src="/assets/icon.png" alt="Left Arrow" /> Services by New-Lyf for Abroad Education
               </a>
             </li>
             <li>
@@ -398,7 +398,7 @@ function MbbsArmenia() {
 						The students do not have to pay MBBS 6-year fees together in any government medical university in Armenia. If any agent asks for the whole 6-year fees, it’s their own scheme. If the students pay whole fees and got <b>MBBS Admission in Armenia</b> where they taught <b>MBBS in Armenia</b> then they cannot change the university.<br/><br/>
 						As there is no requirement to pay any donation fee or capitation fee for taking <b>MBBS Admission in Armenia</b>, so the students must aware of not paying any donation fees to any agent.<br/><br/>
 						It is recommended to students to qualify MCI screening test coaching (online) in India only before going Armenia for pursuing MBBS. They do not have to trust any false promises of any agent. Because the MCI screening test coaching is not provided in most of the Armenia medical universities.<br/><br/>
-						Therefore, the student should consult Destinex for any information regarding <b>MBBS Admission in Armenia</b>. We provide transparent information to the students so that they fulfill their wish to pursue <b>MBBS in Armenia</b> in the English-taught universities with reasonable and accurate fees.
+						Therefore, the student should consult New-Lyf for any information regarding <b>MBBS Admission in Armenia</b>. We provide transparent information to the students so that they fulfill their wish to pursue <b>MBBS in Armenia</b> in the English-taught universities with reasonable and accurate fees.
           </p>
         </div>
         <div id="reserve_sec">
@@ -441,20 +441,20 @@ function MbbsArmenia() {
 
         <div id="charges_sec">
           <h6 className="service__sub__title">
-						Service & Consultancy Charges of Destinex
+						Service & Consultancy Charges of New-Lyf
           </h6>
           <p className="service__info">
-						Destinex is one of the best overseas education consultants in India. We have already placed hundreds of Indian students in Armenia for pursuing MBBS course in the top medical universities that taught MBBS course in English language.<br/><br/>
+						New-Lyf is one of the best overseas education consultants in India. We have already placed hundreds of Indian students in Armenia for pursuing MBBS course in the top medical universities that taught MBBS course in English language.<br/><br/>
 						We provide proper guidance to the students regarding the top universities, it’s fees structure, and many more things so that the students can have brighter career opportunities. Our aim is to place Indian students to the MCI approved Armenia medical universities with reasonable fees and top-class facilities.<br/><br/>
 						It is recommended to students not to take admission in free medical colleges in Armenia because they lack quality education and infrastructure. But we place the students only at the best medical universities/colleges in Armenia.
           </p>
         </div>
-        <div id="destinex_sec">
+        <div id="New-Lyf_sec">
           <h6 className="service__sub__title">
-						Services by Destinex for Abroad Education
+						Services by New-Lyf for Abroad Education
           </h6>
 					<p className="service__info">
-						Applying <b>MBBS in Armenia</b> from Destinex, the students have the following benefits:
+						Applying <b>MBBS in Armenia</b> from New-Lyf, the students have the following benefits:
             <ul>
               <li>MCI screening test coaching online</li>
               <li>
@@ -484,11 +484,11 @@ function MbbsArmenia() {
                 pursuing MBBS in different countries, and clear each doubt of
                 the students so that they can study MBBS and fulfill their
                 wish.The students can get online counseling session from the CEO
-                of Destinex and can clear their doubts.
+                of New-Lyf and can clear their doubts.
               </li>
               <li>
                 <b>Tele-Counseling</b>
-                <br /> Destinex has a team of expert counselors that provide
+                <br /> New-Lyf has a team of expert counselors that provide
                 accurate information from MBBS to PG courses to the students.
                 The students can interact with any of the expert counselor
                 through phone call, SMS, Whatsapp, Email, and more and get

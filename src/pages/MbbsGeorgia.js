@@ -12,7 +12,7 @@ function MbbsGeorgia() {
 
   const meta = {
     title: 'MBBS in Georgia - MBBS Admission in Georgia for Indian Students',
-    description: 'Study MBBS in Georgia from Top Medical Universities. Destinex provides all guidance & assistance to Indian Students for Admission in Georgia Medical College.',
+    description: 'Study MBBS in Georgia from Top Medical Universities. New-Lyf provides all guidance & assistance to Indian Students for Admission in Georgia Medical College.',
     canonical: 'https://www.mbbsadmissionsinabroad.com/mbbs-in-georgia/',
     meta: {
       charset: 'utf-8',
@@ -58,8 +58,8 @@ function MbbsGeorgia() {
 						<li><a href="#career_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Career Options after Completing MBBS in Georgia </a></li>
 						<li><a href="#problems_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Students face huge problems due to the Fraud Agents </a></li>
 						<li><a href="#reserve_sec"><img src="/assets/icon.png" alt="Left Arrow" /> How reserve your MBBS Seat in Georgia for 2020 Admission </a></li>
-						<li><a href="#charges_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Service & Consultancy Charges of Destinex </a></li>
-						<li><a href="#destinex_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Services by Destinex for Abroad Education </a></li>
+						<li><a href="#charges_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Service & Consultancy Charges of New-Lyf </a></li>
+						<li><a href="#New-Lyf_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Services by New-Lyf for Abroad Education </a></li>
 						<li><a href="#process_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Our Process of conducting Student Counseling </a></li>
             <li><a href="#faq_sec"><img src="/assets/icon.png" alt="Left Arrow" /> MBBS in Georgia FAQ </a></li>
           </ul>
@@ -277,7 +277,7 @@ function MbbsGeorgia() {
 						The students do not have to pay MBBS 6-year fees together in any government medical university in Georgia. If any agent asks for the whole 6-year fees, it’s their own scheme. If the students pay whole fees and got MBBS Admission in Georgia where they taught MBBS in Georgia then they cannot change the university.<br/><br/>
 						As there is no requirement to pay any donation fee or capitation fee for taking MBBS Admission in Georgia, so the students must aware of not paying any donation fees to any agent.<br/><br/>
 						It is recommended to students to qualify MCI screening test coaching (online) in India only before going Georgia for pursuing MBBS. They do not have to trust any false promises of any agent. Because the MCI screening test coaching is not provided in most of the Georgia medical universities.<br/><br/>
-						Therefore, the student should consult Destinex for any information regarding MBBS Admission in Georgia. We provide transparent information to the students so that they fulfill their wish to pursue MBBS in Georgia in the English-taught universities with reasonable and accurate fees.
+						Therefore, the student should consult New-Lyf for any information regarding MBBS Admission in Georgia. We provide transparent information to the students so that they fulfill their wish to pursue MBBS in Georgia in the English-taught universities with reasonable and accurate fees.
           </p>
         </div>
         <div id="reserve_sec">
@@ -309,20 +309,20 @@ function MbbsGeorgia() {
 
         <div id="charges_sec">
           <h6 className="service__sub__title">
-						Service & Consultancy Charges of Destinex
+						Service & Consultancy Charges of New-Lyf
           </h6>
           <p className="service__info">
-						Destinex is one of the best overseas education consultants in India. We have already placed hundreds of Indian students in Georgia for pursuing MBBS course in the top medical universities that taught MBBS course in English language.<br/><br/>
+						New-Lyf is one of the best overseas education consultants in India. We have already placed hundreds of Indian students in Georgia for pursuing MBBS course in the top medical universities that taught MBBS course in English language.<br/><br/>
 						We provide proper guidance to the students regarding the top universities, it’s fees structure, and many more things so that the students can have brighter career opportunities. Our aim is to place Indian students to the MCI approved Georgia medical universities with reasonable fees and top-class facilities.<br/><br/>			
 						It is recommended to students not to take admission in free medical colleges in Georgia because they lack quality education and infrastructure. But we place the students only at the best medical universities/colleges in Georgia.
           </p>
         </div>
-        <div id="destinex_sec">
+        <div id="New-Lyf_sec">
           <h6 className="service__sub__title">
-						Services by Destinex for Abroad Education
+						Services by New-Lyf for Abroad Education
           </h6>
 					<p className="service__info">
-						Applying <b>MBBS in Georgia</b> from Destinex, the students have the following benefits:
+						Applying <b>MBBS in Georgia</b> from New-Lyf, the students have the following benefits:
             	<ul>
 								<li>MCI screening test coaching online</li>
 								<li>Accurate and transparent counseling for MBBS in many countries</li>
@@ -347,11 +347,11 @@ function MbbsGeorgia() {
                 pursuing MBBS in different countries, and clear each doubt of
                 the students so that they can study MBBS and fulfill their
                 wish.The students can get online counseling session from the CEO
-                of Destinex and can clear their doubts.
+                of New-Lyf and can clear their doubts.
               </li>
               <li>
                 <b>Tele-Counseling</b>
-                <br /> Destinex has a team of expert counselors that provide
+                <br /> New-Lyf has a team of expert counselors that provide
                 accurate information from MBBS to PG courses to the students.
                 The students can interact with any of the expert counselor
                 through phone call, SMS, Whatsapp, Email, and more and get

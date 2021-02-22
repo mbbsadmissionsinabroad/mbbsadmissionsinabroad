@@ -12,7 +12,7 @@ function MbbsBelize() {
 	
 	const meta = {
     title: 'MBBS in Belize Central America - MBBS Admission in Belize for Indian Students',
-    description: 'Study MBBS in Belize Central America from Top Medical Universities. Destinex provides all guidance & assistance to Indian Students for Admission in Belize Medical College.',
+    description: 'Study MBBS in Belize Central America from Top Medical Universities. New-Lyf provides all guidance & assistance to Indian Students for Admission in Belize Medical College.',
     canonical: 'https://www.mbbsadmissionsinabroad.com/mbbs-in-belize/',
     meta: {
       charset: 'utf-8',

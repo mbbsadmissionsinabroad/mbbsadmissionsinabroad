@@ -1887,7 +1887,7 @@ function MedicalPgInGermany() {
           <div id="conclusion_sec">
             <h2 className="service__sub__title">Conclusion</h2>
             <p className="service__info">
-              Germany is one of the best places to pursue PG course in the best universities. Germany PG universities provide PG courses at reasonable cost. The students should choose the best abroad education consultancy Destinex to take
+              Germany is one of the best places to pursue PG course in the best universities. Germany PG universities provide PG courses at reasonable cost. The students should choose the best abroad education consultancy New-Lyf to take
               admission to PG course in Germany. We provide complete accurate information about the university so that the students do not have any problem during their studies. We ensure that the students must select the best university at
               affordable fees with quality education.
             </p>

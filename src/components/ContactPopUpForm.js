@@ -63,7 +63,6 @@ class ContactPopUpForm extends React.Component {
 											<option value="Mumbai">Mumbai</option>
 											<option value="Patna">Patna</option>
 											<option value="Bhopal">Bhopal</option>
-											<option value="Lucknow">Lucknow</option>
 											<option value="Germany">Germany</option>
                     </Form.Control>
 								</div>

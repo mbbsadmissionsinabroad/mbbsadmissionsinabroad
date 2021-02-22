@@ -12,7 +12,7 @@ function MbbsKyrgyzstan() {
 	
 	const meta = {
     title: 'MBBS in Kyrgyzstan - MBBS Admission in Kyrgyzstan for Indian Students',
-    description: 'Study MBBS in Kyrgyzstan from Top Medical Universities. Destinex provides all guidance & assistance to Indian Students for Admission in Kyrgyzstan Medical College.',
+    description: 'Study MBBS in Kyrgyzstan from Top Medical Universities. New-Lyf provides all guidance & assistance to Indian Students for Admission in Kyrgyzstan Medical College.',
     canonical: 'https://www.mbbsadmissionsinabroad.com/mbbs-in-kyrgyzstan/',
     meta: {
       charset: 'utf-8',

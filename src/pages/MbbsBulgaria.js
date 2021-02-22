@@ -273,11 +273,11 @@ function MbbsBulgaria() {
 						</Card>
             <Card>
               <Accordion.Toggle as={Card.Header} eventKey="8">
-                <b className="accordion__title">How can Destinex education help you to study MBBS in Bulgaria?</b>
+                <b className="accordion__title">How can New-Lyf education help you to study MBBS in Bulgaria?</b>
               </Accordion.Toggle>
               <Accordion.Collapse eventKey="8">
                 <Card.Body>
-									<p className="service__info">Destinex education can help you to choose the right medical college for you. It can also help you to choose the right accommodation. Apart from that, it can also help you with your future career decisions. Lastly, it can help you with your visa processing.</p>
+									<p className="service__info">New-Lyf education can help you to choose the right medical college for you. It can also help you to choose the right accommodation. Apart from that, it can also help you with your future career decisions. Lastly, it can help you with your visa processing.</p>
                 </Card.Body>
               </Accordion.Collapse>
 						</Card>

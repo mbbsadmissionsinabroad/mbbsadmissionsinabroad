@@ -53,8 +53,8 @@ function MbbsNepal() {
 						<li><a href="#career_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Career Options after Completing MBBS in Nepal </a></li>
 						<li><a href="#problems_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Students face huge problems due to the Fraud Agents </a></li>
 						<li><a href="#reserve_sec"><img src="/assets/icon.png" alt="Left Arrow" /> How reserve your MBBS Seat in Nepal for 2020 Admission </a></li>
-						<li><a href="#charges_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Service & Consultancy Charges of Destinex </a></li>
-						<li><a href="#destinex_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Services by Destinex for Abroad Education </a></li>
+						<li><a href="#charges_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Service & Consultancy Charges of New-Lyf </a></li>
+						<li><a href="#New-Lyf_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Services by New-Lyf for Abroad Education </a></li>
 						<li><a href="#process_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Our Process of conducting Student Counseling </a></li>
             <li><a href="#faq_sec"><img src="/assets/icon.png" alt="Left Arrow" /> MBBS in Nepal FAQ</a></li>
           </ul>
@@ -180,7 +180,7 @@ function MbbsNepal() {
 						<li>They can work in healthcare organization</li>
 						<li>Clinical research industry is booming nowadays, and there are lot of need of doctors from the pharmacology or medicine background who can work as drug safety physician and pharmacology specialist. Therefore, as a doctor from Nepal one can clear the MCI screening test and join the multinational companies as safety physician.</li>
 						<li>There are also healthcare organizations, which needs lot of doctors for community health practice. Doctors after completing their studies can join these organizations to earn a good package and also to do social service.</li>
-						<li>Destinex education service not only helps in MBBS admission in Nepal but also helps in the development of a successful career for the students</li>
+						<li>New-Lyf education service not only helps in MBBS admission in Nepal but also helps in the development of a successful career for the students</li>
 					</ul>
           </p>
         </div>
@@ -188,13 +188,13 @@ function MbbsNepal() {
           <h6 className="service__sub__title">
 						Students face huge problems due to fraud agents
           </h6>
-          <p className="service__info">There are many fraud agents who falsely admit students to universities and colleges in Nepal to collect money. The MBBS admission in Nepal should be done in a transparent way. For MBBS admission in Nepal, it is important to take MCI screening test preparation from the date of joining. There are many medical colleges in Nepal who do not give coaching for MCI screening test. Therefore, for transparent MBBS admission in Nepal, one should visit the Destinex Education Service. Destinex education does not take any capitation or donation fees and shows the student the right path to the process of MBBS admission in Nepal.</p>
+          <p className="service__info">There are many fraud agents who falsely admit students to universities and colleges in Nepal to collect money. The MBBS admission in Nepal should be done in a transparent way. For MBBS admission in Nepal, it is important to take MCI screening test preparation from the date of joining. There are many medical colleges in Nepal who do not give coaching for MCI screening test. Therefore, for transparent MBBS admission in Nepal, one should visit the New-Lyf Education Service. New-Lyf education does not take any capitation or donation fees and shows the student the right path to the process of MBBS admission in Nepal.</p>
         </div>
         <div id="reserve_sec">
           <h6 className="service__sub__title">
 						How to reserve your MBBS Seat in Nepal for 2020 Admission
           </h6>
-          <p className="service__info">Once you provide all the vital documents related to your study seat can be reserved in medical colleges in Nepal. Destinex can help you to study MBBS in Nepal by not paying any capitation donation fees. Also for MBBS admission in Nepal there is no need of any English Proficiency test like IELTS or TOEFL. Destinex education will show you the sure path to success for MBBS admission in Nepal.</p>
+          <p className="service__info">Once you provide all the vital documents related to your study seat can be reserved in medical colleges in Nepal. New-Lyf can help you to study MBBS in Nepal by not paying any capitation donation fees. Also for MBBS admission in Nepal there is no need of any English Proficiency test like IELTS or TOEFL. New-Lyf education will show you the sure path to success for MBBS admission in Nepal.</p>
         </div>
 
         {/* POP UP Btn */}
@@ -211,15 +211,15 @@ function MbbsNepal() {
 
         <div id="charges_sec">
           <h6 className="service__sub__title">
-						Service & Consultancy Charges of Destinex
+						Service & Consultancy Charges of New-Lyf
           </h6>
 					<p className="service__info">
 						<ol>
-							<li>Destinex is a world class service provider in education</li>
-							<li>Destinex provides transparent admission guidelines to MBBS in many countries</li>
-							<li>Destinex also helps in MCI screening test procedure</li>
-							<li>Destinex is the ultimate guide to get admission in good medical colleges in Nepal</li>
-							<li>To Study MBBS in Nepal Destinex will show you the right path</li>
+							<li>New-Lyf is a world class service provider in education</li>
+							<li>New-Lyf provides transparent admission guidelines to MBBS in many countries</li>
+							<li>New-Lyf also helps in MCI screening test procedure</li>
+							<li>New-Lyf is the ultimate guide to get admission in good medical colleges in Nepal</li>
+							<li>To Study MBBS in Nepal New-Lyf will show you the right path</li>
 						</ol>
 					</p>
         </div>
@@ -229,9 +229,9 @@ function MbbsNepal() {
           </h6>
           <p className="service__info">
 						<ul>
-							<li>Destinex provides online counseling for the students who wish to know about the courses. The students can speak with the Destinex CEO over the online platform regarding MBBS admission in Nepal and can prepare to Study MBBS in Nepal.</li>
-							<li>Destinex can also provide counseling over the phone to the students</li>
-							<li>It also provides in person counseling. Students do not have to travel a large distance as there are centres all over the country for the purpose of easy consultation. Study MBBS in Nepal without any problem and get the right kind of guidance from Destinex.</li>
+							<li>New-Lyf provides online counseling for the students who wish to know about the courses. The students can speak with the New-Lyf CEO over the online platform regarding MBBS admission in Nepal and can prepare to Study MBBS in Nepal.</li>
+							<li>New-Lyf can also provide counseling over the phone to the students</li>
+							<li>It also provides in person counseling. Students do not have to travel a large distance as there are centres all over the country for the purpose of easy consultation. Study MBBS in Nepal without any problem and get the right kind of guidance from New-Lyf.</li>
 						</ul>
 					</p>
         </div>
@@ -314,7 +314,7 @@ function MbbsNepal() {
               </Accordion.Toggle>
               <Accordion.Collapse eventKey="7">
                 <Card.Body>
-									<p className="service__info">If you study MBBS in Nepal, you will find that there are several colleges like B.P. Koirala Institute of Health Sciences, where the infrastructural facilities are very good. Sometimes, the education curriculum follows the Indian pattern of medical education and has acceptance at a global level. Therefore, without any doubt in your mind consult Destinex Education and prepare for MBBS admission in Nepal.</p>
+									<p className="service__info">If you study MBBS in Nepal, you will find that there are several colleges like B.P. Koirala Institute of Health Sciences, where the infrastructural facilities are very good. Sometimes, the education curriculum follows the Indian pattern of medical education and has acceptance at a global level. Therefore, without any doubt in your mind consult New-Lyf Education and prepare for MBBS admission in Nepal.</p>
                 </Card.Body>
               </Accordion.Collapse>
             </Card>

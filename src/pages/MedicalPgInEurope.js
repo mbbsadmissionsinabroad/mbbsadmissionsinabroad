@@ -302,7 +302,7 @@ function MedicalPgInEurope() {
 				</div>
 				<div id="conclusion_sec">
 					<h6 className="service__sub__title">Conclusion</h6>
-					<p className="service__info">Europe is one of the preferred destinations to study PG course at affordable fees in the best universities. The students can choose Destinex for getting admission to PG course in Europe as we are a trustworthy education consultant and provide university selection assistance so that you can select the best university. We will make you go through several PG programs available in Europe for the Indian students</p>
+					<p className="service__info">Europe is one of the preferred destinations to study PG course at affordable fees in the best universities. The students can choose New-Lyf for getting admission to PG course in Europe as we are a trustworthy education consultant and provide university selection assistance so that you can select the best university. We will make you go through several PG programs available in Europe for the Indian students</p>
 				</div>	
 
 				<div id="testimonials">

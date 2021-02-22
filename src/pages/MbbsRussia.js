@@ -12,7 +12,7 @@ function MbbsRussia() {
 
   const meta = {
     title: 'MBBS Admission in Russia for Indian Students at MCI Approved University',
-    description: 'Study MBBS in Russia from Top Medical Universities. Destinex provides all guidance & assistance to Indian Students for Admission in Russian Medical College.',
+    description: 'Study MBBS in Russia from Top Medical Universities. New-Lyf provides all guidance & assistance to Indian Students for Admission in Russian Medical College.',
     canonical: 'https://www.mbbsadmissionsinabroad.com/mbbs-in-russia/',
     meta: {
       charset: 'utf-8',
@@ -80,8 +80,8 @@ function MbbsRussia() {
 						<li><a href="#career_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Career Options after Completing MBBS in Russia </a></li>
 						<li><a href="#problems_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Students face huge problems due to the Fraud Agents </a></li>
 						<li><a href="#reserve_sec"><img src="/assets/icon.png" alt="Left Arrow" /> How reserve your MBBS Seat in Russia for 2020 Admission </a></li>
-						<li><a href="#charges_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Service & Consultancy Charges of Destinex </a></li>
-						<li><a href="#destinex_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Services by Destinex for Abroad Education </a></li>
+						<li><a href="#charges_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Service & Consultancy Charges of New-Lyf </a></li>
+						<li><a href="#New-Lyf_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Services by New-Lyf for Abroad Education </a></li>
 						<li><a href="#process_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Our Process of conducting Student Counseling </a></li>
             <li><a href="#faq_sec"><img src="/assets/icon.png" alt="Left Arrow" /> MBBS in Russia FAQ </a></li>
           </ul>
@@ -2085,7 +2085,7 @@ function MbbsRussia() {
             MCI screening test coaching is not provided in most of the Russia
             medical universities.
             <br />
-            Therefore, the student should consult Destinex for any information
+            Therefore, the student should consult New-Lyf for any information
             regarding <b>MBBS Admission in Russia</b>. We provide transparent
             information to the students so that they fulfill their wish to
             pursue <b>MBBS in Russia</b> in the English-taught universities with
@@ -2098,12 +2098,12 @@ function MbbsRussia() {
           </h6>
           <p className="service__info">
             Russia is one of the best countries for taking admission in MBBS
-            course. Destinex recommends the students to follow the below
+            course. New-Lyf recommends the students to follow the below
             significant steps for admission guidelines:
             <ul>
               <li>
                 The students need to choose the University as per their choice
-                in which they wish to pursue MBBS in Russia. Destinex provides
+                in which they wish to pursue MBBS in Russia. New-Lyf provides
                 complete details regarding some of the highest-ranked
                 universities in Russia.
               </li>
@@ -2146,10 +2146,10 @@ function MbbsRussia() {
 
         <div id="charges_sec">
           <h6 className="service__sub__title">
-            Service & Consultancy Charges of Destinex
+            Service & Consultancy Charges of New-Lyf
           </h6>
           <p className="service__info">
-            Destinex is one of the best overseas education consultants in India.
+            New-Lyf is one of the best overseas education consultants in India.
             We have already placed hundreds of Indian students in Russia for
             pursuing MBBS course in the top medical universities that taught
             MBBS course in English language.
@@ -2165,9 +2165,9 @@ function MbbsRussia() {
             Russia.
           </p>
         </div>
-        <div id="destinex_sec">
+        <div id="New-Lyf_sec">
           <h6 className="service__sub__title">
-            Services by Destinex for Abroad Education
+            Services by New-Lyf for Abroad Education
           </h6>
           <p className="service__info">
             <ul>
@@ -2200,11 +2200,11 @@ function MbbsRussia() {
                 pursuing MBBS in different countries, and clear each doubt of
                 the students so that they can study MBBS and fulfill their
                 wish.The students can get online counseling session from the CEO
-                of Destinex and can clear their doubts.
+                of New-Lyf and can clear their doubts.
               </li>
               <li>
                 <b>Tele-Counseling</b>
-                <br /> Destinex has a team of expert counselors that provide
+                <br /> New-Lyf has a team of expert counselors that provide
                 accurate information from MBBS to PG courses to the students.
                 The students can interact with any of the expert counselor
                 through phone call, SMS, Whatsapp, Email, and more and get
@@ -2228,7 +2228,7 @@ function MbbsRussia() {
               </Accordion.Toggle>
               <Accordion.Collapse eventKey="0">
                 <Card.Body>
-									<p className="service__info">Destinex is one of the best overseas education consultants in India. We have already placed hundreds of Indian students in Russia for pursuing MBBS course in the top medical universities that taught MBBS course in English language.</p>
+									<p className="service__info">New-Lyf is one of the best overseas education consultants in India. We have already placed hundreds of Indian students in Russia for pursuing MBBS course in the top medical universities that taught MBBS course in English language.</p>
                 </Card.Body>
               </Accordion.Collapse>
             </Card>

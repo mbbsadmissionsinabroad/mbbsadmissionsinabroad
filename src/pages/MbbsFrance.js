@@ -13,7 +13,7 @@ function MbbsFrance() {
   const meta = {
     title: "MBBS in France - MBBS Admission in France for Indian Students",
     description:
-      "Study MBBS in France from Top Medical Universities. Destinex provides all guidance & assistance to Indian Students for Admission in France Medical College.",
+      "Study MBBS in France from Top Medical Universities. New-Lyf provides all guidance & assistance to Indian Students for Admission in France Medical College.",
     canonical: "https://www.mbbsadmissionsinabroad.com/mbbs-in-france/",
     meta: {
       charset: "utf-8",
