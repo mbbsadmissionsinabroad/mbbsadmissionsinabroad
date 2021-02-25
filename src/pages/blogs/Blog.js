@@ -42,7 +42,7 @@ function Blog() {
                       <h4>{el.title}</h4>
                     </div>
                     <div className="blog-author">
-                      <img src="/assets/DL.png" alt="" />
+                      <img src="/assets/DL.png" alt="New-Lyf Logo" />
                       <p>{el.author}</p>
                     </div>
                   </div>
