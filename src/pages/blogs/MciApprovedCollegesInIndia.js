@@ -4978,7 +4978,7 @@ function MciApprovedCollegesInIndia() {
 
 								<p className="blog__post__desc">MBBS course in India is provided under various specializations such as <b>Medical and Biomedical Sciences, Pharmacy, Allied Health, and Nursing</b>. The <b>top medical colleges in India</b> provide various <b>undergraduate, postgraduate, doctorate, diploma, and certificate courses</b> in the field of Medical and Health Science. Here is the <b>list of medical colleges in India</b>:</p>
 
-								<p className="blog__post__desc">But Destinex assists you with the process of learning the online German language. When you complete the <Link to="/learn-german-language-course-in-bangalore">online German language course</Link> and get experience in your field, you can apply for the post of <Link to="/nursing-jobs-in-germany-for-indian-nurses">nursing jobs in Germany for Indian nurses</Link>.</p>
+								<p className="blog__post__desc">But New-Lyf assists you with the process of learning the online German language. When you complete the <Link to="/learn-german-language-course-in-bangalore">online German language course</Link> and get experience in your field, you can apply for the post of <Link to="/nursing-jobs-in-germany-for-indian-nurses">nursing jobs in Germany for Indian nurses</Link>.</p>
 
 								<p className="blog__post__desc">As professional credentials and other qualifications need to be get assessed in Germany then you will get an adaptation trying offer and confirmation, so it is necessary to learn the German language up to B2 Level to qualify for a license to practice as a <b>staff nurse jobs in Germany</b>. Your proficiency level must be good enough so that you can communicate <b>effectively in a hospital, with the patients, doctors & surgeons, nursing heads, co-working nurses, assistants</b>, and many more.</p>
 
@@ -5067,7 +5067,7 @@ function MciApprovedCollegesInIndia() {
 							<div className="blog__post__aut_box">
 								<Row className="no-gutters">
 								<Col md={12} lg={2}>
-								<img className="blog__post__aut_img" src="assets/DL.png" alt="Destinex Logo" />
+								<img className="blog__post__aut_img" src="assets/DL.png" alt="New-Lyf Logo" />
 								</Col>
 								<Col md={12} lg={10}>
 								<p className="blog__post__aut_info">Dr Vinit Kumar is a Educational Consultant for India & Abroad with more than 18 Years of Experience. He has an extensive background guiding & assisting medical students to find the best university as per their budget. ✔3500+ Students ✔15 Countries ✔MBBS, MBA, PG, UG ✔100% Commitment ✔Education Loan ✔Job Placements</p>							

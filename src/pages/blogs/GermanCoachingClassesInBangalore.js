@@ -38,7 +38,7 @@ return (
 					<a href="#3"> <img src="/assets/left-arrow.png" alt="Left Arrow" /> Who can take German language classes in Bangalore & Why it is important? </a>
 				</li>
 				<li>
-					<a href="#4"> <img src="/assets/left-arrow.png" alt="Left Arrow" /> Benefits of taking German Classes in Bangalore from Destinex </a>
+					<a href="#4"> <img src="/assets/left-arrow.png" alt="Left Arrow" /> Benefits of taking German Classes in Bangalore from New-Lyf </a>
 				</li>
 				<li>
 					<a href="#5"> <img src="/assets/left-arrow.png" alt="Left Arrow" /> Advantage of taking German language classes in Bangalore </a>
@@ -51,7 +51,7 @@ return (
 		<section className="blog__post">
 			<Container>
 				<p className="blog__post__desc"> Germany is an economically stable country & has immense transactions with other developing countries. The German language is a prospering course provided by
-					<Link to="/"> Destinex in Bangalore</Link> that enables you to upgrade your skills in one of the widely spoken foreign languages in Europe. Destinex provide the
+					<Link to="/"> New-Lyf in Bangalore</Link> that enables you to upgrade your skills in one of the widely spoken foreign languages in Europe. New-Lyf provide the
 					<Link to="/german-coaching-classes-in-bangalore"> best German Classes in Bangalore </Link> which is handled by experts who have extensive experience in coaching as German language. </p>
 				<p className="blog__post__desc"> If you wish to study in the best Germany University or do a job in Germany, it is necessary to take <b>German classes in Bangalore</b>. You can take the
 					<Link to="/learn-german-language-course-in-bangalore"> German language classes in Bangalore </Link> at a very affordable fee. The structure of the <b>German classes in Bangalore</b> is designed in a simple and efficient manner that makes it easier for you to learn in German language. You get scenario-based coaching to ensure you remember everything that is being thought during the course. </p> {/*<img src="assets/images/banner-advertisement.png" alt="" /> */}
@@ -159,11 +159,11 @@ return (
 
 				<div id="6">
 					<h6 className="blog__post__title">Conclusion</h6>
-					<p className="blog__post__desc"> Destinex follows the guidelines that <b>CEFR</b> <Link to={{ pathname: "https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages" }} target="_blank">(Common European Framework of Reference for Languages)</Link> standardizes for learners of foreign languages. The level classified by CERF is A1 for beginners, A2 for elementary, B1 for intermediate, B2 for upper intermediate, C1 as advanced, and C2 as mastery. The courses at Destinex are divided as per the international rules. </p>
+					<p className="blog__post__desc"> New-Lyf follows the guidelines that <b>CEFR</b> <Link to={{ pathname: "https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages" }} target="_blank">(Common European Framework of Reference for Languages)</Link> standardizes for learners of foreign languages. The level classified by CERF is A1 for beginners, A2 for elementary, B1 for intermediate, B2 for upper intermediate, C1 as advanced, and C2 as mastery. The courses at New-Lyf are divided as per the international rules. </p>
 				</div>
 				<div className="blog__post__aut_box">
 					<Row className="no-gutters">
-						<Col md={12} lg={2}> <img className="blog__post__aut_img" src="assets/DL.png" alt="Destinex Logo" /> </Col>
+						<Col md={12} lg={2}> <img className="blog__post__aut_img" src="assets/DL.png" alt="New-Lyf Logo" /> </Col>
 						<Col md={12} lg={10}>
 							<p className="blog__post__aut_info"> Dr Vinit Kumar is a Educational Consultant for India & Abroad with more than 18 Years of Experience. He has an extensive background guiding & assisting medical students to find the best university as per their budget. ✔3500+ Students ✔15 Countries ✔MBBS, MBA, PG, UG ✔100% Commitment ✔Education Loan ✔Job Placements </p>
 						</Col>

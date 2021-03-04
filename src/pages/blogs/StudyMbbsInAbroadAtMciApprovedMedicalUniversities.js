@@ -2152,14 +2152,14 @@ function StudyMbbsInAbroadAtMciApprovedMedicalUniversities() {
 							<div id="6">
 								<h6 className="blog__post__title">Conclusion</h6>
 
-								<p className="blog__post__desc">The students should choose the Destinex education consultant who guides you correctly for country and university selection. We recommend you the best MCI Approved Medical Universities. It is necessary to always select “A” grade universities while selecting the university to take Medical admission in Abroad.</p>
+								<p className="blog__post__desc">The students should choose the New-Lyf education consultant who guides you correctly for country and university selection. We recommend you the best MCI Approved Medical Universities. It is necessary to always select “A” grade universities while selecting the university to take Medical admission in Abroad.</p>
 
 							</div>
 
 							<div className="blog__post__aut_box">
 								<Row className="no-gutters">
 								<Col md={12} lg={2}>
-								<img className="blog__post__aut_img" src="assets/DL.png" alt="Destinex Logo" />
+								<img className="blog__post__aut_img" src="assets/DL.png" alt="New-Lyf Logo" />
 								</Col>
 								<Col md={12} lg={10}>
 								<p className="blog__post__aut_info">Dr Vinit Kumar is a Educational Consultant for India & Abroad with more than 18 Years of Experience. He has an extensive background guiding & assisting medical students to find the best university as per their budget. ✔3500+ Students ✔15 Countries ✔MBBS, MBA, PG, UG ✔100% Commitment ✔Education Loan ✔Job Placements</p>							

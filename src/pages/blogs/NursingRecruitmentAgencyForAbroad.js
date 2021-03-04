@@ -7,7 +7,7 @@ import DocumentMeta from "react-document-meta";
 function NursingRecruitmentAgencyForAbroad() {
 	const meta = {
     title: "How do I choose an Indian Nursing Recruitment Agency for Abroad?",
-    description: "Destinex an Indian Nursing Recruitment Agency for Abroad. A recruitment agency gives proper guidance through the recruitment process till you get the nursing job at the best place.",
+    description: "New-Lyf an Indian Nursing Recruitment Agency for Abroad. A recruitment agency gives proper guidance through the recruitment process till you get the nursing job at the best place.",
     canonical: "https://www.mbbsadmissionsinabroad.com/how-do-choose-an-indian-nursing-recruitment-agency-for-abroad",
     meta: {
       charset: "utf-8",
@@ -35,7 +35,7 @@ function NursingRecruitmentAgencyForAbroad() {
 
 							<p className="blog__post__desc">A recruitment agency is the one that gives proper guidance through the recruitment process till you get the nursing job at the best place. Abroad Nursing Job Agency in India has a team of well-qualified professionals that are highly precise in placing their candidates in the best company for them.</p>
 
-							<p className="blog__post__desc">Destinex is one of the best <b>abroad nursing recruitment agency in India</b> which is well known for its prompt placement services and delivery of immigration advice regarding several countries. We deliver a multitude of services, placement of Nurses, Training of <b>Nurses, and Immigration advice of Nurses</b>.</p>
+							<p className="blog__post__desc">New-Lyf is one of the best <b>abroad nursing recruitment agency in India</b> which is well known for its prompt placement services and delivery of immigration advice regarding several countries. We deliver a multitude of services, placement of Nurses, Training of <b>Nurses, and Immigration advice of Nurses</b>.</p>
 
 							<p className="blog__post__desc">We excel in assisting & guiding nurses at every step of the process such as immigration, recruitment, education, and training. We at abroad nursing job agency in India undergo a rigorous screening & selection procedure and are fully certified with the necessary competencies of registered nurses to practice independently.</p>
 
@@ -61,7 +61,7 @@ function NursingRecruitmentAgencyForAbroad() {
 							<div className="blog__post__aut_box">
 								<Row className="no-gutters">
 								<Col md={12} lg={2}>
-								<img className="blog__post__aut_img" src="assets/DL.png" alt="Destinex Logo" />
+								<img className="blog__post__aut_img" src="assets/DL.png" alt="New-Lyf Logo" />
 								</Col>
 								<Col md={12} lg={10}>
 								<p className="blog__post__aut_info">Dr Vinit Kumar is a Educational Consultant for India & Abroad with more than 18 Years of Experience. He has an extensive background guiding & assisting medical students to find the best university as per their budget. ✔3500+ Students ✔15 Countries ✔MBBS, MBA, PG, UG ✔100% Commitment ✔Education Loan ✔Job Placements</p>							

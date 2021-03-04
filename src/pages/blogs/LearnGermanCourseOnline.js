@@ -38,7 +38,7 @@ function LearnGermanCourseOnline() {
 					</Container>
 					<section className="blog__post">
 						<Container>
-							<p className="blog__post__desc">Destinex provides <Link to="/german-language-course-online-for-beginners">German language course online for beginners</Link> where you can learn the foundation of the spoken German language, from basic grammar to essential vocabulary, using simple text & audio. We provide training of <b>online German course</b> that include German language sentence structure and conversational dialogues to more advanced German vocabulary and phrases. <b>German language classes</b> online include:</p>
+							<p className="blog__post__desc">New-Lyf provides <Link to="/german-language-course-online-for-beginners">German language course online for beginners</Link> where you can learn the foundation of the spoken German language, from basic grammar to essential vocabulary, using simple text & audio. We provide training of <b>online German course</b> that include German language sentence structure and conversational dialogues to more advanced German vocabulary and phrases. <b>German language classes</b> online include:</p>
 
 							<ul className="blog__post__list">
 								<li><img src="assets/right-direction.png" alt="Right Direction" /> German grammar and vocabulary exercises</li>
@@ -72,11 +72,11 @@ function LearnGermanCourseOnline() {
 
 								<p className="blog__post__desc"><b>Online German course</b></p>
 
-								<p className="blog__post__desc">It is the best way to learn German. Destinex has expert-designed <b>online German course</b> at an affordable price. You can learn on your own time and are often more interactive and engaging than various free courses and resources. We constantly updated with new, fresh material, so you can get the most relevant learning experience available.</p>
+								<p className="blog__post__desc">It is the best way to learn German. New-Lyf has expert-designed <b>online German course</b> at an affordable price. You can learn on your own time and are often more interactive and engaging than various free courses and resources. We constantly updated with new, fresh material, so you can get the most relevant learning experience available.</p>
 
 								<p className="blog__post__desc"><b>Learn German at home</b></p>
 
-								<p className="blog__post__desc">There are various ways to learn German at home such as <b>German media, apps, and online German course</b> by Destinex that enable you to practice German wherever and whenever. It’s easy to take <b>German language classes online</b> from any device such as smartphones, tab, and PC.</p>
+								<p className="blog__post__desc">There are various ways to learn German at home such as <b>German media, apps, and online German course</b> by New-Lyf that enable you to practice German wherever and whenever. It’s easy to take <b>German language classes online</b> from any device such as smartphones, tab, and PC.</p>
 
 							</div>
 
@@ -85,7 +85,7 @@ function LearnGermanCourseOnline() {
 
 								<p className="blog__post__desc">Learning a new language may take a different time depending on various factors such as your <b>prior experience</b> and <b>exposure to the language</b>, how much work you put into the <b>learning process, motivation</b>, and more. Learning <b>online German course</b> for beginners takes around 36 weeks.</p>
 
-								<p className="blog__post__desc">In Destinex <b>German language classes online</b>, you can learn the <b>basics of vocabulary, grammar, and pronunciation with ease</b> in short duration. Learning the German language depends on how often you practice, how well equipped you are to learn. If you practice on a daily basis for at least 3 to 6 months, you can able to handle a daily conversation with German people.</p>
+								<p className="blog__post__desc">In New-Lyf <b>German language classes online</b>, you can learn the <b>basics of vocabulary, grammar, and pronunciation with ease</b> in short duration. Learning the German language depends on how often you practice, how well equipped you are to learn. If you practice on a daily basis for at least 3 to 6 months, you can able to handle a daily conversation with German people.</p>
 
 							</div>
 
@@ -94,14 +94,14 @@ function LearnGermanCourseOnline() {
 
 								<p className="blog__post__desc">English and German share a common language ancestor. Both these languages are part of the same linguistic family known as the West Germanic languages. English shares much of its <b>grammar</b> and <b>syntax</b>, or <b>sentence structure with German</b>.</p>
 
-								<p className="blog__post__desc">An English speaker has some benefits when it comes to learning <b>online German course</b>, especially many of the words that sound the same in both languages. However, learning German is difficult even for English speakers due to tricky words, the pronunciation. You can build your skills to speak German fluently effortlessly with Destinex.</p>
+								<p className="blog__post__desc">An English speaker has some benefits when it comes to learning <b>online German course</b>, especially many of the words that sound the same in both languages. However, learning German is difficult even for English speakers due to tricky words, the pronunciation. You can build your skills to speak German fluently effortlessly with New-Lyf.</p>
 
 							</div>
 
 							<div id="5">
 								<h3 className="blog__post__title">Conclusion</h3>
 
-								<p className="blog__post__desc">After learning <b>online German course</b>, opens you up to a better understanding of the language itself and also of the arts and culture of the world that speaks it. Learning to speak German fluently is an exercise in patience and practice. Destinex makes you expert to speak the German language well. It takes time and effort, and you won’t get without making a few mistakes along the way. So start learning <b>online German course</b> and expand your language skills now!</p>
+								<p className="blog__post__desc">After learning <b>online German course</b>, opens you up to a better understanding of the language itself and also of the arts and culture of the world that speaks it. Learning to speak German fluently is an exercise in patience and practice. New-Lyf makes you expert to speak the German language well. It takes time and effort, and you won’t get without making a few mistakes along the way. So start learning <b>online German course</b> and expand your language skills now!</p>
 
 							</div>
 
@@ -109,7 +109,7 @@ function LearnGermanCourseOnline() {
 							<div className="blog__post__aut_box">
 								<Row className="no-gutters">
 								<Col md={12} lg={2}>
-								<img className="blog__post__aut_img" src="assets/DL.png" alt="Destinex Logo" />
+								<img className="blog__post__aut_img" src="assets/DL.png" alt="New-Lyf Logo" />
 								</Col>
 								<Col md={12} lg={10}>
 								<p className="blog__post__aut_info">Dr Vinit Kumar is a Educational Consultant for India & Abroad with more than 18 Years of Experience. He has an extensive background guiding & assisting medical students to find the best university as per their budget. ✔3500+ Students ✔15 Countries ✔MBBS, MBA, PG, UG ✔100% Commitment ✔Education Loan ✔Job Placements</p>							

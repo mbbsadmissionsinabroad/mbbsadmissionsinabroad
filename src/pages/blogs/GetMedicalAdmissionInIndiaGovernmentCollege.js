@@ -156,7 +156,7 @@ function GetMedicalAdmissionInIndiaGovernmentCollege() {
 
 							<div id="4">
 								<h5 className="blog__post__title">Be the part of the Biggest NEET Online Exam (NEET Test Series Event)</h5>
-								<p className="blog__post__desc">Destinex is going to hold a seminar from 10 June to 15 June where students can participate from different parts of India. It is the golden opportunity to interact with our expert counselors and attain the appropriate advice on a medical career. Experts will discuss the exam pattern, marking scheme, and type of questions that may appear so that the students can score 600+ <b>in the NEET 2020 examination.</b> Get our expert’s guidance for <b>MBBS admission Indian Government College.</b></p>
+								<p className="blog__post__desc">New-Lyf is going to hold a seminar from 10 June to 15 June where students can participate from different parts of India. It is the golden opportunity to interact with our expert counselors and attain the appropriate advice on a medical career. Experts will discuss the exam pattern, marking scheme, and type of questions that may appear so that the students can score 600+ <b>in the NEET 2020 examination.</b> Get our expert’s guidance for <b>MBBS admission Indian Government College.</b></p>
 							</div>
 
 							<div id="5">
@@ -168,7 +168,7 @@ function GetMedicalAdmissionInIndiaGovernmentCollege() {
 							<div className="blog__post__aut_box">
 								<Row className="no-gutters">
 								<Col md={12} lg={2}>
-								<img className="blog__post__aut_img" src="assets/DL.png" alt="Destinex Logo" />
+								<img className="blog__post__aut_img" src="assets/DL.png" alt="New-Lyf Logo" />
 								</Col>
 								<Col md={12} lg={10}>
 								<p className="blog__post__aut_info">Dr Vinit Kumar is a Educational Consultant for India & Abroad with more than 18 Years of Experience. He has an extensive background guiding & assisting medical students to find the best university as per their budget. ✔3500+ Students ✔15 Countries ✔MBBS, MBA, PG, UG ✔100% Commitment ✔Education Loan ✔Job Placements</p>							

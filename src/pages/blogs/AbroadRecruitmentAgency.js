@@ -40,7 +40,7 @@ function AbroadRecruitmentAgency() {
 					</Container>
 					<section className="blog__post">
 						<Container>
-							<p className="blog__post__desc">Destinex is a well-known <Link to="/abroad-nursing-recruitment-agency-in-india">overseas nursing recruitment agency in India</Link> popular recruitment because of its prompt placement services and delivery of immigration advice in various countries. We provide assistance to the candidates seeking <Link to="/nursing-jobs-in-canada">nursing jobs in Canada</Link> and <Link to="/nursing-job-in-germany">nursing jobs in Germany</Link>. We assist candidates to search for suitable jobs and other formalities such as visa and immigration formalities.</p>
+							<p className="blog__post__desc">New-Lyf is a well-known <Link to="/abroad-nursing-recruitment-agency-in-india">overseas nursing recruitment agency in India</Link> popular recruitment because of its prompt placement services and delivery of immigration advice in various countries. We provide assistance to the candidates seeking <Link to="/nursing-jobs-in-canada">nursing jobs in Canada</Link> and <Link to="/nursing-job-in-germany">nursing jobs in Germany</Link>. We assist candidates to search for suitable jobs and other formalities such as visa and immigration formalities.</p>
 							{/*<img src="assets/images/banner-advertisement.png" alt="" /> */}
 							
 							<div id="1">
@@ -149,14 +149,14 @@ function AbroadRecruitmentAgency() {
 
 							<div id="6">
 								<h6 className="blog__post__title">How to Apply Nursing jobs in Abroad</h6>
-								<p className="blog__post__desc">Selecting a <b>nursing career abroad</b> can be financially rewarding. If the candidates have the desire to go abroad for better career prospects then they must have a <b>degree of B.Sc. /M.Sc</b>. Nursing assists them to earn a higher salary as well. There are huge openings in top countries. Destinex is one of the best <Link to="/abroad-nursing-recruitment-agency-in-india">abroad nursing jobs consultancy in India</Link> that assists you in <b>applying for nursing jobs abroad</b>. We provide you accurate details and place you in the best country.</p>
+								<p className="blog__post__desc">Selecting a <b>nursing career abroad</b> can be financially rewarding. If the candidates have the desire to go abroad for better career prospects then they must have a <b>degree of B.Sc. /M.Sc</b>. Nursing assists them to earn a higher salary as well. There are huge openings in top countries. New-Lyf is one of the best <Link to="/abroad-nursing-recruitment-agency-in-india">abroad nursing jobs consultancy in India</Link> that assists you in <b>applying for nursing jobs abroad</b>. We provide you accurate details and place you in the best country.</p>
 
 							</div>
 
 							<div className="blog__post__aut_box">
 								<Row className="no-gutters">
 								<Col md={12} lg={2}>
-								<img className="blog__post__aut_img" src="assets/DL.png" alt="Destinex Logo" />
+								<img className="blog__post__aut_img" src="assets/DL.png" alt="New-Lyf Logo" />
 								</Col>
 								<Col md={12} lg={10}>
 								<p className="blog__post__aut_info">Dr Vinit Kumar is a Educational Consultant for India & Abroad with more than 18 Years of Experience. He has an extensive background guiding & assisting medical students to find the best university as per their budget. ✔3500+ Students ✔15 Countries ✔MBBS, MBA, PG, UG ✔100% Commitment ✔Education Loan ✔Job Placements</p>							

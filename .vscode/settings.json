@@ -1,4 +1,8 @@
 {
   "html.format.wrapAttributes": "force-aligned",
-  "prettier.jsxBracketSameLine": true
+  "prettier.jsxBracketSameLine": true,
+  "prettier.configPath": ".prettierrc",
+  "prettier.prettierPath": "/",
+  "prettier.requireConfig": true,
+  "compile-hero.disable-compile-files-on-did-save-code": false
 }

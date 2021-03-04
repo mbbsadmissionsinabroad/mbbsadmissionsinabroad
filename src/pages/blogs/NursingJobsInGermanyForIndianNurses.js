@@ -46,7 +46,7 @@ function NursingJobsInGermanyForIndianNurses() {
 								<h2 className="blog__post__title">About Nursing Opportunity for Indian Nurses in Germany</h2>
 								<p className="blog__post__desc">There is a high demand for qualified nurses in Germany so there is a number of <b>nursing jobs in Germany</b> hospital. Some people do not opt for <Link to="/staff-nursing-jobs-in-germany-without-ielts">staff nurse jobs in Germany</Link> because of the language barrier. In Germany, the German is their speaking language and nursing practice is conducted in the German language only in the hospitals and other health care centers.</p>
 
-								<p className="blog__post__desc">But Destinex assists you with the process of learning the online German language. When you complete the <Link to="/learn-german-language-course-in-bangalore">online German language course</Link> and get experience in your field, you can apply for the post of <Link to="/nursing-jobs-in-germany-for-indian-nurses">nursing jobs in Germany for Indian nurses</Link>.</p>
+								<p className="blog__post__desc">But New-Lyf assists you with the process of learning the online German language. When you complete the <Link to="/learn-german-language-course-in-bangalore">online German language course</Link> and get experience in your field, you can apply for the post of <Link to="/nursing-jobs-in-germany-for-indian-nurses">nursing jobs in Germany for Indian nurses</Link>.</p>
 
 								<p className="blog__post__desc">As professional credentials and other qualifications need to be get assessed in Germany then you will get an adaptation trying offer and confirmation, so it is necessary to learn the German language up to B2 Level to qualify for a license to practice as a <b>staff nurse jobs in Germany</b>. Your proficiency level must be good enough so that you can communicate <b>effectively in a hospital, with the patients, doctors & surgeons, nursing heads, co-working nurses, assistants</b>, and many more.</p>
 
@@ -85,9 +85,9 @@ function NursingJobsInGermanyForIndianNurses() {
 
 								<p className="blog__post__desc">It is necessary that you must have knowledge of the German language if you want to work as a Nurse in Germany because it enables you to interact with local people as they can speak in the German language only. It is necessary that every nurse who applies for the nursing jobs in Germany must require knowledge of the German language.</p>
 
-								<p className="blog__post__desc">Destinex helps you to learn the German language easily as it provides online German language classes at very affordable fees. The structure of German language course is designed in a simple and efficient manner that makes it easier for you to learn in German language.</p>
+								<p className="blog__post__desc">New-Lyf helps you to learn the German language easily as it provides online German language classes at very affordable fees. The structure of German language course is designed in a simple and efficient manner that makes it easier for you to learn in German language.</p>
 
-								<p className="blog__post__desc">You need a B2 level of the German language to begin your recognition process in Germany. You must need to start your German language course as soon as possible from Destinex if you want to start working as a Nurse in Germany.</p>
+								<p className="blog__post__desc">You need a B2 level of the German language to begin your recognition process in Germany. You must need to start your German language course as soon as possible from New-Lyf if you want to start working as a Nurse in Germany.</p>
 
 								<p className="blog__post__desc">German language is the most important factor to become a registered nurse in Germany. You should have a C1 level of German language and the adaptation program comprises German language class from A1 to C1 level.</p>
 
@@ -115,7 +115,7 @@ function NursingJobsInGermanyForIndianNurses() {
 							<div className="blog__post__aut_box">
 								<Row className="no-gutters">
 								<Col md={12} lg={2}>
-								<img className="blog__post__aut_img" src="assets/DL.png" alt="Destinex Logo" />
+								<img className="blog__post__aut_img" src="assets/DL.png" alt="New-Lyf Logo" />
 								</Col>
 								<Col md={12} lg={10}>
 								<p className="blog__post__aut_info">Dr Vinit Kumar is a Educational Consultant for India & Abroad with more than 18 Years of Experience. He has an extensive background guiding & assisting medical students to find the best university as per their budget. ✔3500+ Students ✔15 Countries ✔MBBS, MBA, PG, UG ✔100% Commitment ✔Education Loan ✔Job Placements</p>							

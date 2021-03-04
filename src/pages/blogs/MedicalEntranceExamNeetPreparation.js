@@ -41,7 +41,7 @@ function MedicalEntranceExamNeetPreparation() {
 					</Container>
 					<section className="blog__post">
 						<Container>
-							<p className="blog__post__desc">The candidates can easily get <b>MBBS admission</b> in the medical and dental colleges by qualifying NEET. Destinex helps the candidates in the preparations for NEET so as the candidates can know how to <Link to={{pathname: "https://neettestseries.co.in/"}}>prepare for NEET 2020</Link> in the best possible way in order to score high ranks.</p>
+							<p className="blog__post__desc">The candidates can easily get <b>MBBS admission</b> in the medical and dental colleges by qualifying NEET. New-Lyf helps the candidates in the preparations for NEET so as the candidates can know how to <Link to={{pathname: "https://neettestseries.co.in/"}}>prepare for NEET 2020</Link> in the best possible way in order to score high ranks.</p>
 
 							<p className="blog__post__desc">This article helps the candidates with quintessential <Link to={{pathname: "https://neettestseries.co.in/"}}>preparation tips to crack NEET 2020 exam with high ranks</Link> and guide them to strategize the study schedule, manage time, clear doubts to qualify the entrance examination.</p>
 							{/*<img src="assets/images/banner-advertisement.png" alt="" /> */}
@@ -166,7 +166,7 @@ function MedicalEntranceExamNeetPreparation() {
 
 							<div id="6">
 								<h6 className="blog__post__title">About NEET Test Series Event</h6>
-								<p className="blog__post__desc">Destinex is going to hold a seminar from 10 June to 15 June where students can participate from different parts of India. Do not miss this golden opportunity to interact with our expert counselors and attain the appropriate advice on a medical career. Experts will discuss the exam pattern, marking scheme, and type of questions that may appear so that the students can score 600+ in the NEET 2020 examination. Get the expert’s guidance for <b>MBBS Admission</b> in the best medical colleges.</p>
+								<p className="blog__post__desc">New-Lyf is going to hold a seminar from 10 June to 15 June where students can participate from different parts of India. Do not miss this golden opportunity to interact with our expert counselors and attain the appropriate advice on a medical career. Experts will discuss the exam pattern, marking scheme, and type of questions that may appear so that the students can score 600+ in the NEET 2020 examination. Get the expert’s guidance for <b>MBBS Admission</b> in the best medical colleges.</p>
 
 								<p className="blog__post__desc"><b>Benefits of NEET Webinar to Students</b></p>
 
@@ -230,7 +230,7 @@ function MedicalEntranceExamNeetPreparation() {
 							<div className="blog__post__aut_box">
 								<Row className="no-gutters">
 								<Col md={12} lg={2}>
-								<img className="blog__post__aut_img" src="assets/DL.png" alt="Destinex Logo" />
+								<img className="blog__post__aut_img" src="assets/DL.png" alt="New-Lyf Logo" />
 								</Col>
 								<Col md={12} lg={10}>
 								<p className="blog__post__aut_info">Dr Vinit Kumar is a Educational Consultant for India & Abroad with more than 18 Years of Experience. He has an extensive background guiding & assisting medical students to find the best university as per their budget. ✔3500+ Students ✔15 Countries ✔MBBS, MBA, PG, UG ✔100% Commitment ✔Education Loan ✔Job Placements</p>							
