@@ -129,7 +129,7 @@ function ApplyMedicalPgInKarnataka() {
 								
 								<ul className="blog__post__list">
 									<li><img src="assets/right-direction.png" alt="Right Direction" /> The candidates must have completed MBBS/BDS from any college recognized by the MCI (Medical Council of India) or DCI (Dental Council of India).</li>
-									<li><img src="assets/right-direction.png" alt="Right Direction" /> The graduates who will be completing or have completed the rotator internship on or before March 31, 2020, can take admission to the Medical PG course.</li>
+									<li><img src="assets/right-direction.png" alt="Right Direction" /> The graduates who will be completing or have completed the rotator internship on or before 2021-2022, can take admission to the Medical PG course.</li>
 									<li><img src="assets/right-direction.png" alt="Right Direction" /> They must have got the registration certificate from MCI/State Medical Council or DCI/State Dental Council (SDC).</li>
 									<li><img src="assets/right-direction.png" alt="Right Direction" /> It is a must to secure the NEET PG cutoff qualifying percentile to qualify the entrance examination.</li>
 								</ul>
