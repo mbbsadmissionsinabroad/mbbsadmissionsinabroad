@@ -69,7 +69,7 @@ function MbbsArmenia() {
             </li>
             <li>
               <a href="#requirements_sec">
-                <img src="/assets/icon.png" alt="Left Arrow" /> Requirements for MBBS Admission in Armenia 2020-2021
+                <img src="/assets/icon.png" alt="Left Arrow" /> Requirements for MBBS Admission in Armenia 2021-2022
               </a>
             </li>
             <li>
@@ -119,7 +119,7 @@ function MbbsArmenia() {
             </li>
             <li>
               <a href="#reserve_sec">
-                <img src="/assets/icon.png" alt="Left Arrow" /> How reserve your MBBS Seat in Armenia for 2020 Admission
+                <img src="/assets/icon.png" alt="Left Arrow" /> How reserve your MBBS Seat in Armenia for 2021-2022 Admission
               </a>
             </li>
             <li>
@@ -183,7 +183,7 @@ function MbbsArmenia() {
         </div>
         <div id="benefits_sec">
           <h4 className="service__sub__title">
-						Benefits of study MBBS in Armenia for Indian Students 2020
+						Benefits of study MBBS in Armenia for Indian Students 2021-2022
           </h4>
           <p className="service__info">
 						All Armenia Medical Universities provide the best quality of MBBS education at an affordable cost. Study MBBS in Armenia is very beneficial for Indian students because of the following reasons:
@@ -214,7 +214,7 @@ function MbbsArmenia() {
         </div>
         <div id="requirements_sec">
           <h6 className="service__sub__title">
-						Requirements for MBBS Admission in Armenia 2020-2021
+						Requirements for MBBS Admission in Armenia 2021-2022
           </h6>
           <p className="service__info">
 						The Indian students should fulfill some essential requirements for taking MBBS Admission in Armenia and these are as follows:
@@ -403,7 +403,7 @@ function MbbsArmenia() {
         </div>
         <div id="reserve_sec">
           <h6 className="service__sub__title">
-						How reserve your MBBS Seat in Armenia for 2020 Admission
+						How reserve your MBBS Seat in Armenia for 2021-2022 Admission
           </h6>
           <p className="service__info">
 						The admission process for applying for the MBBS in any Armenia medical university is very simple and easy to follow such as:
