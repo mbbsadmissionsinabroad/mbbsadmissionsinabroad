@@ -47,11 +47,11 @@ function MbbsNetherlands() {
             <li><img src="/assets/icon.png" alt="Left Arrow" /> Index </li>
             <li><a href="#about_sec"><img src="/assets/icon.png" alt="Left Arrow" /> About Netherlands</a></li>
             <li><a href="#why_mbbs_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Why Study MBBS in Netherlands</a></li>
-						<li><a href="#benefits_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Benefits of Studying MBBS in Netherlands for Indian Students 2020</a></li>
+						<li><a href="#benefits_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Benefits of Studying MBBS in Netherlands for Indian Students 2021 - 2022</a></li>
 						<li><a href="#eligibility_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Eligibility Criteria for MBBS in Netherlands</a></li>
             <li><a href="#university_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Top Universities to Study MBBS in Netherlands </a></li>
-						<li><a href="#requirements_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Requirements for MBBS Admission in Netherlands 2020-2021 </a></li>
-						<li><a href="#fees_sec"><img src="/assets/icon.png" alt="Left Arrow" /> MBBS Fees in Netherlands 2020-2021 </a></li>
+						<li><a href="#requirements_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Requirements for MBBS Admission in Netherlands 2021 - 2022 </a></li>
+						<li><a href="#fees_sec"><img src="/assets/icon.png" alt="Left Arrow" /> MBBS Fees in Netherlands 2021 - 2022 </a></li>
             <li><a href="#advice_sec"><img src="/assets/icon.png" alt="Left Arrow" /> MBBS in Netherlands Advice for Indian Students </a></li>
             <li><a href="#pros_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Pros & Cons for MBBS in Netherlands </a></li>
             <li><a href="#visa_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Visa Procedure for MBBS in Netherlands </a></li>
@@ -94,7 +94,7 @@ function MbbsNetherlands() {
         </div>
         <div id="benefits_sec">
           <h3 className="service__sub__title">
-						Benefits of Studying MBBS in Netherlands for Indian Students 2020
+						Benefits of Studying MBBS in Netherlands for Indian Students 2021 - 2022
           </h3>
           <p className="service__info">
 						There are several benefits for studying MBBS in Netherlands which are as follows:
@@ -148,7 +148,7 @@ function MbbsNetherlands() {
         </div>
         <div id="requirements_sec">
           <h6 className="service__sub__title">
-						Requirements for MBBS Admission in Netherlands 2020-2021
+						Requirements for MBBS Admission in Netherlands 2021 - 2022
           </h6>
           <p className="service__info">
 						The necessary documents for taking <b>MBBS Admission in Netherlands</b> are the following:
@@ -166,7 +166,7 @@ function MbbsNetherlands() {
         </div>
         <div id="fees_sec">
           <h6 className="service__sub__title">
-						MBBS Fees in Netherlands 2020-2021
+						MBBS Fees in Netherlands 2021 - 2022
           </h6>
           <p className="service__info">The fees structure for the Indian students studying <b>MBBS in Netherlands</b> will anywhere around 9,200 USD per year.</p>
         </div>
@@ -288,11 +288,11 @@ function MbbsNetherlands() {
             </Card>
             <Card>
               <Accordion.Toggle as={Card.Header} eventKey="5">
-                <b className="accordion__title">What is the NEET minimum marks to join an MBBS in Netherland 2020?</b>
+                <b className="accordion__title">What is the NEET minimum marks to join an MBBS in Netherland 2021 - 2022?</b>
               </Accordion.Toggle>
               <Accordion.Collapse eventKey="5">
                 <Card.Body>
-									<p className="service__info">The NEET minimum marks to join an <b>MBBS in Netherlands</b> 2020 is 50 percentile.</p>
+									<p className="service__info">The NEET minimum marks to join an <b>MBBS in Netherlands</b> 2021 - 2022 is 50 percentile.</p>
                 </Card.Body>
               </Accordion.Collapse>
 						</Card>

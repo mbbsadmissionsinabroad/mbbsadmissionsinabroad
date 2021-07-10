@@ -44,7 +44,7 @@ function MbbsNepal() {
             <li><a href="#about_sec"><img src="/assets/icon.png" alt="Left Arrow" /> About Nepal</a></li>
             <li><a href="#why_mbbs_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Why Study MBBS in Nepal</a></li>
             <li><a href="#university_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Top Universities to Study MBBS in Nepal </a></li>
-						<li><a href="#requirements_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Requirements for MBBS Admission in Nepal 2020-2021 </a></li>
+						<li><a href="#requirements_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Requirements for MBBS Admission in Nepal 2021 - 2022 </a></li>
             <li><a href="#visa_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Visa Procedure for MBBS in Nepal </a></li>
 						<li><a href="#mci_sec"><img src="/assets/icon.png" alt="Left Arrow" /> MCI Coaching in Nepal!</a></li>
 						<li><a href="#usmle_sec"><img src="/assets/icon.png" alt="Left Arrow" /> USMLE (United States Medical Licensing Examination) Coaching in Nepal </a></li>
@@ -52,7 +52,7 @@ function MbbsNepal() {
 						<li><a href="#vacations_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Vacations during MBBS in Nepal </a></li>
 						<li><a href="#career_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Career Options after Completing MBBS in Nepal </a></li>
 						<li><a href="#problems_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Students face huge problems due to the Fraud Agents </a></li>
-						<li><a href="#reserve_sec"><img src="/assets/icon.png" alt="Left Arrow" /> How reserve your MBBS Seat in Nepal for 2020 Admission </a></li>
+						<li><a href="#reserve_sec"><img src="/assets/icon.png" alt="Left Arrow" /> How reserve your MBBS Seat in Nepal for 2021 - 2022 Admission </a></li>
 						<li><a href="#charges_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Service & Consultancy Charges of New-Lyf </a></li>
 						<li><a href="#New-Lyf_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Services by New-Lyf for Abroad Education </a></li>
 						<li><a href="#process_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Our Process of conducting Student Counseling </a></li>
@@ -109,7 +109,7 @@ function MbbsNepal() {
         </div>
         <div id="requirements_sec">
           <h5 className="service__sub__title">
-						Requirements for MBBS Admission in Nepal 2020-2021
+						Requirements for MBBS Admission in Nepal 2021 - 2022
           </h5>
           <p className="service__info">The students should study physics, chemistry and biology and should secure 50% of marks in the 10+2 level education in India. For the processing of admission, 10th Standard marks card and 12th Standard marks card and certificate are required. Some universities may conduct an entrance examination for <Link to="/mbbs-admission-in-nepal-for-indian-students">MBBS admission in Nepal</Link></p>
         </div>
@@ -192,7 +192,7 @@ function MbbsNepal() {
         </div>
         <div id="reserve_sec">
           <h6 className="service__sub__title">
-						How to reserve your MBBS Seat in Nepal for 2020 Admission
+						How to reserve your MBBS Seat in Nepal for 2021 - 2022 Admission
           </h6>
           <p className="service__info">Once you provide all the vital documents related to your study seat can be reserved in medical colleges in Nepal. New-Lyf can help you to study MBBS in Nepal by not paying any capitation donation fees. Also for MBBS admission in Nepal there is no need of any English Proficiency test like IELTS or TOEFL. New-Lyf education will show you the sure path to success for MBBS admission in Nepal.</p>
         </div>

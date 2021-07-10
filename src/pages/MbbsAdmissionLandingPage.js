@@ -28,8 +28,8 @@ function MbbsAdmissionLandingPage() {
   }, []);
 
 	const meta = {
-    title: "2020 MBBS Admissions In Abroad",
-    description: "2020 MBBS Admissions In Abroad",
+    title: "2021 - 2022 MBBS Admissions In Abroad",
+    description: "2021 - 2022 MBBS Admissions In Abroad",
     canonical: "https://www.mbbsadmissionsinabroad.com/2020-mbbs-admissions-in-abroad",
     // meta: {
     //   charset: 'utf-8',
@@ -624,7 +624,7 @@ function MbbsAdmissionLandingPage() {
                 </Accordion.Toggle>
                 <Accordion.Collapse eventKey="10">
                   <Card.Body>
-                    <p className="service__info">We are keeping a close watch on COVID-19 effects on MBBS Abroad education. As per the current situation, countries that are famous for MBBS Abroad such as <Link to="/mbbs-in-ukraine">Ukraine</Link>, <Link to="/mbbs-in-russia">Russia</Link>, and <Link to="/mbbs-in-philippines">Philippines</Link> have minor effects and have contained the virus very well. According to the reviews from countries and universities, they will be accepting the admissions in MBBS in 2020 without any restrictions. MBBS abroad 2020 students will be traveling in October 2020 and by that time the complete situation will be under control. So, the students no need to worry, admissions in MBBS Abroad 2020 will remain unaffected and Destinex MBBS Abroad Consultancy in India will help you get admission in MBBS abroad smoothly and safely.</p>
+                    <p className="service__info">We are keeping a close watch on COVID-19 effects on MBBS Abroad education. As per the current situation, countries that are famous for MBBS Abroad such as <Link to="/mbbs-in-ukraine">Ukraine</Link>, <Link to="/mbbs-in-russia">Russia</Link>, and <Link to="/mbbs-in-philippines">Philippines</Link> have minor effects and have contained the virus very well. According to the reviews from countries and universities, they will be accepting the admissions in MBBS in 2021 - 2022 without any restrictions. MBBS abroad 2021 - 2022 students will be traveling in October 2021 - 2022 and by that time the complete situation will be under control. So, the students no need to worry, admissions in MBBS Abroad 2021 - 2022 will remain unaffected and Destinex MBBS Abroad Consultancy in India will help you get admission in MBBS abroad smoothly and safely.</p>
                   </Card.Body>
                 </Accordion.Collapse>
               </Card>

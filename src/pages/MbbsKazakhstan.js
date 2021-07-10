@@ -59,7 +59,7 @@ function MbbsKazakhstan() {
             </li>
             <li>
               <a href="#benefits_sec">
-                <img src="/assets/icon.png" alt="Left Arrow" /> Benefits of MBBS in Kazakhstan for Indian Students 2020
+                <img src="/assets/icon.png" alt="Left Arrow" /> Benefits of MBBS in Kazakhstan for Indian Students 2021 - 2022
               </a>
             </li>
             <li>
@@ -69,7 +69,7 @@ function MbbsKazakhstan() {
             </li>
             <li>
               <a href="#requirements_sec">
-                <img src="/assets/icon.png" alt="Left Arrow" /> Requirements for MBBS Admission in Kazakhstan 2020-2021
+                <img src="/assets/icon.png" alt="Left Arrow" /> Requirements for MBBS Admission in Kazakhstan 2021 - 2022
               </a>
             </li>
             <li>
@@ -133,7 +133,7 @@ function MbbsKazakhstan() {
         </div>
         <div id="benefits_sec">
           <h4 className="service__sub__title">
-						Benefits of MBBS in Kazakhstan for Indian Students 2020
+						Benefits of MBBS in Kazakhstan for Indian Students 2021 - 2022
           </h4>
           <p className="service__info">
 						<ul>
@@ -170,7 +170,7 @@ function MbbsKazakhstan() {
         </div>
         <div id="requirements_sec">
           <h6 className="service__sub__title">
-            Requirements for MBBS Admission in Kazakhstan 2020-2021
+            Requirements for MBBS Admission in Kazakhstan 2021 - 2022
           </h6>
           <p className="service__info">
 						Indian students need to fulfill some requirements to study MBBS in Kazakhstan such as:

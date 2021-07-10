@@ -250,7 +250,7 @@ function MbbsBelize() {
         </div>
         <div id="requirements_sec">
           <h6 className="service__sub__title">
-            Requirements for MBBS Admission in Belize 2020-2021
+            Requirements for MBBS Admission in Belize 2021 - 2022
           </h6>
           <p className="service__info">
             Belize is one of the most preferred destinations for Indian students

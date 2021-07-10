@@ -59,7 +59,7 @@ function MbbsKyrgyzstan() {
             </li>
             <li>
               <a href="#benefits_sec">
-                <img src="/assets/icon.png" alt="Left Arrow" /> Benefits of MBBS in Kyrgyzstan for Indian Students 2020
+                <img src="/assets/icon.png" alt="Left Arrow" /> Benefits of MBBS in Kyrgyzstan for Indian Students 2021 - 2022
               </a>
             </li>
             <li>
@@ -69,7 +69,7 @@ function MbbsKyrgyzstan() {
             </li>
             <li>
               <a href="#requirements_sec">
-                <img src="/assets/icon.png" alt="Left Arrow" /> Requirements for MBBS Admission in Kyrgyzstan 2020-2021
+                <img src="/assets/icon.png" alt="Left Arrow" /> Requirements for MBBS Admission in Kyrgyzstan 2021 - 2022
               </a>
             </li>
             <li>
@@ -120,7 +120,7 @@ function MbbsKyrgyzstan() {
         </div>
         <div id="benefits_sec">
           <h4 className="service__sub__title">
-						Benefits of MBBS in Kyrgyzstan for Indian Students 2020
+						Benefits of MBBS in Kyrgyzstan for Indian Students 2021 - 2022
           </h4>
 					<p className="service__info">
 						The benefits of pursuing MBBS in the medical colleges and universities of Kyrgyzstan are as follows:
@@ -152,7 +152,7 @@ function MbbsKyrgyzstan() {
         </div>
         <div id="requirements_sec">
           <h6 className="service__sub__title">
-            Requirements for MBBS Admission in Kyrgyzstan 2020-2021
+            Requirements for MBBS Admission in Kyrgyzstan 2021 - 2022
           </h6>
           <p className="service__info">
 						The following are the requirements for MBBS admission in Kyrgyzstan:
@@ -165,7 +165,7 @@ function MbbsKyrgyzstan() {
 								<li>A no objection certificate.</li>
 								<li>Report of HIV test.</li>
 								<li>Banks statements are required for the submission.</li>
-								<li>Posses the MBBS fees of Kyrgyzstan 2020-21.</li>
+								<li>Posses the MBBS fees of Kyrgyzstan 2021 - 2022.</li>
 								<li>Medical certificates for fitness proofs.</li>
 								<li>Invitation letter from concerned university.</li>
 								<li>Approved documents from the Ministry External Affairs.</li>

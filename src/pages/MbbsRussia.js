@@ -79,7 +79,7 @@ function MbbsRussia() {
 						<li><a href="#vacations_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Vacations during MBBS in Russia </a></li>
 						<li><a href="#career_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Career Options after Completing MBBS in Russia </a></li>
 						<li><a href="#problems_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Students face huge problems due to the Fraud Agents </a></li>
-						<li><a href="#reserve_sec"><img src="/assets/icon.png" alt="Left Arrow" /> How reserve your MBBS Seat in Russia for 2020 Admission </a></li>
+						<li><a href="#reserve_sec"><img src="/assets/icon.png" alt="Left Arrow" /> How reserve your MBBS Seat in Russia for 2021 - 2022 Admission </a></li>
 						<li><a href="#charges_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Service & Consultancy Charges of New-Lyf </a></li>
 						<li><a href="#New-Lyf_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Services by New-Lyf for Abroad Education </a></li>
 						<li><a href="#process_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Our Process of conducting Student Counseling </a></li>
@@ -140,7 +140,7 @@ function MbbsRussia() {
         </div>
         <div id="benefits_sec">
           <h3 className="service__sub__title">
-            Benefits of Studying MBBS in Russia for Indian Students 2020
+            Benefits of Studying MBBS in Russia for Indian Students 2021 - 2022
           </h3>
           <p className="service__info">
             Russia is the perfect place for Indian students to study MBBS mainly
@@ -271,7 +271,7 @@ function MbbsRussia() {
         </div>
         <div id="requirements_sec">
           <h6 className="service__sub__title">
-            Requirements for MBBS Admission in Russia 2020-2021
+            Requirements for MBBS Admission in Russia 2021 - 2022
           </h6>
           <p className="service__info">
             The necessary documents for attaining admission in Russia are the
@@ -285,7 +285,7 @@ function MbbsRussia() {
               <li>A no objection certificate.</li>
               <li>Report of HIV test.</li>
               <li>Banks statements are required for the submission.</li>
-              <li>Posses the MBBS fees of Russia 2020-21.</li>
+              <li>Posses the MBBS fees of Russia 2021 - 2022.</li>
               <li>Medical certificates for fitness proofs.</li>
               <li>Invitation letter from concerned university.</li>
               <li>Approved documents from the Ministry External Affairs.</li>
@@ -2094,7 +2094,7 @@ function MbbsRussia() {
         </div>
         <div id="reserve_sec">
           <h6 className="service__sub__title">
-            How reserve your MBBS Seat in Russia for 2020 Admission
+            How reserve your MBBS Seat in Russia for 2021 - 2022 Admission
           </h6>
           <p className="service__info">
             Russia is one of the best countries for taking admission in MBBS

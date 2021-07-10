@@ -44,7 +44,7 @@ function NursingJobInDenmark() {
 						<li><a href="#apply_sec"><img src="/assets/icon.png" alt="Left Arrow" /> How to apply for a nursing job in Denmark?</a></li>
 						<li><a href="#getjob_sec"><img src="/assets/icon.png" alt="Left Arrow" /> How to Get a Nursing Job in Denmark</a></li>
 						<li><a href="#vacancy_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Nurses vacancy in Denmark</a></li>
-						<li><a href="#requirements_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Requirement of nurse’s vacancy in Denmark 2020</a></li>		
+						<li><a href="#requirements_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Requirement of nurse’s vacancy in Denmark 2021 - 2022</a></li>		
 						<li><a href="#salary_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Salary for a Nurse in Denmark</a></li>	
 						<li><a href="#faq_sec"><img src="/assets/icon.png" alt="Left Arrow" /> FAQ Nursing Job in Denmark</a></li>
 						<li><a href="#testimonials"><img src="/assets/icon.png" alt="Left Arrow" /> Testimonials</a></li>
@@ -110,7 +110,7 @@ function NursingJobInDenmark() {
         </div>
 
           <div id="requirements_sec">
-            <h6 className="service__sub__title">Requirement of nurse’s vacancy in Denmark 2020</h6>
+            <h6 className="service__sub__title">Requirement of nurse’s vacancy in Denmark 2021 - 2022</h6>
             <p className="service__info">
 							The candidate needs to fulfill the following requirements to apply for <b>nursing jobs in Denmark:</b>
               <ul>

@@ -45,9 +45,9 @@ function MbbsGeorgia() {
             <li><img src="/assets/icon.png" alt="Left Arrow" /> Index </li>
             <li><a href="#about_sec"><img src="/assets/icon.png" alt="Left Arrow" /> About MBBS in Georgia</a></li>
             <li><a href="#why_mbbs_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Why MBBS in Georgia?</a></li>
-            <li><a href="#benefits_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Benefits of MBBS in Georgia for Indian Students 2020</a></li>
+            <li><a href="#benefits_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Benefits of MBBS in Georgia for Indian Students 2021 - 2022</a></li>
             <li><a href="#university_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Top Universities for MBBS in Georgia </a></li>
-            <li><a href="#requirements_sec"><img src="/assets/icon.png" alt="Left Arrow"  /> Requirements for MBBS Admission in Georgia 2020-2021 </a></li>
+            <li><a href="#requirements_sec"><img src="/assets/icon.png" alt="Left Arrow"  /> Requirements for MBBS Admission in Georgia 2021 - 2022 </a></li>
             <li><a href="#advice_sec"><img src="/assets/icon.png" alt="Left Arrow" /> MBBS in Georgia Advice for Indian Students </a></li>
             <li><a href="#pros_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Pros & Cons for MBBS in Georgia </a></li>
             <li><a href="#visa_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Visa procedure for MBBS in Georgia </a></li>
@@ -57,7 +57,7 @@ function MbbsGeorgia() {
 						<li><a href="#vacations_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Vacations during MBBS in Georgia </a></li>
 						<li><a href="#career_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Career Options after Completing MBBS in Georgia </a></li>
 						<li><a href="#problems_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Students face huge problems due to the Fraud Agents </a></li>
-						<li><a href="#reserve_sec"><img src="/assets/icon.png" alt="Left Arrow" /> How reserve your MBBS Seat in Georgia for 2020 Admission </a></li>
+						<li><a href="#reserve_sec"><img src="/assets/icon.png" alt="Left Arrow" /> How reserve your MBBS Seat in Georgia for 2021 - 2022 Admission </a></li>
 						<li><a href="#charges_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Service & Consultancy Charges of New-Lyf </a></li>
 						<li><a href="#New-Lyf_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Services by New-Lyf for Abroad Education </a></li>
 						<li><a href="#process_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Our Process of conducting Student Counseling </a></li>
@@ -91,7 +91,7 @@ function MbbsGeorgia() {
         </div>
         <div id="benefits_sec">
           <h3 className="service__sub__title">
-            Benefits of Studying MBBS in Georgia for Indian Students 2020
+            Benefits of Studying MBBS in Georgia for Indian Students 2021 - 2022
           </h3>
           <p className="service__info">
 						The benefits of doing MBBS in Georgia are as follows:
@@ -143,7 +143,7 @@ function MbbsGeorgia() {
         </div>
         <div id="requirements_sec">
           <h5 className="service__sub__title">
-            Requirements for MBBS Admission in Georgia 2020-2021
+            Requirements for MBBS Admission in Georgia 2021 - 2022
           </h5>
           <p className="service__info">
 						The necessary documents for attaining admission in Georgia are the following:
@@ -156,7 +156,7 @@ function MbbsGeorgia() {
 								<li>A no objection certificate.</li>
 								<li>Report of HIV test.</li>
 								<li>Banks statements are required for the submission.</li>
-								<li>Posses the MBBS fees of Georgia 2020-21.</li>
+								<li>Posses the MBBS fees of Georgia 2021 - 2022.</li>
 								<li>Medical certificates for fitness proofs.</li>
 								<li>Invitation letter from concerned university.</li>
 								<li>Approved documents from the Ministry External Affairs.</li>
@@ -282,7 +282,7 @@ function MbbsGeorgia() {
         </div>
         <div id="reserve_sec">
           <h6 className="service__sub__title">
-						How reserve your MBBS Seat in Georgia for 2020 Admission
+						How reserve your MBBS Seat in Georgia for 2021 - 2022 Admission
           </h6>
           <p className="service__info">
 						Taking admission to the best Georgia medical universities is very simple and students need to follow the below steps:

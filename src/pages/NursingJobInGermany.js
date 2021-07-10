@@ -54,7 +54,7 @@ function NursingJobInGermany() {
 						<li><a href="#getjob_sec"><img src="/assets/icon.png" alt="Left Arrow" /> How to Get a Nursing Job In Germany</a></li>
 						<li><a href="#job_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Nursing jobs in Germany for Indian nurses</a></li>
             <li><a href="#vacancy_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Nurses vacancy in Germany</a></li>
-            <li><a href="#requirements_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Requirement of nurse’s vacancy in Germany 2020</a></li>
+            <li><a href="#requirements_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Requirement of nurse’s vacancy in Germany 2021 - 2022</a></li>
             <li><a href="#salary_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Salary for a Nurse in Germany?</a></li>
 						<li><a href="#faq_sec"><img src="/assets/icon.png" alt="Left Arrow" /> FAQ about the Medical PG in Germany</a></li>
             <li><a href="#testimonials"><img src="/assets/icon.png" alt="Left Arrow" /> Testimonials</a></li>
@@ -155,9 +155,9 @@ function NursingJobInGermany() {
           </div>
 
           <div id="requirements_pg">
-            <h6 className="service__sub__title">Requirement of nurse’s vacancy in Germany 2020</h6>
+            <h6 className="service__sub__title">Requirement of nurse’s vacancy in Germany 2021 - 2022</h6>
             <p className="service__info">
-							The below-listed requirements need to be fulfilled for the nurse’s vacancy in Germany 2020:
+							The below-listed requirements need to be fulfilled for the nurse’s vacancy in Germany 2021 - 2022:
               <ul>
 								<li>B2 Level of German language is a must for nursing job as they have to communicate with the German patients.</li>
 								<li>Academic documents such as mark-sheets/ transcripts or certificates should also have to be translated in the German language.</li>

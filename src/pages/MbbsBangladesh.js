@@ -46,7 +46,7 @@ function MbbsBangladesh() {
             <li><img src="/assets/icon.png" alt="Left Arrow" /> Index </li>
             <li><a href="#about_sec"><img src="/assets/icon.png" alt="Left Arrow" /> About Bangladesh</a></li>
             <li><a href="#why_mbbs_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Why Study MBBS in Bangladesh</a></li>
-						<li><a href="#benefits_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Benefits of Studying MBBS in Bangladesh for Indian Students 2020</a></li>
+						<li><a href="#benefits_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Benefits of Studying MBBS in Bangladesh for Indian Students 2021 - 2022</a></li>
             <li><a href="#university_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Top University for MBBS in Bangladesh </a></li>
 						<li><a href="#requirements_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Requirements for MBBS Admission in Bangladesh </a></li>
 						<li><a href="#visa_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Visa Procedure for MBBS in Bangladesh </a></li>

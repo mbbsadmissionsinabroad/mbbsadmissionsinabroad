@@ -195,7 +195,7 @@ function MbbsFrance() {
           </div>
           <div id="benefits_sec">
             <h4 className="service__sub__title">
-              Benefits of MBBS in France for Indian Students 2020
+              Benefits of MBBS in France for Indian Students 2021 - 2022
             </h4>
             <p className="service__info">
               France is a well-renowned study destination for future doctors in
@@ -250,7 +250,7 @@ function MbbsFrance() {
           </div>
           <div id="requirements_sec">
             <h6 className="service__sub__title">
-              Requirements for MBBS Admission in France 2020-2021
+              Requirements for MBBS Admission in France 2021 - 2022
             </h6>
             <p className="service__info">
               The Indian students should fulfill some essential requirements for
