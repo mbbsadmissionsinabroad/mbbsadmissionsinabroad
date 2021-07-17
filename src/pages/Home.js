@@ -505,7 +505,7 @@ function Home() {
         </section>
         <section>
           <Container>
-            <h3 className="head__title">2020 Mbbs Admission In Abroad</h3>
+            <h3 className="head__title">2021 - 2022 Mbbs Admission In Abroad</h3>
             <p className="head__desc"> MBBS is an extremely valued course and degree across the globe and it is totally worth to study MBBS in abroad with top MCI approved medical universities/colleges <b> with a reasonable fee structure & without any donation and capitation fees </b> for MBBS admission in different countries such as <b> Russia, Ukraine, Belize, Philippines </b>, and many more. Abroad universities/colleges provide a high quality of education. Every year, more than <b>20,000 Indian students</b> are taking MBBS Admission in Abroad. </p>
           </Container>
         </section>
@@ -712,10 +712,10 @@ function Home() {
                     Philippines have minor effects and have contained the virus
                     very well. According to the reviews from countries and
                     universities, they will be accepting the admissions in MBBS
-                    in 2020 without any restrictions. MBBS abroad 2020 students
-                    will be traveling in October 2020 and by that time the
+                    in 2021 - 2022 without any restrictions. MBBS abroad 2021 - 2022 students
+                    will be traveling in October 2021 - 2022 and by that time the
                     complete situation will be under control. So, the students
-                    no need to worry, admissions in MBBS Abroad 2020 will remain
+                    no need to worry, admissions in MBBS Abroad 2021 - 2022 will remain
                     unaffected and New-Lyf MBBS Abroad Consultancy in India
                     will help you get admission in MBBS abroad smoothly and
                     safely.</p>

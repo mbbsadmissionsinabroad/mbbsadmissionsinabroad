@@ -119,6 +119,9 @@ import YerevanStateMedicalUniversityArmenia from "../pages/blogs/YerevanStateMed
 import Top4CountriestoStudyMBBSinEurope from "../pages/blogs/Top4CountriestoStudyMBBSinEurope";
 import UVGullasCollegeMedicinePhilippines from "../pages/blogs/UVGullasCollegeMedicinePhilippines";
 import BogomoletsNationalMedicalUniversityUkraine from "../pages/blogs/BogomoletsNationalMedicalUniversityUkraine";
+import KatowiceMedicalUniversity from "../pages/blogs/KatowiceMedicalUniversity";
+import OdessaNationalMedicalUniversity from "../pages/blogs/OdessaNationalMedicalUniversity";
+import BlackSeaNationalUniversity from "../pages/blogs/BlackSeaNationalUniversity";
 
 
 
@@ -815,6 +818,15 @@ function NavBar() {
           </Route>
           <Route path="/bogomolets-national-medical-university-ukraine">
             <BogomoletsNationalMedicalUniversityUkraine />
+          </Route>
+          <Route path="/katowice-medical-university-poland">
+            <KatowiceMedicalUniversity />
+          </Route>
+          <Route path="/odessa-national-medical-university-ukraine">
+            <OdessaNationalMedicalUniversity />
+          </Route>
+          <Route path="/petro-mohyla-black-sea-national-university-ukraine">
+            <BlackSeaNationalUniversity />
           </Route>
         </Switch>
       </Router>

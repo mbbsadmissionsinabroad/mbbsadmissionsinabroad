@@ -7,6 +7,9 @@
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
     "axios": "^0.20.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "babel-register": "^6.26.0",
     "bootstrap": "^4.5.2",
     "jquery": "^3.5.1",
     "normalize.css": "^8.0.1",
@@ -24,6 +27,7 @@
     "react-images": "^1.1.7",
     "react-photo-gallery": "^8.0.0",
     "react-router-dom": "^5.2.0",
+    "react-router-sitemap": "^1.2.0",
     "react-scripts": "3.4.3",
     "react-scroll-to-top": "^1.0.5",
     "react-vertical-timeline-component": "^3.3.0",
@@ -33,7 +37,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "generate-sitemap": "node src/sitemap-generator.js",
+    "prebuild": "npm run generate-sitemap"
   },
   "eslintConfig": {
     "extends": "react-app"

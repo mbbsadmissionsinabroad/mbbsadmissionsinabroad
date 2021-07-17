@@ -606,5 +606,29 @@
         "title": "Bogomolets National Medical University",
         "author": "Dr Vinit Singh",
         "url": "/bogomolets-national-medical-university-ukraine"
+    },
+    {
+        "id": 77,
+        "category": "Poland",
+        "image": "/assets/images/blog-banners/katowice_medical_university.png",
+        "title": "Katowice Medical University -  MBBS Admission in Poland for Indian Students",
+        "author": "Dr Vinit Singh",
+        "url": "katowice-medical-university-poland"
+    },
+    {
+        "id": 78,
+        "category": "Ukraine",
+        "image": "/assets/images/blog-banners/odessa_medical_university.png",
+        "title": "Odessa National Medical University - MBBS Admission in Ukraine for Indian Students",
+        "author": "Dr Vinit Singh",
+        "url": "odessa-national-medical-university-ukraine"
+    },
+    {
+        "id": 79,
+        "category": "Ukraine",
+        "image": "/assets/images/blog-banners/black-sea-national-university.jpeg",
+        "title": "Black Sea National University - MBBS Admission in Ukraine for Indian Students",
+        "author": "Dr Vinit Singh",
+        "url": "petro-mohyla-black-sea-national-university-ukraine"
     }
 ] 
