@@ -6,6 +6,7 @@ import "bootstrap/dist/css/bootstrap.css";
 import Topbar from "./components/Topbar";
 import Footer from "./components/Footer";
 import NavBar from "./components/NavBar";
+import Routes from "./Routes";
 
 
 function App() {
@@ -15,6 +16,7 @@ function App() {
         <Topbar />
         <ScrollToTop smooth Top/>
         <NavBar />
+        <Routes />
         <Footer />
       </Router>
     </div>
