@@ -7,6 +7,7 @@ import Topbar from "./components/Topbar";
 import Footer from "./components/Footer";
 import NavBar from "./components/NavBar";
 import Routes from "./Routes";
+import TawkComponent from "./components/TawkComponent";
 
 
 function App() {
@@ -17,6 +18,7 @@ function App() {
         <ScrollToTop smooth Top/>
         <NavBar />
         <Routes />
+        <TawkComponent />
         <Footer />
       </Router>
     </div>
