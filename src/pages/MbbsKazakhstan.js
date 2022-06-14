@@ -6,6 +6,7 @@ import "bootstrap/dist/css/bootstrap.css";
 import "./Services.css";
 import KazakhstanForm from "../components/ContactForm/KazakhstanForm";
 import HomeCarousel from "../components/HomeCarousel";
+import { Link } from "react-router-dom";
 
 function MbbsKazakhstan() {
 	const [modalShow, setModalShow] = React.useState(false);
@@ -38,11 +39,7 @@ function MbbsKazakhstan() {
       </div>
       <Container>
         <div>
-          <p className="service__info">
-						MBBS in Kazakhstan is a very popular course for medical students because all top medical colleges in Kazakhstan are accredited by the Medical Council of India (MCI), World Health Organization (WHO), UNESCO, and FAIMER. This country holds a unique position among the best-rated countries to study MBBS in Kazakhstan.<br/>
-						The degree from Kazakhstan is globally recognized and highly valued which enables the students to get a practice license in India after clearing the FMGE/MCI exam. MBBS in Kazakhstan offers a great opportunity for Indian students to excel in medicine.<br/>				
-						The official language in Kazakhstan is Kazak and Russia but the whole course is conducted in English medium. More than 60,000 medical students take MBBS Admission in Kazakhstan annually. All universities of Kazakhstan provide an affordable and economical course of MBBS. The fee of Kazakhstan medical universities is amounting to 10-20 lakhs.
-          </p>
+          <p className="service__info"><Link to="/mbbs-in-kazakhstan">MBBS in Kazakhstan</Link> is a very popular course for medical students because all <Link to="/mbbs-in-kazakhstan">top medical colleges in Kazakhstan</Link> are accredited by the Medical Council of India (MCI), World Health Organization (WHO), UNESCO, and FAIMER. This country holds a unique position among the best-rated countries to <Link to="/mbbs-in-kazakhstan">study MBBS in Kazakhstan</Link>. <br/> The degree from Kazakhstan is globally recognized and highly valued which enables the students to get a practice license in India after clearing the FMGE/MCI exam. <Link to="/mbbs-in-kazakhstan">MBBS in Kazakhstan</Link> offers a great opportunity for Indian students to excel in medicine. <br/> The official language in Kazakhstan is Kazak and Russia but the whole course is conducted in English medium. More than 60,000 medical students take <Link to="/mbbs-in-kazakhstan">MBBS Admission in Kazakhstan</Link> annually. All universities of Kazakhstan provide an affordable and economical course of MBBS. The <Link to="/mbbs-in-kazakhstan">fee of Kazakhstan medical universities</Link> is amounting to 10-20 lakhs. </p>
           <ul className="hyperlink">
             <li>
               <img src="/assets/icon.png" alt="Left Arrow" /> Index
@@ -59,7 +56,7 @@ function MbbsKazakhstan() {
             </li>
             <li>
               <a href="#benefits_sec">
-                <img src="/assets/icon.png" alt="Left Arrow" /> Benefits of MBBS in Kazakhstan for Indian Students 2021 - 2022
+                <img src="/assets/icon.png" alt="Left Arrow" /> Benefits of MBBS in Kazakhstan for Indian Students {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1}
               </a>
             </li>
             <li>
@@ -69,7 +66,7 @@ function MbbsKazakhstan() {
             </li>
             <li>
               <a href="#requirements_sec">
-                <img src="/assets/icon.png" alt="Left Arrow" /> Requirements for MBBS Admission in Kazakhstan 2021 - 2022
+                <img src="/assets/icon.png" alt="Left Arrow" /> Requirements for MBBS Admission in Kazakhstan {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1}
               </a>
             </li>
             <li>
@@ -116,15 +113,15 @@ function MbbsKazakhstan() {
         <div id="why_mbbs_sec">
           <h3 className="service__sub__title">Why MBBS Study in Kazakhstan</h3>
           <p className="service__info">
-						There are so many countries that provide MBBS course but MBBS in Kazakhstan is beneficial for the students who seeking admission in Kazakhstan medical universities because of the following reasons:
+						There are so many countries that provide MBBS course but <Link to="/mbbs-in-kazakhstan">MBBS in Kazakhstan</Link> is beneficial for the students who seeking admission in Kazakhstan medical universities because of the following reasons:
             	<ul>
-								<li>The capitation fee is not charged from the students to take MBBS Admission in Kazakhstan.</li>
+								<li>The capitation fee is not charged from the students to take <Link to="/mbbs-in-kazakhstan">MBBS Admission in Kazakhstan</Link>.</li>
 								<li>Kazakhstan is considered to be one of the safest countries for MBBS in Kazakhstan.</li>
 								<li>Each Kazakhstan Medical University is recognized by the world’s major organizations such as WHO, MCI, UNESCO, FAIMER.</li>
 								<li>Kazakhstan MBBS College provides world-class standards of living which makes MBBS in Kazakhstan effortless.</li>
 								<li>The living expense during the MBBS course is quite affordable.</li>
-								<li>Kazakhstan Medical Universities adopt a credit hour system approach which is useful for the students while seeking MBBS in Kazakhstan.</li>
-								<li>The students can work practically in clinics which are associated by the Kazakhstan Medical universities.</li>
+								<li>Kazakhstan Medical Universities adopt a credit hour system approach which is useful for the students while seeking <Link to="/mbbs-in-kazakhstan">MBBS in Kazakhstan</Link>.</li>
+								<li>The students can work practically in clinics which are associated by the <Link to="/mbbs-in-kazakhstan">Kazakhstan Medical universities</Link>.</li>
 								<li>The students are eligible for MCI conducted screening tests after completing MBBS in Kazakhstan.</li>
 								<li>The Indian students can get a student visa easily for studying MBBS in Kazakhstan</li>
 								<li>The fee in Kazakhstan MBBS Colleges is quite affordable. The fees is five times lesser than the Indian universities or any other foreign university offering MBBS course.</li>
@@ -133,7 +130,7 @@ function MbbsKazakhstan() {
         </div>
         <div id="benefits_sec">
           <h4 className="service__sub__title">
-						Benefits of MBBS in Kazakhstan for Indian Students 2021 - 2022
+						Benefits of MBBS in Kazakhstan for Indian Students {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1}
           </h4>
           <p className="service__info">
 						<ul>
@@ -170,7 +167,7 @@ function MbbsKazakhstan() {
         </div>
         <div id="requirements_sec">
           <h6 className="service__sub__title">
-            Requirements for MBBS Admission in Kazakhstan 2021 - 2022
+            Requirements for MBBS Admission in Kazakhstan {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1}
           </h6>
           <p className="service__info">
 						Indian students need to fulfill some requirements to study MBBS in Kazakhstan such as:

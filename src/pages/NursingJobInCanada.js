@@ -10,8 +10,8 @@ function NursingJobInCanada() {
 	// const [modalShow, setModalShow] = React.useState(false);
 
 	const meta = {
-    title: 'Nursing Jobs in Canada – List of Nursing Vacancies in Canada for 2021 - 2022',
-    description: 'Nursing Jobs in Canada. Find the list of Nursing Vacancies in Canada for 2021 - 2022 for Staff Nurses, Nurse Practitioners, Registered Nurses, Critical Care Nursing Staffs, & more.',
+    title: 'Nursing Jobs in Canada – List of Nursing Vacancies in Canada for 2022 - 2023',
+    description: 'Nursing Jobs in Canada. Find the list of Nursing Vacancies in Canada for 2022 - 2023 for Staff Nurses, Nurse Practitioners, Registered Nurses, Critical Care Nursing Staffs, & more.',
     canonical: 'https://www.mbbsadmissionsinabroad.com/nursing-jobs-in-canada',
     meta: {
       charset: 'utf-8',

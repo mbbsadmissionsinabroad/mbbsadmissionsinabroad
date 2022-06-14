@@ -1,5 +1,5 @@
 import React from 'react';
-import { Switch, Route } from 'react-router';
+import { BrowserRouter, Switch, Route } from 'react-router-dom';
 import Home from "./pages/Home";
 import Contact from "./pages/Contact";
 import MbbsRussia from "./pages/MbbsRussia";
@@ -121,7 +121,8 @@ import BlackSeaNationalUniversity from "./pages/blogs/BlackSeaNationalUniversity
 
 const Routes = () => {
   return (
-    <Switch>
+    <BrowserRouter>
+      <Switch>
           <Route path="/" exact>
             <Home />
           </Route>
@@ -481,7 +482,7 @@ const Routes = () => {
             <BlackSeaNationalUniversity />
           </Route>
         </Switch>
-
+    </BrowserRouter>
   )
 }
 export default Routes

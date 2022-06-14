@@ -43,7 +43,7 @@ function NursingJobInLithuania() {
 						<li><a href="#types_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Types of Nursing Jobs in Lithuania </a></li>
 						<li><a href="#apply_sec"><img src="/assets/icon.png" alt="Left Arrow" /> How to apply for a nursing job in Lithuania?</a></li>
 						<li><a href="#vacancy_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Nurses vacancy in Lithuania</a></li>
-						<li><a href="#requirements_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Requirement of nurse’s vacancy in Lithuania 2021 - 2022</a></li>		
+						<li><a href="#requirements_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Requirement of nurse’s vacancy in Lithuania {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1}</a></li>		
 						<li><a href="#salary_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Salary for a Nurse in Lithuania</a></li>	
 						<li><a href="#faq_sec"><img src="/assets/icon.png" alt="Left Arrow" /> FAQ about the Medical PG in Canada</a></li>
 						<li><a href="#testimonials"><img src="/assets/icon.png" alt="Left Arrow" /> Testimonials</a></li>
@@ -95,7 +95,7 @@ function NursingJobInLithuania() {
         </div>
 
           <div id="requirements_sec">
-            <h6 className="service__sub__title">Requirement of nurse’s vacancy in Lithuania 2021 - 2022</h6>
+            <h6 className="service__sub__title">Requirement of nurse’s vacancy in Lithuania {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1}</h6>
             <p className="service__info">
 							The candidate needs to fulfill the following requirements to apply for <b>nursing jobs in Lithuania:</b>
               <ul>

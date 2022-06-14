@@ -242,7 +242,7 @@ function MbbsUkraine() {
               <li>
                 <a href="#reserve_sec">
                   <img src="/assets/icon.png" alt="Left Arrow" /> How
-                  reserve your MBBS Seat in Ukraine for 2021 - 2022 Admission
+                  reserve your MBBS Seat in Ukraine for {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1} Admission
                 </a>
               </li>
               <li>
@@ -297,7 +297,7 @@ function MbbsUkraine() {
           </div>
           <div id="benefits_sec">
             <h4 className="service__sub__title">
-              Benefits of Studying MBBS in Ukraine for Indian Students 2021 - 2022
+              Benefits of Studying MBBS in Ukraine for Indian Students {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1}
             </h4>
             <p className="service__info">
               The plus points or benefits for students studying
@@ -450,7 +450,7 @@ function MbbsUkraine() {
           </div>
           <div id="requirements_sec">
             <h6 className="service__sub__title">
-              Requirements for MBBS Admission in Ukraine 2021 - 2022
+              Requirements for MBBS Admission in Ukraine {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1}
             </h6>
             <p className="service__info">
               <ul>
@@ -503,7 +503,7 @@ function MbbsUkraine() {
                   <td>6 Years</td>
                   <td>10+2 (50%)</td>
                   <td>English</td>
-                  <td>1ST AUG 2021 - 2022</td>
+                  <td>1ST AUG {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1}</td>
                 </tr>
               </tbody>
             </Table>
@@ -605,7 +605,7 @@ function MbbsUkraine() {
                   <td>6 Years</td>
                   <td>10+2 (50%)</td>
                   <td>English</td>
-                  <td>1ST AUG 2021 - 2022</td>
+                  <td>1ST AUG {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1}</td>
                 </tr>
               </tbody>
             </Table>
@@ -692,7 +692,7 @@ function MbbsUkraine() {
                   <td>6 Years</td>
                   <td>10+2 (50%)</td>
                   <td>English</td>
-                  <td>1ST AUG 2021 - 2022</td>
+                  <td>1ST AUG {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1}</td>
                 </tr>
               </tbody>
             </Table>
@@ -779,7 +779,7 @@ function MbbsUkraine() {
                   <td>6 Years</td>
                   <td>10+2 (50%)</td>
                   <td>English</td>
-                  <td>1ST AUG 2021 - 2022</td>
+                  <td>1ST AUG {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1}</td>
                 </tr>
               </tbody>
             </Table>
@@ -866,7 +866,7 @@ function MbbsUkraine() {
                   <td>6 Years</td>
                   <td>10+2 (50%)</td>
                   <td>English</td>
-                  <td>1ST AUG 2021 - 2022</td>
+                  <td>1ST AUG {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1}</td>
                 </tr>
               </tbody>
             </Table>
@@ -953,7 +953,7 @@ function MbbsUkraine() {
                   <td>6 Years</td>
                   <td>10+2 (50%)</td>
                   <td>English</td>
-                  <td>1ST AUG 2021 - 2022</td>
+                  <td>1ST AUG {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1}</td>
                 </tr>
               </tbody>
             </Table>
@@ -1040,7 +1040,7 @@ function MbbsUkraine() {
                   <td>6 Years</td>
                   <td>10+2 (50%)</td>
                   <td>English</td>
-                  <td>1ST AUG 2021 - 2022</td>
+                  <td>1ST AUG {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1}</td>
                 </tr>
               </tbody>
             </Table>
@@ -1127,7 +1127,7 @@ function MbbsUkraine() {
                   <td>6 Years</td>
                   <td>10+2 (50%)</td>
                   <td>English</td>
-                  <td>1ST AUG 2021 - 2022</td>
+                  <td>1ST AUG {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1}</td>
                 </tr>
               </tbody>
             </Table>
@@ -1215,7 +1215,7 @@ function MbbsUkraine() {
                   <td>6 Years</td>
                   <td>10+2 (50%)</td>
                   <td>English</td>
-                  <td>1ST AUG 2021 - 2022</td>
+                  <td>1ST AUG {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1}</td>
                 </tr>
               </tbody>
             </Table>
@@ -1315,7 +1315,7 @@ function MbbsUkraine() {
                   <td>6 Years</td>
                   <td>10+2 (50%)</td>
                   <td>English</td>
-                  <td>1ST AUG 2021 - 2022</td>
+                  <td>1ST AUG {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1}</td>
                 </tr>
               </tbody>
             </Table>
@@ -1402,7 +1402,7 @@ function MbbsUkraine() {
                   <td>6 Years</td>
                   <td>10+2 (50%)</td>
                   <td>English</td>
-                  <td>1ST AUG 2021 - 2022</td>
+                  <td>1ST AUG {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1}</td>
                 </tr>
               </tbody>
             </Table>
@@ -1489,7 +1489,7 @@ function MbbsUkraine() {
                   <td>6 Years</td>
                   <td>10+2 (50%)</td>
                   <td>English</td>
-                  <td>1ST AUG 2021 - 2022</td>
+                  <td>1ST AUG {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1}</td>
                 </tr>
               </tbody>
             </Table>
@@ -1630,7 +1630,7 @@ function MbbsUkraine() {
                   <td>6 Years</td>
                   <td>10+2 (50%)</td>
                   <td>English</td>
-                  <td>1ST AUG 2021 - 2022</td>
+                  <td>1ST AUG {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1}</td>
                 </tr>
               </tbody>
             </Table>
@@ -1732,7 +1732,7 @@ function MbbsUkraine() {
                   <td>6 Years</td>
                   <td>10+2 (50%)</td>
                   <td>English</td>
-                  <td>1ST AUG 2021 - 2022</td>
+                  <td>1ST AUG {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1}</td>
                 </tr>
               </tbody>
             </Table>
@@ -1832,7 +1832,7 @@ function MbbsUkraine() {
                   <td>6 Years</td>
                   <td>10+2 (50%)</td>
                   <td>English</td>
-                  <td>1ST AUG 2021 - 2022</td>
+                  <td>1ST AUG {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1}</td>
                 </tr>
               </tbody>
             </Table>
@@ -1935,7 +1935,7 @@ function MbbsUkraine() {
                   <td>6 Years</td>
                   <td>10+2 (50%)</td>
                   <td>English</td>
-                  <td>1ST AUG 2021 - 2022</td>
+                  <td>1ST AUG {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1}</td>
                 </tr>
               </tbody>
             </Table>
@@ -2039,7 +2039,7 @@ function MbbsUkraine() {
                   <td>6 Years</td>
                   <td>10+2 (50%)</td>
                   <td>English</td>
-                  <td>1ST AUG 2021 - 2022</td>
+                  <td>1ST AUG {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1}</td>
                 </tr>
               </tbody>
             </Table>
@@ -2126,7 +2126,7 @@ function MbbsUkraine() {
                   <td>6 Years</td>
                   <td>10+2 (50%)</td>
                   <td>English</td>
-                  <td>1ST AUG 2021 - 2022</td>
+                  <td>1ST AUG {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1}</td>
                 </tr>
               </tbody>
             </Table>
@@ -2236,7 +2236,7 @@ function MbbsUkraine() {
                   <td>6 Years</td>
                   <td>10+2 (50%)</td>
                   <td>English</td>
-                  <td>1ST AUG 2021 - 2022</td>
+                  <td>1ST AUG {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1}</td>
                 </tr>
               </tbody>
             </Table>
@@ -2657,11 +2657,11 @@ function MbbsUkraine() {
           </div>
           <div id="reserve_sec">
             <h6 className="service__sub__title">
-              How reserve your MBBS Seat in Ukraine for 2021 - 2022 Admission
+              How reserve your MBBS Seat in Ukraine for {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1} Admission
             </h6>
             <p className="service__info">
               The students can easily reserve their MBBS Seat in Ukraine for
-              2021 - 2022 Admission as New-Lyf make it very easy and simple. The
+              {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1} Admission as New-Lyf make it very easy and simple. The
               students need to follow the below simple steps for
               <b>MBBS Admission in Ukraine:</b>
               <ul>

@@ -39,19 +39,16 @@ function MbbsGermany() {
       </div>
       <Container>
         <div>
-          <p className="service__info">
-						<b>Study MBBS in Germany</b> is the best option as it provides a higher quality of education at an affordable price. Germany medical college has well equipped medical facilities that help the students to enhance their professional skills. <b>Germany Medical universities</b> are among the best in the world and recognized by the world’s major organizations such as WHO and MCI.<br/>
-						<b>MBBS Admission in Germany</b> offers a great opportunity for Indian students to excel in medicine. It provides the magnificent theoretical as well as practical education which empowers the candidates to become successful practitioners. The admission procedure in <b>Germany medical college /universities</b> is quite easy and simple.
-          </p>
+          <p className="service__info"><Link to="/mbbs-admission-in-germany-for-indian-students">Study MBBS in Germany</Link> is the best option as it provides a higher quality of education at an affordable price. Germany medical college has well equipped medical facilities that help the students to enhance their professional skills. <Link to="/mbbs-admission-in-germany-for-indian-students">Germany Medical universities</Link> are among the best in the world and recognized by the world’s major organizations such as WHO and MCI. <br/> <Link to="/mbbs-admission-in-germany-for-indian-students">MBBS Admission in Germany</Link> offers a great opportunity for Indian students to excel in medicine. It provides the magnificent theoretical as well as practical education which empowers the candidates to become successful practitioners. The admission procedure in <Link to="/mbbs-admission-in-germany-for-indian-students">Germany medical college /universities</Link> is quite easy and simple. </p>
           <ul className="hyperlink">
             <li><img src="/assets/icon.png" alt="Left Arrow" /> Index </li>
             <li><a href="#about_sec"><img src="/assets/icon.png" alt="Left Arrow" /> About Germany</a></li>
             <li><a href="#why_mbbs_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Why Study MBBS in Germany</a></li>
-						<li><a href="#benefits_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Benefits of Studying MBBS in Germany for Indian Students 2021 - 2022</a></li>
-						<li><a href="#eligibility_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Benefits of Studying MBBS in Germany for Indian Students 2021 - 2022</a></li>
+						<li><a href="#benefits_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Benefits of Studying MBBS in Germany for Indian Students {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1}</a></li>
+						<li><a href="#eligibility_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Benefits of Studying MBBS in Germany for Indian Students {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1}</a></li>
             <li><a href="#university_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Top Universities to Study MBBS in Germany </a></li>
-						<li><a href="#requirements_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Requirements for MBBS Admission in Germany 2021 - 2022 </a></li>
-						<li><a href="#fees_sec"><img src="/assets/icon.png" alt="Left Arrow" /> MBBS Fees in Germany 2021 - 2022 </a></li>
+						<li><a href="#requirements_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Requirements for MBBS Admission in Germany {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1} </a></li>
+						<li><a href="#fees_sec"><img src="/assets/icon.png" alt="Left Arrow" /> MBBS Fees in Germany {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1} </a></li>
             <li><a href="#advice_sec"><img src="/assets/icon.png" alt="Left Arrow" /> MBBS in Germany Advice for Indian Students </a></li>
             <li><a href="#pros_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Pros & Cons for MBBS in Germany </a></li>
             <li><a href="#visa_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Visa Procedure for MBBS in Germany </a></li>
@@ -61,7 +58,7 @@ function MbbsGermany() {
 						<li><a href="#vacations_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Vacations during MBBS in Germany </a></li>
 						<li><a href="#career_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Career Options after Completing MBBS in Germany </a></li>
 						<li><a href="#problems_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Students face huge problems due to the Fraud Agents </a></li>
-						<li><a href="#reserve_sec"><img src="/assets/icon.png" alt="Left Arrow" /> How reserve your MBBS Seat in Germany for 2021 - 2022 Admission </a></li>
+						<li><a href="#reserve_sec"><img src="/assets/icon.png" alt="Left Arrow" /> How reserve your MBBS Seat in Germany for {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1} Admission </a></li>
 						<li><a href="#charges_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Service & Consultancy Charges of New-Lyf </a></li>
 						<li><a href="#New-Lyf_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Services by New-Lyf for Abroad Education </a></li>
 						<li><a href="#process_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Our Process of conducting Student Counseling </a></li>
@@ -107,7 +104,7 @@ function MbbsGermany() {
         </div>
         <div id="benefits_sec">
           <h3 className="service__sub__title">
-						Benefits of Studying MBBS in Germany for Indian Students 2021 - 2022
+						Benefits of Studying MBBS in Germany for Indian Students {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1}
           </h3>
           <p className="service__info">
 						Germany is the best place for Indian students to study MBBS because of the following benefits:
@@ -162,7 +159,7 @@ function MbbsGermany() {
         </div>
         <div id="requirements_sec">
           <h6 className="service__sub__title">
-						Requirements for MBBS Admission in Germany 2021 - 2022
+						Requirements for MBBS Admission in Germany {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1}
           </h6>
           <p className="service__info">
 						The necessary documents for taking <b>MBBS Admission in Germany</b> are the following:
@@ -183,7 +180,7 @@ function MbbsGermany() {
         </div>
         <div id="fees_sec">
           <h6 className="service__sub__title">
-						MBBS Fees in Germany 2021 - 2022
+						MBBS Fees in Germany {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1}
           </h6>
           <p className="service__info">The <b>fees structure for the Indian students studying MBBS in Germany</b> will range from 10 to 20 lakhs per year.</p>
         </div>
@@ -310,7 +307,7 @@ function MbbsGermany() {
         </div>
         <div id="reserve_sec">
           <h6 className="service__sub__title">
-						How to reserve your MBBS Seat in Germany for 2021 - 2022 Admission
+						How to reserve your MBBS Seat in Germany for {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1} Admission
           </h6>
           <p className="service__info">
 						Germany is the best place that has the best institutes of medicine in the world. The admission procedure for <b>MBBS in Germany</b> is quite hard compared to other countries. Germany provides free education that is extremely challenging for international students to get an MBBS seat with the top German medical universities. The following is the eligibility criteria to get admission with best Germany medical universities:
@@ -467,11 +464,11 @@ function MbbsGermany() {
             </Card>
             <Card>
               <Accordion.Toggle as={Card.Header} eventKey="5">
-                <b className="accordion__title">What is the NEET minimum marks to join an MBBS in Germany 2021 - 2022?</b>
+                <b className="accordion__title">What is the NEET minimum marks to join an MBBS in Germany {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1}?</b>
               </Accordion.Toggle>
               <Accordion.Collapse eventKey="5">
                 <Card.Body>
-									<p className="service__info">The NEET minimum marks to join an MBBS in Germany 2021 - 2022 is 50 percentile.</p>
+									<p className="service__info">The NEET minimum marks to join an MBBS in Germany {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1} is 50 percentile.</p>
                 </Card.Body>
               </Accordion.Collapse>
             </Card>

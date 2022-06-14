@@ -39,19 +39,18 @@ function MbbsEurope() {
       </div>
       <Container>
         <div>
-          <p className="service__info">
-						Europe is one of the preferred destinations to study MBBS. Most of the students <b>Study MBBS in Europe</b> as all the universities/colleges provide high-quality education at affordable fees. The professors at Europe Medical colleges/universities are experts at their subjects.<br/><br/>
-						Every year, a huge number of students take MBBS admission in Europe because all the universities/colleges are approved by MCI which enables the students to practice in India after completing the <b>MBBS in Europe</b>. The students can also pursue a PG degree from India if they want but only after clearing the MCI screening test. The duration of <b>MBBS in Europe</b> in English medium is 6 years.
-          </p>
+          <p className="service__info">Europe is one of the preferred destinations to <Link to="/">study MBBS</Link>. Most of the students <Link to="/mbbs-admission-in-europe-from-mci-approved-university">Study MBBS in Europe</Link> as all the universities/colleges provide high-quality education at affordable fees. The professors at <Link to="/mbbs-admission-in-europe-from-mci-approved-university">Europe Medical colleges/universities</Link> are experts at their subjects. 
+
+          <br/> Every year, a huge number of students take <Link to="/mbbs-admission-in-europe-from-mci-approved-university">MBBS admission in Europe</Link> because all the universities/colleges are approved by MCI which enables the students to practice in India after completing the <Link to="/mbbs-admission-in-europe-from-mci-approved-university">MBBS in Europe</Link>. The students can also pursue a PG degree from India if they want but only after clearing the MCI screening test. The duration of <Link to="/mbbs-admission-in-europe-from-mci-approved-university">MBBS in Europe in English</Link> medium is 6 years.</p>
           <ul className="hyperlink">
             <li><img src="/assets/icon.png" alt="Left Arrow" /> Index </li>
             <li><a href="#about_sec"><img src="/assets/icon.png" alt="Left Arrow" /> About Europe</a></li>
             <li><a href="#why_mbbs_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Why Study MBBS in Europe</a></li>
-						<li><a href="#benefits_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Benefits of Studying MBBS in Europe for Indian Students 2021 - 2022</a></li>
+						<li><a href="#benefits_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Benefits of Studying MBBS in Europe for Indian Students {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1}</a></li>
 						<li><a href="#eligibility_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Eligibility Criteria for MBBS in Europe</a></li>
             <li><a href="#university_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Top Universities to Study MBBS in Europe </a></li>
-						<li><a href="#requirements_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Requirements for MBBS Admission in Europe 2021 - 2022 </a></li>
-						<li><a href="#fees_sec"><img src="/assets/icon.png" alt="Left Arrow" /> MBBS Fees in Europe 2021 - 2022 </a></li>
+						<li><a href="#requirements_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Requirements for MBBS Admission in Europe {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1} </a></li>
+						<li><a href="#fees_sec"><img src="/assets/icon.png" alt="Left Arrow" /> MBBS Fees in Europe {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1} </a></li>
             <li><a href="#advice_sec"><img src="/assets/icon.png" alt="Left Arrow" /> MBBS in Europe Advice for Indian Students </a></li>
             <li><a href="#pros_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Pros & Cons for MBBS in Europe </a></li>
             <li><a href="#visa_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Visa Procedure for MBBS in Europe </a></li>
@@ -83,10 +82,10 @@ function MbbsEurope() {
 						<b>MBBS in Europe for Indian Students</b> is the best option because of the following reasons:
 						<ul>
 							<li>University in Europe offer top-class education.</li>
-							<li><b>MBBS Fees in Europe</b> is less than private medical universities in India. The medium of instruction in each <b>Europe Medical College</b> or university is English.</li>
+							<li><Link to="/mbbs-admission-in-europe-from-mci-approved-university">MBBS Fees in Europe</Link> is less than private medical universities in India. The medium of instruction in each Europe Medical College or university is English.</li>
 							<li>The cost of living in Europe is low. The top-rated MBBS universities/colleges provide reasonable accommodation as well as Indian food.</li>
-							<li>MBBS degree from the <b>Europe Medical College</b> is recognized by the MCI (Medical Council of India), UNESCO, and WHO.</li>
-							<li><b>Europe Medical College</b>/universities are well-known for providing great state-of-the-art-infrastructure which makes the Study <b>MBBS in Europe</b> more productive and has a better future.</li>
+							<li>MBBS degree from the <Link to="/mbbs-admission-in-europe-from-mci-approved-university">Europe Medical College</Link> is recognized by the MCI (Medical Council of India), UNESCO, and WHO.</li>
+							<li><b>Europe Medical College</b>/universities are well-known for providing great state-of-the-art-infrastructure which makes the <Link to="/mbbs-admission-in-europe-from-mci-approved-university">Study MBBS in Europe</Link> more productive and has a better future.</li>
 							<li>The students can easily come back to India and get a license after clearing the MCI screening test</li>
 							<li>The students can also stay in Europe and continue their career here</li>
 							<li><b>Europe Medical College</b> offers additional support for the MD degree</li>
@@ -96,7 +95,7 @@ function MbbsEurope() {
         </div>
         <div id="benefits_sec">
           <h3 className="service__sub__title">
-						Benefits of Studying MBBS in Europe for Indian Students 2021 - 2022
+						Benefits of Studying MBBS in Europe for Indian Students {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1}
           </h3>
           <p className="service__info">
 						Europe is the best place for Indian students to study MBBS because there is no entrance exam or donation required for getting a seat in the <b>Europe Medical College.</b>
@@ -148,7 +147,7 @@ function MbbsEurope() {
         </div>
         <div id="requirements_sec">
           <h6 className="service__sub__title">
-						Requirements for MBBS Admission in Europe 2021 - 2022
+						Requirements for MBBS Admission in Europe {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1}
           </h6>
           <p className="service__info">
 						The necessary documents for taking <Link to="/mbbs-admission-in-europe-from-mci-approved-univeristy">MBBS Admission in Europe</Link> are the following:
@@ -169,7 +168,7 @@ function MbbsEurope() {
         </div>
         <div id="fees_sec">
           <h6 className="service__sub__title">
-						MBBS Fees in Europe 2021 - 2022
+						MBBS Fees in Europe {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1}
           </h6>
           <p className="service__info">The fees structure for the Indian students studying <b>MBBS in Europe</b> will range from 3,200 USD to 6,000 USD per year.</p>
         </div>
@@ -287,11 +286,11 @@ function MbbsEurope() {
 						</Card>
 						<Card>
               <Accordion.Toggle as={Card.Header} eventKey="6">
-                <b className="accordion__title">What is the NEET minimum marks to join an MBBS in Europe 2021 - 2022?</b>
+                <b className="accordion__title">What is the NEET minimum marks to join an MBBS in Europe {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1}?</b>
               </Accordion.Toggle>
               <Accordion.Collapse eventKey="6">
                 <Card.Body>
-									<p className="service__info">The NEET minimum marks to join an <b>MBBS in Europe</b> 2021 - 2022 is 50 percentile.</p>
+									<p className="service__info">The NEET minimum marks to join an <b>MBBS in Europe</b> {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1} is 50 percentile.</p>
                 </Card.Body>
               </Accordion.Collapse>
             </Card>

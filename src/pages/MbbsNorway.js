@@ -39,20 +39,17 @@ function MbbsNorway() {
       </div>
       <Container>
         <div>
-          <p className="service__info">
-						<b>MBBS in Norway</b> is the best considerable destination to study a course of medicine for Indian students as it enables the students to have brighter 	career growth. It provides the magnificent theoretical as well as practical education which empowers the candidates to become successful practitioners.<br/><br/>
-						<b>MBBS in Norway fees</b> is very affordable. The MBBS course offered to students in Norway is known as the MD program (Doctor of Medicine). More than 5000 foreign students are taking MBBS Admission in Norway every year. The best part of taking admission to <b>MBBS in Norway</b> is that the medium of instruction is English.
-
-          </p>
+          <p className="service__info"><Link to="/mbbs-admission-in-norway-for-indian-students">MBBS in Norway</Link> is the best considerable destination to study a course of medicine for Indian students as it enables the students to have brighter career growth. It provides the magnificent theoretical as well as practical education which empowers the candidates to become successful practitioners. <br/> 
+          <Link to="/mbbs-admission-in-norway-for-indian-students">MBBS in Norway fees is very affordable</Link>. The MBBS course offered to students in Norway is known as the MD program (Doctor of Medicine). More than 5000 foreign students are taking <Link to="/mbbs-admission-in-norway-for-indian-students">MBBS Admission in Norway</Link> every year. The best part of taking admission to <Link to="/">MBBS in Norway</Link> is that the medium of instruction is English.</p>
           <ul className="hyperlink">
             <li><img src="/assets/icon.png" alt="Left Arrow" /> Index </li>
             <li><a href="#about_sec"><img src="/assets/icon.png" alt="Left Arrow" /> About Norway</a></li>
             <li><a href="#why_mbbs_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Why Study MBBS in Norway</a></li>
-						<li><a href="#benefits_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Benefits of Studying MBBS in Norway for Indian Students 2021 - 2022</a></li>
+						<li><a href="#benefits_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Benefits of Studying MBBS in Norway for Indian Students {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1}</a></li>
 						<li><a href="#eligibility_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Eligibility Criteria for MBBS in Norway</a></li>
             <li><a href="#university_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Top Universities to Study MBBS in Norway </a></li>
-						<li><a href="#requirements_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Requirements for MBBS Admission in Norway 2021 - 2022 </a></li>
-						<li><a href="#fees_sec"><img src="/assets/icon.png" alt="Left Arrow" /> MBBS Fees in Norway 2021 - 2022 </a></li>
+						<li><a href="#requirements_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Requirements for MBBS Admission in Norway {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1} </a></li>
+						<li><a href="#fees_sec"><img src="/assets/icon.png" alt="Left Arrow" /> MBBS Fees in Norway {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1} </a></li>
             <li><a href="#advice_sec"><img src="/assets/icon.png" alt="Left Arrow" /> MBBS in Norway Advice for Indian Students </a></li>
             <li><a href="#pros_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Pros & Cons for MBBS in Norway </a></li>
             <li><a href="#visa_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Visa Procedure for MBBS in Norway </a></li>
@@ -79,24 +76,24 @@ function MbbsNorway() {
         <div id="why_mbbs_sec">
           <h2 className="service__sub__title">Why Study MBBS in Norway</h2>
 					<p className="service__info">
-					<b>MBBS in Norway for Indian Students</b> is the best option because of the following reasons:
+					  MBBS in Norway for Indian Students is the best option because of the following reasons:
 						<ul>
-							<li>Travel to the Norway is much easier and even economical than traveling to other countries.</li>
-							<li>A medical program provided by the Norway to their students is recognized worldwide.</li>
-							<li>The language of coaching in Norway is also English.</li>
-							<li>The students who have cleared <Link to="/mbbs-admission-in-norway-from-mci-approved-universities">MBBS in Norway</Link> can also practice in India.</li>
-							<li>A unified problem-based learning approach offers better exposure to future medical practitioners.</li>
-							<li>Advanced teaching techniques with outstanding facilities equipped with the well-established infrastructure</li>
-							<li>Norway is extremely safe for Indian students and the environment is also safe.</li>
-							<li>There is no donation or capitation fee required in these Norway universities/colleges.</li>
-							<li>Norway MBBS Colleges/universities provide the best education at affordable fees.</li>
-							<li>The cost of living is quite favorable for Indian students as there are excellent boarding and lodging provided by the university with the availability of Indian food for the students.</li>
-						</ul>
+              <li>Travel to the Norway is much easier and even economical than traveling to other countries.</li>
+              <li>A medical program provided by the Norway to their students is recognized worldwide.</li>
+              <li>The language of coaching in Norway is also English.</li>
+              <li>The students who have cleared <Link to="/mbbs-admission-in-norway-for-indian-students">MBBS in Norway</Link> can also practice in India.</li>
+              <li>A unified problem-based learning approach offers better exposure to future medical practitioners.</li>
+              <li>Advanced teaching techniques with outstanding facilities equipped with the well-established infrastructure</li>
+              <li>Norway is extremely safe for Indian students and the environment is also safe.</li>
+              <li>There is no donation or capitation fee required in these Norway universities/colleges.</li>
+              <li><Link to="/mbbs-admission-in-norway-for-indian-students">Norway MBBS Colleges/universities</Link> provide the best education at affordable fees.</li>
+              <li>The cost of living is quite favorable for Indian students as there are excellent boarding and lodging provided by the university with the availability of Indian food for the students.</li>
+            </ul>
 					</p>
         </div>
         <div id="benefits_sec">
           <h3 className="service__sub__title">
-						Benefits of Studying MBBS in Norway for Indian Students 2021 - 2022
+						Benefits of Studying MBBS in Norway for Indian Students {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1}
           </h3>
           <p className="service__info">
 						Norway is the best place for Indian students to study MBBS because of the following benefits:
@@ -143,7 +140,7 @@ function MbbsNorway() {
         </div>
         <div id="requirements_sec">
           <h6 className="service__sub__title">
-						Requirements for MBBS Admission in Norway 2021 - 2022
+						Requirements for MBBS Admission in Norway {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1}
           </h6>
           <p className="service__info">
 						The necessary documents for taking MBBS Admission in Norway are the following:
@@ -164,7 +161,7 @@ function MbbsNorway() {
         </div>
         <div id="fees_sec">
           <h6 className="service__sub__title">
-						MBBS Fees in Norway 2021 - 2022
+						MBBS Fees in Norway {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1}
           </h6>
           <p className="service__info">The fees structure for the Indian students studying <b>MBBS in Norway</b> will range anywhere around 4200 Euros per year.</p>
         </div>
@@ -273,11 +270,11 @@ function MbbsNorway() {
             </Card>
             <Card>
               <Accordion.Toggle as={Card.Header} eventKey="5">
-                <b className="accordion__title">What is the NEET minimum marks to join an MBBS in Norway 2021 - 2022?</b>
+                <b className="accordion__title">What is the NEET minimum marks to join an MBBS in Norway {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1}?</b>
               </Accordion.Toggle>
               <Accordion.Collapse eventKey="5">
                 <Card.Body>
-									<p className="service__info">The NEET minimum marks to join an <b>MBBS in Norway</b> 2021 - 2022 is 50 percentile.</p>
+									<p className="service__info">The NEET minimum marks to join an <b>MBBS in Norway</b> {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1} is 50 percentile.</p>
                 </Card.Body>
               </Accordion.Collapse>
 						</Card>

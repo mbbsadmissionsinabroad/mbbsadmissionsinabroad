@@ -6,6 +6,7 @@ import "bootstrap/dist/css/bootstrap.css";
 import "./Services.css";
 import FranceForm from "../components/ContactForm/FranceForm";
 import HomeCarousel from "../components/HomeCarousel";
+import { Link } from "react-router-dom";
 
 function MbbsFrance() {
   const [modalShow, setModalShow] = React.useState(false);
@@ -40,7 +41,7 @@ function MbbsFrance() {
           <div>
             <p className="service__info">
               France has become the leading center of medical education.
-              Pursuing MBBS in France is a golden opportunity for Indian
+              Pursuing <Link to="/mbbs-in-france">MBBS in France</Link> is a golden opportunity for Indian
               students because of world-class faculty and exposure to foreign
               academics. France is one of the demanded destinations by most
               students for studying MBBS.
@@ -50,12 +51,12 @@ function MbbsFrance() {
               colleges and Universities that provide the guarantee admission and
               quality education with complete transparency. France has always
               been a cost-effective and convenient place for pursuing MBBS.
-              France MBBS College fees would range anywhere between 50-53 Lakhs.
+              <Link to="/mbbs-in-france">France MBBS College fees</Link> would range anywhere between 50-53 Lakhs.
               <br />
               <br />
               France Medical University offers a standard medical program,
               covers wide concepts, a vivid technique, best infrastructure, and
-              a globally recognized degree. All MBBS Universities in France are
+              a globally recognized degree. All <Link to="/mbbs-in-france">MBBS Universities in France</Link> are
               approved by MCI (Medical Council of India) and WHO (World Health
               Organization).
             </p>
@@ -144,11 +145,7 @@ function MbbsFrance() {
           </div>
           <div id="why_mbbs_sec">
             <h3 className="service__sub__title">Why MBBS Study in France</h3>
-            <p className="service__info">
-              France consists of world-class Medical Universities and
-              infrastructure that provides the best education of the MBBS
-              course. There are numerous reasons to study MBBS in France which
-              are as follows:
+            <p className="service__info">France consists of world-class Medical Universities and infrastructure that provides the best education of the MBBS course. There are numerous reasons to <Link to="/mbbs-in-france">study MBBS in France</Link> which are as follows:
               <ul>
                 <li>
                   MCI (Medical Council of India) and WHO (World Health
@@ -156,11 +153,11 @@ function MbbsFrance() {
                   France.
                 </li>
                 <li>
-                  The procedure of taking MBBS admission in France is very
+                  The procedure of taking <Link to="/mbbs-in-france">MBBS admission in France</Link> is very
                   simple and smooth.
                 </li>
                 <li>
-                  The duration of the MBBS course in France is 8-10 years.
+                  The duration of the <Link to="/mbbs-in-france">MBBS course in France</Link> is 8-10 years.
                 </li>
                 <li>
                   Travel to France is much easier than traveling to other
@@ -168,7 +165,7 @@ function MbbsFrance() {
                 </li>
                 <li>
                   There are separate classes for Indian students in English who
-                  seek MBBS in France.
+                  seek <Link to="/mbbs-in-france">MBBS in France</Link>.
                 </li>
                 <li>
                   Modern teaching methods such as a digital class with
@@ -180,8 +177,7 @@ function MbbsFrance() {
                   France Universities.
                 </li>
                 <li>
-                  No requirement for donation or capitation fees to study MBBS
-                  in France.
+                  No requirement for donation or capitation fees to <Link to="/mbbs-in-france">study MBBS in France</Link>.
                 </li>
                 <li>
                   The cost of living is economical with high quality of life.
@@ -195,7 +191,7 @@ function MbbsFrance() {
           </div>
           <div id="benefits_sec">
             <h4 className="service__sub__title">
-              Benefits of MBBS in France for Indian Students 2021 - 2022
+              Benefits of MBBS in France for Indian Students {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1}
             </h4>
             <p className="service__info">
               France is a well-renowned study destination for future doctors in
@@ -250,7 +246,7 @@ function MbbsFrance() {
           </div>
           <div id="requirements_sec">
             <h6 className="service__sub__title">
-              Requirements for MBBS Admission in France 2021 - 2022
+              Requirements for MBBS Admission in France {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1}
             </h6>
             <p className="service__info">
               The Indian students should fulfill some essential requirements for

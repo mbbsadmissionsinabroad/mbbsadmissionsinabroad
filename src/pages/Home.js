@@ -98,19 +98,7 @@ function Home() {
               <Col md={6} xs={12}>
                 <div className="who__we_are">
                   <h3>Who We Are?</h3>
-                  <p>
-                    With the core objective of rendering the best services and
-                    quality guidance to Indian students to fulfill their dream
-                    of studying MBBS abroad, we are engaged in providing the
-                    professional study abroad consulting services since 2009. We
-                    are the one-stop and most trusted MBBS study abroad
-                    consultant offering the complete admission support services
-                    round the clock.
-                    <br /> We have great experience in the education field and
-                    have a team of experts who help and guide Indian students to
-                    select the right course and country. You can always assure
-                    the highly satisfactory and professional services with us.
-                  </p>
+                  <p>With the core objective of rendering the best services and quality guidance to Indian students to fulfill their dream of <Link to="/">studying MBBS abroad</Link>, we are engaged in providing the professional study abroad consulting services since 2009. We are the one-stop and most trusted <Link to="/">MBBS study abroad consultant</Link> offering the complete admission support services round the clock. <br /> We have great experience in the education field and have a team of experts who help and guide Indian students to select the right course and country. You can always assure the highly satisfactory and professional services with us.</p>
                 </div>
               </Col>
               <Col md={6} xs={12}>
@@ -505,17 +493,14 @@ function Home() {
         </section>
         <section>
           <Container>
-            <h3 className="head__title">2021 - 2022 Mbbs Admission In Abroad</h3>
-            <p className="head__desc"> MBBS is an extremely valued course and degree across the globe and it is totally worth to study MBBS in abroad with top MCI approved medical universities/colleges <b> with a reasonable fee structure & without any donation and capitation fees </b> for MBBS admission in different countries such as <b> Russia, Ukraine, Belize, Philippines </b>, and many more. Abroad universities/colleges provide a high quality of education. Every year, more than <b>20,000 Indian students</b> are taking MBBS Admission in Abroad. </p>
+            <h3 className="head__title">{(new Date().getFullYear())} - {(new Date().getFullYear()) + 1} Mbbs Admission In Abroad</h3>
+            <p className="head__desc"> MBBS is an extremely valued course and degree across the globe and it is totally worth to <Link to="/mci-approved-medical-universities-in-abroad">study MBBS in abroad with top MCI approved medical universities/colleges</Link> with a reasonable fee structure & without any donation and capitation fees for MBBS admission in different countries such as Russia, Ukraine, Belize, <Link to="/mbbs-in-philippines">Philippines</Link> , and many more. Abroad universities/colleges provide a high quality of education. Every year, more than 20,000 Indian students are taking <Link to="/">MBBS Admission in Abroad</Link>.</p>
           </Container>
         </section>
         <section>
           <Container>
             <h3 className="head__title">Mbbs Abroad Consultancy In India</h3>
-            <p className="head__desc"> <b>New-Lyf</b> is one of the best MBBS Abroad Consultancy in India that offers professional consultancy services to aspiring students who wish to pursue a lucrative career in the field of medicine. Most of the students want to obtain an <b>immensely valued MBBS degree</b> from some of the <b>top-class universities abroad</b>.
-            <br /> 
-            If you also wish to pursue an MBBS degree from some prestigious educational college/university abroad, contact the reliable <b>New-Lyf MBBS abroad consultants in India</b>. We have a team of <b>highly qualified and experienced MBBS consultants</b> that aims at delivering the best results for your professional MBBS career.
-            <br /> Our counselors have more than <b>10 years of experience</b> in the given field that <b>provide in-depth</b>, accurate information that you require to know about MBBS abroad. We suggest the <b>best-suited MBBS program</b> for you on the basis of <b> your personal academic & financial profile, future career plans </b> , and so more.</p>
+            <p className="head__desc"> New-Lyf is one of the <Link to="/">best MBBS Abroad Consultancy in India</Link> that offers professional consultancy services to aspiring students who wish to pursue a lucrative career in the field of medicine. Most of the students want to obtain an immensely valued MBBS degree from some of the top-class universities abroad. <br /> If you also wish to pursue an MBBS degree from some prestigious educational college/university abroad, contact the reliable <Link to="/">New-Lyf MBBS abroad consultants in India</Link>. We have a team of highly qualified and experienced MBBS consultants that aims at delivering the best results for your professional MBBS career. <br /> Our counselors have more than 10 years of experience in the given field that provide in-depth, accurate information that you require to know about MBBS abroad. We suggest the best-suited MBBS program for you on the basis of your personal academic & financial profile, future career plans, and so more.</p>
           </Container>
         </section>
         <section className="consultancy__india">
@@ -712,10 +697,10 @@ function Home() {
                     Philippines have minor effects and have contained the virus
                     very well. According to the reviews from countries and
                     universities, they will be accepting the admissions in MBBS
-                    in 2021 - 2022 without any restrictions. MBBS abroad 2021 - 2022 students
-                    will be traveling in October 2021 - 2022 and by that time the
+                    in {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1} without any restrictions. MBBS abroad {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1} students
+                    will be traveling in October {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1} and by that time the
                     complete situation will be under control. So, the students
-                    no need to worry, admissions in MBBS Abroad 2021 - 2022 will remain
+                    no need to worry, admissions in MBBS Abroad {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1} will remain
                     unaffected and New-Lyf MBBS Abroad Consultancy in India
                     will help you get admission in MBBS abroad smoothly and
                     safely.</p>

@@ -6,6 +6,7 @@ import "bootstrap/dist/css/bootstrap.css";
 import "./Services.css";
 import BelizeForm from "../components/ContactForm/BelizeForm";
 import HomeCarousel from "../components/HomeCarousel";
+import { Link } from "react-router-dom";
 
 function MbbsBelize() {
 	const [modalShow, setModalShow] = React.useState(false);
@@ -38,24 +39,7 @@ function MbbsBelize() {
       </div>
       <Container>
         <div>
-          <p className="service__info">
-            Belize is a country famous for affordable and quality medical
-            education. Pursuing MBBS in Belize universities is truly a rewarding
-            investment of time, finance and career acquisition. Belize is well
-            known for the best medical universities. <br /> <br />
-            MBBS in Belize has obtained an incredible position in the world
-            because of high educational standards with modern teaching
-            techniques and well-established infrastructure. Each Belize Medical
-            University is recognized by the world’s major organizations such as
-            WHO (World Health Organization) and MCI (Medical Council of India).
-            <br /> <br />
-            MBBS graduates can do a licensing exam conducted in the USA which is
-            USMLE (the United States Medical Licensing Examination) and easily
-            get admission into residency program/postgraduate training in the
-            United States. Belize is the only Central American nation where
-            everyone communicates in English. Belize MBBS College fees would
-            range anywhere between 20-25 Lakhs.
-          </p>
+          <p className="service__info">Belize is a country famous for affordable and quality medical education. Pursuing <Link to="/mbbs-in-belize">MBBS in Belize</Link> universities is truly a rewarding investment of time, finance and career acquisition. Belize is well known for the best medical universities. <br/> <Link to="/mbbs-in-belize">MBBS in Belize</Link> has obtained an incredible position in the world because of high educational standards with modern teaching techniques and well-established infrastructure. Each Belize Medical University is recognized by the world’s major organizations such as WHO (World Health Organization) and MCI (Medical Council of India). <br/> MBBS graduates can do a licensing exam conducted in the USA which is USMLE (the United States Medical Licensing Examination) and easily get admission into residency program/postgraduate training in the United States. Belize is the only Central American nation where everyone communicates in English. <Link to="/mbbs-in-belize">Belize MBBS College fees</Link> would range anywhere between 20-25 Lakhs. </p>
           <ul className="hyperlink">
             <li>
               <img src="/assets/icon.png" alt="Left Arrow" /> Index
@@ -151,8 +135,7 @@ function MbbsBelize() {
             following reasons:
             <ul>
               <li>
-                Belize provides a golden opportunity to study MBBS in Central
-                American counties.
+              Belize provides a golden opportunity to study <Link to="/mbbs-in-belize">MBBS in Central American counties</Link>.
               </li>
               <li>
                 Belize is a preferred destination for medical studies due to
@@ -163,32 +146,19 @@ function MbbsBelize() {
                 Belize has a US-based syllabus in the MBBS course and the medium
                 of coaching is English.
               </li>
-              <li>
-                The fee structure for taking MBBS admission in Belize is
-                affordable.
-              </li>
+              <li>The fee structure for taking <Link to="/mbbs-in-belize">MBBS admission in Belize</Link> is affordable.</li>
               <li>
                 Advanced teaching techniques and scientific approaches with
                 outstanding facilities equipped with the well-established
                 infrastructure
               </li>
-              <li>
-                The MBBS degree acquired from any medical colleges in Belize is
-                valid and these degrees are approved by the Medical Council of
-                India.
-              </li>
-              <li>
-                The students can easily get a job in India and even around the
-                world after completing MBBS in Belize from any medical college.
-              </li>
+              <li>The MBBS degree acquired from any <Link to="/mbbs-in-belize">medical colleges in Belize</Link> is valid and these degrees are approved by the Medical Council of India.</li>
+              <li>The students can easily get a job in India and even around the world after completing <Link to="/mbbs-in-belize">MBBS in Belize</Link> from any medical college.</li>
               <li>
                 The classrooms of Belize MBBS colleges are practically oriented
                 which increases the interests of the students in the subject.
               </li>
-              <li>
-                The MBBS fees structure of each Belize MBBS College is less than
-                Indian Medical Colleges.
-              </li>
+              <li>The MBBS fees structure of each <Link to="/mbbs-in-belize">Belize MBBS College</Link> is less than Indian Medical Colleges.</li>
             </ul>
           </p>
         </div>
@@ -250,7 +220,7 @@ function MbbsBelize() {
         </div>
         <div id="requirements_sec">
           <h6 className="service__sub__title">
-            Requirements for MBBS Admission in Belize 2021 - 2022
+            Requirements for MBBS Admission in Belize {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1}
           </h6>
           <p className="service__info">
             Belize is one of the most preferred destinations for Indian students

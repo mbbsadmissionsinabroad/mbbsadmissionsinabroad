@@ -6,6 +6,7 @@ import "bootstrap/dist/css/bootstrap.css";
 import "./Services.css";
 import GeorgiaForm from "../components/ContactForm/GeorgiaForm";
 import HomeCarousel from "../components/HomeCarousel";
+import { Link } from "react-router-dom";
 
 function MbbsGeorgia() {
   const [modalShow, setModalShow] = React.useState(false);
@@ -38,16 +39,14 @@ function MbbsGeorgia() {
       </div>
       <Container>
         <div>
-          <p className="service__info">
-						Georgia has become popular among students who are pursuing MBBS especially after 2011. The medical universities of Georgia are some of the best options for any student who wants to study MBBS abroad. The admission process for studying in a medical college in Georgia is very easy compared to the usual admission processes. Students are not required to go through any sort of entrance test for the admission, as it is done on the basis of the marks obtained in class 12th. Students can attain scholarships on the basis of their marks in 12th. After graduating from a medical college in Georgia, one can apply for a screening test to get the license to practice. The medical universities and colleges in Georgia provide rich quality education with a very feasible tuition fees as compared to other foreign countries. The medical universities of Georgia have got a worldwide recognition and offer high standard infrastructure and education. The medical universities of Georgia are recognized by MCI and WHO. The students completing their MBBS course from Georgia are eligible to work in any part of the world.
-          </p>
+          <p className="service__info">Georgia has become popular among students who are pursuing MBBS especially after 2011. The medical universities of Georgia are some of the best options for any student who wants to <Link to="/">study MBBS abroad</Link>. The admission process for studying in a <Link to="/mbbs-in-georgia">medical college in Georgia</Link> is very easy compared to the usual admission processes. Students are not required to go through any sort of entrance test for the admission, as it is done on the basis of the marks obtained in class 12th. Students can attain scholarships on the basis of their marks in 12th. After graduating from a <Link to="/mbbs-in-georgia">medical college in Georgia</Link>, one can apply for a screening test to get the license to practice. The <Link to="/mbbs-in-georgia">medical universities and colleges in Georgia</Link> provide rich quality education with a very feasible tuition fees as compared to other foreign countries. The medical universities of Georgia have got a worldwide recognition and offer high standard infrastructure and education. The medical universities of Georgia are recognized by MCI and WHO. The students completing their <Link to="/mbbs-in-georgia">MBBS course from Georgia</Link> are eligible to work in any part of the world.</p>
           <ul className="hyperlink">
             <li><img src="/assets/icon.png" alt="Left Arrow" /> Index </li>
             <li><a href="#about_sec"><img src="/assets/icon.png" alt="Left Arrow" /> About MBBS in Georgia</a></li>
             <li><a href="#why_mbbs_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Why MBBS in Georgia?</a></li>
-            <li><a href="#benefits_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Benefits of MBBS in Georgia for Indian Students 2021 - 2022</a></li>
+            <li><a href="#benefits_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Benefits of MBBS in Georgia for Indian Students {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1}</a></li>
             <li><a href="#university_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Top Universities for MBBS in Georgia </a></li>
-            <li><a href="#requirements_sec"><img src="/assets/icon.png" alt="Left Arrow"  /> Requirements for MBBS Admission in Georgia 2021 - 2022 </a></li>
+            <li><a href="#requirements_sec"><img src="/assets/icon.png" alt="Left Arrow"  /> Requirements for MBBS Admission in Georgia {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1} </a></li>
             <li><a href="#advice_sec"><img src="/assets/icon.png" alt="Left Arrow" /> MBBS in Georgia Advice for Indian Students </a></li>
             <li><a href="#pros_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Pros & Cons for MBBS in Georgia </a></li>
             <li><a href="#visa_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Visa procedure for MBBS in Georgia </a></li>
@@ -57,7 +56,7 @@ function MbbsGeorgia() {
 						<li><a href="#vacations_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Vacations during MBBS in Georgia </a></li>
 						<li><a href="#career_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Career Options after Completing MBBS in Georgia </a></li>
 						<li><a href="#problems_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Students face huge problems due to the Fraud Agents </a></li>
-						<li><a href="#reserve_sec"><img src="/assets/icon.png" alt="Left Arrow" /> How reserve your MBBS Seat in Georgia for 2021 - 2022 Admission </a></li>
+						<li><a href="#reserve_sec"><img src="/assets/icon.png" alt="Left Arrow" /> How reserve your MBBS Seat in Georgia for {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1} Admission </a></li>
 						<li><a href="#charges_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Service & Consultancy Charges of New-Lyf </a></li>
 						<li><a href="#New-Lyf_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Services by New-Lyf for Abroad Education </a></li>
 						<li><a href="#process_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Our Process of conducting Student Counseling </a></li>
@@ -86,12 +85,22 @@ function MbbsGeorgia() {
         <div id="why_mbbs_sec">
           <h2 className="service__sub__title">Why MBBS Study in Georgia</h2>
           <p className="service__info">
-						MBBS admission to a medical college in Georgia is hassle-free as there is no entrance examination. The MBBS colleges and universities in Georgia are accredited internationally by the acclaimed medical councils like WHO, MCI, FAIMER and UNESCO. The medical colleges and universities in Georgia do not accept donation. The tuition fee remains within the budget. One can easily attain a scholarship based on the merit score. Georgia provides high quality education along with good accommodation and facilities. The course duration in Georgia is 5 +1 year of internship for which one can get 4000 USD to 5500 USD per annum. A medical degree from Georgia prepares one for appearing the United States licensing exam. One can also practice in India after doing MBBS in Georgia. The classes are in the ratio 20:1 which very healthy ratio for a scholastic development of the student. The medium of instruction in medical colleges in Georgia is English, unlike the other countries abroad who insist on learning the mother tongue of the country. Also the weather conditions in Georgia are highly adaptable to Indians students in comparison to other countries with harsh climatic conditions. The students get discounts on travel within Georgia. The students acquire a lot of exposure and also get to participate in international conferences and seminars which are assets to the education provided. Georgia is safe and provides a healthy atmosphere enriching the education of the students.
+          <ul>
+            <li>MBBS admission to a <Link to="/mbbs-in-georgia">medical college in Georgia</Link> is hassle-free as there is no entrance examination. </li>
+            <li>The MBBS colleges and universities in Georgia are accredited internationally by the acclaimed medical councils like WHO, MCI, FAIMER and UNESCO. </li>
+            <li>The medical colleges and universities in Georgia do not accept donation. </li>
+            <li>The tuition fee remains within the budget. One can easily attain a scholarship based on the merit score. </li>
+            <li>Georgia provides high quality education along with good accommodation and facilities. The course duration in Georgia is 5 +1 year of internship for which one can get 4000 USD to 5500 USD per annum. A medical degree from Georgia prepares one for appearing the United States licensing exam. One can also practice in India after doing <Link to="/mbbs-in-georgia">MBBS in Georgia</Link>. </li>
+            <li>The classes are in the ratio 20:1 which very healthy ratio for a scholastic development of the student. The medium of instruction in <Link to="/mbbs-in-georgia">medical colleges in Georgia is English</Link>, unlike the other countries abroad who insist on learning the mother tongue of the country. </li>
+            <li>Also the weather conditions in Georgia are highly adaptable to Indians students in comparison to other countries with harsh climatic conditions. The students get discounts on travel within Georgia. </li>
+            <li>The students acquire a lot of exposure and also get to participate in international conferences and seminars which are assets to the education provided. </li>
+            <li>Georgia is safe and provides a healthy atmosphere enriching the education of the students.</li>
+          </ul>
           </p>
         </div>
         <div id="benefits_sec">
           <h3 className="service__sub__title">
-            Benefits of Studying MBBS in Georgia for Indian Students 2021 - 2022
+            Benefits of Studying MBBS in Georgia for Indian Students {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1}
           </h3>
           <p className="service__info">
 						The benefits of doing MBBS in Georgia are as follows:
@@ -143,7 +152,7 @@ function MbbsGeorgia() {
         </div>
         <div id="requirements_sec">
           <h5 className="service__sub__title">
-            Requirements for MBBS Admission in Georgia 2021 - 2022
+            Requirements for MBBS Admission in Georgia {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1}
           </h5>
           <p className="service__info">
 						The necessary documents for attaining admission in Georgia are the following:
@@ -156,7 +165,7 @@ function MbbsGeorgia() {
 								<li>A no objection certificate.</li>
 								<li>Report of HIV test.</li>
 								<li>Banks statements are required for the submission.</li>
-								<li>Posses the MBBS fees of Georgia 2021 - 2022.</li>
+								<li>Posses the MBBS fees of Georgia {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1}.</li>
 								<li>Medical certificates for fitness proofs.</li>
 								<li>Invitation letter from concerned university.</li>
 								<li>Approved documents from the Ministry External Affairs.</li>
@@ -282,7 +291,7 @@ function MbbsGeorgia() {
         </div>
         <div id="reserve_sec">
           <h6 className="service__sub__title">
-						How reserve your MBBS Seat in Georgia for 2021 - 2022 Admission
+						How reserve your MBBS Seat in Georgia for {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1} Admission
           </h6>
           <p className="service__info">
 						Taking admission to the best Georgia medical universities is very simple and students need to follow the below steps:

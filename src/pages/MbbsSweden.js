@@ -39,19 +39,16 @@ function MbbsSweden() {
       </div>
       <Container>
         <div>
-          <p className="service__info">
-						Sweden is a country famous for affordable and quality medical education. Pursuing <Link to="/mbbs-admission-in-sweden-for-indian-students">MBBS in Sweden</Link> universities/colleges is truly a rewarding investment of time, finance and career acquisition. Sweden is well known for the best medical universities. <b>MBBS in Sweden</b> has obtained an 	incredible position in the world because of high educational standards with modern teaching techniques and well-established infrastructure.
-						MBBS graduates can do a licensing exam conducted in the USA which is <b>USMLE (the United States Medical Licensing Examination)</b> and easily get admission into residency program/postgraduate training in the United States. The local language in Sweden is Swedish but the medium of instruction in <b>Sweden universities/colleges is English</b>.
-          </p>
+          <p className="service__info">Sweden is a country famous for affordable and quality medical education. Pursuing <Link to="/mbbs-admission-in-sweden-for-indian-students">MBBS in Sweden</Link> universities/colleges is truly a rewarding investment of time, finance and career acquisition. Sweden is well known for the best medical universities. <Link to="/mbbs-admission-in-sweden-for-indian-students">MBBS in Sweden</Link> has obtained an incredible position in the world because of high educational standards with modern teaching techniques and well-established infrastructure. MBBS graduates can do a licensing exam conducted in the USA which is <Link to="/usmle-united-states-medical-licensing-examination">USMLE (the United States Medical Licensing Examination)</Link> and easily get admission into residency program/postgraduate training in the United States. The local language in Sweden is Swedish but the medium of instruction in Sweden universities/colleges is English.</p>
           <ul className="hyperlink">
             <li><img src="/assets/icon.png" alt="Left Arrow" /> Index </li>
             <li><a href="#about_sec"><img src="/assets/icon.png" alt="Left Arrow" /> About Sweden</a></li>
             <li><a href="#why_mbbs_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Why Study MBBS in Sweden</a></li>
-						<li><a href="#benefits_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Benefits of Studying MBBS in Sweden for Indian Students 2021 - 2022</a></li>
+						<li><a href="#benefits_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Benefits of Studying MBBS in Sweden for Indian Students {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1}</a></li>
 						<li><a href="#eligibility_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Eligibility Criteria for MBBS in Sweden</a></li>
             <li><a href="#university_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Top Universities to Study MBBS in Sweden </a></li>
-						<li><a href="#requirements_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Requirements for MBBS Admission in Sweden 2021 - 2022 </a></li>
-						<li><a href="#fees_sec"><img src="/assets/icon.png" alt="Left Arrow" /> MBBS Fees in Sweden 2021 - 2022 </a></li>
+						<li><a href="#requirements_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Requirements for MBBS Admission in Sweden {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1} </a></li>
+						<li><a href="#fees_sec"><img src="/assets/icon.png" alt="Left Arrow" /> MBBS Fees in Sweden {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1} </a></li>
             <li><a href="#advice_sec"><img src="/assets/icon.png" alt="Left Arrow" /> MBBS in Sweden Advice for Indian Students </a></li>
             <li><a href="#pros_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Pros & Cons for MBBS in Sweden </a></li>
             <li><a href="#visa_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Visa Procedure for MBBS in Sweden </a></li>
@@ -80,19 +77,19 @@ function MbbsSweden() {
 					<p className="service__info">
 					<b>MBBS in Sweden for Indian Students</b> is the best option because of the following reasons:
 					<ul>
-							<li>Sweden is a preferred destination for medical studies due to easy admission procedure and no entrance test at the majority of Sweden medical universities/colleges.</li>
+							<li>Sweden is a preferred destination for medical studies due to easy admission procedure and no entrance test at the majority of <Link to="/mbbs-admission-in-sweden-for-indian-students">Sweden medical universities/colleges</Link>.</li>
 							<li>Sweden has a US-based syllabus in the MBBS course and the medium of coaching is English.</li>
-							<li>MBBS in Sweden fee structure is affordable as compared to Indian Medical Colleges.</li>
+							<li><Link to="/mbbs-admission-in-sweden-for-indian-students">MBBS in Sweden fee structure</Link> is affordable as compared to Indian Medical Colleges.</li>
 							<li>Advanced teaching techniques and scientific approaches with outstanding facilities equipped with the well-established infrastructure</li>
-							<li>The MBBS degree acquired from any medical colleges in Sweden is valid and these degrees are approved by the Medical Council of India.</li>
-							<li>The students can easily get a job in India and even around the world after completing <b>MBBS in Sweden</b> from any medical college.</li>
-							<li>The classrooms of Sweden MBBS colleges are practically oriented which increases the interests of the students in the subject.</li>
+							<li>The MBBS degree acquired from any <Link to="/mbbs-admission-in-sweden-for-indian-students">medical colleges in Sweden</Link> is valid and these degrees are approved by the Medical Council of India.</li>
+							<li>The students can easily get a job in India and even around the world after completing <Link to="/mbbs-admission-in-sweden-for-indian-students">MBBS in Sweden</Link> from any medical college.</li>
+							<li>The classrooms of <Link to="/mbbs-admission-in-sweden-for-indian-students">Sweden MBBS colleges</Link> are practically oriented which increases the interests of the students in the subject.</li>
 						</ul>
 					</p>
         </div>
         <div id="benefits_sec">
           <h3 className="service__sub__title">
-						Benefits of Studying MBBS in Sweden for Indian Students 2021 - 2022
+						Benefits of Studying MBBS in Sweden for Indian Students {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1}
           </h3>
           <p className="service__info">
 						Sweden is one of the best places for Indian students to study MBBS because of the following benefits:
@@ -145,7 +142,7 @@ function MbbsSweden() {
         </div>
         <div id="requirements_sec">
           <h6 className="service__sub__title">
-						Requirements for MBBS Admission in Sweden 2021 - 2022
+						Requirements for MBBS Admission in Sweden {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1}
           </h6>
           <p className="service__info">
 							The necessary documents for taking admission to <b>MBBS in Sweden</b> are the following:
@@ -160,7 +157,7 @@ function MbbsSweden() {
         </div>
         <div id="fees_sec">
           <h6 className="service__sub__title">
-						MBBS Fees in Sweden 2021 - 2022
+						MBBS Fees in Sweden {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1}
           </h6>
           <p className="service__info">The fees structure for the Indian students studying <b>MBBS in Sweden</b> will anywhere around 9,200 USD per year.</p>
         </div>
@@ -270,11 +267,11 @@ function MbbsSweden() {
             </Card>
             <Card>
               <Accordion.Toggle as={Card.Header} eventKey="5">
-                <b className="accordion__title">What is the NEET minimum marks to join an MBBS in Sweden 2021 - 2022?</b>
+                <b className="accordion__title">What is the NEET minimum marks to join an MBBS in Sweden {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1}?</b>
               </Accordion.Toggle>
               <Accordion.Collapse eventKey="5">
                 <Card.Body>
-									<p className="service__info">The NEET minimum marks to join an <b>MBBS in Sweden</b> 2021 - 2022 is 50 percentile.</p>
+									<p className="service__info">The NEET minimum marks to join an <b>MBBS in Sweden</b> {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1} is 50 percentile.</p>
                 </Card.Body>
               </Accordion.Collapse>
 						</Card>

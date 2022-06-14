@@ -51,7 +51,7 @@ function MbbsPhilippines() {
             <li><a href="#why_mbbs_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Why MBBS in Philippines?</a></li>
             <li><a href="#university_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Top Universities for MBBS in Philippines </a></li>
             <li><a href="#fees_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Fee Structure MBBS in Philippines </a></li>
-            <li><a href="#requirements_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Requirements For MBBS Admission In Philippines 2021 - 2022 </a></li>
+            <li><a href="#requirements_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Requirements For MBBS Admission In Philippines {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1} </a></li>
             <li><a href="#advice_sec"><img src="/assets/icon.png" alt="Left Arrow" /> MBBS in Philippines Advice for Indian Students </a></li>
             <li><a href="#visa_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Visa Procedure for MBBS in Philippines </a></li>
 						<li><a href="#mci_sec"><img src="/assets/icon.png" alt="Left Arrow" /> MCI Coaching in Philippines!</a></li>
@@ -60,7 +60,7 @@ function MbbsPhilippines() {
 						<li><a href="#vacations_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Vacations during MBBS in Philippines </a></li>
 						<li><a href="#career_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Career Options after Completing MBBS in Philippines </a></li>
 						<li><a href="#problems_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Students face huge problems due to the Fraud Agents </a></li>
-						<li><a href="#reserve_sec"><img src="/assets/icon.png" alt="Left Arrow" /> How reserve your MBBS Seat in Philippines for 2021 - 2022 Admission </a></li>
+						<li><a href="#reserve_sec"><img src="/assets/icon.png" alt="Left Arrow" /> How reserve your MBBS Seat in Philippines for {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1} Admission </a></li>
 						<li><a href="#charges_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Service & Consultancy Charges of New-Lyf </a></li>
 						<li><a href="#New-Lyf_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Services by New-Lyf for Abroad Education </a></li>
 						<li><a href="#process_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Our Process of conducting Student Counseling </a></li>
@@ -160,7 +160,7 @@ function MbbsPhilippines() {
         </div>
         <div id="fees_sec">
           <h4 className="service__sub__title">
-						Fee Structure For MBBS Admission In Philippines 2021 - 2022
+						Fee Structure For MBBS Admission In Philippines {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1}
           </h4>
           <p className="service__col__title">Bicol Christian College of Medicine</p>
             <Table responsive striped bordered hover className="service__table">
@@ -644,7 +644,7 @@ function MbbsPhilippines() {
         </div>
         <div id="requirements_sec">
           <h5 className="service__sub__title">
-						Requirements For MBBS Admission In Philippines 2021 - 2022
+						Requirements For MBBS Admission In Philippines {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1}
           </h5>
           <p className="service__info">
 						The Indian students should fulfill some essential requirements for taking MBBS Admission in the Philippines and these are as follows:
@@ -778,10 +778,10 @@ function MbbsPhilippines() {
         </div>
         <div id="reserve_sec">
           <h6 className="service__sub__title">
-						How reserve your MBBS Seat in Philippines for 2021 - 2022 Admission
+						How reserve your MBBS Seat in Philippines for {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1} Admission
           </h6>
           <p className="service__info">
-						New-Lyf help the students at each step in order to reserve the MBBS Seat in the Philippines for 2021 - 2022 Admission
+						New-Lyf help the students at each step in order to reserve the MBBS Seat in the Philippines for {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1} Admission
             <ul>
 							<li>The students need to fill the application form of their selected university or college.</li>
 							<li>Submit all vital documents.</li>

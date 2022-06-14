@@ -43,11 +43,11 @@ function MbbsPoland() {
             <li><img src="/assets/icon.png" alt="Left Arrow" /> Index </li>
             <li><a href="#about_sec"><img src="/assets/icon.png" alt="Left Arrow" /> About Poland</a></li>
             <li><a href="#why_mbbs_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Why Study MBBS in Poland</a></li>
-						<li><a href="#benefits_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Benefits of Studying MBBS in Poland for Indian Students 2021 - 2022</a></li>
+						<li><a href="#benefits_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Benefits of Studying MBBS in Poland for Indian Students {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1}</a></li>
 						<li><a href="#eligibility_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Eligibility Criteria for MBBS in Poland</a></li>
             <li><a href="#university_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Top Universities to Study MBBS in Poland </a></li>
-						<li><a href="#requirements_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Requirements for MBBS Admission in Poland 2021 - 2022 </a></li>
-						<li><a href="#fees_sec"><img src="/assets/icon.png" alt="Left Arrow" /> MBBS Fees in Poland 2021 - 2022 </a></li>
+						<li><a href="#requirements_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Requirements for MBBS Admission in Poland {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1} </a></li>
+						<li><a href="#fees_sec"><img src="/assets/icon.png" alt="Left Arrow" /> MBBS Fees in Poland {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1} </a></li>
             <li><a href="#advice_sec"><img src="/assets/icon.png" alt="Left Arrow" /> MBBS in Poland Advice for Indian Students </a></li>
             <li><a href="#pros_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Pros & Cons for MBBS in Poland </a></li>
             <li><a href="#visa_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Visa Procedure for MBBS in Poland </a></li>
@@ -69,27 +69,25 @@ function MbbsPoland() {
 
         <div id="about_sec">
           <h2 className="service__sub__title">About Poland</h2>
-          <p className="service__info">
-						Poland is one of the best destinations to pursue MBBS because of the high-quality medical education & low-cost fees structure. Poland universities/colleges provide world-class infrastructure and a high standard of teaching to medical students. Poland follows the pattern & syllabus of MBBS as same as several other countries in Europe. The duration of <Link to="/mbbs-admission-in-poland-for-indian-students">MBBS in Poland</Link> is 6 years including 1 year of compulsory internship. Poland universities/colleges are recognized by the MCI. The process of <Link to="/mbbs-admission-in-poland-for-indian-students">MBBS admission in Poland</Link> is very smooth and easy that enables the students to apply directly to the selected top medical universities or colleges without any hassle.
-					</p>
+          <p className="service__info">Poland is one of the best destinations to pursue MBBS because of the high-quality medical education & low-cost fees structure. <Link to="/mbbs-admission-in-poland-for-indian-students">Poland universities/colleges</Link> provide world-class infrastructure and a high standard of teaching to medical students. Poland follows the pattern & syllabus of MBBS as same as several other countries in Europe. The duration of <Link to="/mbbs-admission-in-poland-for-indian-students">MBBS in Poland</Link> is 6 years including 1 year of compulsory internship. Poland universities/colleges are recognized by the MCI. The process of <Link to="/mbbs-admission-in-poland-for-indian-students">MBBS admission in Poland</Link> is very smooth and easy that enables the students to apply directly to the selected top medical universities or colleges without any hassle.</p>
         </div>
         <div id="why_mbbs_sec">
           <h2 className="service__sub__title">Why Study MBBS in Poland</h2>
 					<p className="service__info">
 					<b>MBBS in Poland</b> is the best option because of the following reasons:
 					<ul>
-						<li>There is no requirement for any entrance exam to take <b>MBBS admission in Poland</b>.</li>
+						<li>There is no requirement for any entrance exam to take <Link to="/">MBBS admission in Poland</Link>.</li>
 						<li>Poland colleges/universities facilitate students with a high-quality medical education system.</li>
 						<li>Poland colleges/universities provide 1 year of internship with the best government as well as private hospitals.</li>
-						<li>The medium of instruction in all the Poland medical colleges is English.</li>
-						<li>The medical universities in Poland are recognized and approved by WHO & MCI & Poland medical degree is a globally recognized degree.</li>
-						<li>After completing <b>MBBS in Poland</b>, this country provides a blue card work permit to students so that they can get a job and settle down as well in this country.</li>
+						<li>The medium of instruction in all the <Link to="/mbbs-admission-in-poland-for-indian-students">Poland medical colleges is English</Link>.</li>
+						<li>The <Link to="/katowice-medical-university-poland">medical universities in Poland</Link> are recognized and approved by WHO & MCI & Poland medical degree is a globally recognized degree.</li>
+						<li>After completing <Link to="/mbbs-admission-in-poland-for-indian-students">MBBS in Poland</Link>, this country provides a blue card work permit to students so that they can get a job and settle down as well in this country.</li>
 					</ul>
 					</p>
         </div>
         <div id="benefits_sec">
           <h3 className="service__sub__title">
-						Benefits of Studying MBBS in Poland for Indian Students 2021 - 2022
+						Benefits of Studying MBBS in Poland for Indian Students {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1}
           </h3>
           <p className="service__info">
 						Poland is one of the best places for Indian students to pursue MBBS because of the following benefits:
@@ -140,7 +138,7 @@ function MbbsPoland() {
         </div>
         <div id="requirements_sec">
           <h6 className="service__sub__title">
-						Requirements for MBBS Admission in Poland 2021 - 2022
+						Requirements for MBBS Admission in Poland {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1}
           </h6>
           <p className="service__info">
 						The necessary documents for taking <b>MBBS admission in Poland</b> are the following:
@@ -161,7 +159,7 @@ function MbbsPoland() {
         </div>
         <div id="fees_sec">
           <h6 className="service__sub__title">
-						MBBS Fees in Poland 2021 - 2022
+						MBBS Fees in Poland {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1}
           </h6>
           <p className="service__info">The fees structure for the Indian students studying <b>MBBS in Poland</b> is very affordable that costs $ 7200 per year.</p>
         </div>

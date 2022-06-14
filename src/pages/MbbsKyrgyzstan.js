@@ -6,6 +6,7 @@ import "bootstrap/dist/css/bootstrap.css";
 import "./Services.css";
 import KyrgyzstanForm from "../components/ContactForm/KyrgyzstanForm";
 import HomeCarousel from "../components/HomeCarousel";
+import { Link } from "react-router-dom";
 
 function MbbsKyrgyzstan() {
 	const [modalShow, setModalShow] = React.useState(false);
@@ -38,11 +39,8 @@ function MbbsKyrgyzstan() {
       </div>
       <Container>
         <div>
-					<p className="service__info">
-						<h2 className="service__sub__title">Introduction for MBBS in Kyrgyzstan</h2>
-						Kyrgyzstan is among the best options for pursuing MBBS abroad for the Indian students at a very low cost. The country has top medical universities and colleges that provide MBBS, MD and other medical degrees. Numerous students from India and other countries internationally apply to the medical universities in Kyrgyzstan to pursue their medical degree. Kyrgyzstan provides quality education and facilities to the MBBS students in their medicals universities and colleges. The medical universities of Kyrgyzstan are accredited by the international medical councils; WHO, MCI, PLAB, FAIMER and UNESCO.<br/>
-						The duration of the complete MBBS course in Kyrgyzstan is 6 years, that is, 5 years+1 year internship at affiliated hospitals. One of the main reason international students are interested in pursuing MBBS in Kyrgyzstan is primarily because of the fact that most of the universities provide real life case studies and clinical knowledge during their entire course of the education. High quality of education along with the low cost of tuition fee is another reason for choosing the top medical universities in Kyrgyzstan for MBBS. The MBBS graduates from medical universities in Kyrgyzstan are now working in different parts of the world. Studying MBBS in Kyrgyzstan will provide myriad opportunities to the Indian Students across the world.
-          </p>
+        <h2 className="service__sub__title">Introduction for MBBS in Kyrgyzstan</h2>
+					<p className="service__info">Kyrgyzstan is among the best options for pursuing <Link to="/">MBBS abroad for the Indian students</Link> at a very low cost. The country has top medical universities and colleges that provide MBBS, MD and other medical degrees. Numerous students from India and other countries internationally apply to the <Link to="/mbbs-in-kyrgyzstan">medical universities in Kyrgyzstan</Link> to pursue their medical degree. Kyrgyzstan provides quality education and facilities to the MBBS students in their medicals universities and colleges. The medical universities of Kyrgyzstan are accredited by the international medical councils; WHO, MCI, PLAB, FAIMER and UNESCO. <br/> The duration of the complete <Link to="/mbbs-in-kyrgyzstan">MBBS course in Kyrgyzstan</Link> is 6 years, that is, 5 years+1 year internship at affiliated hospitals. One of the main reason international students are interested in pursuing <Link to="/mbbs-in-kyrgyzstan">MBBS in Kyrgyzstan</Link> is primarily because of the fact that most of the universities provide real life case studies and clinical knowledge during their entire course of the education. High quality of education along with the low cost of tuition fee is another reason for choosing the top medical universities in Kyrgyzstan for MBBS. The MBBS graduates from medical universities in Kyrgyzstan are now working in different parts of the world. <Link to="/mbbs-in-kyrgyzstan">Studying MBBS in Kyrgyzstan</Link> will provide myriad opportunities to the Indian Students across the world. </p>
           <ul className="hyperlink">
             <li>
               <img src="/assets/icon.png" alt="Left Arrow" /> Index
@@ -59,7 +57,7 @@ function MbbsKyrgyzstan() {
             </li>
             <li>
               <a href="#benefits_sec">
-                <img src="/assets/icon.png" alt="Left Arrow" /> Benefits of MBBS in Kyrgyzstan for Indian Students 2021 - 2022
+                <img src="/assets/icon.png" alt="Left Arrow" /> Benefits of MBBS in Kyrgyzstan for Indian Students {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1}
               </a>
             </li>
             <li>
@@ -69,7 +67,7 @@ function MbbsKyrgyzstan() {
             </li>
             <li>
               <a href="#requirements_sec">
-                <img src="/assets/icon.png" alt="Left Arrow" /> Requirements for MBBS Admission in Kyrgyzstan 2021 - 2022
+                <img src="/assets/icon.png" alt="Left Arrow" /> Requirements for MBBS Admission in Kyrgyzstan {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1}
               </a>
             </li>
             <li>
@@ -114,19 +112,17 @@ function MbbsKyrgyzstan() {
         </div>
         <div id="why_mbbs_sec">
           <h3 className="service__sub__title">Why MBBS Study in Kyrgyzstan</h3>
-          <p className="service__info">
-						Kyrgyzstan provides a very feasible tuition fees and the accommodation and cost of living are a lot lesser than that of India. The medical colleges in Kyrgyzstan are furnished with all the amenities that required for betterment for the students. The medical colleges are well equipped with modern infrastructure and latest technology. The quality of education provided in the medical universities of Kyrgyzstan can be compared to that of countries like USA, UK and other European countries. The students are aided to learn through practical training and experiments. Students are also required to go on clinical rounds that help them in gaining better experience in their fields of study. The top medical universities and colleges in Kyrgyzstan are recognized by MCI, WHO, FAIMER, WDOMS and UNESCO. The medium of instruction for MBBS in the universities in Kyrgyzstan is English, which is a very important aspect, as many countries have their mother tongue as medium of instruction. Medical universities in Kyrgyzstan also provide MCI coaching.
-          </p>
+          <p className="service__info">Kyrgyzstan provides a very feasible tuition fees and the accommodation and cost of living are a lot lesser than that of India. The medical colleges in Kyrgyzstan are furnished with all the amenities that required for betterment for the students. The medical colleges are well equipped with modern infrastructure and latest technology. The quality of education provided in the medical universities of Kyrgyzstan can be compared to that of countries like USA, UK and other European countries. The students are aided to learn through practical training and experiments. Students are also required to go on clinical rounds that help them in gaining better experience in their fields of study. The top medical universities and colleges in Kyrgyzstan are recognized by MCI, WHO, FAIMER, WDOMS and UNESCO. The medium of instruction for <Link to="/mbbs-in-kyrgyzstan">MBBS in the universities in Kyrgyzstan is English</Link>, which is a very important aspect, as many countries have their mother tongue as medium of instruction. Medical universities in Kyrgyzstan also provide MCI coaching.</p>
         </div>
         <div id="benefits_sec">
           <h4 className="service__sub__title">
-						Benefits of MBBS in Kyrgyzstan for Indian Students 2021 - 2022
+						Benefits of MBBS in Kyrgyzstan for Indian Students {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1}
           </h4>
 					<p className="service__info">
 						The benefits of pursuing MBBS in the medical colleges and universities of Kyrgyzstan are as follows:
 						<ul>
 							<li>The student-teacher ratio is the most favorable, as it will provide each and every student with the attention required from the faculty to mold them into the best doctors.</li>
-							<li>Students are not required to qualify any entrance examination for admission in best medical universities of Kyrgyzstan.</li>
+							<li>Students are not required to qualify any entrance examination for admission in <Link to="/mbbs-in-kyrgyzstan">best medical universities of Kyrgyzstan</Link>.</li>
 							<li>The cost of tuition fees and hostel accommodation is very low as compared to other countries on the continent. In fact, Kyrgyzstan provides the best medical cost with the lowest fee structure in the whole of Asia.</li>
 							<li>The students get a lot of opportunities to participate in international conferences and seminars, which gives an opportunity to the students to interact with other international students.</li>
 							<li>There are many extra-curricular activities in the medical campuses that will help in developing the skills of the students.</li>
@@ -152,7 +148,7 @@ function MbbsKyrgyzstan() {
         </div>
         <div id="requirements_sec">
           <h6 className="service__sub__title">
-            Requirements for MBBS Admission in Kyrgyzstan 2021 - 2022
+            Requirements for MBBS Admission in Kyrgyzstan {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1}
           </h6>
           <p className="service__info">
 						The following are the requirements for MBBS admission in Kyrgyzstan:
@@ -165,7 +161,7 @@ function MbbsKyrgyzstan() {
 								<li>A no objection certificate.</li>
 								<li>Report of HIV test.</li>
 								<li>Banks statements are required for the submission.</li>
-								<li>Posses the MBBS fees of Kyrgyzstan 2021 - 2022.</li>
+								<li>Posses the MBBS fees of Kyrgyzstan {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1}.</li>
 								<li>Medical certificates for fitness proofs.</li>
 								<li>Invitation letter from concerned university.</li>
 								<li>Approved documents from the Ministry External Affairs.</li>

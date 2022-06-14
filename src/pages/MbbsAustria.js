@@ -39,19 +39,16 @@ function MbbsAustria() {
       </div>
       <Container>
         <div>
-					<p className="service__info">
-						<b>MBBS in Austria</b> is one of the best destinations to study a course of medicine for Indian students because of providing the magnificent theoretical as well as practical education. Every year, a large number of students take admission in <b>Austria medical college</b> because they are approved by MCI which enables the students to practice in India after completing the <Link to="/mbbs-admission-in-austria-for-indian-students">MBBS in Austria</Link>.<br/><br/>
-						Studying <b>MBBS in Austria</b> is a golden opportunity for Indian students because of world-class faculty and innovative teaching methods. <b>MBBS in Austria fees</b> is very affordable which is beneficial for Indian students to study medicine in one of the beautiful country. The local language in Austria is German but the medium of coaching MBBS in Austria medical college is English. The duration of <b>MBBS in Austria</b> is 6 years.
-          </p>
+					<p className="service__info"><Link to="/mbbs-admission-in-austria-for-indian-students">MBBS in Austria</Link> is one of the best destinations to study a course of medicine for Indian students because of providing the magnificent theoretical as well as practical education. Every year, a large number of students take admission in Austria medical college because they are approved by MCI which enables the students to practice in India after completing the <Link to="/mbbs-admission-in-austria-for-indian-students">MBBS in Austria</Link>. <br/> Studying <Link to="/mbbs-admission-in-austria-for-indian-students">MBBS in Austria</Link> is a golden opportunity for Indian students because of world-class faculty and innovative teaching methods. <Link to="/mbbs-admission-in-austria-for-indian-students">MBBS in Austria fees</Link> is very affordable which is beneficial for Indian students to study medicine in one of the beautiful country. The local language in Austria is German but the medium of coaching <Link to="/mbbs-admission-in-austria-for-indian-students">MBBS in Austria medical college is English</Link>. The duration of MBBS in Austria is 6 years.</p>
           <ul className="hyperlink">
             <li><img src="/assets/icon.png" alt="Left Arrow" /> Index </li>
             <li><a href="#about_sec"><img src="/assets/icon.png" alt="Left Arrow" /> About Austria</a></li>
             <li><a href="#why_mbbs_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Why Study MBBS in Austria</a></li>
-						<li><a href="#benefits_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Benefits of Studying MBBS in Austria for Indian Students 2021 - 2022</a></li>
+						<li><a href="#benefits_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Benefits of Studying MBBS in Austria for Indian Students {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1}</a></li>
 						<li><a href="#eligibility_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Eligibility Criteria for MBBS in Austria</a></li>
             <li><a href="#university_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Top Universities to Study MBBS in Austria </a></li>
-						<li><a href="#requirements_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Requirements for MBBS Admission in Austria 2021 - 2022 </a></li>
-						<li><a href="#fees_sec"><img src="/assets/icon.png" alt="Left Arrow" /> MBBS Fees in Austria 2021 - 2022 </a></li>
+						<li><a href="#requirements_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Requirements for MBBS Admission in Austria {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1} </a></li>
+						<li><a href="#fees_sec"><img src="/assets/icon.png" alt="Left Arrow" /> MBBS Fees in Austria {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1} </a></li>
             <li><a href="#advice_sec"><img src="/assets/icon.png" alt="Left Arrow" /> MBBS in Austria Advice for Indian Students </a></li>
             <li><a href="#pros_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Pros & Cons for MBBS in Austria </a></li>
             <li><a href="#visa_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Visa Procedure for MBBS in Austria </a></li>
@@ -78,7 +75,7 @@ function MbbsAustria() {
         <div id="why_mbbs_sec">
           <h2 className="service__sub__title">Why Study MBBS in Austria</h2>
 					<p className="service__info">
-					<b>MBBS in Austria for Indian Students</b> is the best option because of the following reasons:
+					<Link to="/mbbs-admission-in-austria-for-indian-students">MBBS in Austria for Indian Students</Link> is the best option because of the following reasons:
 						<ul>
 							<li><b>Austria medical college</b> provides high quality education which is according to the western standard curriculum.</li>
 							<li><b>Austria medical college</b>/universities ranked among the top 500 universities in the world.</li>
@@ -87,13 +84,13 @@ function MbbsAustria() {
 							<li>The local language in Austria is German but there are top medical colleges that provide MBBS education in English language.</li>
 							<li>The cost of living is quite favorable for Indian students as there are excellent boarding and lodging provided by <b>Austria medical college</b> with the availability of Indian food.</li>
 							<li>Austria is extremely safe for Indian students and the environment is also safe.</li>
-							<li>There is no requirement to pay any donation fee or capitation fee for taking admission to <b>MBBS in Austria</b>.</li>
+							<li>There is no requirement to pay any donation fee or capitation fee for taking <Link to="/mbbs-admission-in-austria-for-indian-students">admission to MBBS in Austria</Link>.</li>
 						</ul>
 					</p>
         </div>
         <div id="benefits_sec">
           <h3 className="service__sub__title">
-						Benefits of Studying MBBS in Austria for Indian Students 2021 - 2022
+						Benefits of Studying MBBS in Austria for Indian Students {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1}
           </h3>
           <p className="service__info">
 						Austria is the best place for Indian students to study MBBS because of the following benefits:
@@ -136,7 +133,7 @@ function MbbsAustria() {
         </div>
         <div id="requirements_sec">
           <h6 className="service__sub__title">
-						Requirements for MBBS Admission in Austria 2021 - 2022
+						Requirements for MBBS Admission in Austria {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1}
           </h6>
           <p className="service__info">
 						The necessary documents for taking admission to <b>MBBS in Austria</b> are the following:
@@ -157,7 +154,7 @@ function MbbsAustria() {
         </div>
         <div id="fees_sec">
           <h6 className="service__sub__title">
-						MBBS Fees in Austria 2021 - 2022
+						MBBS Fees in Austria {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1}
           </h6>
           <p className="service__info">The fees structure for the Indian students studying <b>MBBS in Austria</b> will range anywhere around 726 Euros per semester.</p>
         </div>
@@ -264,11 +261,11 @@ function MbbsAustria() {
             </Card>
             <Card>
               <Accordion.Toggle as={Card.Header} eventKey="5">
-                <b className="accordion__title">What is the NEET minimum marks to join an MBBS in Austria 2021 - 2022?</b>
+                <b className="accordion__title">What is the NEET minimum marks to join an MBBS in Austria {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1}?</b>
               </Accordion.Toggle>
               <Accordion.Collapse eventKey="5">
                 <Card.Body>
-									<p className="service__info">The NEET minimum marks to join an <b>MBBS in Austria</b> 2021 - 2022 is 50 percentile.</p>
+									<p className="service__info">The NEET minimum marks to join an <b>MBBS in Austria</b> {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1} is 50 percentile.</p>
                 </Card.Body>
               </Accordion.Collapse>
 						</Card>

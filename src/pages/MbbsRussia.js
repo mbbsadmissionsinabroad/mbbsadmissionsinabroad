@@ -6,6 +6,7 @@ import "bootstrap/dist/css/bootstrap.css";
 import "./Services.css";
 import RussiaForm from "../components/ContactForm/RussiaForm";
 import HomeCarousel from "../components/HomeCarousel";
+import { Link } from "react-router-dom";
 
 function MbbsRussia() {
   const [modalShow, setModalShow] = React.useState(false);
@@ -38,28 +39,7 @@ function MbbsRussia() {
       </div>
       <Container>
         <div>
-          <p className="service__info">
-            Russia is well-acclaimed among international students for providing
-            top-notch education facilities and has been amassing huge numbers of
-            students the past few decades. The medical courses offered in Russia
-            are recognized by the 5 renowned international medical councils
-            namely the WHO, FAIMER, IMED, MCI, WFME and also by the Medical
-            Council of leading countries like U.S.A, U.K, the Middle East,
-            Australia, India, and Canada. Also, medical universities in Russia
-            offer students, subsidized education along with scholarship. This
-            subsidized fee is provided by the Russian Ministry of Health &
-            Education. High quality of education along with the low cost of
-            tuition fee is one of the main reasons for choosing the top medical
-            universities in Russia for MBBS. Students and teachers are divided
-            into batches of the ratio 15:2. Later, they are taught the local
-            language and split into a ratio of 7:1. Also, about 12 of these
-            universities provide MBBS in English medium. The graduates from
-            Russian Medical Universities are presently working in leading
-            hospitals across the world. Duration of MBBS in Russia in English
-            Medium is 6 years (5+1). Students also can choose MBBS in Russian
-            Medium, of which the duration is 7 years which incorporates one year
-            for Russian language training
-          </p>
+          <p className="service__info">Russia is well-acclaimed among international students for providing top-notch education facilities and has been amassing huge numbers of students the past few decades. The medical courses offered in Russia are recognized by the 5 renowned international medical councils namely the WHO, FAIMER, IMED, MCI, WFME and also by the Medical Council of leading countries like U.S.A, U.K, the Middle East, Australia, India, and Canada. Also, medical universities in Russia offer students, subsidized education along with scholarship. This subsidized fee is provided by the Russian Ministry of Health & Education. High quality of education along with the low cost of tuition fee is one of the main reasons for choosing the <Link to="/mbbs-in-russia">top medical universities in Russia for MBBS</Link>. Students and teachers are divided into batches of the ratio 15:2. Later, they are taught the local language and split into a ratio of 7:1. Also, about 12 of these universities provide MBBS in English medium. The graduates from <Link to="/top-russian-medical-universities-for-indian-students">Russian Medical Universities</Link> are presently working in leading hospitals across the world. Duration of MBBS in Russia in English Medium is 6 years (5+1). Students also can choose <Link to="/mbbs-in-russia">MBBS in Russian</Link> Medium, of which the duration is 7 years which incorporates one year for Russian language training</p>
           <ul className="hyperlink">
             <li><img src="/assets/icon.png" alt="Left Arrow" /> Index </li>
             <li><a href="#about_sec"><img src="/assets/icon.png" alt="Left Arrow" /> About MBBS in Russia</a></li>
@@ -79,7 +59,7 @@ function MbbsRussia() {
 						<li><a href="#vacations_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Vacations during MBBS in Russia </a></li>
 						<li><a href="#career_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Career Options after Completing MBBS in Russia </a></li>
 						<li><a href="#problems_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Students face huge problems due to the Fraud Agents </a></li>
-						<li><a href="#reserve_sec"><img src="/assets/icon.png" alt="Left Arrow" /> How reserve your MBBS Seat in Russia for 2021 - 2022 Admission </a></li>
+						<li><a href="#reserve_sec"><img src="/assets/icon.png" alt="Left Arrow" /> How reserve your MBBS Seat in Russia for {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1} Admission </a></li>
 						<li><a href="#charges_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Service & Consultancy Charges of New-Lyf </a></li>
 						<li><a href="#New-Lyf_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Services by New-Lyf for Abroad Education </a></li>
 						<li><a href="#process_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Our Process of conducting Student Counseling </a></li>
@@ -114,33 +94,11 @@ function MbbsRussia() {
         </div>
         <div id="why_mbbs_sec">
           <h2 className="service__sub__title">Why MBBS Study in Russia</h2>
-          <p className="service__info">
-            Medical Study in Russia is very easy for a student because any
-            student from all over the world can enroll for MBBS admission
-            without an entrance exam. The fee in Russia is very low because the
-            Russian Government provides subsidized education. The average MBBS
-            fee in Russia is between 3500 to 6000 USD per year. All Russian
-            medical universities are listed in renowned international medical
-            councils, so a student who gets an MBBS degree from Russia can
-            practice anywhere in the world including India. Students get a fully
-            equipped hostel facility inside the university campus with quality
-            food (most of the universities have an Indian canteen). Students can
-            attain scholarship if they fulfill the scholarship criteria. All
-            MBBS students in Russia get medical insurance for all courses and
-            get the required medical assistance when needed. Students get
-            training for MCI screening test during the medical course and
-            professors are cognizant about the MCI screening test. Medical
-            courses are taught in both English and Russian languages, MBBS
-            students also get training to learn Russian Language because by
-            learning Russian language a student can communicate with patients
-            within the hospital during the time of medical practice. The crime
-            rate in Russia is low, which makes it a safe place for living and
-            studying.
-          </p>
+          <p className="service__info">Medical Study in Russia is very easy for a student because any student from all over the world can enroll for <Link to="/mbbs-without-neet-for-indian-students">MBBS admission without an entrance exam</Link>. The fee in Russia is very low because the Russian Government provides subsidized education. The average <Link to="/mbbs-in-russia">MBBS fee in Russia</Link> is between 3500 to 6000 USD per year. All Russian medical universities are listed in renowned international medical councils, so a student who gets an MBBS degree from Russia can practice anywhere in the world including India. Students get a fully equipped hostel facility inside the university campus with quality food (most of the universities have an Indian canteen). Students can attain scholarship if they fulfill the scholarship criteria. All MBBS students in Russia get medical insurance for all courses and get the required medical assistance when needed. Students get training for MCI screening test during the medical course and professors are cognizant about the MCI screening test. Medical courses are taught in both English and Russian languages, MBBS students also get training to learn Russian Language because by learning Russian language a student can communicate with patients within the hospital during the time of medical practice. The crime rate in Russia is low, which makes it a safe place for living and studying.</p>
         </div>
         <div id="benefits_sec">
           <h3 className="service__sub__title">
-            Benefits of Studying MBBS in Russia for Indian Students 2021 - 2022
+            Benefits of Studying MBBS in Russia for Indian Students {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1}
           </h3>
           <p className="service__info">
             Russia is the perfect place for Indian students to study MBBS mainly
@@ -271,7 +229,7 @@ function MbbsRussia() {
         </div>
         <div id="requirements_sec">
           <h6 className="service__sub__title">
-            Requirements for MBBS Admission in Russia 2021 - 2022
+            Requirements for MBBS Admission in Russia {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1}
           </h6>
           <p className="service__info">
             The necessary documents for attaining admission in Russia are the
@@ -285,7 +243,7 @@ function MbbsRussia() {
               <li>A no objection certificate.</li>
               <li>Report of HIV test.</li>
               <li>Banks statements are required for the submission.</li>
-              <li>Posses the MBBS fees of Russia 2021 - 2022.</li>
+              <li>Posses the MBBS fees of Russia {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1}.</li>
               <li>Medical certificates for fitness proofs.</li>
               <li>Invitation letter from concerned university.</li>
               <li>Approved documents from the Ministry External Affairs.</li>
@@ -296,7 +254,7 @@ function MbbsRussia() {
           </p>
         </div>
         <div id="fees_sec">
-          <h6 className="service__sub__title">MBBS in Russia Fees 2021-2022</h6>
+          <h6 className="service__sub__title">MBBS in Russia Fees {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1}</h6>
           <p className="service__col__title">Altai State Medical University</p>
             <Table responsive striped bordered hover className="service__table">
               <thead>
@@ -2094,7 +2052,7 @@ function MbbsRussia() {
         </div>
         <div id="reserve_sec">
           <h6 className="service__sub__title">
-            How reserve your MBBS Seat in Russia for 2021 - 2022 Admission
+            How reserve your MBBS Seat in Russia for {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1} Admission
           </h6>
           <p className="service__info">
             Russia is one of the best countries for taking admission in MBBS

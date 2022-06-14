@@ -39,19 +39,19 @@ function MbbsDenmark() {
       </div>
       <Container>
         <div>
-          <p className="service__info">
-						Denmark is one of the most popular international study destinations in Europe because of its low study costs with a high-quality education, and innovative teaching methods. International students pursue <Link to="/mbbs-admission-in-denmark-for-indian-students">MBBS in Denmark</Link> due to its great standard of living and the large variety of study subjects available at Danish universities.<br/><br/>
-						Denmark provides an MBBS degree program as MD which is equivalent to MBBS in India. It is a golden opportunity for students to study <b>MBBS in Denmark</b> at affordable prices. The students can also pursue a PG degree from India if they want but only after clearing the MCI screening test. The medium of instruction in Denmark colleges/universities is English.
-          </p>
+          <p className="service__info">Denmark is one of the most popular international <Link to="/mbbs-admission-in-europe-from-mci-approved-university">study destinations in Europe</Link> because of its low study costs with a high-quality education, and innovative teaching methods. International students pursue <Link to="/mbbs-admission-in-denmark-for-indian-students">MBBS in Denmark</Link> due to its great standard of living and the large variety of study subjects available at Danish universities. 
+
+          <br/> 
+          Denmark provides an MBBS degree program as MD which is equivalent to <Link to="/mbbs-in-india">MBBS in India</Link>. It is a golden opportunity for students to <Link to="/mbbs-admission-in-denmark-for-indian-students">study MBBS in Denmark at affordable prices</Link>. The students can also pursue a PG degree from India if they want but only after clearing the MCI screening test. The medium of instruction in Denmark colleges/universities is English. </p>
           <ul className="hyperlink">
             <li><img src="/assets/icon.png" alt="Left Arrow" /> Index </li>
             <li><a href="#about_sec"><img src="/assets/icon.png" alt="Left Arrow" /> About Denmark</a></li>
             <li><a href="#why_mbbs_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Why Study MBBS in Denmark</a></li>
-						<li><a href="#benefits_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Benefits of Studying MBBS in Denmark for Indian Students 2021 - 2022</a></li>
+						<li><a href="#benefits_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Benefits of Studying MBBS in Denmark for Indian Students {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1}</a></li>
 						<li><a href="#eligibility_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Eligibility Criteria for MBBS in Denmark</a></li>
             <li><a href="#university_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Top Universities to Study MBBS in Denmark </a></li>
-						<li><a href="#requirements_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Requirements for MBBS Admission in Denmark 2021 - 2022 </a></li>
-						<li><a href="#fees_sec"><img src="/assets/icon.png" alt="Left Arrow" /> MBBS Fees in Denmark 2021 - 2022 </a></li>
+						<li><a href="#requirements_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Requirements for MBBS Admission in Denmark {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1} </a></li>
+						<li><a href="#fees_sec"><img src="/assets/icon.png" alt="Left Arrow" /> MBBS Fees in Denmark {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1} </a></li>
             <li><a href="#advice_sec"><img src="/assets/icon.png" alt="Left Arrow" /> MBBS in Denmark Advice for Indian Students </a></li>
             <li><a href="#pros_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Pros & Cons for MBBS in Denmark </a></li>
             <li><a href="#visa_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Visa Procedure for MBBS in Denmark </a></li>
@@ -81,18 +81,18 @@ function MbbsDenmark() {
 					<b>MBBS in Denmark for Indian Students</b> is the best option because of the following reasons:
 						<ul>
 							<li>Denmark MBBS College offers several specialization courses in the medical sector.</li>
-							<li>While studying <b>MBBS in Denmark</b>, the Medical University provides several clinical and Post Graduate programs.</li>
-							<li>There is no requirement of any entrance tests for taking MBBS admission in Denmark</li>
+							<li>While studying <Link to="/mbbs-admission-in-denmark-for-indian-students">MBBS in Denmark</Link>, the Medical University provides several clinical and Post Graduate programs.</li>
+							<li>There is no requirement of any entrance tests for taking <Link to="/mbbs-admission-in-denmark-for-indian-students">MBBS admission in Denmark</Link></li>
 							<li>Denmark is considered as a safe country for Indian medical students.</li>
 							<li>The cost of living in Denmark is economical and the <b>Denmark MBBS College fee</b> is very affordable.</li>
 							<li>The hospitals associated with the <b>Denmark MBBS University</b> provide the best quality health care and utilize the latest medical technologies and instruments.</li>
-							<li>Denmark Medical Universities/colleges integrate theoretical and practical learning in such a way that students are taught in the most effective way possible.</li>
+							<li><Link to="/">Denmark Medical Universities/colleges</Link> integrate theoretical and practical learning in such a way that students are taught in the most effective way possible.</li>
 						</ul>
 					</p>
         </div>
         <div id="benefits_sec">
           <h3 className="service__sub__title">
-						Benefits of Studying MBBS in Denmark for Indian Students 2021 - 2022
+						Benefits of Studying MBBS in Denmark for Indian Students {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1}
           </h3>
           <p className="service__info">
 						All Denmark Medical Universities provide the best quality of MBBS education at an affordable cost. Study MBBS in Denmark is very beneficial for Indian students because of the following reasons:
@@ -137,7 +137,7 @@ function MbbsDenmark() {
         </div>
         <div id="requirements_sec">
           <h6 className="service__sub__title">
-						Requirements for MBBS Admission in Denmark 2021 - 2022
+						Requirements for MBBS Admission in Denmark {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1}
           </h6>
           <p className="service__info">
 						The necessary documents for taking <b>MBBS Admission in Denmark</b> are the following:
@@ -158,7 +158,7 @@ function MbbsDenmark() {
         </div>
         <div id="fees_sec">
           <h6 className="service__sub__title">
-						MBBS Fees in Denmark 2021 - 2022
+						MBBS Fees in Denmark {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1}
           </h6>
           <p className="service__info">The fees structure for the Indian students studying <b>MBBS in Denmark</b> will range from DKK 45,000 and DKK 120,000 per year.</p>
         </div>
@@ -266,11 +266,11 @@ function MbbsDenmark() {
             </Card>
             <Card>
               <Accordion.Toggle as={Card.Header} eventKey="5">
-                <b className="accordion__title">What is the NEET minimum marks to join an MBBS in Denmark 2021 - 2022?</b>
+                <b className="accordion__title">What is the NEET minimum marks to join an MBBS in Denmark {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1}?</b>
               </Accordion.Toggle>
               <Accordion.Collapse eventKey="5">
                 <Card.Body>
-									<p className="service__info">The NEET minimum marks to join an <b>MBBS in Denmark</b> 2021 - 2022 is 50 percentile.</p>
+									<p className="service__info">The NEET minimum marks to join an <b>MBBS in Denmark</b> {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1} is 50 percentile.</p>
                 </Card.Body>
               </Accordion.Collapse>
 						</Card>

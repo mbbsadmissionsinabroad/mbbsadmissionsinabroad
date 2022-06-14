@@ -39,19 +39,16 @@ function MbbsFinland() {
       </div>
       <Container>
         <div>
-          <p className="service__info">
-						<b>MBBS in Finland</b> is one of the best destinations to study a course of medicine for Indian students. It enables the students to have brighter career growth after <Link to="/mbbs-admission-in-finland-from-mci-approved-universities">Study MBBS in Finland</Link>. It provides the magnificent theoretical as well as practical education which empowers the candidates to become successful practitioners.
-						<b>MBBS in Finland fees</b> would range anywhere between <b>6000 Euros to 18000 Euros</b>. The MBBS course from Finland is globally recognized including the MCI (Medical Council of India). Most of the people in Finland speak in Finnish language but the medium of instruction is English in Finland colleges/universities.
-          </p>
+          <p className="service__info"><Link to="/mbbs-admission-in-finland-from-mci-approved-universities">MBBS in Finland</Link> is one of the best destinations to study a course of medicine for Indian students. It enables the students to have brighter career growth after <Link to="/mbbs-admission-in-finland-from-mci-approved-universities">Study MBBS in Finland</Link>. It provides the magnificent theoretical as well as practical education which empowers the candidates to become successful practitioners. <Link to="/mbbs-admission-in-finland-from-mci-approved-universities">MBBS in Finland</Link> fees would range anywhere between 6000 Euros to 18000 Euros. The MBBS course from Finland is globally recognized including the MCI (Medical Council of India). Most of the people in Finland speak in Finnish language but the medium of instruction is English in Finland colleges/universities.</p>
           <ul className="hyperlink">
             <li><img src="/assets/icon.png" alt="Left Arrow" /> Index </li>
             <li><a href="#about_sec"><img src="/assets/icon.png" alt="Left Arrow" /> About Finland</a></li>
             <li><a href="#why_mbbs_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Why Study MBBS in Finland</a></li>
-						<li><a href="#benefits_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Benefits of Studying MBBS in Finland for Indian Students 2021 - 2022</a></li>
+						<li><a href="#benefits_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Benefits of Studying MBBS in Finland for Indian Students {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1}</a></li>
 						<li><a href="#eligibility_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Eligibility Criteria for MBBS in Finland</a></li>
             <li><a href="#university_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Top Universities to Study MBBS in Finland </a></li>
-						<li><a href="#requirements_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Requirements for MBBS Admission in Finland 2021 - 2022 </a></li>
-						<li><a href="#fees_sec"><img src="/assets/icon.png" alt="Left Arrow" /> MBBS Fees in Finland 2021 - 2022 </a></li>
+						<li><a href="#requirements_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Requirements for MBBS Admission in Finland {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1} </a></li>
+						<li><a href="#fees_sec"><img src="/assets/icon.png" alt="Left Arrow" /> MBBS Fees in Finland {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1} </a></li>
             <li><a href="#advice_sec"><img src="/assets/icon.png" alt="Left Arrow" /> MBBS in Finland Advice for Indian Students </a></li>
             <li><a href="#pros_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Pros & Cons for MBBS in Finland </a></li>
             <li><a href="#visa_sec"><img src="/assets/icon.png" alt="Left Arrow" /> Visa Procedure for MBBS in Finland </a></li>
@@ -82,11 +79,11 @@ function MbbsFinland() {
 					<ul>
 						<li>Travel to the Finland is much easier and even economical than traveling to other countries.</li>
 						<li>A medical program provided by the Finland to their students is recognized worldwide.</li>
-						<li>The medium of instruction is English in Finland colleges and universities.</li>
+						<li>The medium of instruction is <Link to="/mbbs-admission-in-finland-from-mci-approved-universities">English in Finland colleges and universities</Link>.</li>
 						<li>Most of the Finland colleges and universities are approved by MCI (Medical Council of India).</li>
-						<li>The students who have passed <b>MBBS from the Finland</b> can also practice in India.</li>
+						<li>The students who have passed <Link to="/">MBBS from the Finland can also practice in India</Link> .</li>
 						<li>Advanced teaching techniques with outstanding facilities equipped with the well-established infrastructure</li>
-						<li>The students can also have the option to start working on preparation for the <b>United States Medical Licensing Examination (USMLE)</b> to study Post Graduate Degrees.</li>
+						<li>The students can also have the option to start working on preparation for the <Link to="/usmle-united-states-medical-licensing-examination">United States Medical Licensing Examination (USMLE)</Link> to study Post Graduate Degrees.</li>
 						<li>Finland is extremely safe for Indian students and the environment is also safe.</li>
 						<li>There is no donation or capitation fee required in Finland colleges and universities.</li>
 						<li>Finland MBBS colleges provide the best education at affordable rates.</li>
@@ -96,7 +93,7 @@ function MbbsFinland() {
         </div>
         <div id="benefits_sec">
           <h3 className="service__sub__title">
-						Benefits of Studying MBBS in Finland for Indian Students 2021 - 2022
+						Benefits of Studying MBBS in Finland for Indian Students {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1}
           </h3>
           <p className="service__info">
 						Finland is the best place for Indian students to study MBBS because of the following reasons:
@@ -147,7 +144,7 @@ function MbbsFinland() {
         </div>
         <div id="requirements_sec">
           <h6 className="service__sub__title">
-						Requirements for MBBS Admission in Finland 2021 - 2022
+						Requirements for MBBS Admission in Finland {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1}
           </h6>
           <p className="service__info">
 						The necessary documents for taking <Link to="/mbbs-admission-in-finland-from-mci-approved-univeristy">MBBS Admission in Finland</Link> are the following:
@@ -168,7 +165,7 @@ function MbbsFinland() {
         </div>
         <div id="fees_sec">
           <h6 className="service__sub__title">
-						MBBS Fees in Finland 2021 - 2022
+						MBBS Fees in Finland {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1}
           </h6>
           <p className="service__info">The fees structure for the Indian students studying <b>MBBS in Finland</b> will range from 6000 Euros to 18000 Euros per year.</p>
         </div>
@@ -276,11 +273,11 @@ function MbbsFinland() {
             </Card>
             <Card>
               <Accordion.Toggle as={Card.Header} eventKey="5">
-                <b className="accordion__title">What is the NEET minimum marks to join an MBBS in Finland 2021 - 2022?</b>
+                <b className="accordion__title">What is the NEET minimum marks to join an MBBS in Finland {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1}?</b>
               </Accordion.Toggle>
               <Accordion.Collapse eventKey="5">
                 <Card.Body>
-									<p className="service__info">The NEET minimum marks to join an MBBS in Finland 2021 - 2022 is 50 percentile.</p>
+									<p className="service__info">The NEET minimum marks to join an MBBS in Finland {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1} is 50 percentile.</p>
                 </Card.Body>
               </Accordion.Collapse>
 						</Card>

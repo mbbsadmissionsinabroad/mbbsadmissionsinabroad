@@ -6,6 +6,7 @@ import "bootstrap/dist/css/bootstrap.css";
 import "./Services.css";
 import ArmeniaForm from "../components/ContactForm/ArmeniaForm";
 import HomeCarousel from "../components/HomeCarousel";
+import { Link } from "react-router-dom";
 
 function MbbsArmenia() {
   const [modalShow, setModalShow] = React.useState(false);
@@ -37,11 +38,7 @@ function MbbsArmenia() {
       </div>
       <Container>
         <div>
-          <p className="service__info">
-					Nowadays, most students prefer Armenia as a popular destination for studying MBBS in Armenia. It is truly a rewarding investment of time, finance and career opportunities to study MBBS in Armenia universities.<br/>
-					Armenia has one of the best Medical Universities and well known for quality and affordable medical education. Almost every Armenia Medical University is recognized by the world’s major organizations such as WHO, MCI, and UNESCO. It is a golden opportunity for students to study MBBS in Armenia at affordable prices.<br/>
-					Armenia provides an MBBS degree program as MD which is equivalent to MBBS in India. An Armenia MBBS college fee is amounting to 15 to 20 lakhs for the entire course and the admission procedure in Armenian colleges/universities is quite easy and simple.
-          </p>
+          <p className="service__info">Nowadays, most students prefer Armenia as a popular destination for <Link to="/mbbs-in-armenia">studying MBBS in Armenia</Link>. It is truly a rewarding investment of time, finance and career opportunities to <Link to="/mbbs-in-armenia">study MBBS in Armenia universities</Link>. <br /> Armenia has one of the best Medical Universities and well known for quality and affordable medical education. Almost every <Link to="/mbbs-in-armenia">Armenia Medical University</Link> is recognized by the world’s major organizations such as WHO, MCI, and UNESCO. It is a golden opportunity for students to <Link to="/mbbs-in-armenia">study MBBS in Armenia at affordable prices.</Link><br /> Armenia provides an MBBS degree program as MD which is equivalent to <Link to="/mbbs-in-india">MBBS in India</Link>. An Armenia MBBS college fee is amounting to 15 to 20 lakhs for the entire course and the admission procedure in Armenian colleges/universities is quite easy and simple. </p>
           <ul className="hyperlink">
             <li>
               <img src="/assets/icon.png" alt="Left Arrow" /> Index
@@ -69,7 +66,7 @@ function MbbsArmenia() {
             </li>
             <li>
               <a href="#requirements_sec">
-                <img src="/assets/icon.png" alt="Left Arrow" /> Requirements for MBBS Admission in Armenia 2021-2022
+                <img src="/assets/icon.png" alt="Left Arrow" /> Requirements for MBBS Admission in Armenia {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1}
               </a>
             </li>
             <li>
@@ -119,7 +116,7 @@ function MbbsArmenia() {
             </li>
             <li>
               <a href="#reserve_sec">
-                <img src="/assets/icon.png" alt="Left Arrow" /> How reserve your MBBS Seat in Armenia for 2021-2022 Admission
+                <img src="/assets/icon.png" alt="Left Arrow" /> How reserve your MBBS Seat in Armenia for {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1} Admission
               </a>
             </li>
             <li>
@@ -167,14 +164,14 @@ function MbbsArmenia() {
         <div id="why_mbbs_sec">
           <h3 className="service__sub__title">Why MBBS Study in Armenia</h3>
           <p className="service__info">
-						The students who wish to study MBBS abroad can take admission in Armenia Universities/colleges. There are various reasons for opting Armenia MBBS Colleges such as:
+          The students who wish to study MBBS abroad can take admission in Armenia Universities/colleges. There are various reasons for opting Armenia MBBS Colleges such as:
 						<ul>
 							<li>Armenia MBBS College offers several specialization courses in the medical sector.</li>
 							<li>The students who are studying medicine in Armenia are eligible to attend internships from the second year onwards.</li>
-							<li>While studying MBBS in Armenia, the Medical University provides several clinical and Post Graduate programs.</li>
-							<li>There is no requirement of any entrance tests for taking MBBS admission in Armenia</li>
+							<li>While studying <Link to="/mbbs-in-armenia">MBBS in Armenia</Link>, the Medical University provides several clinical and Post Graduate programs.</li>
+							<li>There is no requirement of any entrance tests for taking <Link to="/mbbs-in-armenia">MBBS admission in Armenia</Link></li>
 							<li>Armenia is considered as a safe country for Indian medical students.</li>
-							<li>The Armenia Medical Universities are mostly acknowledged and recognized by the Medical Council of India (MCI)</li>
+							<li>The <Link to="/mbbs-in-armenia">Armenia Medical Universities</Link> are mostly acknowledged and recognized by the Medical Council of India (MCI)</li>
 							<li>The cost of living in Armenia is economical and the Armenia MBBS College fee is very affordable.</li>
 							<li>The hospitals associated with the Armenia MBBS University provide the best quality health care and utilize the latest medical technologies and instruments.</li>
 							<li>Armenia Medical University integrates theoretical and practical learning in such a way that students are taught in the most effective way possible.</li>
@@ -183,7 +180,7 @@ function MbbsArmenia() {
         </div>
         <div id="benefits_sec">
           <h4 className="service__sub__title">
-						Benefits of study MBBS in Armenia for Indian Students 2021-2022
+						Benefits of study MBBS in Armenia for Indian Students {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1}
           </h4>
           <p className="service__info">
 						All Armenia Medical Universities provide the best quality of MBBS education at an affordable cost. Study MBBS in Armenia is very beneficial for Indian students because of the following reasons:
@@ -214,7 +211,7 @@ function MbbsArmenia() {
         </div>
         <div id="requirements_sec">
           <h6 className="service__sub__title">
-						Requirements for MBBS Admission in Armenia 2021-2022
+						Requirements for MBBS Admission in Armenia {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1}
           </h6>
           <p className="service__info">
 						The Indian students should fulfill some essential requirements for taking MBBS Admission in Armenia and these are as follows:
@@ -403,7 +400,7 @@ function MbbsArmenia() {
         </div>
         <div id="reserve_sec">
           <h6 className="service__sub__title">
-						How reserve your MBBS Seat in Armenia for 2021-2022 Admission
+						How reserve your MBBS Seat in Armenia for {(new Date().getFullYear())} - {(new Date().getFullYear()) + 1} Admission
           </h6>
           <p className="service__info">
 						The admission process for applying for the MBBS in any Armenia medical university is very simple and easy to follow such as:
