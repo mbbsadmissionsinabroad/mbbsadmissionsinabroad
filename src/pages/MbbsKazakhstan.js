@@ -1,5 +1,5 @@
 import React from "react";
-import { Container, Accordion, Card, Button } from "react-bootstrap";
+import { Container, Accordion, Card, Button, Row, Col } from "react-bootstrap";
 import Modal from "react-bootstrap/Modal";
 import DocumentMeta from 'react-document-meta';
 import "bootstrap/dist/css/bootstrap.css";
@@ -110,6 +110,15 @@ function MbbsKazakhstan() {
 						Kazakhstan is one of the most advanced and developed countries in the central Asia region. It is the 9th largest country in the world and the capital city is Astana. Kazakhstan is famous for its lush landscapes, rustic village sceneries, green valleys, sparkling lakes, and advanced cities such as Almaty and Astana.<br/><br/>
 						It is one of the most traveled tourist destinations in Central Asia and the people in Kazakh are known for their hospitality. The climate in Kazakhstan is extremely continental and very dry. It has cold winters and very hot summers and the hottest month is July. The average temperature in summer is more than 30 degrees Celsius (86 °F) and the average temperature in winter is -20 °C (-4.0 °F).</p>
         </div>
+        <Container>
+          <Row>
+            <Col xs={12} md={5} style={{ display: 'flex', alignItems: 'center' }}><img src="https://www.uibims.com/assets/images/other/logo.png" alt="uibims" style={{ width:'-webkit-fill-available' }} /></Col>
+            <Col xs={12} md={7}>
+            <p className="service__info"><b>International Medical School</b></p><br/>
+            <p className="service__info">The International Medical School (IMS), embraces the principle that mirrors the values of the medical profession. IMS is providing “Smart Medicine” program, which is General Medicine- 5 years MD Course in English Medium. This Course is equivalent to M.B.B.S. program in India.<br/> “Smart Medicine” is advanced Medical Degree Program, which will be focused more on Practical Skills & will provide the knowledge in Latest Medical Technologies. <br/> The goal of this program is to generate world class medical doctors, who will be more competent & highly trained. The IMS uses the latest equipment that has all the necessary certificates and licenses. The university consists of high qualified teachers who have specialists in higher professional education and high qualifications. It has developed technical mastery as well as qualities important to tomorrow's physicians: compassion, communication and thoughtful leadership. IMS provides advance knowledge that Develop the skills, in building a new medical education with state-of-the- art medical training tools, simulation suites and interactive small-group rooms that encourage active learning. <br /> The educational leadership of IMS constantly struggles for excellence and incorporates changes in medical knowledge and practice, and treats all members of the learning community with esteem.</p>
+            </Col>
+          </Row>
+        </Container>
         <div id="why_mbbs_sec">
           <h3 className="service__sub__title">Why MBBS Study in Kazakhstan</h3>
           <p className="service__info">
@@ -242,6 +251,171 @@ function MbbsKazakhstan() {
 								</ul>
               </li>
             </ul>
+          </p>
+        </div>
+
+        <div>
+          <h6 className="service__sub__title">
+            MBBS in Kazakhstan for Indian Students
+          </h6>
+          <p className="service__info">Studying <Link to="/mbbs-in-kazakhstan">MBBS in Kazakhstan</Link> is one of the best options for the Indian students who desire to study MBBS from abroad as the duration of <Link to="/mbbs-in-kazakhstan">MBBS in Kazakhstan is only 5 years</Link>. It directly saves 1 year of medical students and that year would be helpful for the students to seek an internship or jobs during that time. Apart from this, there are various reasons to study <Link to="/mbbs-in-kazakhstan">MBBS in Kazakhstan for Indian students</Link>. Kazakhstan is safe for Indian students and they get everything for their survival while pursuing an MBBS course.</p> <br/>
+
+          <p className="service__info"><Link to="/mbbs-in-kazakhstan">MBBS admission in Kazakhstan medical college</Link> has become a new venue for Indian students as the republic of Kazakhstan blooming in the field of medical institutions. Furthermore, Kazakhstan's climatic conditions are favorable. There are approx 5000 Indian understudies who are considering <Link to="/mbbs-in-kazakhstan">study MBBS in Kazakhstan</Link> from <Link to="/mci-approved-medical-universities-in-abroad">MCI approved medical universities</Link>. <Link to="/mbbs-in-kazakhstan">Kazakhstan MBBS fees</Link> in top universities/colleges are quite affordable. The fees are five times lesser than the Indian universities or any other foreign university offering an MBBS program.</p>
+        </div>
+
+        <div>
+          <h6 className="service__sub__title">
+            Specialization by Kazakh Medical Universities
+          </h6>
+          <p className="service__info">
+          <ul>
+            <li>MBBS Kazakhstan applicants can choose from a variety of medical courses.</li>
+            <li>Candidates are given the option of doing an internship in one of the government hospitals.</li>
+            <li>You would be able to take 5 years of MBBS education.</li>
+            <li>There is the possibility of obtaining MD course facilities for a period of five years.</li>
+            <li>Candidates can enroll in a 5-year dentistry program.</li>
+            <li>Kazakhstan's medical universities provide four-year pharmacy programs.</li>
+          </ul>
+          </p> <br/>
+        </div>
+
+        <div>
+          <h6 className="service__sub__title">
+            Duration of MBBS in Kazakhstan
+          </h6>
+          <p className="service__info">In Kazakhstan, the time needed to obtain an MBBS degree:</p> <br/>
+          <p className="service__info">In Kazakhstani universities, the <b>MBBS program takes six years to finish</b>. The internship period at the end of the previous semester is set aside for one year. The living expenses & <Link to="/mbbs-in-kazakhstan">Kazakhstan MBBS fees for Indian students</Link> are very reasonable with high standards of living.</p>
+        </div>
+
+        <div>
+          <h6 className="service__sub__title">
+            Medium of Teaching in Kazakhstan
+          </h6>
+          <p className="service__info">
+          <ul>
+            <li>The students can <Link to="/mbbs-in-kazakhstan">study MBBS in Kazakhstan in English</Link> as it is the medium of instruction in <Link to="/mbbs-in-kazakhstan">top Kazakhstan medical universities/colleges.</Link></li>
+            <li>Local languages are also taught to the students.</li>
+            <li>It assists students in communicating with locals throughout their internship.</li>
+          </ul>
+          </p>
+        </div>
+
+        <div>
+          <h6 className="service__sub__title">
+            MBBS Education System in Kazakhstan
+          </h6>
+          <p className="service__info">
+          <ul>
+            <li>Studying <Link to="/mbbs-in-kazakhstan">MBBS in Kazakhstan</Link> has a distinct educational structure that sets it apart from other countries.</li>
+            <li>Kazakhstan's medical college adheres to the tertiary education system.</li>
+            <li>Universities have advanced research laboratories where medical students can receive excellent training.</li>
+            <li>Kazakhstan's universities use the grading scale system. <Link to="/mbbs-in-kazakhstan">Kazakhstan MBBS fees</Link> in the <b>medical universities are amounting to 10 to 20 lakhs.</b></li>
+            <li>Furthermore, Kazakhstan's universities use the European Credit Transfer and Accumulation System.</li>
+            <li>In <b>MBBS from Kazakhstan</b>, the faculties follow the <b>European Commission's standards and regulations.</b></li>
+            <li>In this country, there are four levels of tertiary education.</li>
+          </ul>
+          </p>
+        </div>
+
+        <div>
+          <h6 className="service__sub__title">
+            Scholarships for Studying MBBS in Kazakhstan
+          </h6>
+          <p className="service__info">The majority of this country's colleges provide candidates the <b>opportunity to apply for scholarships</b>. Candidates from developing nations will be able to apply for a variety of <b>foreign scholarships</b>. The candidates will also be eligible for <b>scholarships from the Kazakhstani government</b>. Furthermore, outstanding students are offered scholarship opportunities for studying <b>MBBS in Kazakhstan</b>.</p>
+        </div>
+
+        <div>
+          <h6 className="service__sub__title">
+            MBBS Intake in Kazakhstan
+          </h6>
+          <p className="service__info">Various universities in Kazakhstan have different admissions intakes. In general, most universities in Kazakhstan closed their MBBS admissions procedure by the 15th of July. As a result, it is preferable for <b>MBBS applicants to apply for admission in June 2022</b>. MBBS classes often begin in <b>2022 August or September in Kazakhstan's medical universities/colleges</b>.</p>
+        </div>
+
+        <div>
+          <h6 className="service__sub__title">
+          MBBS in Kazakhstan - Is it Safe for Indian Students?
+          </h6>
+          <p className="service__info">Kazakhstan is one of the safest nations to study <b>MBBS in Kazakhstan for Indian students:</b></p>
+          <br/>
+          <p className="service__info">
+          <ul>
+            <li>In a survey conducted by the Kazakhstan government, India ranked among the top 50 nations that send a significant number of students to Kazakhstan for pursuing an MBBS in Kazakhstan.</li>
+            <li>The Indian students who are now pursuing an MBBS course in Kazakhstan are provided with the necessary security and safety by their government.</li>
+          </ul>
+          </p>
+        </div>
+
+        <div>
+          <h6 className="service__sub__title">
+            PG Options after MBBS in Kazakhstan
+          </h6>
+          <p className="service__info">Students are allowed to work as MDs in Kazakhstan for five years. As a result, they will have numerous chances to pursue higher education here. The cost of a post-graduate course is also very low. They can even pursue a Ph.D. degree. The cost of the postgraduate course is merely 13, 49, 000 lacs for the candidates.</p>
+        </div>
+
+        <div>
+          <h6 className="service__sub__title">
+            Career Scope after MBBS in Kazakhstan
+          </h6>
+          <p className="service__info">Medical students are provided with a wide range of job options. Medical applicants can seek jobs in hospitals after completing the <Link to="/mbbs-in-kazakhstan">MBBS in Kazakhstan</Link>. The student can also apply for higher education. If they wish, they can join any hospital for work. </p>
+          <br/>
+          <p className="service__info">After completing the degree, several medical institutions offer job placement. You can study for a Ph.D. at one of the country's universities. Indian students can practice medicine in their home country. To begin a career in India, you must pass the <b>NEXT examination with good grades.</b></p>
+        </div>
+
+        <div>
+          <h6 className="service__sub__title">
+            MBBS Syllabus in Kazakhstan
+          </h6>
+          <p className="service__info">The MBBS courses have a syllabus that is <b>fairly similar to the Indian MBBS curriculum</b>. Indian students are <b>given excellent opportunities to get extensive information in the field of medicine</b>. Candidates are educated about the human body's complexity as well as medical difficulties. Candidates must visit various <b>government and private hospitals for medical practice</b> after completing the second year. Candidates have the opportunity to <b>practice under the supervision of senior doctors</b> after completing the sixth semester.</p>
+        </div>
+
+        <div>
+          <h6 className="service__sub__title">
+            Recognition of Kazakhstan Medical Universities
+          </h6>
+          <p className="service__info">NMC recognizes all medical institutions in Kazakhstan that offer MBBS programs.</p>
+          <p className="service__info">
+          <ul>
+            <li>National Medical Commission (NMC)</li>
+            <li>World Health Organization (WHO)</li>
+            <li>United Nations Educational Scientific and Cultural Organization (UNESCO)</li>
+            <li>United States Medical Licensing Examination (USMLE)</li>
+            <li>FAIMER (The Foundation for Advancement of International Medical Education and Research)</li>
+            <li>Ministry of Education and Science</li>
+            <li>General Medical Council (GMC)</li>
+            <li>International Medical Education Directory (IMED)</li>
+          </ul>
+          </p>
+        </div>
+
+        <div>
+          <h6 className="service__sub__title">
+            Vacations during MBBS in Kazakhstan
+          </h6>
+          <p className="service__info">According to the rules of the Kazakhstan Government, here are the vacations gave to the candidates:</p>
+          <p className="service__info">
+          <ul>
+            <li>During the winter season, the candidates will have a long vacation.</li>
+            <li>The summer holidays are given in the Universities pursuing <Link to="/mbbs-in-kazakhstan">MBBS in Kazakhstan for Indian students.</Link></li>
+            <li>They will also get the public holidays.</li>
+            <li>The students will have a day off for Halloween.</li>
+            <li>In Kazakhstan, <b>medical universities offer international fair vacations.</b></li>
+            <li>Aside from that, <b>Kazakhstani institutions provide applicants with any national holidays.</b></li>
+          </ul>
+          </p>
+        </div>
+
+        <div>
+          <h6 className="service__sub__title">
+            Accommodation Facilities in Kazakhstan
+          </h6>
+          <p className="service__info">The students who <b>study MBBS in Kazakhstan</b> can have the standard hostel accommodation services available such as:</p>
+          <p className="service__info">
+          <ul>
+            <li>International students are housed in six to seven hostels at each medical university.</li>
+            <li>Hostels provide housing, meals, and laundry services.</li>
+            <li>International students usually pick university hostels that are close to the institution because they are less expensive and save traveling time.</li>
+            <li>The students' rooms include a bed, mattress, blanket, and bed sheet, as well as built-in furnishings.</li>
+          </ul>
           </p>
         </div>
 

@@ -118,6 +118,10 @@ import BogomoletsNationalMedicalUniversityUkraine from "./pages/blogs/Bogomolets
 import KatowiceMedicalUniversity from "./pages/blogs/KatowiceMedicalUniversity";
 import OdessaNationalMedicalUniversity from "./pages/blogs/OdessaNationalMedicalUniversity";
 import BlackSeaNationalUniversity from "./pages/blogs/BlackSeaNationalUniversity";
+import MbbsMalaysia from './pages/MbbsMalaysia';
+import MbbsRomania from './pages/MbbsRomania';
+import MbbsUzbekistan from './pages/MbbsUzbekistan';
+import MbbsSpain from './pages/MbbsSpain';
 
 const Routes = () => {
   return (
@@ -218,6 +222,18 @@ const Routes = () => {
           </Route>
           <Route path="/mbbs-admission-in-bangladesh-for-indian-students">
             <MbbsBangladesh />
+          </Route>
+          <Route path="/mbbs-admission-in-malaysia-for-indian-students">
+            <MbbsMalaysia />
+          </Route>
+          <Route path="/mbbs-admission-in-romania-for-indian-students">
+            <MbbsRomania />
+          </Route>
+          <Route path="/mbbs-admission-in-uzbekistan-for-indian-students">
+            <MbbsUzbekistan />
+          </Route>
+          <Route path="/mbbs-admission-in-spain-for-indian-students">
+            <MbbsSpain />
           </Route>
 
           <Route path="/gallery">

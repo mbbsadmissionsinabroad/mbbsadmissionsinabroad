@@ -1,5 +1,5 @@
 import React from "react";
-import { Container, Accordion, Card, Button } from "react-bootstrap";
+import { Container, Accordion, Card, Button, Row, Col } from "react-bootstrap";
 import Modal from "react-bootstrap/Modal";
 import DocumentMeta from 'react-document-meta';
 import "bootstrap/dist/css/bootstrap.css";
@@ -82,6 +82,71 @@ function MbbsGeorgia() {
 						Georgia is a country located at the Caucasus region of Eastern Europe and West Asia. The country shares its borders with Russia, Turkey, Armenia and Azerbaijan. The capital of Georgia is Tbilisi. Tbilisi is well-known for its architecture and cobblestoned streets. Majority area of the country is covered with mountains. The eastern part of Georgia experiences hot summers and cold winters while the climate in the western part of the country is influenced by elevation of the land.
           </p>
         </div>
+        <Container>
+          <Row>
+            <Col xs={12} md={5} style={{ display: 'flex', alignItems: 'center' }}><img src="https://eeu.edu.ge/wp-content/uploads/2020/11/logo-GEO.png" alt="Georgia" style={{ width:'-webkit-fill-available', background:'#000' }} /></Col>
+            <Col xs={12} md={7}>
+            <p className="service__info"><b>East European University</b></p><br/>
+            <p className="service__info">Eastern European University gives you the opportunity to gain knowledge that you will actually apply. Your success will be guaranteed by the EEU:</p> <br/>
+            <p className="service__info">
+            <ul>
+              <li>Modern European undergraduate, graduate, and doctoral programs offered in the faculties of Business and Engineering, Law and Social Sciences, and Health Sciences.</li>
+              <li>Highly qualified professorship</li>
+              <li>Modern campus: latest information and communication technologies, smart or interactive whiteboards, sports and recreation areas, modernized library, research laboratories and centers</li>
+              <li>Agile Management System: Agile Transformation in EEU and Introduction of Modern Operating System</li>
+              <li>Internationalization Support Services: Exchange Programs with Leading Universities in Europe and the US, Summer and Winter Schools, Dual Degree with Fresenius University (Germany) , ERASMUS + Scholarship</li>
+              <li>Social support projects and access services: "EEU LOYAL BOX", "EEU - Abituri", financial support for socially vulnerable groups, charitable events, psychological support services, individual curriculum development</li>
+              <li>Financial support services: 600 GEL scholarship and university study grant for entrants every semester, full funding of student sports-cultural and research projects, individual tuition payment system;</li>
+              <li>University-funded non-formal education services for professional growth and practical skills : trainings, certification / preparatory courses, public lectures, international conferences and workshops; Study visits</li>
+              <li>Medical service: Free medical insurance in "Madison" clinics</li>
+              <li>Modern e-learning and communication services: Microsoft Teams licensed software, EEU-EL, ELMA, student mobile applications, SMS panel, interactive whiteboards, etc.</li>
+              <li>Career Support Services: Student Employment and Internships in Over 100 Partner University Organizations, Internships at International Partner Universities (Geneva, UK), World Education Service (WES) - Recognition of education qualifications for employment in various US and Canadian institutions; Employment forums, internships, paid university internships, special training courses to promote career growth</li>
+              <li>Student sports, cultural and educational clubs / student organizations; Student ombudsman's office</li>
+              <li>A cozy, friendly environment, the best infrastructure, various events, conferences, interesting university and student projects await you at EEU.</li>
+            </ul>
+            </p>
+            </Col>
+          </Row>
+        </Container>
+
+        <Container>
+          <Row>
+            <Col xs={12} md={5} style={{ display: 'flex', alignItems: 'center' }}><img src="https://gau.edu.ge/storage/app/media/logo/gau-ka-2.png" alt="Georgia" style={{ width:'-webkit-fill-available' }} /></Col>
+            <Col xs={12} md={7}>
+            <p className="service__info"><b>Georgian American University (GAU)</b></p><br/>
+            <p className="service__info">Georgian-American University (GAU) since 2005 serves to establish international standards of education, to develop competitive professionals and successful individuals.</p> <br/>
+            <p className="service__info"><b>GAU brings together up to 2,000 students and up to 250 lecturers from 5 different faculties:</b></p>
+            <p className="service__info">
+            <ul>
+              <li>Business School (Georgian: 1200101, English: 1200102)</li>
+              <li>School of Law, Social Sciences and Diplomacy (Law: 1200201, Diplomacy: 1200202)</li>
+              <li>School of Informatics and Engineering (Informatics: 1200301, Engineering: 1200302)</li>
+              <li>School of Humanities and School of Liberal Education (English Philology: 1200401, Georgian Philology: 1200402, History: 1200403)</li>
+              <li>School of Medicine (1200110)</li>
+            </ul>
+            </p>
+            <p className="service__info">GAU is distinguished by innovations, including the Quantitative Finance (QUANTS) program and a powerful component of business analytics in marketing, finance and management, the first law clinic in Georgia, state-of-the-art IT laboratory - Geolab , teaching professional English to all faculties, various startup programs.</p>
+            <p className="service__info">GAU location, modern infrastructure, landscaped yard and parking lot create a comfortable environment for university life. GAU is constantly improving its logistics and equipment, such as GAU Computer Labs. </p>
+            </Col>
+          </Row>
+        </Container>
+
+        <Container>
+          <Row>
+            <Col xs={12} md={5} style={{ display: 'flex', alignItems: 'center' }}><img src="http://www.atsu.edu.ge/images/header.png" alt="Georgia" style={{ width:'-webkit-fill-available' }} /></Col>
+            <Col xs={12} md={7}>
+            <p className="service__info"><b>Akaki Tsereteli State University</b></p><br/>
+            <p className="service__info">The history of Akaki Tsereteli State University began eight decades ago and, now, it is a higher education institution with excellent traditions in Georgia, which has taken a worthy place in the cultural-intellectual and moral upbringing of the Georgian nation. As a result of staff training, high level of scientific potential and extensive connections established with scientific institutes in advanced countries, the University has gained universal recognition.</p> <br/>
+            <p className="service__info">Kutaisi Akaki Tsereteli State University was, in fact, established within the Ivane Javakhishvili Tbilisi State University. In July 1930, the government abolished Tbilisi State University and established four independent higher education institutions on its basis. One of them was the State Pedagogical Institute, which operated in Tbilisi from that time until 1933. The institute mentioned in 1933 continued to function in Kutaisi from February 13 of the same year. In 1933-1990 the school existed with the status of Alexander Tsulukidze State Pedagogical Institute.</p>
+            <p className="service__info">In 1990, the higher education institution was transformed into Kutaisi Akaki Tsereteli State University, which was a logical crowning of the great work that the institute has been successfully doing for almost six decades of its existence.</p>
+            <p className="service__info">According to the Resolution №39 of the Government of Georgia of February 23, 2006, the legal entities of public law - Kutaisi Akaki Tsereteli State University and Kutaisi N. Reorganization of Muskhelishvili State Technical University through their unification. The educational institution was defined as a university and was renamed Akaki Tsereteli State University.</p>
+            <p className="service__info">Kutaisi N. The Muskhelishvili Polytechnic Institute was granted official status on September 23, 1973 and was inaugurated on September 1, 1974. The school was named after Academician Niko Muskhelishvili in 1977. On September 21, 1992, Kutaisi N. Muskhelishvili Polytechnic Institute was granted the status of a university and it was renamed Kutaisi Niko Muskhelishvili State Technical University.</p>
+            <p className="service__info">16 353 of the Government of Georgia of November 16, 2010, Sokhumi State University, a legal entity under public law, joined Akaki Tsereteli State University.</p>
+            <p className="service__info">In 1952, an agricultural institute was opened in Kutaisi in its historical, geographical and economic center due to the subtropical agricultural services of western Georgia. In 1959 it was moved to Sukhumi (Abkhazia) - a typical subtropical zone - and renamed the Georgian Institute of Subtropical Agriculture.</p>
+            <p className="service__info">Due to the events in Abkhazia in the 90s of the twentieth century, the institute found itself in Kutaisi again with refugee status. Prof. F. Under Pruidze's leadership, the educational process was restored at the institute, in which, together with the city leadership, the Akaki Tsereteli State University and the city's production facilities make a great contribution.</p>
+            </Col>
+          </Row>
+        </Container>
         <div id="why_mbbs_sec">
           <h2 className="service__sub__title">Why MBBS Study in Georgia</h2>
           <p className="service__info">
@@ -375,6 +440,99 @@ function MbbsGeorgia() {
             </ul>
           </p>
         </div>
+
+        <div>
+          <h6 className="service__sub__title">MBBS in Georgia for Indian Students</h6>
+          <p className="service__info">Medical colleges in Georgia are a safe & perfect choice for Indian students who want to knock it out of the park and <Link to="/mbbs-admission-in-europe-from-mci-approved-university">study MBBS in Europe</Link>. Georgia's universities have earned a reputation for being student-centered and providing high-quality education with a pro-cross-cultural perspective. Furthermore, <Link to="/mbbs-in-georgia">MBBS in Georgia</Link> maintains a strong position on value for money with state-of-the-art services when compared to MBBS in other countries. <Link to="/mbbs-in-georgia">MBBS Admission in Georgia</Link> would provide ambitious medical students with a plethora of opportunities and assist them in building a successful future.</p>
+          <br/>
+          <p className="service__info">Medical Colleges in Georgia, which are governed by the <Link to="/mci-approved-medical-universities-in-abroad">Medical Council of India (MCI)</Link>, the <b>World Health Organization (WHO)</b>, and other eminent medical bodies that keep standards at par with the <b>best internationally, provide world-class research infrastructure for Indian students</b> to <Link to="/mbbs-in-georgia">study MBBS in Georgia</Link>. It's no surprise that the number of Indian students enrolling in MBBS programs in Georgia has increased significantly. <Link to="/mbbs-in-georgia">Georgia MBBS fees for Indian students</Link> are very affordable & there is no donation to be given to the MBBS colleges in Georgia. The universities do not ask for any kind of donation.</p>
+        </div>
+
+        <div>
+          <h6 className="service__sub__title">Course Duration: MBBS in Georgia</h6>
+          <p className="service__info">There is a standard period followed by all in the Georgian medical education system, which applies to all universities where Indian students can <Link to="/mbbs-in-georgia">study MBBS in Georgia</Link>. It is carried out <b>across six years, including a year of internship</b>, to pursue medical education in Georgia. </p>
+          <br/>
+          <p className="service__info"><b>Every year comprises 2 semesters of 6 months.</b> <Link to="/mbbs-in-georgia">Georgia MBBS fees</Link> are a <b>reasonable option (4000 USD to 5500 USD) for Indian students</b> as there are various top universities that provide low-cost MBBS in Georgia. Georgia's universities are well-equipped with cutting-edge technology and facilities.</p>
+        </div>
+
+        <div>
+          <h6 className="service__sub__title">Medium of teaching in Georgia</h6>
+          <p className="service__info">
+          <ul>
+            <li>Georgia once again stands out as a good place for Indian students to study MBBS because of the universal medium they have selected. In Georgia, MBBS is taught by renowned professors for six years.</li>
+            <li>The best medical colleges in Georgia have been approved by the <b>Medical Council of India and the World Health Organization</b>. Thus, English is used as the medium of teaching in all MBBS programs in Georgia.</li>
+            <li>English medium allows for <b>easy communication between international students</b> and <b>faculty from all over the world</b>. This eliminates a common communication barrier for MBBS students studying overseas.</li>
+          </ul>
+          </p>
+        </div>
+
+        <div>
+          <h6 className="service__sub__title">Scholarship Provided to Students for MBBS in Georgia</h6>
+          <p className="service__info">
+          <ul>
+            <li>The best thing about taking <Link to="/mbbs-in-georgia">MBBS admission in Georgia</Link> is that there is no need for students to burden their families with educational costs and hostel fees. Every one of the outstanding students has received a scholarship from the university.</li>
+            <li>Moreover, students who received 55 <b>percent in their PCB twelfth-grade standard are qualified</b>. The scholarship is awarded based on merit. The higher your grades, the larger the scholarship you will receive.</li>
+          </ul>
+          </p>
+        </div>
+
+        <div>
+          <h6 className="service__sub__title">Intakes for MBBS in Georgia</h6>
+          <p className="service__info">
+          <ul>
+            <li>The classes for studying <Link>MBBS in Georgia</Link> usually start at the end of September.</li>
+            <li>The process of Medical education in Georgia starts in September.</li>
+            <li>The seats are allotted to the students based on first come first serve. So, it is essential to apply in July and August, for easy <Link to="/mbbs-in-georgia">MBBS admission in Georgia</Link> without any problem.</li>
+          </ul>
+          </p>
+        </div>
+
+        <div>
+          <h6 className="service__sub__title">Lifestyle in Georgia</h6>
+          <p className="service__info">Adapting to the culture of each country is an adventure in and of itself. As a student, you must be open-minded not only in the classroom but also out on the playground. As a heads-up, the following are some suggestions:</p> <br/>
+          <p className="service__info">
+          <ul>
+            <li>Having a keen eye for factors of change concerning one's current way of life</li>
+            <li>Students from various backgrounds who have wanted to <Link to="/mbbs-admission-in-europe-from-mci-approved-university">study MBBS in European countries</Link> or other courses, such as <b>MD in Georgia</b>, will most likely occupy your surroundings, therefore flexibility is essential.</li>
+            <li>Making unique and personal memories with the locals through indigenous food and language, as well as a dash of inquisitiveness, will go a long way.</li>
+          </ul>
+          </p>
+        </div>
+
+        <div>
+          <h6 className="service__sub__title">In Georgian MBBS universities, General hostel and accommodation facilities </h6>
+          <p className="service__info">Georgian universities are concerned about the welfare of their international students. They ensure that international students have enough room and comfort to complete their academic and personal development without interruption.</p> <br/>
+          <p className="service__info">
+          <ul>
+            <li>The cost of living in Georgia is kept low for students.</li>
+            <li>Students pursuing their MBBS in Georgia have the option of staying in a hostel.</li>
+            <li>Hostels that are clean and well-organized, as well as completely furnished and well-maintained, preserve their reputation.</li>
+            <li>The internet is accessible at all hours and in all areas of the campus.</li>
+            <li>Winters in Georgia are extremely cold, however, this is eased by heating facilities in classrooms and hostels.</li>
+            <li>All of the modern-day necessities have been met.</li>
+          </ul>
+          <br/>
+          </p>
+          <p className="service__info">Note: Off-campus housing options include rental flats or apartments, hotels, lodges, and homestay with a host family, etc.</p>
+        </div>
+
+        <div>
+          <h6 className="service__sub__title">Recognition of Georgia Medical Universities</h6>
+          <p className="service__info">The medical universities in Georgia are recognized worldwide with the below accreditations:</p> <br/>
+          <p className="service__info">
+          <ul>
+            <li>National Medical Commission (NMC)</li>
+            <li>World Health Organization (WHO)</li>
+            <li>Ministry of Education, Georgia</li>
+            <li>The Foundation for Advancement of International Medical Education and Research (FAIMER)</li>
+            <li>World Federation for Medical Education (WFME)</li>
+            <li>Educational Commission for Foreign Medical Graduates (ECFMG)</li>
+          </ul>
+          </p>
+          <p className="service__info">The accreditation of the <Link to="/mbbs-in-georgia">MBBS in Georgia</Link> has been granted by all international bodies, including the <b>European Council, WHO, and UNESCO</b>. Therefore, a <b>Georgia MBBS degree is internationally recognized</b>. Students who earned their medical degrees in Georgia are eligible to practice in any country, but they must first clear the <b></b>.</p>
+        </div>
+
+
         <div id="faq_sec">
           <h6 className="service__sub__title">MBBS in Georgia FAQ</h6>
           <Accordion defaultActiveKey="0">

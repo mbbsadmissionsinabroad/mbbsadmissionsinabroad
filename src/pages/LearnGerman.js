@@ -84,12 +84,12 @@ function LearnGerman() {
                   Advantage of Learning German Language
                 </a>
               </li>
-              <li>
+              {/* <li>
                 <a href="#salary_sec">
                   <img src="/assets/icon.png" alt="Left Arrow" /> Cost to
                   Learn German Language in India
                 </a>
-              </li>
+              </li> */}
               <li>
                 <a href="#faq_sec">
                   <img src="/assets/icon.png" alt="Left Arrow" /> FAQ's to
@@ -203,7 +203,7 @@ function LearnGerman() {
             </p>
           </div>
 
-          <div id="courses_sec">
+          {/* <div id="courses_sec">
             <h5 className="service__sub__title">Course Duration</h5>
             <Table responsive striped bordered hover className="service__table">
               <thead>
@@ -235,7 +235,7 @@ function LearnGerman() {
                 </tr>
               </tbody>
             </Table>
-          </div>
+          </div> */}
 
           <div id="advantage_sec">
             <h6 className="service__sub__title">
@@ -289,28 +289,42 @@ function LearnGerman() {
               <thead>
                 <tr>
                   <th>Level</th>
-                  <th>Fees</th>
+                  <th>Duration</th>
+                  <th>Classroom</th>
+                  <th>Online</th>
                 </tr>
               </thead>
               <tbody>
                 <tr>
                   <td>A1</td>
+                  <td>30 Days</td>
+                  <td>14,999</td>
                   <td>12,800</td>
                 </tr>
                 <tr>
                   <td>A2</td>
-                  <td>12,800</td>
+                  <td>30 Days</td>
+                  <td>15,999</td>
+                  <td>13,800</td>
                 </tr>
                 <tr>
                   <td>B1</td>
-                  <td>15,800</td>
+                  <td>60 Days</td>
+                  <td>18,999</td>
+                  <td>15,000</td>
                 </tr>
                 <tr>
-                  <td>Total</td>
-                  <td>41,400</td>
+                  <td>B2</td>
+                  <td>90 Days</td>
+                  <td>24,999</td>
+                  <td>21,000</td>
                 </tr>
               </tbody>
             </Table>
+
+            <p className="service__info"><b>Batch Types:</b> Weekday & Weekend</p><br/>
+            <p className="service__info"><b>Weekday Batches: </b> <br/> <b>Timing:</b> Morning 7:00 am to 10:00 pm</p><br/>
+            <p className="service__info"><b>Weekend Batches: </b> <br/> <b>Timing:</b> Morning 10:00 am to 8:00 pm</p>  
           </div>
 
           <div id="faq_sec">

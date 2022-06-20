@@ -1834,6 +1834,94 @@ function MedicalPgInGermany() {
             </p>
           </div>
 
+          <div>
+            <h6 className="service__sub__title">
+              Medical PG in Germany for Indian Students
+            </h6>
+            <p className="service__info"><Link to="/medical-pg-in-germany">PG in Germany after MBBS in India</Link> is one of the top choices among international medical PG options. Many Indians tried their hardest to crack AIPGMEE / NEET- PG 2 to 4 times and ultimately wished to go forward by adopting a stronger option in the interest of their enthusiasm to seek post-degree after MBBS in Germany. </p>
+
+            <p className="service__info">The path to becoming an <Link to="/medical-pg-in-germany-admission-procedure">MD in Germany after completing an MBBS in India</Link> is quite difficult. But it can be easier for you. All you have to do is contact an <b>authentic, qualified,</b> and knowledgeable abroad education expert who is familiar with your requirements. The stages are well defined, and studying <Link to="/medical-pg-in-germany">PG medicine in Germany</Link> takes an additional two years, however, it does provide an opportunity for <Link to="/medical-pg-in-germany">PG in Germany</Link>.</p>
+          </div>
+
+          <div>
+            <h6 className="service__sub__title">
+              German System for Medical PG in Germany
+            </h6>
+            <p className="service__info">Many medical universities in Germany, surprise, offer the entire MBBS training for free. However, the <b>German medical council</b> is in charge of the roadmap to medical PG, and medical universities in Germany are not involved. You will have an easy path to <Link to="/medical-pg-in-germany">PG in Germany after MBBS</Link> at a German medical university.  </p>
+
+            <p className="service__info">However, going straight to the <b>MD level following MBBS in India</b> has hurdles in terms of language learning and system clarity. As a result, we constantly advise MBBS students in India to consider a renowned medical university in Germany as their path to a PG degree.</p>
+          </div>
+
+          <div>
+            <h6 className="service__sub__title">
+              How do I get into a Medical PG program in Germany?
+            </h6>
+            <p className="service__info">
+              <ul>
+                <li><b>Complete with your native country's German-language levels</b><br/>It is critical to master the German language before applying to Medical PG in Germany. As a doctor, it's critical to improve your patients' communication abilities. In Germany, various particular programs can help you acquire the highest degree of language proficiency. It is recommended that you begin your beginner levels with A1 and A2 levels (German basic levels) before applying for Medical PG.</li>
+
+                <li><b>Pursue B1-C1 level language course in Germany</b> <br/> You must begin another level of German levels until C1 as soon as you enter Germany with your fundamental language knowledge. <Link to="/how-to-study-mbbs-in-germany">Studying as a doctor in Germany</Link> is possible after you have a decent command of the German language.</li>
+
+                <li><b>Medical German language course</b> <br/> After completing the B2 level, doctors begin to study Medical German, which is required for doctors to practice in Germany. Learning merely the general German language is insufficient for doctors. The doctors were taught about employee communication, planning, implementation, and documentation, dealing with patients, counseling and informing them about their ailments, choosing a healthcare institution, vocabulary enhancement, and comprehending job instructions during the course. For the same, different examinations are done. Some of these are Telc Medizin B2-C1 certificates, and some states need that you pass a "Fachsprachprufung" before you can apply for approval.</li>
+
+                <li><b>Clearing the “Kenntnisprüfung” exam</b> <br/> All non-EU doctors must apply for an Approbation exam after completing the German language. After you have submitted all of the required paperwork to the authorities, they will review all of your documents and compare them to the German Medical Study Eligibility. If your current medical study is compatible with the German medical education system, you do not need to take this exam and your doctor will receive an Approbation license; however, if your study is not compatible with the German education system, you must take this exam and pass to receive your Approbation license. </li>
+              </ul>
+            </p>
+
+            <p className="service__info"><b>Note: To obtain an Approbation license, all Indian medical graduates must pass this exam.</b></p>
+          </div>
+
+          <div>
+            <h6 className="service__sub__title">
+              Duration of Studying PG in Germany
+            </h6>
+            <p className="service__info">The entire period of <Link to="/medical-pg-in-germany">medical PG in Germany for Indian students</Link> is three to four years, depending on specialty. It is completely free to study in Germany.</p>
+          </div>
+
+          <div>
+            <h6 className="service__sub__title">
+              Medium of Teaching of PG in Germany
+            </h6>
+            <p className="service__info">In Germany, the only language used to teach PG is German. To study <b>PG medicine in Germany</b>, you must have a B-level understanding of the language.</p>
+          </div>
+
+          <div>
+            <h6 className="service__sub__title">
+              Intake of PG Course in Germany
+            </h6>
+            <p className="service__info">If you want to pursue a <Link to="/medical-pg-in-germany-admission-procedure">PG in Germany after MBBS</Link>, your program will begin in October. This marks the start of the winter semester in German postgraduate universities. <b>PG medicine in Germany</b> is divided into 2 semesters: winter and summer. In most cases, the admissions process begins in the winter semester.</p>
+          </div>
+
+          <div>
+            <h6 className="service__sub__title">
+              After MBBS, Best Routes to pursue PG in Germany
+            </h6>
+            <p className="service__info">After MBBS, there are a variety of options to pursue <Link to="/medical-pg-in-germany-admission-procedure">medical PG in Germany for Indian students</Link>. Two options stand out: directly studying MBBS education in German universities and enrolling in a one-year Master’s degree to gain a better understanding of the German language and the German environment. If you have already completed your <Link to="/how-can-i-study-mbbs-in-germany">MBBS in Germany</Link>, continuing your education is an easy process. If you have not already, you can follow this path to a PG in Germany after completing your MBBS:
+            <br/>
+            <ul>
+              <li>As Germany has various rules, you should allow at least six to seven months before traveling there.</li>
+              <li>You must pass <b>levels A1</b> and <Link to="/learn-german-language-course-in-bangalore">A2 of the German language.</Link></li>
+              <li>Obtaining a letter of acceptance for <b>TELC B2</b> and <b>TELC C1</b> from a government-approved test. The standards B2 and C1 have been rejected.</li>
+              <li>You should study German until you obtain the C1 level.</li>
+              <li>Getting an accepted Observership from a German hospital for your post-graduate program in Germany.</li>
+            </ul>
+            </p>
+          </div>
+
+          <div>
+            <h6 className="service__sub__title">
+              An Alternative Way to Study PG in Germany
+            </h6>
+            <p className="service__info">There is just one way to come to <Link to="/medical-pg-in-germany">Germany for PG after MBBS</Link>. This technique allows you to enroll in a one-year <b>Master's program in Healthcare</b> instead of graduating from <b>TELC B1 to TELC C1</b>. During this procedure, you can study German up to the TELC C1 level. Because you already have far more achievements than most applicants for <Link to="/medical-pg-in-germany">PG in Germany after MBBS</Link>, this method will raise your profile for any postgraduate course.</p>
+          </div>
+
+          <div>
+            <h6 className="service__sub__title">
+              Jobs and Salary for PGs in Germany after MBBS
+            </h6>
+            <p className="service__info">Doctors are among the most <b>employable</b> and <b>well-paid workers in the world</b>. In Germany, a medical degree ensures great employability and good remuneration. Your remuneration will be determined by your hospital's career history and role. In Germany, for example, a specialist makes roughly € 80,000 per year on average. Doctors are also among the highest-paid professionals. With several years of experience, a <Link to="/how-can-i-study-mbbs-in-germany">doctor in Germany</Link> should expect to earn substantially more than € 100,000 per year.</p>
+          </div>
+
           <div id="faq_sec">
             <h6 className="service__sub__title">FAQ about the Medical PG in Germany</h6>
             <Accordion defaultActiveKey="0">

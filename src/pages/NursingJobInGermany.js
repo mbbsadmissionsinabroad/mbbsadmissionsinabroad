@@ -172,6 +172,89 @@ function NursingJobInGermany() {
             <h6 className="service__sub__title">Salary for a Nurse in Germany?</h6>
             <p className="service__info">The salary of trainee <b>nurses in Germany</b> is 1050 – 1300 Euros per month. The salary of a fully qualified nurse is around 2450 Euros. The salary of nurses basically depends on professional experience and language proficiency.</p>
           </div>
+
+          <div>
+            <h6 className="service__sub__title">Nursing Jobs in Germany for Indians</h6>
+            <p className="service__info">Germany is one of the <b>top destinations for Indians particularly nurses</b> because the country has a <b>high demand for nurses</b>. Thousands of <b>nurses choose Germany</b> as a work destination every year. For Indian nurses, there is an <b>infinite supply of nursing opportunities in Germany</b>. The majority of people are attracted to <Link to="/nursing-job-in-germany">nursing jobs in Germany</Link> because of the <b>high pay, job growth, and job security.</b></p>
+          </div>
+
+          <div>
+            <h6 className="service__sub__title">Rising Demand for Nursing Jobs in Germany!</h6>
+            <p className="service__info">In recent years, the demand for <Link to="/nursing-job-in-germany">nursing jobs in Germany</Link> has increased, providing more options for Indian nurses to advance their careers and work abroad. Because of <b>Germany's excellent living conditions, a large proportion of the population is in good health, and life expectancy has increased dramatically.</b> </p>
+
+            <p className="service__info">However, it has resulted in an aging society in Germany, resulting in a decrease in the number of young workers. As a result, several <b>German hospitals, nursing homes,</b> and other <b>healthcare institutions</b> have begun the process of <Link to="/nursing-jobs-in-germany-for-indian-nurses">Germany nurses recruitment</Link> from other countries to fulfil their expanding demand. </p>
+
+            <p className="service__info">So, if you are seeking a nursing career that pays well while also allowing you to work in one of the <b>world's greatest healthcare systems</b>, grab the opportunity! The increased demand for <Link to="/staff-nursing-jobs-in-germany-without-ielts">nursing jobs in Germany English speaking</Link> has created new prospects for Indian nurses to work in Germany.</p>
+          </div>
+
+          <div>
+            <h6 className="service__sub__title">Why is Germany a Great Destination for Nursing Jobs?</h6>
+            <p className="service__info">Nursing is a <b>highly respected and sought-after profession in Germany</b>. To meet the ever-increasing demand of the medical business, <b>Germany urgently needs certified and skilled nurses</b>. If foreign nurses are not allowed to enter, the gap between nurses and patients might expand by 84 percent, according to the <b>RWI Research Survey</b>. As a result of this scenario, there is a huge demand for <Link to="/nursing-job-in-germany">nursing jobs in Germany for Indian nurses</Link> to work in its hospitals and medical institutions. <b>Around 200,000 nurses are needed in Germany each year</b>.</p>
+          </div>
+
+          <div>
+            <h6 className="service__sub__title">Work as a Registered Nurse: Eligibility Criteria</h6>
+            <p className="service__info">
+            <ul>
+              <li>Obtain a Bachelor's Degree in Nursing, a General Nursing Midwifery Certificate, or a Master's Degree in Nursing after completing the program. </li>
+              <li>B2 level German language certificate from GOETHE/TELC/OSD</li>
+            </ul>
+            </p>
+          </div>
+
+          <div>
+            <h6 className="service__sub__title">Nursing Duties</h6>
+            <p className="service__info">Nurses will help doctors and patients in a variety of ways. Patients' care, independent observation, counselling, and assistance and care for patients, in-patients, and out-patients are all tasks of the nurse. Nurses may also carry out medical directives and aid with medical operations, depending on their unique area of specialization and qualifications. They are also an experienced source of information for patients' families as nurses. Here are the primary duties of nurses in Germany:
+            <br/>
+            <ul>
+              <li>Patient Care </li>
+              <li>Pediatric Nursing</li>
+              <li>Elderly Care</li>
+            </ul>
+            </p>
+          </div>
+
+          <div>
+            <h6 className="service__sub__title">Requirement for the German Language</h6>
+            <p className="service__info">There is a high number of <Link to="/how-do-choose-an-indian-nursing-recruitment-agency-for-abroad">Germany nurse vacancy</Link> available. In order to work as a nurse in Germany, Indian nurses must be able to communicate in German. With over half of the population conversing only in German, all hospitals make it a point to ensure that their personnel knows the language effectively to allow a smooth interaction with the patient. </p>
+
+            <p className="service__info"><b>If you want to work as a nurse in Germany</b>, you should start taking language classes well before the registration deadline. For <b>Indian nurses to work as registered nurses in Germany</b>, they must have a <b>B2 level certificate in German from GOETHE/TELC/OSD.</b></p>
+          </div>
+
+          <div>
+            <h6 className="service__sub__title">Perks of Nursing Jobs in Germany for Indian Nurses</h6>
+            <p className="service__info">Here are the advantages of <b>nursing jobs in Germany for Indian nurses:</b></p>
+
+            <p className="service__info">
+            <ul>
+              <li><b>Job Demand and Growth:</b> Health professions have shown significant growth when compared to other fields. Some of the reasons for this include <b>rising chronic disease rates, an aging population, and increased demand for healthcare services.</b> </li>
+
+              <li><b>Job Security:</b> If you work as a <b>nurse in Germany</b>, you do not have to worry about anything because the <b>country has a work council that protects the company's employees</b>. As a result, nurse positions in Germany are completely secure.</li>
+              
+              <li><b>Bring your family with you to Germany:</b> After establishing down, you may choose to <b>bring your family to Germany as well</b>. It could take 3 to 4 months. Your <b>spouse can work as well, and your children can enjoy a free world-class education or attend international schools where English is taught</b>. As a result of this possibility, Germany is one of the most preferred destinations for foreign-trained nurses.</li>
+              
+              <li><b>Permanent Residency:</b> Another significant <b>advantage of working as a nurse in Germany</b> is the ability to travel. After five years, or earlier, you will be granted permanent residency. Non-EU nationals who have lived in Germany for more than five years will be granted a residence permit. Another criterion is that you show your ability to communicate in German. Your spouse and child will be granted temporary residency permits if you obtain a residence permit.</li>
+              
+              <li><b>Unlimited Job contract:</b> Another <b>benefit of nursing jobs in Germany for Indian nurses</b> is the <b>ability to work for an indefinite period</b>. By mutual consent and with the acceptance of both parties, the contract can be ended or switched at any moment.</li>
+            </ul>
+            </p>
+          </div>
+
+          <div>
+            <h6 className="service__sub__title">How Can New-Lyf assist you?</h6>
+            <p className="service__info">
+            <ul>
+              <li>Online and Offline German Language Classes are available.</li>
+              <li>Assist you with the nursing registration process in Germany.</li>
+              <li>Assist you with document translations into German.</li>
+              <li>Set up an interview with a German employer.</li>
+              <li>Assist you in obtaining a job contract.</li>
+              <li>Assist you with your visa application</li>
+              <li>In Germany, our German Representative will assist you with post-landing services.</li>
+              <li>Assist you with the relocation of your family to Germany.</li>
+            </ul>
+            </p>
+          </div>
  
         <div id="faq_sec">
           <h6 className="service__sub__title">FAQ Nursing Job in Germany</h6>
