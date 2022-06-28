@@ -36,20 +36,11 @@ function LearnGerman() {
           <img
             className="service__image"
             src="/assets/images/service-image/german-coching-classes-in-bangalore.png"
-            alt="Nursing Job In Netherlands"
+            alt="german-coching-classes-in-bangalore"
           />
         </div>
         <Container>
           <div id="index_sec">
-            <p className="service__info">
-              <b>Nursing jobs in Netherland</b> are becoming very lucrative
-              owing to its integrated health care structure. Nursing in
-              Netherland is classified into two levels where the 1st level nurse
-              determines the proper level of nurse care required for the patient
-              & the 2nd level nurses work under the first level nurse. Staff
-              Nursing Job in Netherland has become very inspiring with the new
-              and improved health structure.
-            </p>
             <ul className="hyperlink">
               <li>
                 <img src="/assets/icon.png" alt="Left Arrow" /> Index{" "}
